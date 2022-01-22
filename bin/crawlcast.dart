@@ -5,7 +5,6 @@ void main(List<String> arguments) {
   print('This should still build.');
   print('Aand still should build.');
   File html = File("docs/index.html");
-  List<String> lines = html.readAsLinesSync();
-  lines.removeLast();
-  html.writeAsString(lines.reduce((value, element) => value + "\n" + element));
+  html.writeAsString(
+      "<h1>CrawlCast</h1>\nLast update: ${DateTime.now().toIso8601String()}");
 }
