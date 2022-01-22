@@ -37,6 +37,8 @@ jobs:
         run: pwd
       - name: Navigate
         run: cd bin
+      - name: PWD again
+        run: pwd
       - name: CHMOD
         run: chmod +x crawlcast.exe
       - name: Run
