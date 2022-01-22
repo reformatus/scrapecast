@@ -40,7 +40,7 @@ jobs:
       - name: Compile
         run: dart compile exe ./bin/crawlcast.dart
       - name: List directories
-        run: find .
+        run: tree
       - name: Run CrawlCast
         run: |
           cd ./bin/
