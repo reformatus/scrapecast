@@ -35,14 +35,12 @@ jobs:
         run: find .
       - name: PWD
         run: pwd
-      - name: Navigate
-        run: cd bin
-      - name: PWD again
-        run: pwd
       - name: CHMOD
-        run: chmod +x crawlcast.exe
+        run: chmod +x bin/crawlcast.exe
       - name: Run
-        run: crawlcast.exe
+        run: |
+          cd bin
+          crawlcast.exe
   
   #run:
   #  runs-on: ubuntu-latest
