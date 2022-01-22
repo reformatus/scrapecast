@@ -37,5 +37,8 @@ jobs:
       - name: Analyze project source
         run: dart analyze
         
+      - name: List directories
+        run: find .
+
       - name: Compile
         run: dart compile exe /github/workspace/lib/crawlcast.dart
