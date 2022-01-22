@@ -41,6 +41,10 @@ jobs:
         run: dart compile exe ./bin/crawlcast.dart
       - name: List directories
         run: find .
+      - name: Run CrawlCast
+        run: |
+          cd ./bin/
+          crawlcast.exe
   
   #run:
   #  runs-on: ubuntu-latest
