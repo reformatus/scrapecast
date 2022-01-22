@@ -37,8 +37,10 @@ jobs:
         run: pwd
       - name: Navigate
         run: cd bin
+      - name: CHMOD
+        run: chmod +x crawlcast.exe
       - name: Run
-        run: crawlcast
+        run: crawlcast.exe
   
   #run:
   #  runs-on: ubuntu-latest
