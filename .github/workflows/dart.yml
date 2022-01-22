@@ -29,10 +29,22 @@ jobs:
       - name: Install dependencies
         run: dart pub get
 
+      - name: Git Config
+        run: |
+          git config user.name "CrawlCast"
+          git config user.email "example@example.com"
+
       - name: Compile
         run: dart compile exe ./bin/crawlcast.dart
+
       - name: Run
         run: ./bin/crawlcast.exe
+
+      - name: Publish changes
+        run: |
+          git add docs/index.html
+          git commit -m "Publish changes"
+          git push origin master
   
   #run:
   #  runs-on: ubuntu-latest
