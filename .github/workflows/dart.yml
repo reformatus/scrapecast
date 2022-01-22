@@ -38,10 +38,7 @@ jobs:
       - name: CHMOD
         run: chmod +x bin/crawlcast.exe
       - name: Run
-        run: |
-          cd bin
-          pwd
-          crawlcast.exe
+        run: ./bin/crawlcast.exe
   
   #run:
   #  runs-on: ubuntu-latest
