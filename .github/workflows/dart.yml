@@ -29,23 +29,16 @@ jobs:
       - name: Install dependencies
         run: dart pub get
 
-      # Uncomment this step to verify the use of 'dart format' on each commit.
-      # - name: Verify formatting
-      #   run: dart format --output=none --set-exit-if-changed .
-
-      # Consider passing '--fatal-infos' for slightly stricter analysis.
-      - name: Analyze project source
-        run: dart analyze
-
       - name: Compile
         run: dart compile exe ./bin/crawlcast.dart
       - name: List directories
         run: tree
-      - name: Run CrawlCast
-        run: |
-          cd
-          cd bin
-          crawlcast
+      - name: CD
+        run: cd
+      - name: Navigate
+        run: cd bin
+      - name: Run
+        run: crawlcast
   
   #run:
   #  runs-on: ubuntu-latest
