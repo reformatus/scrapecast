@@ -43,7 +43,8 @@ jobs:
         run: tree
       - name: Run CrawlCast
         run: |
-          cd ./bin/
+          cd
+          cd bin
           crawlcast
   
   #run:
