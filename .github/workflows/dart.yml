@@ -38,4 +38,4 @@ jobs:
         run: dart analyze
         
       - name: Compile
-        run: dart compile exe /lib/crawlcast.dart
+        run: dart compile exe /github/workspace/lib/crawlcast.dart
