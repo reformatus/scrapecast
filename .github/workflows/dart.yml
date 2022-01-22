@@ -41,7 +41,7 @@ jobs:
         run: |
           cd bin
           pwd
-          crawlcast
+          crawlcast.exe
   
   #run:
   #  runs-on: ubuntu-latest
