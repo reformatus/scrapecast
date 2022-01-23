@@ -5,8 +5,10 @@ import 'dart:convert';
 //import 'package:web_scraper/web_scraper.dart';
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
+import 'package:uuid/uuid.dart';
 
 import 'utils/feedbuilder.dart';
+import 'utils/getlength.dart';
 import 'utils/types.dart';
 
 File krekDataOriginal = File("data/krek-data-original.json");
@@ -20,9 +22,16 @@ void main(List<String> arguments) async {
   print('Loading existing data from json');
   List jsonEntries = jsonDecode(krekData.readAsStringSync());
   for (Map entry in jsonEntries) {
-    list.add(Istentisztelet(dateFormat.parse(entry["date"]), entry["title"],
-        entry["pastor"], entry["bible"], entry["youtube"], entry["download"]));
-  }
+    list.add(Istentisztelet(
+        dateFormat.parse(entry["date"]),
+        entry["title"],
+        entry["pastor"],
+        entry["bible"],
+        entry["youtube"],
+        entry["download"],
+        entry["uuid"],
+        entry["length"]));
+  } //TODO dont add if download contains base url
 
 /* //? Loader from original json
   List jsonEntries = jsonDecode(krekDataOriginal.readAsStringSync());
@@ -62,15 +71,40 @@ void main(List<String> arguments) async {
         row.querySelector('div.hirdeto')!.text,
         row.querySelector('div.igeresz')!.text,
         (downloadLinks.length > 1) ? downloadLinks.first : null,
-        downloadLinks.last));
+        downloadLinks.last,
+        null,
+        null));
   }
 
   List<Istentisztelet> newIts =
       freshList.where((element) => (!list.contains(element))).toList();
   list.insertAll(0, newIts);
 
-  krekData.createSync();
-  krekData.writeAsStringSync(jsonEncode(list.map((e) => e.toJson).toList()));
+  save() {
+    krekData.createSync();
+    krekData.writeAsStringSync(jsonEncode(list.map((e) => e.toJson).toList()));
+  }
+
+  int i = 0;
+  for (Istentisztelet item in list) {
+    if (item.length == null) {
+      item.length = await getLength(krekBase + item.download);
+      print(
+          "Length of ${item.date} | ${item.title} is\n   ${item.length ?? "NULL"} seconds");
+      i++;
+      if (i > 30) {
+        print("\n\nThrottling and saving progress...\n\n");
+        await Future.delayed(Duration(seconds: 5));
+        i = 0;
+        save();
+      }
+
+      if (item.length == null) {
+        //! If length request failed
+        break;
+      }
+    }
+  }
 
   print("Building rss feed");
   krekRss.createSync();
