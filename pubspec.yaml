@@ -1,5 +1,5 @@
-name: crawlcast
-description: A simple command-line application.
+name: scrapecast
+description: Scrapes designated websites for data, and publishes a podcast rss feed.
 version: 0.0.1
 homepage: https://reformatus.github.io/crawlcast
 
@@ -10,6 +10,7 @@ dev_dependencies:
   lints: ^1.0.0
 dependencies: 
   equatable: ^2.0.3
+  html: ^0.15.0
   intl: ^0.17.0
   web_scraper: ^0.1.4
   xml: ^5.3.1
