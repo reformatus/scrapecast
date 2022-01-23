@@ -31,14 +31,14 @@ jobs:
 
       - name: Git Config
         run: |
-          git config user.name "CrawlCast"
+          git config user.name "ScrapeCast"
           git config user.email "example@example.com"
 
       - name: Compile
-        run: dart compile exe ./bin/crawlcast.dart
+        run: dart compile exe ./bin/scrapecast.dart
 
       - name: Run
-        run: ./bin/crawlcast.exe
+        run: ./bin/scrapecast.exe
 
       - name: Publish changes
         run: |

@@ -73,7 +73,7 @@ void main(List<String> arguments) async {
 
   print('Updating index page');
   File htmlFile = File("docs/index.html");
-  String htmlString = """<h1>CrawlCast</h1>
+  String htmlString = """<h1>ScrapeCast</h1>
 <b>Last update:</b> UTC ${DateTime.now().toIso8601String()}<br />
 <b>Number of episodes:</b> ${list.length}<br />
 <b>Last Added:</b><br />

@@ -11,6 +11,6 @@ dev_dependencies:
 dependencies: 
   equatable: ^2.0.3
   html: ^0.15.0
+  http: ^0.13.4
   intl: ^0.17.0
-  web_scraper: ^0.1.4
   xml: ^5.3.1
