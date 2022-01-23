@@ -98,7 +98,7 @@ void main(List<String> arguments) async {
         await Future.delayed(Duration(seconds: 5));
         i = 0;
         save();
-        exit(0);
+        //exit(0);
       }
 
       if (item.length == null) {
