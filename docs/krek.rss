@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>KREK.hu Igehirdetések</title>
+    <description>A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.&lt;br />Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.</description>
+    <link>https://krek.hu/igehirdetesek</link>
+    <image>
+      <url>https://reformatus.github.io/scrapecast/assets/logo.png</url>
+    </image>
+  </channel>
+</rss>

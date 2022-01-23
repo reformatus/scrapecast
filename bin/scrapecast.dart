@@ -6,10 +6,13 @@ import 'dart:convert';
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
 
+import 'utils/feedbuilder.dart';
+import 'utils/types.dart';
+
 File krekDataOriginal = File("data/krek-data-original.json");
 File krekData = File("data/krek-data.json");
 
-DateFormat dateFormat = DateFormat("yyyy.MM.dd");
+File krekRss = File("docs/krek.rss");
 
 void main(List<String> arguments) async {
   List<Istentisztelet> list = [];
@@ -69,7 +72,9 @@ void main(List<String> arguments) async {
   krekData.createSync();
   krekData.writeAsStringSync(jsonEncode(list.map((e) => e.toJson).toList()));
 
-  print("Done");
+  print("Building rss feed");
+  krekRss.createSync();
+  krekRss.writeAsStringSync(getFeed(list));
 
   print('Updating index page');
   File htmlFile = File("docs/index.html");
@@ -84,28 +89,4 @@ ${newIts.fold("", (String previousValue, Istentisztelet element) => previousValu
   htmlFile.writeAsStringSync(htmlString);
   print('Done!');
   exit(0);
-}
-
-class Istentisztelet extends Equatable {
-  final DateTime date;
-  final String title;
-  final String pastor;
-  final String bible;
-  final String? youTube;
-  final String download;
-
-  Istentisztelet(this.date, this.title, this.pastor, this.bible, this.youTube,
-      this.download);
-
-  get toJson => {
-        "title": title,
-        "bible": bible,
-        "date": dateFormat.format(date),
-        "pastor": pastor,
-        "youtube": youTube,
-        "download": download
-      };
-
-  @override
-  List<Object> get props => [title, pastor, date];
 }
