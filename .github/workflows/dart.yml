@@ -43,6 +43,8 @@ jobs:
       - name: Publish changes
         run: |
           git add docs/index.html
+          git add docs/krek.rss
+          git add data/krek-data.json
           git commit -m "Publish changes"
           git push origin master
   

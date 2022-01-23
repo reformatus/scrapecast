@@ -18,6 +18,7 @@ File krekRss = File("docs/krek.rss");
 
 void main(List<String> arguments) async {
   List<Istentisztelet> list = [];
+  List<Istentisztelet> errors = [];
 
   print('Loading existing data from json');
   List jsonEntries = jsonDecode(krekData.readAsStringSync());
@@ -97,11 +98,13 @@ void main(List<String> arguments) async {
         await Future.delayed(Duration(seconds: 5));
         i = 0;
         save();
+        exit(0);
       }
 
       if (item.length == null) {
         //! If length request failed
-        break;
+        errors.add(item);
+        //break;
       }
     }
   }
@@ -112,7 +115,8 @@ void main(List<String> arguments) async {
 
   print('Updating index page');
   File htmlFile = File("docs/index.html");
-  String htmlString = """<h1>ScrapeCast</h1>
+  String htmlString =
+      """<h1>ScrapeCast</h1>
 <b>Last update:</b> UTC ${DateTime.now().toIso8601String()}<br />
 <b>Number of episodes:</b> ${list.length}<br />
 <b>Last Added:</b><br />
@@ -122,5 +126,10 @@ ${newIts.fold("", (String previousValue, Istentisztelet element) => previousValu
   print(htmlString);
   htmlFile.writeAsStringSync(htmlString);
   print('Done!');
+  print('Errors:');
+  for (Istentisztelet item in errors) {
+    print(
+        "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
+  }
   exit(0);
 }
