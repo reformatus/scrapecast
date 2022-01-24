@@ -38,10 +38,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('lastBuildDate', nest: () {
         builder.text(getRfcDate(DateTime.now()));
-      }); /*
+      });
       builder.element('author', nest: () {
         builder.cdata(properties.author); //! Author
-      });*/
+      });
       builder.element('copyright', nest: () {
         builder.cdata(properties.copyright); //! Copyght
       });
@@ -88,7 +88,8 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
           builder.element('description', nest: () {
             builder.cdata(getDescription(element));
           });
-          builder.element('guid', nest: () {
+          builder.element('guid', attributes: {"isPermaLink": "false"},
+              nest: () {
             builder.text(element.uuid);
           });
           /*
