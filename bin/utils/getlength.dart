@@ -3,6 +3,8 @@ import 'dart:typed_data';
 import 'package:id3/id3.dart';
 import 'package:mp3_info/mp3_info.dart';
 
+HttpClient httpClient = HttpClient();
+
 Future<int?> getLength(String download) async {
   print('\nGetting length of $download');
   print('Downloading...');
@@ -10,7 +12,7 @@ Future<int?> getLength(String download) async {
   try {
     MP3Info? mp3;
     int? retry;
-    final req = await HttpClient().getUrl(Uri.parse(download));
+    final req = await httpClient.getUrl(Uri.parse(download));
     final resp = await req.close();
     await for (List<int> current in resp.asBroadcastStream()) {
       bytes.addAll(current);
@@ -44,7 +46,7 @@ Future<int?> getLength(String download) async {
 
 Future<int?> getSize(String download) async {
   print('Getting size of $download');
-  final req = await HttpClient().getUrl(Uri.parse(download));
+  final req = await httpClient.getUrl(Uri.parse(download));
   final resp = await req.close();
   return resp.contentLength;
 }
