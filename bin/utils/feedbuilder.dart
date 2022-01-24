@@ -13,10 +13,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
   }, nest: () {
     builder.element('channel', nest: () {
       builder.element('title', nest: () {
-        builder.cdata('${properties.title}]]'); //! tle
+        builder.cdata(properties.title); //! tle
       });
       builder.element('description', nest: () {
-        builder.cdata('${properties.description}]]'); //! Descriion
+        builder.cdata(properties.description); //! Descriion
       });
       builder.element('link', nest: () {
         builder.text(properties.link); //! Link
@@ -26,7 +26,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
           builder.text(properties.artworkLink); //! Image
         });
         builder.element('title', nest: () {
-          builder.text(properties.title);
+          builder.cdata(properties.title);
         });
         builder.element('link', nest: () {
           builder.text(properties.link);
@@ -36,22 +36,22 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         builder.text('ScrapeCast');
       });
       builder.element('lastBuildDate', nest: () {
-        builder.text(DateTime.now().toIso8601String());
+        builder.text(getRfcDate(DateTime.now()));
       });
       builder.element('author', nest: () {
-        builder.cdata('${properties.author}]]'); //! Ahor
+        builder.cdata(properties.author); //! Ahor
       });
       builder.element('copyright', nest: () {
-        builder.cdata('${properties.copyright}]]'); //! Copyght
+        builder.cdata(properties.copyright); //! Copyght
       });
       builder.element('language', nest: () {
-        builder.cdata('${properties.language}]]'); //! Lanage
+        builder.cdata(properties.language); //! Lanage
       });
       builder.element('itunes:author', nest: () {
         builder.text(properties.author); //! Author
       });
       builder.element('itunes:summary', nest: () {
-        builder.cdata('${properties.description}]]'); //! Descriion
+        builder.cdata(properties.description); //! Descriion
       });
       builder.element('itunes:type', nest: () {
         builder.text(properties.podcastType); //! Type
@@ -74,6 +74,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('itunes:image',
           attributes: {"href": properties.artworkLink}); //! Image
+      builder.element('atom:link', attributes: {
+        "rel": "hub",
+        "href": "https://pubsubhubbub.appspot.com/"
+      });
 
       for (Episode element in list) {
         builder.element('item', nest: () {
@@ -91,8 +95,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
             builder.cdata('${properties.author}');
           });*/
           builder.element('pubDate', nest: () {
-            builder.text(element.date
-                .toIso8601String()); //! Date in ISO format (is good?)
+            builder.text(getRfcDate(element.date));
           });
           builder.element('enclosure', attributes: {
             "url": (properties.baseUrl + element.download),
@@ -103,7 +106,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
             builder.cdata(getDescription(element));
           });
           builder.element('itunes:explicit', nest: () {
-            builder.text('${properties.explicit}');
+            builder.text(properties.explicit ? "yes" : "no");
           });
           builder.element('itunes:duration', nest: () {
             builder.text('${element.length}');

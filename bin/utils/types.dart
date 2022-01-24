@@ -42,6 +42,9 @@ class Episode extends Equatable {
 
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
+DateFormat rfcDateFormat = DateFormat("EEE, dd MMM yyyy HH:mm:ss");
+String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " GMT";
+
 const String krekBase = "https://krek.hu";
 
 class PodcastProperties {
