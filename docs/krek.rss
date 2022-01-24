@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>![CDATA[KREK.hu Igehirdetések]]</title>
     <description>![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei. Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.]]</description>
@@ -10,7 +10,7 @@
       <link>https://krek.hu</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>2022-01-24T13:55:55.251080</lastBuildDate>
+    <lastBuildDate>2022-01-24T14:06:51.108464</lastBuildDate>
     <author>![CDATA[Kecskeméti Református Egyházközség]]</author>
     <language>![CDATA[hu]]</language>
     <itunes:author>Kecskeméti Református Egyházközség</itunes:author>
