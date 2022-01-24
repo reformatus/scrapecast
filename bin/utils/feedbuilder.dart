@@ -7,7 +7,8 @@ String getFeed(List<Istentisztelet> list, PodcastProperties properties) {
   builder.processing('xml', 'version="1.0" encoding="UTF-8"');
   builder.element('rss', attributes: {
     'xmlns:itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd',
-    'xmlns:content': 'http://purl.org/rss/1.0/modules/content/'
+    'xmlns:content': 'http://purl.org/rss/1.0/modules/content/',
+    'version': '2.0'
   }, nest: () {
     builder.element('channel', nest: () {
       builder.element('title', nest: () {
