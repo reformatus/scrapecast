@@ -42,8 +42,6 @@ DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
 const String krekBase = "https://krek.hu";
 
-enum PodcastType { episodic, serial }
-
 class PodcastProperties {
   final String title;
   final String description;
@@ -54,9 +52,10 @@ class PodcastProperties {
   final String link;
   final String ownerEmail;
   final String ownerName;
-  final PodcastType podcastType;
+  final String podcastType;
   final String copyright;
   final bool explicit;
+  final String language;
 
   PodcastProperties(
     this.title,
@@ -71,6 +70,7 @@ class PodcastProperties {
     this.podcastType,
     this.copyright,
     this.explicit,
+    this.language,
   );
 }
 
@@ -81,5 +81,6 @@ class Podcast {
   final File dataFile;
   final String baseUrl;
 
-  Podcast(this.properties, this.scraper, this.rssFile, this.dataFile, this.baseUrl);
+  Podcast(
+      this.properties, this.scraper, this.rssFile, this.dataFile, this.baseUrl);
 }

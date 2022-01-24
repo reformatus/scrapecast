@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>KREK.hu Igehirdetések</title>
-    <description>A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.&lt;br />Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.</description>
-    <link>https://krek.hu/igehirdetesek</link>
+    <title>![CDATA[KREK.hu Igehirdetések]]</title>
+    <description>![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei. Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.]]</description>
+    <link>https://krek.hu</link>
     <image>
       <url>https://reformatus.github.io/scrapecast/assets/logo.png</url>
+      <title>KREK.hu Igehirdetések</title>
+      <link>https://krek.hu</link>
     </image>
+    <generator>ScrapeCast</generator>
+    <lastBuildDate>2022-01-24T14:50:27.133229</lastBuildDate>
+    <author>![CDATA[Kecskeméti Református Egyházközség]]</author>
+    <language>![CDATA[hu]]</language>
+    <itunes:author>Kecskeméti Református Egyházközség</itunes:author>
+    <itunes:summary>![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei. Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.]]</itunes:summary>
+    <itunes:category>![CDATA[episodic]]</itunes:category>
+    <itunes:owner>
+      <itunes:name>![CDATA[Fodor András Benedek]]</itunes:name>
+      <itunes:email>![CDATA[fodor.benedek2001+scrapecast@gmail.com]]</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Religion &amp;amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:image href="https://reformatus.github.io/scrapecast/assets/logo.png"/>
   </channel>
 </rss>

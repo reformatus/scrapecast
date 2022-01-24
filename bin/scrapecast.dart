@@ -15,7 +15,7 @@ void main() async {
 }
 
 Future buildPodcast(Podcast podcast) async {
-  print("\n\nBuilding ${podcast.properties.title}");
+  print("\n\nBuilding ${podcast.properties.title}\n");
 
   List<Istentisztelet> list = [];
   List<Istentisztelet> errors = [];
