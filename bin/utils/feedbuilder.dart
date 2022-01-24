@@ -83,7 +83,8 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       for (Episode element in list) {
         builder.element('item', nest: () {
           builder.element('title', nest: () {
-            builder.cdata('${element.title} | ${element.pastor}');
+            builder.cdata(
+                '${element.title} | ${element.pastor} | ${dateFormat.format(element.date)}');
           });
           builder.element('description', nest: () {
             builder.cdata(getDescription(element));
@@ -142,9 +143,6 @@ String getDescription(Episode element) {
 
   builder.element('p', nest: () {
     builder.text('Lelkész/Előadó: ${element.pastor}');
-  });
-  builder.element('p', nest: () {
-    builder.text('Igerész: ${element.bible}');
   });
   builder.element('p', nest: () {
     builder.text('Igerész: ${element.bible}');
