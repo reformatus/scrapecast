@@ -1,6 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
+import 'dart:io';
 
 import 'getlength.dart';
 
@@ -40,3 +41,45 @@ class Istentisztelet extends Equatable {
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
 const String krekBase = "https://krek.hu";
+
+enum PodcastType { episodic, serial }
+
+class PodcastProperties {
+  final String title;
+  final String description;
+  final String iCategory;
+  final String iCategorySecondary;
+  final String artworkLink;
+  final String author;
+  final String link;
+  final String ownerEmail;
+  final String ownerName;
+  final PodcastType podcastType;
+  final String copyright;
+  final bool explicit;
+
+  PodcastProperties(
+    this.title,
+    this.description,
+    this.iCategory,
+    this.iCategorySecondary,
+    this.artworkLink,
+    this.author,
+    this.link,
+    this.ownerEmail,
+    this.ownerName,
+    this.podcastType,
+    this.copyright,
+    this.explicit,
+  );
+}
+
+class Podcast {
+  final PodcastProperties properties;
+  final Function scraper;
+  final File rssFile;
+  final File dataFile;
+  final String baseUrl;
+
+  Podcast(this.properties, this.scraper, this.rssFile, this.dataFile, this.baseUrl);
+}

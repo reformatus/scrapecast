@@ -2,7 +2,7 @@ import 'package:xml/xml.dart';
 
 import 'types.dart';
 
-String getFeed(List<Istentisztelet> list) {
+String getFeed(List<Istentisztelet> list, PodcastProperties properties) {
   final builder = XmlBuilder();
   builder.processing('xml', 'version="1.0" encoding="UTF-8"');
   builder.element('rss', attributes: {

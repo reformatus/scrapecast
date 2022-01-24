@@ -12,7 +12,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  build-and-run:
     runs-on: ubuntu-latest
 
     steps:
@@ -47,8 +47,3 @@ jobs:
           git add data/krek-data.json
           git commit -m "Publish changes"
           git push origin master
-  
-  #run:
-  #  runs-on: ubuntu-latest
-#
-#    steps: 
