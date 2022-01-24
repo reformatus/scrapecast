@@ -3,7 +3,7 @@ import 'package:http/http.dart';
 
 import '../utils/types.dart';
 
-Future<List<Istentisztelet>> krekScrape() async {
+Future<List<Episode>> krekScrape() async {
   print('Scraping latest from krek.hu');
 
   var httpClient = Client();
@@ -14,7 +14,7 @@ Future<List<Istentisztelet>> krekScrape() async {
   var document = parse(resp.body);
   var rows = document.querySelectorAll('div.data');
 
-  List<Istentisztelet> list = [];
+  List<Episode> list = [];
 
   for (var row in rows) {
     List<String> downloadLinks = [];
@@ -22,13 +22,14 @@ Future<List<Istentisztelet>> krekScrape() async {
       downloadLinks.add(element.attributes.values.first);
     });
 
-    list.add(Istentisztelet(
+    list.add(Episode(
         dateFormat.parse(row.querySelector('div.datum')!.text),
         row.querySelector('div.cim')!.text,
         row.querySelector('div.hirdeto')!.text,
         row.querySelector('div.igeresz')!.text,
         (downloadLinks.length > 1) ? downloadLinks.first : null,
         downloadLinks.last,
+        null,
         null,
         null));
   }

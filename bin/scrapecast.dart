@@ -17,13 +17,13 @@ void main() async {
 Future buildPodcast(Podcast podcast) async {
   print("\n\nBuilding ${podcast.properties.title}\n");
 
-  List<Istentisztelet> list = [];
-  List<Istentisztelet> errors = [];
+  List<Episode> list = [];
+  List<Episode> errors = [];
 
   print('Loading existing data from json');
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
-    list.add(Istentisztelet(
+    list.add(Episode(
         dateFormat.parse(entry["date"]),
         entry["title"],
         entry["pastor"],
@@ -31,7 +31,8 @@ Future buildPodcast(Podcast podcast) async {
         entry["youtube"],
         entry["download"],
         entry["uuid"],
-        entry["length"]));
+        entry["length"],
+        entry["size"]));
   }
 
 /* //? Loader from original json
@@ -49,7 +50,7 @@ Future buildPodcast(Podcast podcast) async {
   }
  */
 
-  List<Istentisztelet> newIts = (await krekScrape())
+  List<Episode> newIts = (await krekScrape())
       .where((element) => (!list.contains(element)))
       .toList();
   list.insertAll(0, newIts);
@@ -62,11 +63,12 @@ Future buildPodcast(Podcast podcast) async {
   }
 
   int i = 0;
-  for (Istentisztelet item in list) {
-    if (item.length == null) {
-      item.length = await getLength(krekBase + item.download);
+  for (Episode item in list) {
+    if (item.length == null || item.fileSize == null) {
+      item.length ??= await getLength(krekBase + item.download);
+      item.fileSize ??= await getSize(krekBase + item.download);
       print(
-          "Length of ${item.date} | ${item.title} is\n   ${item.length ?? "!!! NULL"} seconds");
+          "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
       i++;
       if (i > 30) {
         print("\n\nThrottling and saving progress...\n\n");
@@ -96,12 +98,12 @@ Future buildPodcast(Podcast podcast) async {
 <b>Number of episodes:</b> ${list.length}<br />
 <b>Last Added:</b><br />
 <ul>
-${newIts.fold("", (String previousValue, Istentisztelet element) => previousValue + "<li>${dateFormat.format(element.date)} | ${element.title} | ${element.pastor}</li>\n")}</ul>""";
+${newIts.fold("", (String previousValue, Episode element) => previousValue + "<li>${dateFormat.format(element.date)} | ${element.title} | ${element.pastor}</li>\n")}</ul>""";
 
   htmlFile.writeAsStringSync(htmlString);
   print('Done!');
   print(errors.isNotEmpty ? 'Errors:' : '');
-  for (Istentisztelet item in errors) {
+  for (Episode item in errors) {
     print(
         "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
   }

@@ -12,6 +12,7 @@ List<Podcast> podcasts = [
       "https://reformatus.github.io/scrapecast/assets/logo.png",
       "Kecskeméti Református Egyházközség",
       "https://krek.hu",
+      "https://krek.hu",
       "fodor.benedek2001+scrapecast@gmail.com",
       "Fodor András Benedek",
       "episodic",
@@ -22,6 +23,5 @@ List<Podcast> podcasts = [
     krekScrape,
     File("docs/krek.rss"),
     File("data/krek-data.json"),
-    "https://krek.hu",
   )
 ];

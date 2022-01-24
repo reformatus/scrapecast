@@ -41,3 +41,10 @@ Future<int?> getLength(String download) async {
     return null;
   }
 }
+
+Future<int?> getSize(String download) async {
+  print('Getting size of $download');
+  final req = await HttpClient().getUrl(Uri.parse(download));
+  final resp = await req.close();
+  return resp.contentLength;
+}

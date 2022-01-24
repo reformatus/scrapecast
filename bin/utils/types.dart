@@ -8,7 +8,7 @@ import 'getlength.dart';
 Uuid _uuid = Uuid();
 
 // ignore: must_be_immutable
-class Istentisztelet extends Equatable {
+class Episode extends Equatable {
   final DateTime date;
   final String title;
   final String pastor;
@@ -17,9 +17,10 @@ class Istentisztelet extends Equatable {
   final String download;
   late final String uuid;
   int? length;
+  int? fileSize;
 
-  Istentisztelet(this.date, this.title, this.pastor, this.bible, this.youTube,
-      this.download, String? uuid, this.length) {
+  Episode(this.date, this.title, this.pastor, this.bible, this.youTube,
+      this.download, String? uuid, this.length, this.fileSize) {
     this.uuid = uuid ?? _uuid.v4();
   }
 
@@ -31,7 +32,8 @@ class Istentisztelet extends Equatable {
         "youtube": youTube,
         "download": download,
         "uuid": uuid,
-        "length": length
+        "length": length,
+        "size": fileSize,
       };
 
   @override
@@ -50,6 +52,7 @@ class PodcastProperties {
   final String artworkLink;
   final String author;
   final String link;
+  final String baseUrl;
   final String ownerEmail;
   final String ownerName;
   final String podcastType;
@@ -65,6 +68,7 @@ class PodcastProperties {
     this.artworkLink,
     this.author,
     this.link,
+    this.baseUrl,
     this.ownerEmail,
     this.ownerName,
     this.podcastType,
@@ -79,8 +83,6 @@ class Podcast {
   final Function scraper;
   final File rssFile;
   final File dataFile;
-  final String baseUrl;
 
-  Podcast(
-      this.properties, this.scraper, this.rssFile, this.dataFile, this.baseUrl);
+  Podcast(this.properties, this.scraper, this.rssFile, this.dataFile);
 }
