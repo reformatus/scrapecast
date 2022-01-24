@@ -13,7 +13,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
   }, nest: () {
     builder.element('channel', nest: () {
       builder.element('title', nest: () {
-        builder.cdata(properties.title); //! tle
+        builder.cdata(properties.title); //! Title
       });
       builder.element('description', nest: () {
         builder.cdata(properties.description); //! Descriion
@@ -37,10 +37,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('lastBuildDate', nest: () {
         builder.text(getRfcDate(DateTime.now()));
-      });
+      }); /*
       builder.element('author', nest: () {
-        builder.cdata(properties.author); //! Ahor
-      });
+        builder.cdata(properties.author); //! Author
+      });*/
       builder.element('copyright', nest: () {
         builder.cdata(properties.copyright); //! Copyght
       });
@@ -65,7 +65,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         });
       });
       builder.element('itunes:explicit', nest: () {
-        builder.text('${properties.explicit}'); //! Is explicit
+        builder.text(properties.explicit ? "yes" : "no"); //! Is explicit
       });
       builder.element('itunes:category',
           attributes: {"text": properties.iCategory}, nest: () {
