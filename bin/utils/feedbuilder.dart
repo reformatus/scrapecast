@@ -86,9 +86,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
           builder.element('guid', nest: () {
             builder.text(element.uuid);
           });
+          /*
           builder.element('dc:creator', nest: () {
             builder.text('![CDATA[${properties.author}]]');
-          });
+          });*/
           builder.element('pubDate', nest: () {
             builder.text(element.date
                 .toIso8601String()); //! Date in ISO format (is good?)
