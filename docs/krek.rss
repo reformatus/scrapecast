@@ -17,10 +17,7 @@ Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.]]>
       <link>https://krek.hu</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>Mon, 24 Jan 2022 19:41:43 GMT</lastBuildDate>
-    <author>
-      <![CDATA[Kecskeméti Református Egyházközség]]>
-    </author>
+    <lastBuildDate>Mon, 24 Jan 2022 19:47:11 GMT</lastBuildDate>
     <copyright>
       <![CDATA[Kecskeméti Református Egyházközség]]>
     </copyright>
@@ -41,7 +38,7 @@ Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.]]>
         <![CDATA[fodor.benedek2001+scrapecast@gmail.com]]>
       </itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
