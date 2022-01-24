@@ -64,7 +64,7 @@ Future buildPodcast(Podcast podcast) async {
 
   int i = 0;
   for (Episode item in list) {
-    if (item.length == null/* || item.fileSize == null*/) {
+    if (item.length == null || item.fileSize == null) {
       item.length ??= await getLength(krekBase + item.download);
       item.fileSize ??= await getSize(krekBase + item.download);
       print(
