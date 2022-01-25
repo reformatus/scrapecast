@@ -141,7 +141,7 @@ String getDescription(Episode element) {
   }
 
   builder.element('p', nest: () {
-    builder.text('Lelkész/Előadó: ${element.pastor}');
+    builder.text('Lelkész: ${element.pastor}');
   });
   builder.element('p', nest: () {
     builder.text('Igerész: ${element.bible}');
@@ -150,9 +150,6 @@ String getDescription(Episode element) {
   builder.element('br', isSelfClosing: true);
   builder.element('hr', isSelfClosing: true);
 
-  builder.element('p', nest: () {
-    builder.text('UUID: ${element.uuid}');
-  });
   builder.element('p', nest: () {
     builder.text('Becsült hossz: ${element.length} mp');
   });
@@ -164,6 +161,9 @@ String getDescription(Episode element) {
       builder.text('ScrapeCast');
     });
     builder.text(' by Fodor Benedek');
+  });
+  builder.element('p', nest: () {
+    builder.text('UUID: ${element.uuid}');
   });
 
   return builder
