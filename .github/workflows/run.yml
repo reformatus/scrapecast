@@ -1,8 +1,6 @@
 name: ScrapeCast CRON Run
 
 on:
-  issues: #for testing
-    types: [opened, closed]
   schedule:
     - cron: '30 4,12,20 * * *'
 
