@@ -153,7 +153,7 @@ String getDescription(String baseUrl, Episode element) {
   builder.element('hr', isSelfClosing: true);
 
   builder.element('p', nest: () {
-    builder.text('Lejárszás közvetlen fájlból (hiba esetén): ');
+    builder.text('Lejátszás közvetlen fájlból (hiba esetén): ');
     builder.element('a',
         attributes: {"href": baseUrl + element.download},
         nest: () {
