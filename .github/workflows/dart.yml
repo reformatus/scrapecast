@@ -33,7 +33,7 @@ jobs:
 
       - name: Publish changes
         run: |
-          git add docs/index.html
+          git add docs/index.md
           git add docs/krek.rss
           git add data/krek-data.json
           git add bin/scrapecast.exe
