@@ -152,13 +152,14 @@ String getDescription(Episode element) {
 
   builder.element('p', nest: () {
     builder.text('UUID: ${element.uuid}');
-    builder.element('br', isSelfClosing: true);
+  });
+  builder.element('p', nest: () {
     builder.text('Becsült hossz: ${element.length} mp');
-    builder.element('br', isSelfClosing: true);
-    builder.element('br', isSelfClosing: true);
+  });
+  builder.element('p', nest: () {
     builder.text('Generálta: ');
     builder.element('a',
-        attributes: {"href": "https://github.com/reformatus/scrapecast"},
+        attributes: {"href": "https://reformatus.github.io/scrapecast"},
         nest: () {
       builder.text('ScrapeCast');
     });
