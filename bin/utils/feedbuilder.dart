@@ -115,9 +115,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
           });
           builder.element('itunes:image',
               attributes: {"href": properties.artworkLink});
-          builder.element('itunes:season', nest: () {
-            builder.text('${element.date.year - 2000}');
-          });
+              
           builder.element('itunes:episodeType', nest: () {
             builder.text('full');
           });
