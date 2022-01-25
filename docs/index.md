@@ -8,12 +8,12 @@ Kezelt Podcastek:
 _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján._
 
-✅ Legutóbb frissítve: 2022-01-25T00:51:31.098906 (UTC)
+✅ Legutóbb frissítve: 2022-01-25T01:06:36.111829 (UTC)
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
  - [PocketCasts](https://pca.st/j7pxwtz3)
- - [RSS](https://pca.st/j7pxwtz3)
+ - [RSS](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
  - 2022.01.16 - "...hanem egy szót szólj, és meggyógyul..." - 9h - Varga Nándor
