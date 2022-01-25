@@ -90,7 +90,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
                 '${element.title} | ${element.pastor} | ${dateFormat.format(element.date)}');
           });
           builder.element('description', nest: () {
-            builder.cdata(getDescription(element));
+            builder.cdata(getDescription(properties.baseUrl, element));
           });
           builder.element('guid', attributes: {"isPermaLink": "false"},
               nest: () {
@@ -105,7 +105,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
             "type": 'audio/mpeg'
           });
           builder.element('itunes:summary', nest: () {
-            builder.cdata(getDescription(element));
+            builder.cdata(getDescription(properties.baseUrl, element));
           });
           builder.element('itunes:explicit', nest: () {
             builder.text(properties.explicit ? "yes" : "no");
@@ -129,7 +129,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
   return builder.buildDocument().toXmlString(pretty: true);
 }
 
-String getDescription(Episode element) {
+String getDescription(String baseUrl, Episode element) {
   XmlBuilder builder = XmlBuilder();
 
   if (element.youTube != null) {
@@ -155,9 +155,9 @@ String getDescription(Episode element) {
   builder.element('p', nest: () {
     builder.text('Lejárszás közvetlen fájlból (hiba esetén): ');
     builder.element('a',
-        attributes: {"href":  element.download},
+        attributes: {"href": baseUrl + element.download},
         nest: () {
-      builder.text(element.download);
+      builder.text(baseUrl + element.download);
     });
   });
 
