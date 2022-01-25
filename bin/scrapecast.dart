@@ -8,7 +8,7 @@ import 'utils/types.dart';
 import 'scrapers/krekscraper.dart';
 import 'podcasts.dart';
 
-String statusMdString = "Készítette: [Fodor Benedek](https://github.com/redyau)\n\nKezelt Podcastek:\n\n---\n";
+String statusMdString = "\n\nKészítette: [Fodor Benedek](https://github.com/redyau)\\\nKezelt Podcastek:\n\n---\n";
 
 void main() async {
   for (Podcast podcast in podcasts) {
@@ -115,7 +115,7 @@ _${podcast.properties.description}_
   for (String key in podcast.links.keys) {
     statusMdString += " - [$key](${podcast.links[key]})\n";
   }
-  statusMdString += "**Legutóbbi epizódok:**\n";
+  statusMdString += "\n**Legutóbbi epizódok:**\n";
   for (Episode episode in list.sublist(0, 6)) {
     statusMdString +=
         " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.pastor}\n";
