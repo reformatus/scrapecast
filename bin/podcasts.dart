@@ -9,7 +9,7 @@ List<Podcast> podcasts = [
       "A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.\nAutomatikusan frissül a krek.hu/igehirdetesek oldal alapján.",
       "Religion & Spirituality",
       "Christianity",
-      "https://reformatus.github.io/ScrapeCast/assets/logo.png",
+      "https://reformatus.github.io/scrapecast/assets/logo.png",
       "Kecskeméti Református Egyházközség",
       "https://krek.hu",
       "https://krek.hu",
@@ -26,7 +26,7 @@ List<Podcast> podcasts = [
     {
       "Spotify": "https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT",
       "PocketCasts": "https://pca.st/j7pxwtz3",
-      "RSS": "https://reformatus.github.io/ScrapeCast/krek.rss"
+      "RSS": "https://reformatus.github.io/scrapecast/krek.rss"
     },
   )
 ];
