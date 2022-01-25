@@ -157,9 +157,8 @@ String getDescription(Episode element) {
     builder.element('a',
         attributes: {"href":  element.download},
         nest: () {
-      builder.text('ScrapeCast');
+      builder.text(element.download);
     });
-    builder.text(' by Fodor Benedek');
   });
 
   builder.element('br', isSelfClosing: true);
