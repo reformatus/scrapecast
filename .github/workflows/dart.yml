@@ -1,9 +1,4 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-name: Dart
+name: ScrapeCast Build
 
 on:
   push:
@@ -18,10 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # Note: This workflow uses the latest stable version of the Dart SDK.
-      # You can specify other versions if desired, see documentation here:
-      # https://github.com/dart-lang/setup-dart/blob/main/README.md
-      # - uses: dart-lang/setup-dart@v1
       - uses: dart-lang/setup-dart@9a04e6d73cca37bd455e0608d7e5092f881fd603
         with:
           sdk: beta
@@ -45,5 +36,6 @@ jobs:
           git add docs/index.html
           git add docs/krek.rss
           git add data/krek-data.json
+          git add bin/scrapecast.exe
           git commit -m "Publish changes"
           git push origin master

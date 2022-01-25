@@ -23,5 +23,10 @@ List<Podcast> podcasts = [
     krekScrape,
     File("docs/krek.rss"),
     File("data/krek-data.json"),
+    {
+      "Spotify": "https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT",
+      "PocketCasts": "https://pca.st/j7pxwtz3",
+      "RSS": "https://pca.st/j7pxwtz3"
+    },
   )
 ];

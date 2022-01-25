@@ -8,10 +8,17 @@ import 'utils/types.dart';
 import 'scrapers/krekscraper.dart';
 import 'podcasts.dart';
 
+String statusMdString = "Készítette: [Fodor Benedek](https://github.com/redyau)\n\nKezelt Podcastek:\n\n---\n";
+
 void main() async {
   for (Podcast podcast in podcasts) {
     await buildPodcast(podcast);
   }
+
+  print('Updating index page');
+  File mdFile = File("docs/index.md");
+  mdFile.writeAsStringSync(statusMdString);
+  print('Done!');
 }
 
 Future buildPodcast(Podcast podcast) async {
@@ -91,20 +98,27 @@ Future buildPodcast(Podcast podcast) async {
   podcast.rssFile.createSync();
   podcast.rssFile.writeAsStringSync(getFeed(list, podcast.properties));
 
-  print('Updating index page');
-  File htmlFile = File("docs/index.html");
-  String htmlString = """<h1>ScrapeCast</h1>
-<b>Last update:</b> UTC ${DateTime.now().toIso8601String()}<br />
-<b>Number of episodes:</b> ${list.length}<br />
-<b>Last Added:</b><br />
-<ul>
-${newIts.fold("", (String previousValue, Episode element) => previousValue + "<li>${dateFormat.format(element.date)} | ${element.title} | ${element.pastor}</li>\n")}</ul>""";
-
-  htmlFile.writeAsStringSync(htmlString);
-  print('Done!');
   print(errors.isNotEmpty ? 'Errors:' : '');
   for (Episode item in errors) {
     print(
         "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
   }
+
+  statusMdString +=
+      """## [${podcast.properties.title}](${podcast.properties.link})
+_${podcast.properties.description}_
+
+✅ Legutóbb frissítve: ${DateTime.now().toIso8601String()} (UTC)
+
+#### Elérhető:
+""";
+  for (String key in podcast.links.keys) {
+    statusMdString += " - [$key](${podcast.links[key]})\n";
+  }
+  statusMdString += "#### Legutóbbi epizódok:\n";
+  for (Episode episode in list.sublist(0, 6)) {
+    statusMdString +=
+        " - ${dateFormat.format(episode.date)} | ${episode.title} | ${episode.pastor}\n";
+  }
+  statusMdString += "---";
 }

@@ -39,6 +39,9 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       builder.element('lastBuildDate', nest: () {
         builder.text(getRfcDate(DateTime.now()));
       });
+      builder.element('email', nest: () {
+        builder.text(properties.ownerEmail);
+      });
       builder.element('author', nest: () {
         builder.cdata(properties.author); //! Author
       });
@@ -93,10 +96,6 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
               nest: () {
             builder.text(element.uuid);
           });
-          /*
-          builder.element('dc:creator', nest: () {
-            builder.cdata('${properties.author}');
-          });*/
           builder.element('pubDate', nest: () {
             builder.text(getRfcDate(element.date));
           });
@@ -150,17 +149,20 @@ String getDescription(Episode element) {
 
   builder.element('br', isSelfClosing: true);
   builder.element('hr', isSelfClosing: true);
-  builder.element('br', isSelfClosing: true);
 
-  builder.element('i', nest: () {
-    builder.element('p', nest: () {
-      builder.text('UUID: ${element.uuid}');
-      builder.element('br', isSelfClosing: true);
-      builder.text('Becsült hossz: ${element.length} mp');
-      builder.element('br', isSelfClosing: true);
-      builder.element('br', isSelfClosing: true);
-      builder.text('Generálta: ScrapeCast by Fodor Benedek');
+  builder.element('p', nest: () {
+    builder.text('UUID: ${element.uuid}');
+    builder.element('br', isSelfClosing: true);
+    builder.text('Becsült hossz: ${element.length} mp');
+    builder.element('br', isSelfClosing: true);
+    builder.element('br', isSelfClosing: true);
+    builder.text('Generálta: ');
+    builder.element('a',
+        attributes: {"href": "https://github.com/reformatus/scrapecast"},
+        nest: () {
+      builder.text('ScrapeCast');
     });
+    builder.text(' by Fodor Benedek');
   });
 
   return builder

@@ -86,6 +86,7 @@ class Podcast {
   final Function scraper;
   final File rssFile;
   final File dataFile;
+  final Map links;
 
-  Podcast(this.properties, this.scraper, this.rssFile, this.dataFile);
+  Podcast(this.properties, this.scraper, this.rssFile, this.dataFile, this.links);
 }
