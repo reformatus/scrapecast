@@ -141,10 +141,10 @@ String getDescription(Episode element) {
   }
 
   builder.element('p', nest: () {
-    builder.text('Lelkész: ${element.pastor}');
+    builder.text('Igerész: ${element.bible}');
   });
   builder.element('p', nest: () {
-    builder.text('Igerész: ${element.bible}');
+    builder.text('Lelkész: ${element.pastor}');
   });
 
   builder.element('br', isSelfClosing: true);
