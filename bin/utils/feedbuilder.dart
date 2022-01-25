@@ -38,10 +38,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('lastBuildDate', nest: () {
         builder.text(getRfcDate(DateTime.now()));
-      });
+      });/*
       builder.element('email', nest: () {
         builder.text(properties.ownerEmail);
-      });
+      });*/
       builder.element('author', nest: () {
         builder.cdata(properties.author); //! Author
       });
@@ -62,10 +62,10 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('itunes:owner', nest: () {
         builder.element('itunes:name', nest: () {
-          builder.cdata(properties.ownerName);
+          builder.text(properties.ownerName);
         });
         builder.element('itunes:email', nest: () {
-          builder.cdata(properties.ownerEmail);
+          builder.text(properties.ownerEmail);
         });
       });
       builder.element('itunes:explicit', nest: () {

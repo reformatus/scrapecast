@@ -110,11 +110,14 @@ _${podcast.properties.description}_
 
 ✅ Legutóbb frissítve: ${DateTime.now().toIso8601String()} (UTC)
 
+Epizódok száma: ${list.length}
+
 **Elérhető:**
 """;
   for (String key in podcast.links.keys) {
     statusMdString += " - [$key](${podcast.links[key]})\n";
   }
+  
   statusMdString += "\n**Legutóbbi epizódok:**\n";
   for (Episode episode in list.sublist(0, 6)) {
     statusMdString +=
