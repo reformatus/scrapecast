@@ -38,7 +38,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
       });
       builder.element('lastBuildDate', nest: () {
         builder.text(getRfcDate(DateTime.now()));
-      });/*
+      }); /*
       builder.element('email', nest: () {
         builder.text(properties.ownerEmail);
       });*/
@@ -135,10 +135,12 @@ String getDescription(Episode element) {
   if (element.youTube != null) {
     builder.element('p', nest: () {
       builder.element('a', attributes: {"href": element.youTube!}, nest: () {
-        builder.text('> Az alkalomról videófelvétel is elérhető <');
+        builder.text('Az alkalomról videófelvétel is elérhető: ${element.youTube}');
       });
     });
   }
+
+  builder.element('br', isSelfClosing: true);
 
   builder.element('p', nest: () {
     builder.text('Igerész: ${element.bible}');
@@ -149,6 +151,18 @@ String getDescription(Episode element) {
 
   builder.element('br', isSelfClosing: true);
   builder.element('hr', isSelfClosing: true);
+
+  builder.element('p', nest: () {
+    builder.text('Lejárszás közvetlen fájlból (hiba esetén): ');
+    builder.element('a',
+        attributes: {"href":  element.download},
+        nest: () {
+      builder.text('ScrapeCast');
+    });
+    builder.text(' by Fodor Benedek');
+  });
+
+  builder.element('br', isSelfClosing: true);
 
   builder.element('p', nest: () {
     builder.text('Becsült hossz: ${element.length} mp');
