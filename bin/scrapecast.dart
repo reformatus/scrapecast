@@ -110,15 +110,15 @@ _${podcast.properties.description}_
 
 ✅ Legutóbb frissítve: ${DateTime.now().toIso8601String()} (UTC)
 
-#### Elérhető:
+**Elérhető:**
 """;
   for (String key in podcast.links.keys) {
     statusMdString += " - [$key](${podcast.links[key]})\n";
   }
-  statusMdString += "#### Legutóbbi epizódok:\n";
+  statusMdString += "**Legutóbbi epizódok:**\n";
   for (Episode episode in list.sublist(0, 6)) {
     statusMdString +=
-        " - ${dateFormat.format(episode.date)} | ${episode.title} | ${episode.pastor}\n";
+        " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.pastor}\n";
   }
-  statusMdString += "---";
+  statusMdString += "\n---";
 }
