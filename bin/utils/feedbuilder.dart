@@ -113,9 +113,40 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
           builder.element('itunes:duration', nest: () {
             builder.text('${element.length}');
           });
-          builder.element('itunes:image',
-              attributes: {"href": properties.artworkLink});
-              
+
+          if (properties.episodeArtworks != null) {
+            //! Krek exclusive behaviour
+            if (properties.id == 1) {
+              assert(properties.episodeArtworks!.length == 5);
+              switch (element.date.hour) {
+                case 9:
+                  builder.element('itunes:image',
+                      attributes: {"href": properties.episodeArtworks![1]});
+                  break;
+                case 10:
+                  builder.element('itunes:image',
+                      attributes: {"href": properties.episodeArtworks![2]});
+                  break;
+                case 11:
+                  builder.element('itunes:image',
+                      attributes: {"href": properties.episodeArtworks![3]});
+                  break;
+                case 18:
+                  builder.element('itunes:image',
+                      attributes: {"href": properties.episodeArtworks![4]});
+                  break;
+                default:
+                  builder.element('itunes:image',
+                      attributes: {"href": properties.episodeArtworks![0]});
+              }
+            } else {
+              builder.element('itunes:image',
+                  attributes: {"href": properties.artworkLink});
+            }
+          } else {
+            builder.element('itunes:image',
+                attributes: {"href": properties.artworkLink});
+          }
           builder.element('itunes:episodeType', nest: () {
             builder.text('full');
           });
@@ -133,7 +164,8 @@ String getDescription(String baseUrl, Episode element) {
   if (element.youTube != null) {
     builder.element('p', nest: () {
       builder.element('a', attributes: {"href": element.youTube!}, nest: () {
-        builder.text('Az alkalomról videófelvétel is elérhető: ${element.youTube}');
+        builder.text(
+            'Az alkalomról videófelvétel is elérhető: ${element.youTube}');
       });
     });
   }
@@ -152,8 +184,7 @@ String getDescription(String baseUrl, Episode element) {
 
   builder.element('p', nest: () {
     builder.text('Lejátszás közvetlen fájlból (hiba esetén): ');
-    builder.element('a',
-        attributes: {"href": baseUrl + element.download},
+    builder.element('a', attributes: {"href": baseUrl + element.download},
         nest: () {
       builder.text(baseUrl + element.download);
     });

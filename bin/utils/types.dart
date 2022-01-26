@@ -1,3 +1,5 @@
+import 'dart:ffi';
+
 import 'package:equatable/equatable.dart';
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
@@ -9,7 +11,7 @@ Uuid _uuid = Uuid();
 
 // ignore: must_be_immutable
 class Episode extends Equatable {
-  final DateTime date;
+  late final DateTime date;
   final String title;
   final String pastor;
   final String bible;
@@ -19,8 +21,18 @@ class Episode extends Equatable {
   int? length;
   int? fileSize;
 
-  Episode(this.date, this.title, this.pastor, this.bible, this.youTube,
+  Episode(DateTime date, this.title, this.pastor, this.bible, this.youTube,
       this.download, String? uuid, this.length, this.fileSize) {
+    if (title.toLowerCase().contains('9h')) {
+      date = date.add(Duration(hours: 9));
+    } else if (title.toLowerCase().contains('katonatelep')) {
+      date = date.add(Duration(hours: 10, minutes: 30));
+    } else if (title.toLowerCase().contains('11h')) {
+      date = date.add(Duration(hours: 11));
+    } else if (title.toLowerCase().contains('kert')) {
+      date = date.add(Duration(hours: 18));
+    }
+    this.date = date.toLocal();
     this.uuid = uuid ?? _uuid.v4();
   }
 
@@ -43,16 +55,18 @@ class Episode extends Equatable {
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
 DateFormat rfcDateFormat = DateFormat("EEE, dd MMM yyyy HH:mm:ss");
-String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " GMT";
+String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " +0100";
 
 const String krekBase = "https://krek.hu";
 
 class PodcastProperties {
+  final int id;
   final String title;
   final String description;
   final String iCategory;
   final String iCategorySecondary;
   final String artworkLink;
+  final List<String>? episodeArtworks;
   final String author;
   final String link;
   final String baseUrl;
@@ -64,11 +78,13 @@ class PodcastProperties {
   final String language;
 
   PodcastProperties(
+    this.id,
     this.title,
     this.description,
     this.iCategory,
     this.iCategorySecondary,
     this.artworkLink,
+    this.episodeArtworks,
     this.author,
     this.link,
     this.baseUrl,
