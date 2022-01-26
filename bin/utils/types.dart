@@ -62,7 +62,7 @@ const String krekBase = "https://krek.hu";
 class PodcastProperties {
   final int id;
   final String title;
-  final String description;
+  String description;
   final String iCategory;
   final String iCategorySecondary;
   final String artworkLink;

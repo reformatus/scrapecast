@@ -9,7 +9,7 @@ List<Podcast> podcasts = [
       "KREK.hu Igehirdetések",
       """A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
-Köszönjük az utómunkát: Alföldy-Borus Illés, Csősz Győző, Molnár Tamás, Papp Attila""",
+Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila""",
       "Religion & Spirituality",
       "Christianity",
       "https://reformatus.github.io/scrapecast/assets/logo.png",

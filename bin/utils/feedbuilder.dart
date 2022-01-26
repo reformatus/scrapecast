@@ -4,6 +4,9 @@ import 'package:xml/xml.dart';
 import 'types.dart';
 
 String getFeed(List<Episode> list, PodcastProperties properties) {
+  properties.description += properties.description +
+      ' \nLegutóbb frissítve: ${getRfcDate(DateTime.now())}';
+
   final builder = XmlBuilder();
   builder.processing('xml', 'version="1.0" encoding="UTF-8"');
   builder.element('rss', attributes: {
@@ -17,7 +20,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         builder.cdata(properties.title); //! Title
       });
       builder.element('description', nest: () {
-        builder.cdata(properties.description + ' \nLegutóbb frissítve: ${getRfcDate(DateTime.now())}'); //! Descriion
+        builder.cdata(properties.description); //! Descriion
       });
       builder.element('link', nest: () {
         builder.text(properties.link); //! Link
