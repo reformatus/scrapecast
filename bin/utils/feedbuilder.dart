@@ -17,7 +17,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         builder.cdata(properties.title); //! Title
       });
       builder.element('description', nest: () {
-        builder.cdata(properties.description); //! Descriion
+        builder.cdata(properties.description + ' \nLegutóbb frissítve: ${getRfcDate(DateTime.now())}'); //! Descriion
       });
       builder.element('link', nest: () {
         builder.text(properties.link); //! Link
