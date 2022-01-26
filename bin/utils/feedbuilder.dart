@@ -1,10 +1,9 @@
-import 'dart:math';
 import 'package:xml/xml.dart';
 
 import 'types.dart';
 
 String getFeed(List<Episode> list, PodcastProperties properties) {
-  properties.description += properties.description +
+  String description = properties.description +
       ' \nLegutóbb frissítve: ${getRfcDate(DateTime.now())}';
 
   final builder = XmlBuilder();
@@ -20,7 +19,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         builder.cdata(properties.title); //! Title
       });
       builder.element('description', nest: () {
-        builder.cdata(properties.description); //! Descriion
+        builder.cdata(description); //! Descriion
       });
       builder.element('link', nest: () {
         builder.text(properties.link); //! Link
@@ -58,7 +57,7 @@ String getFeed(List<Episode> list, PodcastProperties properties) {
         builder.text(properties.author); //! Author
       });
       builder.element('itunes:summary', nest: () {
-        builder.cdata(properties.description); //! Descriion
+        builder.cdata(description); //! Descriion
       });
       builder.element('itunes:type', nest: () {
         builder.text(properties.podcastType); //! Type
