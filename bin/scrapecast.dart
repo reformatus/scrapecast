@@ -108,7 +108,7 @@ Future buildPodcast(Podcast podcast) async {
       """## [${podcast.properties.title}](${podcast.properties.link})
 _${podcast.properties.description}_
 
-✅ Legutóbb frissítve: ${DateTime.now().toIso8601String()} (UTC)
+✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
 
 Epizódok száma: ${list.length}
 
