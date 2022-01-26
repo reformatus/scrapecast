@@ -8,7 +8,7 @@ Kezelt Podcastek:
 _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján._
 
-✅ Legutóbb frissítve: 2022-01-26T11:54:37.457735 (UTC)
+✅ Legutóbb frissítve: Wed, 26 Jan 2022 12:17:50 +0100
 
 Epizódok száma: 2479
 
