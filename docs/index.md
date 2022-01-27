@@ -7,12 +7,9 @@ Kezelt Podcastek:
 ## [KREK.hu Igehirdetések](https://krek.hu)
 _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
-Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp AttilaA Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
-Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
-Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila 
-Legutóbb frissítve: Wed, 26 Jan 2022 13:56:05 +0100_
+Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 26 Jan 2022 13:56:06 +0100
+✅ Legutóbb frissítve: Thu, 27 Jan 2022 05:48:35 +0100
 
 Epizódok száma: 2479
 
