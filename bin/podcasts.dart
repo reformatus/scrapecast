@@ -37,8 +37,12 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
       "Spotify": "https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT",
       "PocketCasts (ajánlott!)": "https://pca.st/j7pxwtz3",
       "CastBox": "https://castbox.fm/channel/KREK.hu-Igehirdetések-id4762991",
-      "Apple Podcasts (Legutóbbi 300 epizód)":
+      "Google Podcasts": "example.com", //TODO put link here
+      "Apple Podcasts":
           "https://podcasts.apple.com/us/podcast/krek-hu-igehirdetések/id1606886562",
+      "TuneIn":
+          "https://tunein.com/podcasts/Religion--Spirituality-Podcasts/KREKhu-Igehirdetesek-p1611771/",
+      "RadioPublic": "https://radiopublic.com/krekhu-igehirdetsek-6V4z9M",
       "RSS (kézi hozzáadáshoz)":
           "https://reformatus.github.io/scrapecast/krek.rss"
     },
