@@ -2,7 +2,7 @@ name: ScrapeCast CRON Run
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '30 6,8,10,12,14,16,18,20,22 * * *'
 
 jobs:
   run:
