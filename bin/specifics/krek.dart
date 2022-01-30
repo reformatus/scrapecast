@@ -23,6 +23,7 @@ Future<List<Episode>> krekScrape() async {
     });
 
     list.add(Episode(
+        PodcastID.krek,
         dateFormat.parse(row.querySelector('div.datum')!.text),
         row.querySelector('div.cim')!.text,
         row.querySelector('div.hirdeto')!.text,

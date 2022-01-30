@@ -1,11 +1,12 @@
 import 'dart:io';
-import 'scrapers/krekscraper.dart';
+import 'specifics/krek.dart';
+import 'specifics/gref.dart';
 import 'utils/types.dart';
 
 List<Podcast> podcasts = [
   Podcast(
+    PodcastID.krek,
     PodcastProperties(
-      1,
       "KREK.hu Igehirdetések",
       """A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
@@ -23,14 +24,13 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
       "Kecskeméti Református Egyházközség",
       "https://krek.hu",
       "https://krek.hu",
-      "fodor.benedek2001+scrapecast@gmail.com",
+      "scrapecast@fodor.pro",
       "Fodor András Benedek",
       "episodic",
       "Kecskeméti Református Egyházközség",
       false,
       "hu",
     ),
-    krekScrape,
     File("docs/krek.rss"),
     File("data/krek-data.json"),
     {
@@ -46,5 +46,8 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
       "RSS (kézi hozzáadáshoz)":
           "https://reformatus.github.io/scrapecast/krek.rss"
     },
+    krekScrape,
+    krekScrape,
+    krekScrape
   )
 ];

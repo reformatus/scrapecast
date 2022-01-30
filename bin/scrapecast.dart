@@ -5,10 +5,12 @@ import 'dart:convert';
 import 'utils/feedbuilder.dart';
 import 'utils/getlength.dart';
 import 'utils/types.dart';
-import 'scrapers/krekscraper.dart';
+import 'specifics/krek.dart';
+import 'specifics/gref.dart';
 import 'podcasts.dart';
 
-String statusMdString = "\n\nKészítette: [Fodor Benedek](https://github.com/redyau)\\\nKezelt Podcastek:\n\n---\n";
+String statusMdString =
+    "\n\nKészítette: [Fodor Benedek](https://github.com/redyau)\\\nKezelt Podcastek:\n\n---\n";
 
 void main() async {
   for (Podcast podcast in podcasts) {
@@ -31,6 +33,7 @@ Future buildPodcast(Podcast podcast) async {
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
     list.add(Episode(
+        podcast.properties.id,
         dateFormat.parse(entry["date"]),
         entry["title"],
         entry["pastor"],
@@ -42,22 +45,7 @@ Future buildPodcast(Podcast podcast) async {
         entry["size"]));
   }
 
-/* //? Loader from original json
-  List jsonEntries = jsonDecode(krekDataOriginal.readAsStringSync());
-  for (Map entry in jsonEntries) {
-    list.add(Istentisztelet(
-        dateFormat.parse(entry["date"]),
-        entry["title"],
-        entry["pastor"],
-        entry["scripture"],
-        (entry["links"].length > 1)
-            ? entry["links"].first["letoltesek-href"]
-            : null,
-        entry["links"].last["letoltesek-href"]));
-  }
- */
-
-  List<Episode> newIts = (await krekScrape())
+  List<Episode> newIts = (await podcast.scraper())
       .where((element) => (!list.contains(element)))
       .toList();
   list.insertAll(0, newIts);
@@ -117,7 +105,7 @@ Epizódok száma: ${list.length}
   for (String key in podcast.links.keys) {
     statusMdString += " - [$key](${podcast.links[key]})\n";
   }
-  
+
   statusMdString += "\n**Legutóbbi epizódok:**\n";
   for (Episode episode in list.sublist(0, 6)) {
     statusMdString +=
