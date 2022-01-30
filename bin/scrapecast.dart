@@ -32,17 +32,7 @@ Future buildPodcast(Podcast podcast) async {
   print('Loading existing data from json');
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
-    list.add(Episode(
-        podcast.properties.id,
-        dateFormat.parse(entry["date"]),
-        entry["title"],
-        entry["pastor"],
-        entry["bible"],
-        entry["youtube"],
-        entry["download"],
-        entry["uuid"],
-        entry["length"],
-        entry["size"]));
+    list.add(podcast.fromJson(entry));
   }
 
   List<Episode> newIts = (await podcast.scraper())
@@ -54,7 +44,7 @@ Future buildPodcast(Podcast podcast) async {
     print("Saving database");
     podcast.dataFile.createSync();
     podcast.dataFile.writeAsStringSync(JsonEncoder.withIndent('  ')
-        .convert(list.map((e) => e.toJson).toList()));
+        .convert(list.map((e) => podcast.toJson(e)).toList()));
   }
 
   int i = 0;
@@ -84,7 +74,7 @@ Future buildPodcast(Podcast podcast) async {
 
   print("Building rss feed");
   podcast.rssFile.createSync();
-  podcast.rssFile.writeAsStringSync(getFeed(list, podcast.properties));
+  podcast.rssFile.writeAsStringSync(getFeed(list, podcast));
 
   print(errors.isNotEmpty ? 'Errors:' : '');
   for (Episode item in errors) {

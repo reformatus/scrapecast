@@ -37,7 +37,8 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
       "Spotify": "https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT",
       "PocketCasts (ajánlott!)": "https://pca.st/j7pxwtz3",
       "CastBox": "https://castbox.fm/channel/KREK.hu-Igehirdetések-id4762991",
-      "Google Podcasts": "https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L2tyZWsucnNz",
+      "Google Podcasts":
+          "https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L2tyZWsucnNz",
       "Apple Podcasts":
           "https://podcasts.apple.com/us/podcast/krek-hu-igehirdetések/id1606886562",
       "TuneIn":
@@ -47,7 +48,10 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
           "https://reformatus.github.io/scrapecast/krek.rss"
     },
     krekScrape,
-    krekScrape,
-    krekScrape
+    krekTitle,
+    krekDescription,
+    krekFromJson,
+    krekToJson,
+    artworkBuilder: krekArtworkBuilder,
   )
 ];

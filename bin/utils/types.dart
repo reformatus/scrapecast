@@ -5,8 +5,6 @@ import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';
 import 'dart:io';
 
-import 'getlength.dart';
-
 Uuid _uuid = Uuid();
 
 // ignore: must_be_immutable
@@ -37,18 +35,6 @@ class Episode extends Equatable {
     this.date = date.toLocal();
     this.uuid = uuid ?? _uuid.v4();
   }
-
-  get toJson => {
-        "title": title,
-        "bible": bible,
-        "date": dateFormat.format(date),
-        "pastor": pastor,
-        "youtube": youTube,
-        "download": download,
-        "uuid": uuid,
-        "length": length,
-        "size": fileSize,
-      };
 
   @override
   List<Object> get props => [title, pastor, date];
@@ -102,13 +88,20 @@ class PodcastProperties {
 class Podcast {
   final PodcastID id;
   final PodcastProperties properties;
-  final Function scraper;
-  final Function titleBuilder;
-  final Function descriptionBuilder;
+  Function scraper;
+  Function titleBuilder;
+  Function descriptionBuilder;
+  Function fromJson;
+  Function toJson;
   final File rssFile;
   final File dataFile;
   final Map links;
+  Function artworkBuilder;
 
-  Podcast(this.id, this.properties, this.rssFile, this.dataFile,
-      this.links, this.scraper, this.titleBuilder, this.descriptionBuilder);
+  Podcast(this.id, this.properties, this.rssFile, this.dataFile, this.links,
+      this.scraper, this.titleBuilder, this.descriptionBuilder, this.fromJson, this.toJson,
+      {this.artworkBuilder = defaultCoverBuilder});
 }
+
+String defaultCoverBuilder(Podcast podcast, Episode episode) =>
+    podcast.properties.artworkLink;
