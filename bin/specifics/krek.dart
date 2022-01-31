@@ -24,13 +24,13 @@ Future<List<Episode>> krekScrape() async {
     });
 
     list.add(Episode(
-        PodcastID.krek,
-        dateFormat.parse(row.querySelector('div.datum')!.text),
-        row.querySelector('div.cim')!.text,
-        row.querySelector('div.hirdeto')!.text,
-        row.querySelector('div.igeresz')!.text,
-        (downloadLinks.length > 1) ? downloadLinks.first : null,
-        downloadLinks.last,
+        PodcastID.krek, //! id
+        dateFormat.parse(row.querySelector('div.datum')!.text), //! date
+        row.querySelector('div.cim')!.text, //! title
+        row.querySelector('div.hirdeto')!.text, //! author
+        row.querySelector('div.igeresz')!.text, //! field1 (bible)
+        (downloadLinks.length > 1) ? downloadLinks.first : null, //! field2 (youtube)
+        downloadLinks.last, //! download
         null,
         null,
         null));
@@ -53,10 +53,10 @@ Episode krekFromJson(Map entry) => Episode(
 
 Map krekToJson(Episode episode) => {
       "title": episode.title,
-      "bible": episode.bible,
+      "bible": episode.field1,
       "date": dateFormat.format(episode.date),
-      "pastor": episode.pastor,
-      "youtube": episode.youTube,
+      "pastor": episode.author,
+      "youtube": episode.field2,
       "download": episode.download,
       "uuid": episode.uuid,
       "length": episode.length,
@@ -64,16 +64,16 @@ Map krekToJson(Episode episode) => {
     };
 
 String krekTitle(Episode element) =>
-    '${element.title} | ${element.pastor} | ${dateFormat.format(element.date)}';
+    '${element.title} | ${element.author} | ${dateFormat.format(element.date)}';
 
 String krekDescription(Podcast podcast, Episode element) {
   xml.XmlBuilder builder = xml.XmlBuilder();
 
-  if (element.youTube != null) {
+  if (element.field2 != null) {
     builder.element('p', nest: () {
-      builder.element('a', attributes: {"href": element.youTube!}, nest: () {
+      builder.element('a', attributes: {"href": element.field2!}, nest: () {
         builder.text(
-            'Az alkalomról videófelvétel is elérhető: ${element.youTube}');
+            'Az alkalomról videófelvétel is elérhető: ${element.field2}');
       });
     });
   }
@@ -81,10 +81,10 @@ String krekDescription(Podcast podcast, Episode element) {
   builder.element('br', isSelfClosing: true);
 
   builder.element('p', nest: () {
-    builder.text('Igerész: ${element.bible}');
+    builder.text('Igerész: ${element.field1}');
   });
   builder.element('p', nest: () {
-    builder.text('Lelkész: ${element.pastor}');
+    builder.text('Lelkész: ${element.author}');
   });
 
   builder.element('br', isSelfClosing: true);

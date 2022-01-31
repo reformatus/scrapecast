@@ -1,7 +1,10 @@
 import 'dart:io';
-import 'specifics/krek.dart';
-import 'specifics/gref.dart';
+
 import 'utils/types.dart';
+
+import 'specifics/gref.dart';
+import 'specifics/krek-podcast.dart';
+import 'specifics/krek.dart';
 
 List<Podcast> podcasts = [
   Podcast(
@@ -13,7 +16,7 @@ Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila""",
       "Religion & Spirituality",
       "Christianity",
-      "https://reformatus.github.io/scrapecast/assets/logo.png",
+      "https://reformatus.github.io/scrapecast/assets/krek/logo.png",
       [
         "https://reformatus.github.io/scrapecast/assets/krek/episode-art/krek.png",
         "https://reformatus.github.io/scrapecast/assets/krek/episode-art/9.png",
@@ -53,5 +56,37 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
     krekFromJson,
     krekToJson,
     artworkBuilder: krekArtworkBuilder,
+  ),
+  Podcast(
+    PodcastID.krekPodcast,
+    PodcastProperties(
+      "KREK.hu Podcast",
+      """A Kecskeméti Református Gyülekezet Podcastja. 
+Szerkeszti: Papp Attila""",
+      "Religion & Spirituality",
+      "Christianity",
+      "https://reformatus.github.io/scrapecast/assets/krekPodcast/logo.png",
+      null,
+      "Kecskeméti Református Egyházközség",
+      "https://krek.hu/podcast",
+      "https://krek.hu",
+      "scrapecast@fodor.pro",
+      "Fodor András Benedek",
+      "episodic",
+      "Kecskeméti Református Egyházközség",
+      false,
+      "hu",
+    ),
+    File("docs/krekPodcast.rss"),
+    File("data/krekPodcast-data.json"),
+    {
+      "RSS (kézi hozzáadáshoz)":
+          "https://reformatus.github.io/scrapecast/krekPodcast.rss"
+    },
+    krekPodcastScrape,
+    krekPodcastTitle,
+    krekPodcastDescription,
+    krekPodcastFromJson,
+    krekPodcastToJson,
   )
 ];

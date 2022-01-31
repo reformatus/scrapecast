@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 31 Jan 2022 17:50:48 +0100
+✅ Legutóbb frissítve: Mon, 31 Jan 2022 19:53:39 +0100
 
 Epizódok száma: 2485
 
@@ -30,5 +30,24 @@ Epizódok száma: 2485
  - 2022.01.23 - "Menjetek el, és hirdessétek: elközelített a mennyek országa!" - 9h - Kuti József
  - 2022.01.23 - "Bővölködjetek a reménységben a Szentlélek ereje által." - 11h - Hodánics Tamás
  - 2022.01.23 - Misszió - KERT - Nagy Henrietta
+
+---## [KREK.hu Podcast](https://krek.hu/podcast)
+_A Kecskeméti Református Gyülekezet Podcastja. 
+Szerkeszti: Papp Attila_
+
+✅ Legutóbb frissítve: Mon, 31 Jan 2022 19:53:39 +0100
+
+Epizódok száma: 8
+
+**Elérhető:**
+ - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krekPodcast.rss)
+
+**Legutóbbi epizódok:**
+ - 2020.02.05 - 1. Dicsőítés - Nagy Heni, Mike Sámuel és Papp Attila
+ - 2020.02.06 - 2. Biblia, csodák - Fodorné Ablonczy Margit (Mitka)
+ - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
+ - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
+ - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
+ - 2020.03.03 - 6. Dogmatika - Kuti József
 
 ---

@@ -16,7 +16,7 @@ String getFeed(List<Episode> list, Podcast podcast) {
   }, nest: () {
     builder.element('channel', nest: () {
       builder.element('title', nest: () {
-        builder.cdata(podcast.properties.title); //! Title
+        builder.text(podcast.properties.title); //! Title
       });
       builder.element('description', nest: () {
         builder.cdata(description); //! Descriion
@@ -87,7 +87,7 @@ String getFeed(List<Episode> list, Podcast podcast) {
       for (Episode episode in list) {
         builder.element('item', nest: () {
           builder.element('title', nest: () {
-            builder.cdata(podcast.titleBuilder(episode));
+            builder.text(podcast.titleBuilder(episode));
           });
           builder.element('description', nest: () {
             builder.cdata(podcast.descriptionBuilder(podcast, episode));

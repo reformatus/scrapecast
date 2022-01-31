@@ -31,6 +31,7 @@ Future buildPodcast(Podcast podcast) async {
   List<Episode> errors = [];
 
   print('Loading existing data from json');
+  podcast.dataFile.createSync();
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
     list.add(podcast.fromJson(entry));
@@ -100,7 +101,7 @@ Epizódok száma: ${list.length}
   statusMdString += "\n**Legutóbbi epizódok:**\n";
   for (Episode episode in list.sublist(0, 6)) {
     statusMdString +=
-        " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.pastor}\n";
+        " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
   }
   statusMdString += "\n---";
 }
