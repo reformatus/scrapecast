@@ -80,6 +80,9 @@ Szerkeszti: Papp Attila""",
     File("docs/krekPodcast.rss"),
     File("data/krekPodcast-data.json"),
     {
+      "Spotify": "https://open.spotify.com/show/6LA5xcckdjpSbougqHGsFb",
+      "PocketCasts": "https://pca.st/f932spzv",
+      "CastBox": "https://castbox.fm/channel/id4772853",
       "RSS (kézi hozzáadáshoz)":
           "https://reformatus.github.io/scrapecast/krekPodcast.rss"
     },
