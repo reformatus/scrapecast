@@ -41,6 +41,7 @@ Future buildPodcast(Podcast podcast) async {
       .where((element) => (!list.contains(element)))
       .toList();
   list.insertAll(0, newIts);
+  list.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
 
   save() {
     print("Saving database");
@@ -103,5 +104,5 @@ Epizódok száma: ${list.length}
     statusMdString +=
         " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
   }
-  statusMdString += "\n---";
+  statusMdString += "\n---\n\n";
 }
