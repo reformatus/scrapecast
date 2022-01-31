@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 31 Jan 2022 19:56:14 +0100
+✅ Legutóbb frissítve: Mon, 31 Jan 2022 20:04:36 +0100
 
 Epizódok száma: 2485
 
@@ -24,18 +24,20 @@ Epizódok száma: 2485
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
- - 2022.01.30 - "És az ő nevében reménykednek majd a népek." - 9h - Varga Nándor
- - 2022.01.30 - A Szentlélek az Istentől kapott kincseink őrzője. - 11h - Komádi Róbert
  - 2022.01.30 - Hálaadó ének - Zsongom zenekar - KERT - Nagy Henrietta
- - 2022.01.23 - "Menjetek el, és hirdessétek: elközelített a mennyek országa!" - 9h - Kuti József
- - 2022.01.23 - "Bővölködjetek a reménységben a Szentlélek ereje által." - 11h - Hodánics Tamás
+ - 2022.01.30 - A Szentlélek az Istentől kapott kincseink őrzője. - 11h - Komádi Róbert
+ - 2022.01.30 - "És az ő nevében reménykednek majd a népek." - 9h - Varga Nándor
  - 2022.01.23 - Misszió - KERT - Nagy Henrietta
+ - 2022.01.23 - "Bővölködjetek a reménységben a Szentlélek ereje által." - 11h - Hodánics Tamás
+ - 2022.01.23 - "Menjetek el, és hirdessétek: elközelített a mennyek országa!" - 9h - Kuti József
 
----## [KREK.hu Podcast](https://krek.hu/podcast)
+---
+
+## [KREK.hu Podcast](https://krek.hu/podcast)
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 31 Jan 2022 19:56:15 +0100
+✅ Legutóbb frissítve: Mon, 31 Jan 2022 20:04:47 +0100
 
 Epizódok száma: 8
 
@@ -43,11 +45,12 @@ Epizódok száma: 8
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krekPodcast.rss)
 
 **Legutóbbi epizódok:**
- - 2020.02.05 - 1. Dicsőítés - Nagy Heni, Mike Sámuel és Papp Attila
- - 2020.02.06 - 2. Biblia, csodák - Fodorné Ablonczy Margit (Mitka)
- - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
+ - 2020.03.13 - 8. Apologetika - Nagy Gergely
+ - 2020.03.03 - 6. Dogmatika - Kuti József
+ - 2020.03.03 - 7. Gyász, Halál - Kuti Józsefné Filep Katalin
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
- - 2020.03.03 - 6. Dogmatika - Kuti József
+ - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
 
 ---
+
