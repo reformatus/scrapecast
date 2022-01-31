@@ -21,6 +21,7 @@ void main() async {
   File mdFile = File("docs/index.md");
   mdFile.writeAsStringSync(statusMdString);
   print('Done!');
+  exit(0); //Program just froze without this, weird
 }
 
 Future buildPodcast(Podcast podcast) async {
