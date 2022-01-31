@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 31 Jan 2022 07:42:15 +0100
+✅ Legutóbb frissítve: Mon, 31 Jan 2022 14:49:54 +0100
 
-Epizódok száma: 2479
+Epizódok száma: 2485
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,11 +24,11 @@ Epizódok száma: 2479
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
- - 2022.01.16 - "...hanem egy szót szólj, és meggyógyul..." - 9h - Varga Nándor
- - 2022.01.16 - Kicsoda a Szentlélek? - 11h - Riczuné Kiss Georgina Orsolya
- - 2022.01.16 - Imádság - KERT - Nagy Henrietta
- - 2022.01.16 - Imádság és bizonyságtétel (Katonatelep) - Laczay András
- - 2022.01.09 - "..megkapjátok a Szentlélek ajándékát" - 11h - Vincze Árpád
- - 2022.01.09 - Találkozás - KERT - Imre Veronika
+ - 2022.01.30 - "És az ő nevében reménykednek majd a népek." - 9h - Varga Nándor
+ - 2022.01.30 - A Szentlélek az Istentől kapott kincseink őrzője. - 11h - Komádi Róbert
+ - 2022.01.30 - Hálaadó ének - Zsongom zenekar - KERT - Nagy Henrietta
+ - 2022.01.23 - "Menjetek el, és hirdessétek: elközelített a mennyek országa!" - 9h - Kuti József
+ - 2022.01.23 - "Bővölködjetek a reménységben a Szentlélek ereje által." - 11h - Hodánics Tamás
+ - 2022.01.23 - Misszió - KERT - Nagy Henrietta
 
 ---
