@@ -35,9 +35,8 @@ jobs:
 
       - name: Publish changes
         run: |
-          git add docs/index.md
-          git add docs/krek.rss
-          git add data/krek-data.json
+          git add docs
+          git add data
           git add bin/scrapecast.exe
           git commit -m "Publish changes"
           git push origin master
