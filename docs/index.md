@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 07 Feb 2022 07:41:57 +0100
+✅ Legutóbb frissítve: Mon, 07 Feb 2022 09:39:41 +0100
 
-Epizódok száma: 2485
+Epizódok száma: 2488
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2485
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.02.06 - Ki választ? - KERT - Imre Veronika
+ - 2022.02.06 - Gyermeklét - 11h - Fodorné Ablonczy Margit
+ - 2022.02.06 - "Legyetek irgalmasok..." - 9h - Magyarné Balogh Erzsébet
  - 2022.01.30 - Hálaadó ének - Zsongom zenekar - KERT - Nagy Henrietta
  - 2022.01.30 - A Szentlélek az Istentől kapott kincseink őrzője. - 11h - Komádi Róbert
  - 2022.01.30 - "És az ő nevében reménykednek majd a népek." - 9h - Varga Nándor
- - 2022.01.23 - Misszió - KERT - Nagy Henrietta
- - 2022.01.23 - "Bővölködjetek a reménységben a Szentlélek ereje által." - 11h - Hodánics Tamás
- - 2022.01.23 - "Menjetek el, és hirdessétek: elközelített a mennyek országa!" - 9h - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2485
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 07 Feb 2022 07:41:58 +0100
+✅ Legutóbb frissítve: Mon, 07 Feb 2022 09:39:42 +0100
 
 Epizódok száma: 8
 
