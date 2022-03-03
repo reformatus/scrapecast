@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 02 Mar 2022 23:36:52 +0100
+✅ Legutóbb frissítve: Thu, 03 Mar 2022 07:43:12 +0100
 
 Epizódok száma: 2506
 
@@ -37,7 +37,7 @@ Epizódok száma: 2506
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 02 Mar 2022 23:36:53 +0100
+✅ Legutóbb frissítve: Thu, 03 Mar 2022 07:43:14 +0100
 
 Epizódok száma: 8
 
