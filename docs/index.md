@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 16 Mar 2022 19:42:18 +0100
+✅ Legutóbb frissítve: Wed, 16 Mar 2022 21:36:43 +0100
 
-Epizódok száma: 2516
+Epizódok száma: 2518
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2516
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.03.15 - A Messiás eljövetele - 9h - Varga Nándor
+ - 2022.03.13 - "Az az indulat.." - KERT - Nagy Henrietta
  - 2022.03.13 - Nevelés - 11h - Fodorné Ablonczy Margit
  - 2022.03.13 - Hatalom szolgálatra (Katonatelep) - Laczay András
  - 2022.03.13 - "Az Úrhoz menekülök." - 9h - Varga Nándor
  - 2022.03.06 - Böjt - KERT - Imre Veronika
- - 2022.03.06 - "A teljes Írás Istentől ihletett." - 11h - Fodorné Ablonczy Margit
- - 2022.03.06 - Böjt, megbocsátás (Katonatelep) - Laczay András
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2516
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 16 Mar 2022 19:42:20 +0100
+✅ Legutóbb frissítve: Wed, 16 Mar 2022 21:36:44 +0100
 
 Epizódok száma: 8
 
