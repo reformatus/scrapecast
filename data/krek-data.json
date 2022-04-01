@@ -3432,17 +3432,6 @@
     "size": 67955173
   },
   {
-    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
-    "bible": "János 3,1-10",
-    "date": "2020.12.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
-    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
-    "length": 2604,
-    "size": 41675989
-  },
-  {
     "title": "Lelki építkezés - 15h",
     "bible": "1 Péter 2,5",
     "date": "2020.12.31",
@@ -3452,6 +3441,17 @@
     "uuid": "2f14465f-c092-4d2a-8691-ee752755c7af",
     "length": 2527,
     "size": 40440502
+  },
+  {
+    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
+    "bible": "János 3,1-10",
+    "date": "2020.12.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
+    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
+    "length": 2604,
+    "size": 41675989
   },
   {
     "title": "Az evangélium titka - Kert",
@@ -4785,17 +4785,6 @@
     "size": 59386174
   },
   {
-    "title": "Isten Igéje közösséget teremt - 18h",
-    "bible": "ApCsel17,1-10, Thessz2,13.",
-    "date": "2020.07.05",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20200705_18h_WZ_Ap_Cs_17,1-10a;_1_Thessz_2,13_Isten_igéje_összekapcsol,_közösséget_teremt.mp3",
-    "uuid": "17571b55-ee61-407d-9b8e-c5c82fdf3b5f",
-    "length": 2134,
-    "size": 34153142
-  },
-  {
     "title": "Isten szerető irányítása - (Széchenyiváros)",
     "bible": "1Mózes 45, 4-5.",
     "date": "2020.07.05",
@@ -4805,6 +4794,17 @@
     "uuid": "c51e25fb-c28e-4dcc-9824-f3bafe258458",
     "length": 3970,
     "size": 63521288
+  },
+  {
+    "title": "Isten Igéje közösséget teremt - 18h",
+    "bible": "ApCsel17,1-10, Thessz2,13.",
+    "date": "2020.07.05",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20200705_18h_WZ_Ap_Cs_17,1-10a;_1_Thessz_2,13_Isten_igéje_összekapcsol,_közösséget_teremt.mp3",
+    "uuid": "17571b55-ee61-407d-9b8e-c5c82fdf3b5f",
+    "length": 2134,
+    "size": 34153142
   },
   {
     "title": "Lelki közösség Krisztussal - 11h",
