@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 14 Apr 2022 23:30:05 +0100
+✅ Legutóbb frissítve: Fri, 15 Apr 2022 10:36:20 +0100
 
-Epizódok száma: 2532
+Epizódok száma: 2533
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2532
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.04.14 - Jézus teste igazi étel és vére igazi ital - 17h - Kutiné Filep Katalin
  - 2022.04.12 - "...aki hallja az én igémet,...annak örök élete van..." - 17h - Szabó Zsuzsanna
  - 2022.04.11 - Kicsoda az Emberfia Jézus?- 17h - Mikesi Károly
  - 2022.04.11 - Az Emberfia - 17h - Mikesi Károly
  - 2022.04.10 - Isten dicsősége - 9h - Varga Nándor
  - 2022.04.04 - Böjti orgonazene a békéért - 18:30h - dr. Méhes Balázs
- - 2022.04.03 - Emberré lett - KERT - Varga Nándor
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2532
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 14 Apr 2022 23:30:06 +0100
+✅ Legutóbb frissítve: Fri, 15 Apr 2022 10:36:21 +0100
 
 Epizódok száma: 8
 
