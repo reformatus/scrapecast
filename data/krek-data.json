@@ -2057,17 +2057,6 @@
     "size": 11764621
   },
   {
-    "title": "Táborkezdő - 14h",
-    "bible": "Ezékiel 37,1-14.",
-    "date": "2021.07.19",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
-    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
-    "length": 1332,
-    "size": 31973249
-  },
-  {
     "title": "Az Evangélium ereje - 19,30h",
     "bible": "1. Thesszalonika 1,1-10",
     "date": "2021.07.19",
@@ -2077,6 +2066,17 @@
     "uuid": "83905baa-4337-466f-b997-0f6cf23ed714",
     "length": 2011,
     "size": 48271517
+  },
+  {
+    "title": "Táborkezdő - 14h",
+    "bible": "Ezékiel 37,1-14.",
+    "date": "2021.07.19",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
+    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
+    "length": 1332,
+    "size": 31973249
   },
   {
     "title": "Illés oltárépítése - 11h",
@@ -9680,15 +9680,15 @@
     "size": 49530696
   },
   {
-    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
-    "bible": "Jelenések3,8",
+    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
+    "bible": "Lukács15,22-24;31-32",
     "date": "2018.09.02",
-    "pastor": "Komádi Róbert",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
-    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
-    "length": 2851,
-    "size": 45622360
+    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
+    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
+    "length": 3905,
+    "size": 62484087
   },
   {
     "title": "Adok, hogy adj - 18h",
@@ -9702,15 +9702,15 @@
     "size": 34512169
   },
   {
-    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
-    "bible": "Lukács15,22-24;31-32",
+    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
+    "bible": "Jelenések3,8",
     "date": "2018.09.02",
-    "pastor": "Kuti József",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
-    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
-    "length": 3905,
-    "size": 62484087
+    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
+    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
+    "length": 2851,
+    "size": 45622360
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -25894,17 +25894,6 @@
     "size": 20172210
   },
   {
-    "title": "Lábam előtt mécses a Te igéd - 9h",
-    "bible": "Zsoltárok119,105",
-    "date": "2009.03.01",
-    "pastor": "Szabó Gábor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20090301_9hlabam-elott-mecses-a-te-iged.mp3",
-    "uuid": "062a4ef3-209d-46a6-ba4a-8f3913f0cfae",
-    "length": 2192,
-    "size": 17538832
-  },
-  {
     "title": "Az Atya dicsősége - 9h",
     "bible": "János15,8",
     "date": "2009.03.01",
@@ -25914,6 +25903,17 @@
     "uuid": "05fbcc64-7813-494e-a08c-d552d96f862c",
     "length": 3073,
     "size": 24586844
+  },
+  {
+    "title": "Lábam előtt mécses a Te igéd - 9h",
+    "bible": "Zsoltárok119,105",
+    "date": "2009.03.01",
+    "pastor": "Szabó Gábor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20090301_9hlabam-elott-mecses-a-te-iged.mp3",
+    "uuid": "062a4ef3-209d-46a6-ba4a-8f3913f0cfae",
+    "length": 2192,
+    "size": 17538832
   },
   {
     "title": "Újjászületés - 11h",
