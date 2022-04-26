@@ -2057,17 +2057,6 @@
     "size": 12179237
   },
   {
-    "title": "Csend Isten előtt - 7,15h",
-    "bible": "Jeremiás siralmai 3,26.",
-    "date": "2021.07.20",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210720_7,15h_LA_Jeremiás_siralmai3,26_Csend_Isten_előtt.mp3",
-    "uuid": "3cece3d3-dad3-4d47-bc20-ca2e09c7dda7",
-    "length": 735,
-    "size": 11764621
-  },
-  {
     "title": "Az Elhívás - 19,30h",
     "bible": "Lukács 5,1-11.",
     "date": "2021.07.20",
@@ -2077,6 +2066,17 @@
     "uuid": "1d07d6d1-96ee-4813-9b3c-79f5273cc2b3",
     "length": 2551,
     "size": 61229357
+  },
+  {
+    "title": "Csend Isten előtt - 7,15h",
+    "bible": "Jeremiás siralmai 3,26.",
+    "date": "2021.07.20",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210720_7,15h_LA_Jeremiás_siralmai3,26_Csend_Isten_előtt.mp3",
+    "uuid": "3cece3d3-dad3-4d47-bc20-ca2e09c7dda7",
+    "length": 735,
+    "size": 11764621
   },
   {
     "title": "Táborkezdő - 14h",
@@ -3784,17 +3784,6 @@
     "size": 57888208
   },
   {
-    "title": "Lelki karácsony - 15h",
-    "bible": "János 1,1-14",
-    "date": "2020.12.25",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201225_15h_HT_Janos 1,1-14_Lelki_karacsony.MP3",
-    "uuid": "dee9efa8-79f0-4a76-821c-7fcfb03b5b95",
-    "length": 2223,
-    "size": 35578383
-  },
-  {
     "title": "Öröm a romokon Istenben - 17h",
     "bible": "Ézsaiás 52,7-10",
     "date": "2020.12.25",
@@ -3804,6 +3793,17 @@
     "uuid": "6282a8fc-be8a-4808-a3f4-80e1083d0b37",
     "length": 2483,
     "size": 39740002
+  },
+  {
+    "title": "Lelki karácsony - 15h",
+    "bible": "János 1,1-14",
+    "date": "2020.12.25",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201225_15h_HT_Janos 1,1-14_Lelki_karacsony.MP3",
+    "uuid": "dee9efa8-79f0-4a76-821c-7fcfb03b5b95",
+    "length": 2223,
+    "size": 35578383
   },
   {
     "title": "Találkozás a Messiással-Ne féljetek - 11h",
@@ -7249,17 +7249,6 @@
     "size": 40232776
   },
   {
-    "title": "Amim van azt adom neked - 11h",
-    "bible": "ApCsel3,6",
-    "date": "2019.07.28",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190728_11h_VN_ApCsel3,6_Amim_van_azt_adom_neked.mp3",
-    "uuid": "fba00a63-c823-4912-a5e6-78f12ec8e542",
-    "length": 3052,
-    "size": 48846747
-  },
-  {
     "title": "A keresztyén egyház születése - 11h",
     "bible": "ApCsel2,38-39",
     "date": "2019.07.28",
@@ -7269,6 +7258,17 @@
     "uuid": "5376279f-b902-455c-80e4-f6646f8c2734",
     "length": 3711,
     "size": 59382669
+  },
+  {
+    "title": "Amim van azt adom neked - 11h",
+    "bible": "ApCsel3,6",
+    "date": "2019.07.28",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190728_11h_VN_ApCsel3,6_Amim_van_azt_adom_neked.mp3",
+    "uuid": "fba00a63-c823-4912-a5e6-78f12ec8e542",
+    "length": 3052,
+    "size": 48846747
   },
   {
     "title": "Áldás - 9h",
@@ -14850,17 +14850,6 @@
     "size": 13571178
   },
   {
-    "title": "Ítélet helyett üdvösség - 18h",
-    "bible": "János3,17",
-    "date": "2014.12.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/141231 18h VN_oevbucs.it_Itelet helyett udvosseg_Jn3,17.mp3",
-    "uuid": "877f9333-dce6-416a-b2db-764883fae273",
-    "length": 1544,
-    "size": 12353455
-  },
-  {
     "title": "Isten valóságos szeretete - 15h",
     "bible": "János3,16",
     "date": "2014.12.31",
@@ -14870,6 +14859,17 @@
     "uuid": "74a13ab0-a185-482e-85b5-e8585919dd7f",
     "length": 1198,
     "size": 9591581
+  },
+  {
+    "title": "Ítélet helyett üdvösség - 18h",
+    "bible": "János3,17",
+    "date": "2014.12.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/141231 18h VN_oevbucs.it_Itelet helyett udvosseg_Jn3,17.mp3",
+    "uuid": "877f9333-dce6-416a-b2db-764883fae273",
+    "length": 1544,
+    "size": 12353455
   },
   {
     "title": "A lényeg a kezedben van - 11h",
@@ -25916,17 +25916,6 @@
     "size": 20172210
   },
   {
-    "title": "Az Atya dicsősége - 9h",
-    "bible": "János15,8",
-    "date": "2009.03.01",
-    "pastor": "Somogyi Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20090229_9h-somogyi-peter--az-atya-dicsossege--jan.-158--2009.-02.-22.-9h.mp3",
-    "uuid": "05fbcc64-7813-494e-a08c-d552d96f862c",
-    "length": 3073,
-    "size": 24586844
-  },
-  {
     "title": "Lábam előtt mécses a Te igéd - 9h",
     "bible": "Zsoltárok119,105",
     "date": "2009.03.01",
@@ -25936,6 +25925,17 @@
     "uuid": "062a4ef3-209d-46a6-ba4a-8f3913f0cfae",
     "length": 2192,
     "size": 17538832
+  },
+  {
+    "title": "Az Atya dicsősége - 9h",
+    "bible": "János15,8",
+    "date": "2009.03.01",
+    "pastor": "Somogyi Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20090229_9h-somogyi-peter--az-atya-dicsossege--jan.-158--2009.-02.-22.-9h.mp3",
+    "uuid": "05fbcc64-7813-494e-a08c-d552d96f862c",
+    "length": 3073,
+    "size": 24586844
   },
   {
     "title": "Újjászületés - 11h",
