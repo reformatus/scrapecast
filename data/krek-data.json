@@ -2068,17 +2068,6 @@
     "size": 18765020
   },
   {
-    "title": "Hallgatás és hála - 7,15h",
-    "bible": "Efézus 1,15-16.",
-    "date": "2021.07.21",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
-    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
-    "length": 761,
-    "size": 12179237
-  },
-  {
     "title": "A Követés - 19,30h",
     "bible": "Lukács 9,28-36.",
     "date": "2021.07.21",
@@ -2088,6 +2077,17 @@
     "uuid": "0b554941-9480-4b8c-a679-adbbb39c7a1f",
     "length": 2814,
     "size": 67536812
+  },
+  {
+    "title": "Hallgatás és hála - 7,15h",
+    "bible": "Efézus 1,15-16.",
+    "date": "2021.07.21",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
+    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
+    "length": 761,
+    "size": 12179237
   },
   {
     "title": "Csend Isten előtt - 7,15h",
@@ -10725,17 +10725,6 @@
     "size": 20857936
   },
   {
-    "title": "Gyógyulás 3 - Ifjúsági it.",
-    "bible": "Jn9,1-9",
-    "date": "2018.03.25",
-    "pastor": "Pál Eszter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180325_PE_18h_gyógyulás3_jn9,1-9.mp3",
-    "uuid": "83166d8b-7823-4dc0-ae54-5dab3d2d622f",
-    "length": 3060,
-    "size": 24483523
-  },
-  {
     "title": "VIRÁGVASÁRNAP",
     "bible": "Filippi4,4.5",
     "date": "2018.03.25",
@@ -10745,6 +10734,17 @@
     "uuid": "df695cb9-0929-4d65-80d6-911937a50566",
     "length": 4442,
     "size": 35541469
+  },
+  {
+    "title": "Gyógyulás 3 - Ifjúsági it.",
+    "bible": "Jn9,1-9",
+    "date": "2018.03.25",
+    "pastor": "Pál Eszter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180325_PE_18h_gyógyulás3_jn9,1-9.mp3",
+    "uuid": "83166d8b-7823-4dc0-ae54-5dab3d2d622f",
+    "length": 3060,
+    "size": 24483523
   },
   {
     "title": "Nélküle nem működik - 11h",
@@ -17963,6 +17963,17 @@
     "size": 17133653
   },
   {
+    "title": "Gyertek - 15h",
+    "bible": "Zsoltárok66,5",
+    "date": "2013.09.01",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
+    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
+    "length": 1985,
+    "size": 15883537
+  },
+  {
     "title": "Krisztus szembe jön velünk - 17,30h",
     "bible": "Lukács7,11-17",
     "date": "2013.09.01",
@@ -17983,17 +17994,6 @@
     "uuid": "b6e1f5bb-63b3-4619-a564-984e9c18fae7",
     "length": 2130,
     "size": 17046091
-  },
-  {
-    "title": "Gyertek - 15h",
-    "bible": "Zsoltárok66,5",
-    "date": "2013.09.01",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
-    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
-    "length": 1985,
-    "size": 15883537
   },
   {
     "title": "Ne csüggedj - 18h",
@@ -22143,17 +22143,6 @@
     "size": 16282270
   },
   {
-    "title": "Hit és üdvösség - 18h",
-    "bible": "Máté16,16",
-    "date": "2011.09.11",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
-    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
-    "length": 2198,
-    "size": 17588393
-  },
-  {
     "title": "Isteni igazság - 17h",
     "bible": "Jób9,1-7",
     "date": "2011.09.11",
@@ -22163,6 +22152,17 @@
     "uuid": "2447eca1-e193-4f49-9613-49c487d06c00",
     "length": 2945,
     "size": 23565209
+  },
+  {
+    "title": "Hit és üdvösség - 18h",
+    "bible": "Máté16,16",
+    "date": "2011.09.11",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
+    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
+    "length": 2198,
+    "size": 17588393
   },
   {
     "title": "Embereket Krisztushoz vezetni - 9h",
