@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 10 May 2022 15:11:07 +0100
+✅ Legutóbb frissítve: Tue, 10 May 2022 18:57:30 +0100
 
-Epizódok száma: 2557
+Epizódok száma: 2558
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -28,8 +28,8 @@ Epizódok száma: 2557
  - 2022.05.08 - Az örökített áldás következménye. - 11h - Faragóné Bencsik Dóra
  - 2022.05.08 - Névlegesből tényleges (Katonatelep-Felnőtt konfirmáció) - Laczay András
  - 2022.05.08 - "...Akik Istent szeretik, azoknak minden javukra szolgál..." - 9h - Varga Nándor
+ - 2022.05.06 - "Ti vagytok a föld sója." - 17h-Petőfiváros - Borsos-Pintér Nóra
  - 2022.05.05 - Isten kegyelmétől távolodva a keserűség növekszik - 17h-Petőfiváros - Borsos-Pintér Nóra
- - 2022.05.01 - Bátorítás - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2557
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 10 May 2022 15:11:08 +0100
+✅ Legutóbb frissítve: Tue, 10 May 2022 18:57:31 +0100
 
 Epizódok száma: 8
 
