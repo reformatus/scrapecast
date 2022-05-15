@@ -5203,17 +5203,6 @@
     "size": 56704129
   },
   {
-    "title": "A mustármagnyi hit",
-    "bible": "(Mt 17,14-21) Mt 13,31,32",
-    "date": "2020.06.28",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20200628_09h_KJ_Mt_13,31-32_Mustármagnyi_hit_lehetőségei.mp3",
-    "uuid": "f841b096-4600-4777-9a9b-7dc5e8b64e60",
-    "length": 4138,
-    "size": 66219806
-  },
-  {
     "title": "Az Úrnak céljai vannak velem - 18h",
     "bible": "ApCsel8,1-8.",
     "date": "2020.06.28",
@@ -5223,6 +5212,17 @@
     "uuid": "0a77c1f1-260d-4560-b31f-782b4e316a6b",
     "length": 2517,
     "size": 40278334
+  },
+  {
+    "title": "A mustármagnyi hit",
+    "bible": "(Mt 17,14-21) Mt 13,31,32",
+    "date": "2020.06.28",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20200628_09h_KJ_Mt_13,31-32_Mustármagnyi_hit_lehetőségei.mp3",
+    "uuid": "f841b096-4600-4777-9a9b-7dc5e8b64e60",
+    "length": 4138,
+    "size": 66219806
   },
   {
     "title": "Beszélgetés Simon Péterrel - 18h",
@@ -14234,15 +14234,15 @@
     "size": 13927489
   },
   {
-    "title": "Ne féljetek, feltámadt - 9,40h",
-    "bible": "Márk16,6",
+    "title": "Hittel megtelt diákélet - 7,15h",
+    "bible": "Lukács17,5-7",
     "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
+    "pastor": "Tuska Noémi diák",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
-    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
-    "length": 1738,
-    "size": 13907845
+    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
+    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
+    "length": 564,
+    "size": 4513586
   },
   {
     "title": "Nincs itt, feltámadt - 10,35h",
@@ -14267,15 +14267,15 @@
     "size": 14294249
   },
   {
-    "title": "Hittel megtelt diákélet - 7,15h",
-    "bible": "Lukács17,5-7",
+    "title": "Ne féljetek, feltámadt - 9,40h",
+    "bible": "Márk16,6",
     "date": "2015.04.01",
-    "pastor": "Tuska Noémi diák",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
-    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
-    "length": 564,
-    "size": 4513586
+    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
+    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
+    "length": 1738,
+    "size": 13907845
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -22572,17 +22572,6 @@
     "size": 15680827
   },
   {
-    "title": "Jézus adja az örök élet vizét - 11h",
-    "bible": "János4,4-14",
-    "date": "2011.07.03",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110703_11h_HT_Jezus_adja_az_orok_elet_vizet_Jn4_4_14.mp3",
-    "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
-    "length": 44,
-    "size": 352592
-  },
-  {
     "title": "Lakó Sándor zenekar szolgálata - 11h",
     "bible": "János4,4-14",
     "date": "2011.07.03",
@@ -22592,6 +22581,17 @@
     "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
     "length": 1857,
     "size": 14859746
+  },
+  {
+    "title": "Jézus adja az örök élet vizét - 11h",
+    "bible": "János4,4-14",
+    "date": "2011.07.03",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110703_11h_HT_Jezus_adja_az_orok_elet_vizet_Jn4_4_14.mp3",
+    "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
+    "length": 44,
+    "size": 352592
   },
   {
     "title": "Már igen még nem - 9h",
