@@ -2772,17 +2772,6 @@
     "size": 112368189
   },
   {
-    "title": "Közeledjetek! - 15h",
-    "bible": "Jakab 4,8.",
-    "date": "2021.05.23",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=s2Fr98zQ6wU",
-    "download": "/media/files/igehirdetesek/20210523_15h_VÁ_Jakab4,8._Közeledjetek.mp3",
-    "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
-    "length": 5166,
-    "size": 123992197
-  },
-  {
     "title": "Közeledjetek! - 18h",
     "bible": "János 20,19-23.",
     "date": "2021.05.23",
@@ -2792,6 +2781,17 @@
     "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
     "length": 2739,
     "size": 65755543
+  },
+  {
+    "title": "Közeledjetek! - 15h",
+    "bible": "Jakab 4,8.",
+    "date": "2021.05.23",
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=s2Fr98zQ6wU",
+    "download": "/media/files/igehirdetesek/20210523_15h_VÁ_Jakab4,8._Közeledjetek.mp3",
+    "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
+    "length": 5166,
+    "size": 123992197
   },
   {
     "title": "Pünkösd és Konfirmáció - Közeledjetek - 18h",
@@ -4862,15 +4862,15 @@
     "size": 60860844
   },
   {
-    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
-    "bible": "1 János 4,8 b",
+    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
+    "bible": "Római 10,14-17",
     "date": "2020.08.30",
-    "pastor": "Komádi Róbert",
+    "pastor": "Laczay András",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
-    "length": 3659,
-    "size": 58547991
+    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
+    "length": 2860,
+    "size": 45771397
   },
   {
     "title": "Az igaz istentisztelet - 18h",
@@ -4884,15 +4884,15 @@
     "size": 39542307
   },
   {
-    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
-    "bible": "Római 10,14-17",
+    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
+    "bible": "1 János 4,8 b",
     "date": "2020.08.30",
-    "pastor": "Laczay András",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
-    "length": 2860,
-    "size": 45771397
+    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
+    "length": 3659,
+    "size": 58547991
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -7667,17 +7667,6 @@
     "size": 47418522
   },
   {
-    "title": "Hűség és kitartás - 18h",
-    "bible": "2Timóteus2,3-13",
-    "date": "2019.06.23",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190623_18h_WZ_2Timóteus2,3-13_Hűség és kitartás.MP3",
-    "uuid": "8fa7ee47-45f8-47d9-90e6-6b6516dacda3",
-    "length": 2289,
-    "size": 36638655
-  },
-  {
     "title": "Üdvösség egyenlő Krisztusba vetett hit (Széchenyiváros)",
     "bible": "ApCsel15,22-35",
     "date": "2019.06.23",
@@ -7687,6 +7676,17 @@
     "uuid": "6f09f966-3eea-407a-a457-bbe1771081b2",
     "length": 4673,
     "size": 74770984
+  },
+  {
+    "title": "Hűség és kitartás - 18h",
+    "bible": "2Timóteus2,3-13",
+    "date": "2019.06.23",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190623_18h_WZ_2Timóteus2,3-13_Hűség és kitartás.MP3",
+    "uuid": "8fa7ee47-45f8-47d9-90e6-6b6516dacda3",
+    "length": 2289,
+    "size": 36638655
   },
   {
     "title": "Isten Igéjére hallgatni - 11h",
@@ -14982,17 +14982,6 @@
     "size": 50736278
   },
   {
-    "title": "Ne késs le Isten országáról - 17h",
-    "bible": "Lukács17,20-21",
-    "date": "2015.01.11",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150111 17h BPN_hitm.it_HK123_Ne kess le Isten orszagarol_Lk17,20_21.mp3",
-    "uuid": "3c4b8d7d-1067-431a-9bca-f44acff87148",
-    "length": 1798,
-    "size": 14385573
-  },
-  {
     "title": "Előtted megy és megnyitja az ajtót - 13h",
     "bible": "Ézsaiás45.2",
     "date": "2015.01.11",
@@ -15002,6 +14991,17 @@
     "uuid": "ad5c21a0-b960-410d-a4cd-5121a864a37a",
     "length": 5520,
     "size": 44161821
+  },
+  {
+    "title": "Ne késs le Isten országáról - 17h",
+    "bible": "Lukács17,20-21",
+    "date": "2015.01.11",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150111 17h BPN_hitm.it_HK123_Ne kess le Isten orszagarol_Lk17,20_21.mp3",
+    "uuid": "3c4b8d7d-1067-431a-9bca-f44acff87148",
+    "length": 1798,
+    "size": 14385573
   },
   {
     "title": "Boldogok a sírók - 11h",
@@ -20559,17 +20559,6 @@
     "size": 18186910
   },
   {
-    "title": "Szeress, de hogyan - 16,30h",
-    "bible": "1János4,9-12",
-    "date": "2012.09.02",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120902_16_30h_VN_Szeress_de_hogyan_1JN4_9_12.mp3",
-    "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
-    "length": 1662,
-    "size": 13296788
-  },
-  {
     "title": "Vigasztaljátok népemet - 18h",
     "bible": "Ézsaiás41,1-8",
     "date": "2012.09.02",
@@ -20579,6 +20568,17 @@
     "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
     "length": 2813,
     "size": 22508190
+  },
+  {
+    "title": "Szeress, de hogyan - 16,30h",
+    "bible": "1János4,9-12",
+    "date": "2012.09.02",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120902_16_30h_VN_Szeress_de_hogyan_1JN4_9_12.mp3",
+    "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
+    "length": 1662,
+    "size": 13296788
   },
   {
     "title": "Aki a Fiú, azé az élet - 18h",
@@ -21967,17 +21967,6 @@
     "size": 11387550
   },
   {
-    "title": "Szomorúságból újra kezdés - 11h",
-    "bible": "Máté5,4",
-    "date": "2011.11.20",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/111120_11h_LA_Szomorusagbol_ujrakezdes_Mt5_4.mp3",
-    "uuid": "edb090d3-2d0a-4b11-b233-189a3123b0e8",
-    "length": 2291,
-    "size": 18330062
-  },
-  {
     "title": "Bennünk is gyönyörködhet az Úr - 11h",
     "bible": "Márk1,11",
     "date": "2011.11.20",
@@ -21987,6 +21976,17 @@
     "uuid": "d0371f2b-8f71-411d-85a9-1a02e2ab2653",
     "length": 1980,
     "size": 15841324
+  },
+  {
+    "title": "Szomorúságból újra kezdés - 11h",
+    "bible": "Máté5,4",
+    "date": "2011.11.20",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/111120_11h_LA_Szomorusagbol_ujrakezdes_Mt5_4.mp3",
+    "uuid": "edb090d3-2d0a-4b11-b233-189a3123b0e8",
+    "length": 2291,
+    "size": 18330062
   },
   {
     "title": "Harcold meg és merd kimondani - 9h",
