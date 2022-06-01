@@ -8371,17 +8371,6 @@
     "size": 45091662
   },
   {
-    "title": "Általános iskolai Passiós istentisztelet",
-    "bible": "ApCsel10,39-40",
-    "date": "2019.04.17",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190417 _Apcsel10,39-40_áltisk_passio.MP3",
-    "uuid": "5fbb6d29-d2a2-404e-a8b5-42fc6c5fea2d",
-    "length": 2279,
-    "size": 36473940
-  },
-  {
     "title": "Jézussal találkozunk - 18h",
     "bible": "Lukács21,1-4",
     "date": "2019.04.17",
@@ -8391,6 +8380,17 @@
     "uuid": "30af95ed-5e4e-4547-a70b-21332cbb5137",
     "length": 2622,
     "size": 41964579
+  },
+  {
+    "title": "Általános iskolai Passiós istentisztelet",
+    "bible": "ApCsel10,39-40",
+    "date": "2019.04.17",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190417 _Apcsel10,39-40_áltisk_passio.MP3",
+    "uuid": "5fbb6d29-d2a2-404e-a8b5-42fc6c5fea2d",
+    "length": 2279,
+    "size": 36473940
   },
   {
     "title": "Jézus kérdése - 18h",
@@ -9801,17 +9801,6 @@
     "size": 63996357
   },
   {
-    "title": "Együtt Jézussal",
-    "bible": "Lukács24,15",
-    "date": "2018.10.21",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20181021_11h_VN_Luk24,15_egyutt_Jézussal.MP3",
-    "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
-    "length": 2982,
-    "size": 47717928
-  },
-  {
     "title": "A gyász - Ifjúsági it",
     "bible": "Jób1,13-22",
     "date": "2018.10.21",
@@ -9821,6 +9810,17 @@
     "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
     "length": 4256,
     "size": 68104177
+  },
+  {
+    "title": "Együtt Jézussal",
+    "bible": "Lukács24,15",
+    "date": "2018.10.21",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20181021_11h_VN_Luk24,15_egyutt_Jézussal.MP3",
+    "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
+    "length": 2982,
+    "size": 47717928
   },
   {
     "title": "Az akadályok leküzdése - 11h",
@@ -23430,17 +23430,6 @@
     "size": 8332478
   },
   {
-    "title": "Van-e békességed? - Krisztus jön, hogy békességet hozzon - 7,15h",
-    "bible": "Lukács19,41-44",
-    "date": "2011.04.19",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110419_LA_Van_e_bekesseged_Krisztus_jon_hogy_bekesseget_hozzon_Lk19_41_44.mp3",
-    "uuid": "fb11fac0-6b52-48d4-9780-0150a2d32173",
-    "length": 1984,
-    "size": 15874969
-  },
-  {
     "title": "Mi illetve, ki az igazság? - 7,15h",
     "bible": "János8,31-32",
     "date": "2011.04.19",
@@ -23450,6 +23439,17 @@
     "uuid": "a321420d-1370-4950-bfc4-290fc398d537",
     "length": 1100,
     "size": 8800592
+  },
+  {
+    "title": "Van-e békességed? - Krisztus jön, hogy békességet hozzon - 7,15h",
+    "bible": "Lukács19,41-44",
+    "date": "2011.04.19",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110419_LA_Van_e_bekesseged_Krisztus_jon_hogy_bekesseget_hozzon_Lk19_41_44.mp3",
+    "uuid": "fb11fac0-6b52-48d4-9780-0150a2d32173",
+    "length": 1984,
+    "size": 15874969
   },
   {
     "title": "Virágvasárnapi szomorúságunk - 11h",
