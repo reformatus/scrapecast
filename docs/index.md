@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 06 Jun 2022 23:27:45 +0100
+✅ Legutóbb frissítve: Tue, 07 Jun 2022 10:39:16 +0100
 
-Epizódok száma: 2581
+Epizódok száma: 2586
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2581
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.06.06 - Részt venni. - KERT - Nagy Henrietta
  - 2022.06.06 - Éljetek másokért. - 11h Konfirmációi fogadalomtétel-Általános Iskola - Komádi Róbert
- - 2022.06.05 - Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium - Vincze Árpád
- - 2022.06.04 - Ifjúsági evangélizáció - 18h - Nagy Henrietta
- - 2022.06.03 - Jöjjetek hozzám. - Konfirmációi vizsga, Városi hittanoktatás - Magyar Csanád
- - 2022.06.02 - Tiszteld és féld az Urat. - Konfirmációi vizsga, Gimnázium 8/b  - Magyar Csanád
- - 2022.06.01 - Hívás új kezdetre. -Konfirmációi vizsga, Ált. Iskola 8/b - Magyar Csanád
+ - 2022.06.06 - Szentlélek adománya és annak használata. - 9h - Kuti József
+ - 2022.06.05 - "Aki segítségül hívja az Úr nevét, üdvözül." - 11h Konfirmációi fogadalomtétel-Városi hittanoktatás - Pál Ferenc
+ - 2022.06.05 - Térjetek meg! - 9h- Felnőtt konfirmációi fogadalomtétel - Nagy Henrietta
+ - 2022.06.05 - "Sok népem van ebben a városban." - 18h  - Kutiné Filep Katalin
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2581
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 06 Jun 2022 23:27:46 +0100
+✅ Legutóbb frissítve: Tue, 07 Jun 2022 10:39:17 +0100
 
 Epizódok száma: 8
 
