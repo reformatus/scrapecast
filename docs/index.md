@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 07 Jun 2022 18:51:03 +0100
+✅ Legutóbb frissítve: Tue, 07 Jun 2022 23:29:39 +0100
 
-Epizódok száma: 2586
+Epizódok száma: 2587
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -28,8 +28,8 @@ Epizódok száma: 2586
  - 2022.06.06 - Éljetek másokért. - 11h Konfirmációi fogadalomtétel-Általános Iskola - Komádi Róbert
  - 2022.06.06 - Szentlélek adománya és annak használata. - 9h - Kuti József
  - 2022.06.05 - "Aki segítségül hívja az Úr nevét, üdvözül." - 11h Konfirmációi fogadalomtétel-Városi hittanoktatás - Pál Ferenc
+ - 2022.06.05 - Térjetek meg! - 9h Felnőtt konfirmációi fogadalomtétel - Nagy Henrietta
  - 2022.06.05 - Térjetek meg! - 9h- Felnőtt konfirmációi fogadalomtétel - Nagy Henrietta
- - 2022.06.05 - "Sok népem van ebben a városban." - 18h  - Kutiné Filep Katalin
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2586
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 07 Jun 2022 18:51:04 +0100
+✅ Legutóbb frissítve: Tue, 07 Jun 2022 23:29:40 +0100
 
 Epizódok száma: 8
 
