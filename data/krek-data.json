@@ -2794,17 +2794,6 @@
     "size": 111503825
   },
   {
-    "title": "\"Legnagyobb a szeretet\" - 18h",
-    "bible": "1. Korintus 13,13.",
-    "date": "2021.06.20",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210620_18h_FAM_Korintus13,13._Legnagyobb_a_szeretet.mp3",
-    "uuid": "80ef0bb4-2426-4508-8bf3-522a117faf8e",
-    "length": 2565,
-    "size": 61579832
-  },
-  {
     "title": "Mindennek megvan a maga ideje - 16h - Általános Iskolai évzáró",
     "bible": "Prédikátor 3,1.",
     "date": "2021.06.20",
@@ -2814,6 +2803,17 @@
     "uuid": "cc0c2bb4-39b6-4465-82cd-4002ae8d6598",
     "length": 3546,
     "size": 85113203
+  },
+  {
+    "title": "\"Legnagyobb a szeretet\" - 18h",
+    "bible": "1. Korintus 13,13.",
+    "date": "2021.06.20",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210620_18h_FAM_Korintus13,13._Legnagyobb_a_szeretet.mp3",
+    "uuid": "80ef0bb4-2426-4508-8bf3-522a117faf8e",
+    "length": 2565,
+    "size": 61579832
   },
   {
     "title": "Hit és közösség - Kert",
@@ -10208,15 +10208,15 @@
     "size": 49530696
   },
   {
-    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
-    "bible": "Jelenések3,8",
+    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
+    "bible": "Lukács15,22-24;31-32",
     "date": "2018.09.02",
-    "pastor": "Komádi Róbert",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
-    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
-    "length": 2851,
-    "size": 45622360
+    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
+    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
+    "length": 3905,
+    "size": 62484087
   },
   {
     "title": "Adok, hogy adj - 18h",
@@ -10230,15 +10230,15 @@
     "size": 34512169
   },
   {
-    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
-    "bible": "Lukács15,22-24;31-32",
+    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
+    "bible": "Jelenések3,8",
     "date": "2018.09.02",
-    "pastor": "Kuti József",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
-    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
-    "length": 3905,
-    "size": 62484087
+    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
+    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
+    "length": 2851,
+    "size": 45622360
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -14080,17 +14080,6 @@
     "size": 23901040
   },
   {
-    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
-    "bible": "5Móz6,6-9",
-    "date": "2015.06.21",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
-    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
-    "length": 2718,
-    "size": 21751685
-  },
-  {
     "title": "Isten hangja - 18h",
     "bible": "1Mózes3,8",
     "date": "2015.06.21",
@@ -14100,6 +14089,17 @@
     "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
     "length": 1338,
     "size": 10704188
+  },
+  {
+    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
+    "bible": "5Móz6,6-9",
+    "date": "2015.06.21",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
+    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
+    "length": 2718,
+    "size": 21751685
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
@@ -16885,17 +16885,6 @@
     "size": 47942261
   },
   {
-    "title": "A király visszatér, szolgáld akkor is - 18h",
-    "bible": "Lukács19,11-27",
-    "date": "2014.04.17",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140417 18h KJ_bojti bunban.it_nagyheti peldazatok sor._A kiraly visszter, szolgald akkor is_Lk19,11_27.mp3",
-    "uuid": "c2720235-2882-49ee-b68a-82a599126fa9",
-    "length": 2342,
-    "size": 18737154
-  },
-  {
     "title": "Isten védelmében örökre - 7,15h",
     "bible": "Jelenések7,1-8",
     "date": "2014.04.17",
@@ -16905,6 +16894,17 @@
     "uuid": "212f09d4-0a37-48cd-bbbf-a1005b54677b",
     "length": 1082,
     "size": 8661621
+  },
+  {
+    "title": "A király visszatér, szolgáld akkor is - 18h",
+    "bible": "Lukács19,11-27",
+    "date": "2014.04.17",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140417 18h KJ_bojti bunban.it_nagyheti peldazatok sor._A kiraly visszter, szolgald akkor is_Lk19,11_27.mp3",
+    "uuid": "c2720235-2882-49ee-b68a-82a599126fa9",
+    "length": 2342,
+    "size": 18737154
   },
   {
     "title": "Értelmes és ostoba döntéseink - 18h",
@@ -24607,17 +24607,6 @@
     "size": 14421725
   },
   {
-    "title": "Én legyek a példakép kérdés - 16,30h",
-    "bible": "Titus2,1-7 32",
-    "date": "2010.08.31",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100831_16_30h_Laczay_Andras_Alt_isk_evnyito_it_En_legyek_peldakep_kerdes_Tit2_1_7_32.mp3",
-    "uuid": "48896f0d-d2a1-47a4-88f1-4886540c9375",
-    "length": 1440,
-    "size": 11521297
-  },
-  {
     "title": "Isten tanításának díszévé válni - 18h",
     "bible": "Titusz2,10",
     "date": "2010.08.31",
@@ -24627,6 +24616,17 @@
     "uuid": "3c5e03c7-9835-4a6d-9d88-33427199572c",
     "length": 1862,
     "size": 14901751
+  },
+  {
+    "title": "Én legyek a példakép kérdés - 16,30h",
+    "bible": "Titus2,1-7 32",
+    "date": "2010.08.31",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100831_16_30h_Laczay_Andras_Alt_isk_evnyito_it_En_legyek_peldakep_kerdes_Tit2_1_7_32.mp3",
+    "uuid": "48896f0d-d2a1-47a4-88f1-4886540c9375",
+    "length": 1440,
+    "size": 11521297
   },
   {
     "title": "Az egyházi szolgákról - 9h",
