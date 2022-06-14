@@ -33,6 +33,17 @@
     "size": 105108818
   },
   {
+    "title": "Keresztelő János halála. - Széchenyiváros",
+    "bible": "Márk 6,14-29.",
+    "date": "2022.06.12",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220612_9,30h_PF_Márk6,14-29._Keresztelő_János_halála.mp3",
+    "uuid": "8e97cc8a-adf3-4ce9-931c-44afd8b1d09e",
+    "length": 4493,
+    "size": 71896896
+  },
+  {
     "title": "Részt venni. - KERT",
     "bible": "ApCsel 2,42-47.",
     "date": "2022.06.06",
@@ -97,6 +108,17 @@
     "uuid": "8d014f2d-e0a0-4824-ad7a-aa152eda121b",
     "length": 1051,
     "size": 25224280
+  },
+  {
+    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
+    "bible": "Márk 16,20.",
+    "date": "2022.06.05",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
+    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
+    "length": 4344,
+    "size": 69514529
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -319,17 +341,6 @@
     "size": 54620569
   },
   {
-    "title": "Jézus meggyógyítja a gadarai megszállottat. - Széchenyiváros",
-    "bible": "Márk 5,1-20.",
-    "date": "2022.05.15",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220515_9,30h_PF_Márk5,1-20._Jézus_meggyógyítja_a_gadarai_megszállottat.mp3",
-    "uuid": "7fc3711a-278c-40b2-8219-f5d8653bd6e0",
-    "length": 5518,
-    "size": 88293581
-  },
-  {
     "title": "Általános Iskola - Befogadó Istentisztelet - 16h",
     "bible": "Máté 11,25-26.",
     "date": "2022.05.15",
@@ -339,6 +350,17 @@
     "uuid": "c6e24966-8587-4b19-b4f2-acd417848f3a",
     "length": 2148,
     "size": 34375321
+  },
+  {
+    "title": "Jézus meggyógyítja a gadarai megszállottat. - Széchenyiváros",
+    "bible": "Márk 5,1-20.",
+    "date": "2022.05.15",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220515_9,30h_PF_Márk5,1-20._Jézus_meggyógyítja_a_gadarai_megszállottat.mp3",
+    "uuid": "7fc3711a-278c-40b2-8219-f5d8653bd6e0",
+    "length": 5518,
+    "size": 88293581
   },
   {
     "title": "A szelíd és a vad olajfa. - 18h",
@@ -8052,15 +8074,15 @@
     "size": 46399094
   },
   {
-    "title": "A Szentlélekről - 18h",
-    "bible": "János14,15,16 válogatott verseiből",
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
-    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
-    "length": 3358,
-    "size": 53743161
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
@@ -8074,15 +8096,15 @@
     "size": 98845464
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
+    "title": "A Szentlélekről - 18h",
+    "bible": "János14,15,16 válogatott verseiből",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
+    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
+    "length": 3358,
+    "size": 53743161
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -16863,17 +16885,6 @@
     "size": 19913500
   },
   {
-    "title": "Készül a megoldás, várd - 7,15h",
-    "bible": "Jeremiás siralmai3,22-26",
-    "date": "2014.04.18",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140418 7.15h SzSz_regg.ah_Keszul a megoldas, vard_Jer.sir3,22_26.mp3",
-    "uuid": "6928e67d-e839-4408-ba24-fcc23a624097",
-    "length": 517,
-    "size": 4140138
-  },
-  {
     "title": "Passiós istentisztelet - 18h",
     "bible": "",
     "date": "2014.04.18",
@@ -16883,6 +16894,17 @@
     "uuid": "b8007475-698a-4924-b1de-1e83100842a6",
     "length": 5992,
     "size": 47942261
+  },
+  {
+    "title": "Készül a megoldás, várd - 7,15h",
+    "bible": "Jeremiás siralmai3,22-26",
+    "date": "2014.04.18",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140418 7.15h SzSz_regg.ah_Keszul a megoldas, vard_Jer.sir3,22_26.mp3",
+    "uuid": "6928e67d-e839-4408-ba24-fcc23a624097",
+    "length": 517,
+    "size": 4140138
   },
   {
     "title": "A király visszatér, szolgáld akkor is - 18h",
@@ -24607,17 +24629,6 @@
     "size": 14421725
   },
   {
-    "title": "Én legyek a példakép kérdés - 16,30h",
-    "bible": "Titus2,1-7 32",
-    "date": "2010.08.31",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100831_16_30h_Laczay_Andras_Alt_isk_evnyito_it_En_legyek_peldakep_kerdes_Tit2_1_7_32.mp3",
-    "uuid": "48896f0d-d2a1-47a4-88f1-4886540c9375",
-    "length": 1440,
-    "size": 11521297
-  },
-  {
     "title": "Isten tanításának díszévé válni - 18h",
     "bible": "Titusz2,10",
     "date": "2010.08.31",
@@ -24627,6 +24638,17 @@
     "uuid": "3c5e03c7-9835-4a6d-9d88-33427199572c",
     "length": 1862,
     "size": 14901751
+  },
+  {
+    "title": "Én legyek a példakép kérdés - 16,30h",
+    "bible": "Titus2,1-7 32",
+    "date": "2010.08.31",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100831_16_30h_Laczay_Andras_Alt_isk_evnyito_it_En_legyek_peldakep_kerdes_Tit2_1_7_32.mp3",
+    "uuid": "48896f0d-d2a1-47a4-88f1-4886540c9375",
+    "length": 1440,
+    "size": 11521297
   },
   {
     "title": "Az egyházi szolgákról - 9h",
