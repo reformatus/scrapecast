@@ -341,17 +341,6 @@
     "size": 54620569
   },
   {
-    "title": "Általános Iskola - Befogadó Istentisztelet - 16h",
-    "bible": "Máté 11,25-26.",
-    "date": "2022.05.15",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220515_16h_KJ_Máté11,25-26._Általános_Iskola_Befogadó_Istentisztelet.mp3",
-    "uuid": "c6e24966-8587-4b19-b4f2-acd417848f3a",
-    "length": 2148,
-    "size": 34375321
-  },
-  {
     "title": "Jézus meggyógyítja a gadarai megszállottat. - Széchenyiváros",
     "bible": "Márk 5,1-20.",
     "date": "2022.05.15",
@@ -361,6 +350,17 @@
     "uuid": "7fc3711a-278c-40b2-8219-f5d8653bd6e0",
     "length": 5518,
     "size": 88293581
+  },
+  {
+    "title": "Általános Iskola - Befogadó Istentisztelet - 16h",
+    "bible": "Máté 11,25-26.",
+    "date": "2022.05.15",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220515_16h_KJ_Máté11,25-26._Általános_Iskola_Befogadó_Istentisztelet.mp3",
+    "uuid": "c6e24966-8587-4b19-b4f2-acd417848f3a",
+    "length": 2148,
+    "size": 34375321
   },
   {
     "title": "A szelíd és a vad olajfa. - 18h",
@@ -8074,15 +8074,15 @@
     "size": 46399094
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
+    "title": "A Szentlélekről - 18h",
+    "bible": "János14,15,16 válogatott verseiből",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
+    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
+    "length": 3358,
+    "size": 53743161
   },
   {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
@@ -8096,15 +8096,15 @@
     "size": 98845464
   },
   {
-    "title": "A Szentlélekről - 18h",
-    "bible": "János14,15,16 válogatott verseiből",
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
-    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
-    "length": 3358,
-    "size": 53743161
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -16885,17 +16885,6 @@
     "size": 19913500
   },
   {
-    "title": "Passiós istentisztelet - 18h",
-    "bible": "",
-    "date": "2014.04.18",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140418 18h KJ_passios it a gradics kam.kor es lako s kam.zk szolgalataval.mp3",
-    "uuid": "b8007475-698a-4924-b1de-1e83100842a6",
-    "length": 5992,
-    "size": 47942261
-  },
-  {
     "title": "Készül a megoldás, várd - 7,15h",
     "bible": "Jeremiás siralmai3,22-26",
     "date": "2014.04.18",
@@ -16905,6 +16894,17 @@
     "uuid": "6928e67d-e839-4408-ba24-fcc23a624097",
     "length": 517,
     "size": 4140138
+  },
+  {
+    "title": "Passiós istentisztelet - 18h",
+    "bible": "",
+    "date": "2014.04.18",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140418 18h KJ_passios it a gradics kam.kor es lako s kam.zk szolgalataval.mp3",
+    "uuid": "b8007475-698a-4924-b1de-1e83100842a6",
+    "length": 5992,
+    "size": 47942261
   },
   {
     "title": "A király visszatér, szolgáld akkor is - 18h",
@@ -24629,17 +24629,6 @@
     "size": 14421725
   },
   {
-    "title": "Isten tanításának díszévé válni - 18h",
-    "bible": "Titusz2,10",
-    "date": "2010.08.31",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100831_18h_Pal_Ferenc_gimn_evnyito_it_Isten_tanitasanak_diszeve_lenni_Tit2_10.mp3",
-    "uuid": "3c5e03c7-9835-4a6d-9d88-33427199572c",
-    "length": 1862,
-    "size": 14901751
-  },
-  {
     "title": "Én legyek a példakép kérdés - 16,30h",
     "bible": "Titus2,1-7 32",
     "date": "2010.08.31",
@@ -24649,6 +24638,17 @@
     "uuid": "48896f0d-d2a1-47a4-88f1-4886540c9375",
     "length": 1440,
     "size": 11521297
+  },
+  {
+    "title": "Isten tanításának díszévé válni - 18h",
+    "bible": "Titusz2,10",
+    "date": "2010.08.31",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100831_18h_Pal_Ferenc_gimn_evnyito_it_Isten_tanitasanak_diszeve_lenni_Tit2_10.mp3",
+    "uuid": "3c5e03c7-9835-4a6d-9d88-33427199572c",
+    "length": 1862,
+    "size": 14901751
   },
   {
     "title": "Az egyházi szolgákról - 9h",
