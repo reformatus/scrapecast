@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Jun 2022 20:33:49 +0100
+✅ Legutóbb frissítve: Sun, 19 Jun 2022 21:24:46 +0100
 
-Epizódok száma: 2594
+Epizódok száma: 2596
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2594
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.06.19 - A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet - Komádi Róbert
+ - 2022.06.19 - Isten szeretett gyermekei. - 18h - Nagy Henrietta
  - 2022.06.15 - Építkezésünk alapja - Ált. Iskola ballagás - Komádi Róbert
  - 2022.06.12 - Évzáró közös visszatekintés - KERT - Nagy Henrietta
  - 2022.06.12 - Hitvallásunk mások előtt. - 11h - Imre Veronika
  - 2022.06.12 - "...a mi közösségünk pedig közösség az Atyával és az ő Fiával, Jézus Krisztussal." - 9h - Varga Nándor
- - 2022.06.12 - Keresztelő János halála. - Széchenyiváros - Pál Ferenc
- - 2022.06.06 - Részt venni. - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2594
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Jun 2022 20:33:50 +0100
+✅ Legutóbb frissítve: Sun, 19 Jun 2022 21:24:47 +0100
 
 Epizódok száma: 8
 
