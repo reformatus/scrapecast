@@ -2827,17 +2827,6 @@
     "size": 18765020
   },
   {
-    "title": "Hallgatás és hála - 7,15h",
-    "bible": "Efézus 1,15-16.",
-    "date": "2021.07.21",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
-    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
-    "length": 761,
-    "size": 12179237
-  },
-  {
     "title": "A Követés - 19,30h",
     "bible": "Lukács 9,28-36.",
     "date": "2021.07.21",
@@ -2847,6 +2836,17 @@
     "uuid": "0b554941-9480-4b8c-a679-adbbb39c7a1f",
     "length": 2814,
     "size": 67536812
+  },
+  {
+    "title": "Hallgatás és hála - 7,15h",
+    "bible": "Efézus 1,15-16.",
+    "date": "2021.07.21",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
+    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
+    "length": 761,
+    "size": 12179237
   },
   {
     "title": "Csend Isten előtt - 7,15h",
@@ -7458,17 +7458,6 @@
     "size": 50488658
   },
   {
-    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
-    "bible": "ApCsel28,11-15",
-    "date": "2019.12.22",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/S37UxWvCLUI",
-    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
-    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
-    "length": 2720,
-    "size": 43521157
-  },
-  {
     "title": "Isten életünket is rendezi - 17h",
     "bible": "Lukács2,1-5",
     "date": "2019.12.22",
@@ -7478,6 +7467,17 @@
     "uuid": "b6b21935-fe5d-4653-a652-ed4e795ca559",
     "length": 2660,
     "size": 42560809
+  },
+  {
+    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
+    "bible": "ApCsel28,11-15",
+    "date": "2019.12.22",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/S37UxWvCLUI",
+    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
+    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
+    "length": 2720,
+    "size": 43521157
   },
   {
     "title": "Adventi igehirdetés másképp - Kert",
@@ -8514,17 +8514,6 @@
     "size": 61818783
   },
   {
-    "title": "Isten szeretetében (Széchenyiváros)",
-    "bible": "ApCse12,20-24",
-    "date": "2019.05.19",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/GLuZX79Pi90",
-    "download": "/media/files/igehirdetesek/20190519_9,30h_PF_ApCs_12,20-24_Isten_szeretetében_(Széchenyiváros).mp3",
-    "uuid": "419cb02f-feba-44e8-b807-c12a6e73592e",
-    "length": 3807,
-    "size": 60919492
-  },
-  {
     "title": "Dicsőítés: ZENE - Ifi it.",
     "bible": "Zsoltárok 98",
     "date": "2019.05.19",
@@ -8534,6 +8523,17 @@
     "uuid": "bcbcca7a-32cf-4180-9307-076753a24ab4",
     "length": 3645,
     "size": 58320153
+  },
+  {
+    "title": "Isten szeretetében (Széchenyiváros)",
+    "bible": "ApCse12,20-24",
+    "date": "2019.05.19",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/GLuZX79Pi90",
+    "download": "/media/files/igehirdetesek/20190519_9,30h_PF_ApCs_12,20-24_Isten_szeretetében_(Széchenyiváros).mp3",
+    "uuid": "419cb02f-feba-44e8-b807-c12a6e73592e",
+    "length": 3807,
+    "size": 60919492
   },
   {
     "title": "A kincs megkeresése (befogadó) - 11h",
