@@ -10329,17 +10329,6 @@
     "size": 63996357
   },
   {
-    "title": "Együtt Jézussal",
-    "bible": "Lukács24,15",
-    "date": "2018.10.21",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20181021_11h_VN_Luk24,15_egyutt_Jézussal.MP3",
-    "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
-    "length": 2982,
-    "size": 47717928
-  },
-  {
     "title": "A gyász - Ifjúsági it",
     "bible": "Jób1,13-22",
     "date": "2018.10.21",
@@ -10349,6 +10338,17 @@
     "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
     "length": 4256,
     "size": 68104177
+  },
+  {
+    "title": "Együtt Jézussal",
+    "bible": "Lukács24,15",
+    "date": "2018.10.21",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20181021_11h_VN_Luk24,15_egyutt_Jézussal.MP3",
+    "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
+    "length": 2982,
+    "size": 47717928
   },
   {
     "title": "Az akadályok leküzdése - 11h",
@@ -14949,15 +14949,15 @@
     "size": 13907845
   },
   {
-    "title": "Nincs itt, feltámadt - 10,35h",
-    "bible": "Márk16,6",
+    "title": "Hittel megtelt diákélet - 7,15h",
+    "bible": "Lukács17,5-7",
     "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
+    "pastor": "Tuska Noémi diák",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
-    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
-    "length": 1772,
-    "size": 14182027
+    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
+    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
+    "length": 564,
+    "size": 4513586
   },
   {
     "title": "Jézus és Pilátus - 18h",
@@ -14971,15 +14971,15 @@
     "size": 14294249
   },
   {
-    "title": "Hittel megtelt diákélet - 7,15h",
-    "bible": "Lukács17,5-7",
+    "title": "Nincs itt, feltámadt - 10,35h",
+    "bible": "Márk16,6",
     "date": "2015.04.01",
-    "pastor": "Tuska Noémi diák",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
-    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
-    "length": 564,
-    "size": 4513586
+    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
+    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
+    "length": 1772,
+    "size": 14182027
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
