@@ -2,9 +2,9 @@ import 'dart:io';
 
 import 'utils/types.dart';
 
-import 'specifics/gref.dart';
 import 'specifics/krek-podcast.dart';
 import 'specifics/krek.dart';
+import 'specifics/marco.dart';
 
 List<Podcast> podcasts = [
   Podcast(
@@ -91,5 +91,37 @@ Szerkeszti: Papp Attila""",
     krekPodcastDescription,
     krekPodcastFromJson,
     krekPodcastToJson,
-  )
+  ),
+  Podcast(
+      PodcastID.marco,
+      PodcastProperties(
+        "Marco Igehirdetései",
+        """
+Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
+Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján.""",
+        "Religion & Spirituality",
+        "Christianity",
+        "", //TODO logo here
+        null,
+        "Marco de Leeuw van Weenen",
+        "https://marko.reformatus.hu/",
+        "https://marko.reformatus.hu/",
+        "marcopodcast@fodor.pro",
+        "Marco de Leeuw van Weenen",
+        "episodic",
+        "Marco de Leeuw van Weenen",
+        false,
+        "hu",
+      ),
+      File("docs/marco.rss"),
+      File("data/marco-data.json"),
+      {
+        "RSS (kézi hozzáadáshoz)":
+            "https://reformatus.github.io/scrapecast/marco.rss"
+      },
+      marcoScraper,
+      marcoTitleBuilder,
+      marcoDescriptionBuilder,
+      marcoFromJson,
+      marcoToJson)
 ];
