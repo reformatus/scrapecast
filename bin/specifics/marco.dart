@@ -9,11 +9,11 @@ import '../utils/types.dart';
 Map<String, String?> marcoPages = {
   //! Ószövetség
   ...{
-    "Bibliamagyarázat - Bibliamagyarázat - Mózes első könyve":
+    "Bibliamagyarázat - Mózes első könyve":
         "https://marko.reformatus.hu/Moz1.shtml",
-    "Bibliamagyarázat - Bibliamagyarázat - Mózes második könyve":
+    "Bibliamagyarázat - Mózes második könyve":
         "https://marko.reformatus.hu/2Moz.shtml",
-    "Bibliamagyarázat - Bibliamagyarázat - Mózes harmadik könyve":
+    "Bibliamagyarázat - Mózes harmadik könyve":
         "https://marko.reformatus.hu/3Moz.shtml",
     "Bibliamagyarázat - Mózes negyedik könyve":
         "https://marko.reformatus.hu/4Moz.shtml",
