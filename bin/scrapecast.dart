@@ -31,7 +31,10 @@ Future buildPodcast(Podcast podcast) async {
   List<Episode> errors = [];
 
   print('Loading existing data from json');
-  podcast.dataFile.createSync();
+  if (!podcast.dataFile.existsSync()) {
+    podcast.dataFile.createSync();
+    podcast.dataFile.writeAsStringSync("[]");
+  }
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
     list.add(podcast.fromJson(entry));
