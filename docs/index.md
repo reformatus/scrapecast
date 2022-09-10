@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 10 Sep 2022 10:42:26 +0100
+✅ Legutóbb frissítve: Sat, 10 Sep 2022 13:16:15 +0100
 
 Epizódok száma: 2639
 
@@ -37,7 +37,7 @@ Epizódok száma: 2639
 _A Kecskeméti Református Gyülekezet Podcastja. 
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 10 Sep 2022 10:42:28 +0100
+✅ Legutóbb frissítve: Sat, 10 Sep 2022 13:16:16 +0100
 
 Epizódok száma: 8
 
@@ -56,6 +56,27 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
+
+---
+
+## [Marco Igehirdetései](https://marko.reformatus.hu/)
+_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
+Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
+
+✅ Legutóbb frissítve: Sat, 10 Sep 2022 13:16:24 +0100
+
+Epizódok száma: 769
+
+**Elérhető:**
+ - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
+
+**Legutóbbi epizódok:**
+ - 2022.09.04 - 2Thessz 2, 15-17 - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
+ - 2022.09.04 - 2Thessz 2, 13k - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
+ - 2022.09.03 - Legeltessétek Isten közöttetek levõ nyáját! - Presbiterképzés
+ - 2022.08.28 - Lk 10,25-37 - Bibliamagyarázat - Lukács evangéliuma
+ - 2022.08.27 - A szentek közössége - most és mindörökké - Evangelizáció
+ - 2022.08.26 - A Szentlélek munkája - Evangelizáció
 
 ---
 
