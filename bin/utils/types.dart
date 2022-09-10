@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:equatable/equatable.dart';
 import 'package:intl/intl.dart';
 import 'package:uuid/uuid.dart';

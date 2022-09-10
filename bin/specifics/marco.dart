@@ -179,12 +179,6 @@ Map<String, String?> marcoPages = {
   }
 };
 
-void main() async {
-  var list = await marcoScraper();
-  print(list.length);
-  print("end");
-}
-
 Future<List<Episode>> marcoScraper() async {
   await initializeDateFormatting('hu_HU', null);
   var httpClient = Client();
@@ -227,6 +221,7 @@ Future<List<Episode>> marcoScraper() async {
             : DateFormat('y. MMMM d.', 'hu_HU').parse(dateString);
       } catch (e) {
         try {
+          //? Try parsing without dot after year number
           date = (dateString == null)
               ? null
               : DateFormat('y MMMM d.', 'hu_HU').parse(dateString);
@@ -262,7 +257,7 @@ Future<List<Episode>> marcoScraper() async {
         title!,
         pageLink.key,
         place,
-        null,
+        videoLinkString,
         download!,
         null,
         null,

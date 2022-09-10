@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'dart:typed_data';
-import 'package:id3/id3.dart';
 import 'package:mp3_info/mp3_info.dart';
 
 HttpClient httpClient = HttpClient();

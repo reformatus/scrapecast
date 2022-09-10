@@ -1,12 +1,9 @@
 import 'dart:io';
 import 'dart:convert';
-//import 'package:web_scraper/web_scraper.dart';
 
 import 'utils/feedbuilder.dart';
 import 'utils/getlength.dart';
 import 'utils/types.dart';
-import 'specifics/krek.dart';
-import 'specifics/gref.dart';
 import 'podcasts.dart';
 
 String statusMdString =
@@ -27,7 +24,7 @@ void main() async {
 Future buildPodcast(Podcast podcast) async {
   print("\n\nBuilding ${podcast.properties.title}\n");
 
-  List<Episode> list = [];
+  List<Episode> episodes = [];
   List<Episode> errors = [];
 
   print('Loading existing data from json');
@@ -37,24 +34,24 @@ Future buildPodcast(Podcast podcast) async {
   }
   List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
   for (Map entry in jsonEntries) {
-    list.add(podcast.fromJson(entry));
+    episodes.add(podcast.fromJson(entry));
   }
 
   List<Episode> newIts = (await podcast.scraper())
-      .where((element) => (!list.contains(element)))
+      .where((element) => (!episodes.contains(element)))
       .toList();
-  list.insertAll(0, newIts);
-  list.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
+  episodes.insertAll(0, newIts);
+  episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
 
   save() {
     print("Saving database");
     podcast.dataFile.createSync();
     podcast.dataFile.writeAsStringSync(JsonEncoder.withIndent('  ')
-        .convert(list.map((e) => podcast.toJson(e)).toList()));
+        .convert(episodes.map((e) => podcast.toJson(e)).toList()));
   }
 
   int i = 0;
-  for (Episode item in list) {
+  for (Episode item in episodes) {
     if (item.length == null || item.fileSize == null) {
       Uri downloadUri = Uri.parse(item.download);
 
@@ -82,11 +79,13 @@ Future buildPodcast(Podcast podcast) async {
     }
   }
 
+  episodes.removeWhere((element) => errors.contains(element));
+
   save();
 
   print("Building rss feed");
   podcast.rssFile.createSync();
-  podcast.rssFile.writeAsStringSync(getFeed(list, podcast));
+  podcast.rssFile.writeAsStringSync(getFeed(episodes, podcast));
 
   print(errors.isNotEmpty ? 'Errors:' : '');
   for (Episode item in errors) {
@@ -96,11 +95,11 @@ Future buildPodcast(Podcast podcast) async {
 
   statusMdString +=
       """## [${podcast.properties.title}](${podcast.properties.link})
-_${podcast.properties.description}_
+_${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
 ✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
 
-Epizódok száma: ${list.length}
+Epizódok száma: ${episodes.length}
 
 **Elérhető:**
 """;
@@ -109,7 +108,7 @@ Epizódok száma: ${list.length}
   }
 
   statusMdString += "\n**Legutóbbi epizódok:**\n";
-  for (Episode episode in list.sublist(0, 6)) {
+  for (Episode episode in episodes.sublist(0, 6)) {
     statusMdString +=
         " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
   }
