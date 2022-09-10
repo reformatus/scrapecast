@@ -98,7 +98,7 @@ Szerkeszti: Papp Attila""",
   Podcast(
       PodcastID.marco,
       PodcastProperties(
-        "Marco Igehirdetései",
+        "Marco igehirdetései",
         """
 Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján.""",
