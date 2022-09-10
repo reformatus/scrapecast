@@ -3806,17 +3806,6 @@
     "size": 8626180
   },
   {
-    "title": "\"A világ végezetéig\"",
-    "date": "2017.04.08",
-    "place": "Fadd",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
-    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
-    "length": 1911,
-    "size": 5735454
-  },
-  {
     "title": "Diakónia",
     "date": "2017.04.08",
     "place": "Fadd",
@@ -3826,6 +3815,17 @@
     "uuid": "85e35f99-2f18-4df1-b76b-e11bc00b8bde",
     "length": 2179,
     "size": 6538229
+  },
+  {
+    "title": "\"A világ végezetéig\"",
+    "date": "2017.04.08",
+    "place": "Fadd",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
+    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
+    "length": 1911,
+    "size": 5735454
   },
   {
     "title": "Jn 15,1-8",
@@ -5687,15 +5687,15 @@
     "size": 7299030
   },
   {
-    "title": "Az efezusiakhoz írt levél",
+    "title": "A thesszalonikaiakhoz írt levelek",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228D.mp3",
-    "uuid": "24c3a344-4c15-431d-a81e-ac00b5973687",
-    "length": 2198,
-    "size": 6596626
+    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
+    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
+    "length": 2369,
+    "size": 7109870
   },
   {
     "title": "A második levél Timóteushoz",
@@ -5709,15 +5709,15 @@
     "size": 4236045
   },
   {
-    "title": "A thesszalonikaiakhoz írt levelek",
+    "title": "Az efezusiakhoz írt levél",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
-    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
-    "length": 2369,
-    "size": 7109870
+    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228D.mp3",
+    "uuid": "24c3a344-4c15-431d-a81e-ac00b5973687",
+    "length": 2198,
+    "size": 6596626
   },
   {
     "title": "1Móz 21,22-34",
@@ -6974,17 +6974,6 @@
     "size": 5409896
   },
   {
-    "title": "Róm 1,22-28",
-    "date": "2014.02.23",
-    "place": "Lengyel",
-    "category": "Bibliamagyarázat - Pál levele a rómaiakhoz",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Rom/MLW20140223A.mp3",
-    "uuid": "5b8fd7a9-1d33-4770-a647-9bd30950e95b",
-    "length": 2072,
-    "size": 6216057
-  },
-  {
     "title": "Ef 1,7-8",
     "date": "2014.02.23",
     "place": "Decs",
@@ -6994,6 +6983,17 @@
     "uuid": "433c5b1d-f09b-4e33-b2e4-304595d4c09e",
     "length": 1510,
     "size": 4530830
+  },
+  {
+    "title": "Róm 1,22-28",
+    "date": "2014.02.23",
+    "place": "Lengyel",
+    "category": "Bibliamagyarázat - Pál levele a rómaiakhoz",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Rom/MLW20140223A.mp3",
+    "uuid": "5b8fd7a9-1d33-4770-a647-9bd30950e95b",
+    "length": 2072,
+    "size": 6216057
   },
   {
     "title": "Mk 2,6-12",
@@ -8545,16 +8545,5 @@
     "uuid": "a2955197-2c46-40ef-803b-75b489aa4d32",
     "length": 2635,
     "size": 7905986
-  },
-  {
-    "title": "Mt 3,13-4,11",
-    "date": "2008.05.18",
-    "place": "Budapest, Városligeti fasor",
-    "category": "Bibliamagyarázat - Máté evangéliuma",
-    "video": null,
-    "download": "http://fasor.hu/data/igehird/mp3/080518_1000_mdlweenen.mp3",
-    "uuid": "be47a2d2-08d3-412d-89d0-e106f4581bd4",
-    "length": null,
-    "size": 808
   }
 ]
