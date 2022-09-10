@@ -222,13 +222,16 @@ Future<List<Episode>> marcoScraper() async {
       String? place = row.nodes[2].text;
       if (place == null) errorsInRow += "\nCouldn't extract place";
 
-      String? fileString =
+      String? download =
           (row.firstChild != null && row.firstChild!.firstChild != null)
               ? (row.firstChild!.firstChild!.attributes['href'])
               : null;
-      if (fileString == null) errorsInRow += "\nCouldn't extract file link";
-      Uri? file = Uri.parse("${pageLink.value!}/$fileString");
-      if (file == null) errorsInRow += "\nCouldn't parse file link";
+      if (download == null) errorsInRow += "\nCouldn't extract file link";
+
+      String? videoLinkString;
+      try {
+        videoLinkString = row.nodes[3].firstChild!.attributes["href"];
+      } catch (_) {} //It's fine if we don't have vid
 
       if (errorsInRow.isNotEmpty) {
         errorsOnPage +=
@@ -236,8 +239,18 @@ Future<List<Episode>> marcoScraper() async {
         continue;
       }
 
-      pageEpisodes.add(Episode(PodcastID.marco, date!, title!, "", place, null,
-          file.toString(), file.hashCode.toString(), null, null));
+      pageEpisodes.add(Episode(
+        PodcastID.marco,
+        date!,
+        title!,
+        pageLink.key,
+        place,
+        null,
+        download!,
+        null,
+        null,
+        null,
+      ));
     }
 
     if (errorsOnPage.isNotEmpty) print(errorsOnPage);
@@ -245,16 +258,17 @@ Future<List<Episode>> marcoScraper() async {
     episodes.addAll(pageEpisodes);
   }
 
+  episodes.sort((a, b) => a.date.compareTo(b.date));
   return episodes;
 }
 
 Episode marcoFromJson(Map entry) => Episode(
-    PodcastID.krek,
+    PodcastID.marco,
     dateFormat.parse(entry["date"]),
     entry["title"],
-    entry["author"],
-    null,
-    entry["youtube"],
+    entry["category"], //! author field has category for Marco!
+    entry["place"],
+    entry["video"],
     entry["download"],
     entry["uuid"],
     entry["length"],
@@ -263,16 +277,17 @@ Episode marcoFromJson(Map entry) => Episode(
 Map marcoToJson(Episode episode) => {
       "title": episode.title,
       "date": dateFormat.format(episode.date),
-      "author": episode.author,
-      "youtube": episode.field2,
+      "place": episode.field1,
+      "category": episode.author,
+      "video": episode.field2,
       "download": episode.download,
       "uuid": episode.uuid,
       "length": episode.length,
       "size": episode.fileSize,
     };
 
-String marcoTitleBuilder(Episode element) =>
-    '${element.title} | ${element.author} | ${dateFormat.format(element.date)}';
+String marcoTitleBuilder(Episode ep) =>
+    '${ep.author}: ${ep.title} | ${ep.field1} | ${dateFormat.format(ep.date)}'; //? author has category in Marco podcast
 
 String marcoDescriptionBuilder(Podcast podcast, Episode element) {
   xml.XmlBuilder builder = xml.XmlBuilder();
@@ -280,7 +295,7 @@ String marcoDescriptionBuilder(Podcast podcast, Episode element) {
   if (element.field2 != null) {
     builder.element('p', nest: () {
       builder.element('a', attributes: {"href": element.field2!}, nest: () {
-        builder.text('A podcast YouTube-on is elérhető: ${element.field2}');
+        builder.text('A felvétel megtekinthető videón: ${element.field2}');
       });
     });
   }
@@ -288,7 +303,8 @@ String marcoDescriptionBuilder(Podcast podcast, Episode element) {
   builder.element('br', isSelfClosing: true);
 
   builder.element('p', nest: () {
-    builder.text('Szereplők: ${element.author}');
+    builder.text(
+        'Kategória: ${element.author}'); //? author has category in Marco podcast
   });
 
   builder.element('br', isSelfClosing: true);

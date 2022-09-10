@@ -53,10 +53,14 @@ Future buildPodcast(Podcast podcast) async {
   int i = 0;
   for (Episode item in list) {
     if (item.length == null || item.fileSize == null) {
-      item.length ??=
-          await getLength(podcast.properties.baseUrl + item.download);
-      item.fileSize ??=
-          await getSize(podcast.properties.baseUrl + item.download);
+      Uri downloadUri = Uri.parse(item.download);
+
+      item.length ??= await getLength(
+          (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
+              item.download);
+      item.fileSize ??= await getSize(
+          (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
+              item.download);
       print(
           "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
       i++;
