@@ -2,7 +2,9 @@ import 'package:html/dom.dart';
 
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
+import 'package:intl/date_symbol_data_local.dart';
 import 'package:xml/xml.dart' as xml;
+import 'package:intl/intl.dart';
 
 import '../utils/types.dart';
 
@@ -160,20 +162,28 @@ Map<String, String?> marcoPages = {
   }
 };
 
-void main() {
-  marcoScraper();
+void main() async {
+  var list = await marcoScraper();
+  print(list.length);
+  print("end");
 }
 
 Future<List<Episode>> marcoScraper() async {
-  print('Scraping latest from marko.reformatus.hu');
-
+  await initializeDateFormatting('hu_HU', null);
   var httpClient = Client();
 
-  for (MapEntry<String, String?> page in marcoPages.entries) {
-    if (page.value == null) continue;
+  print('Scraping latest from marko.reformatus.hu');
+
+  List<Episode> episodes = [];
+
+  for (MapEntry<String, String?> pageLink in marcoPages.entries) {
+    if (pageLink.value == null) continue;
+    print('  Scraping $pageLink');
+
+    List<Episode> pageEpisodes = [];
 
     var resp = await httpClient.get(
-      Uri.parse(page.value!),
+      Uri.parse(pageLink.value!),
     );
     var document = parse(resp.body);
 
@@ -183,34 +193,59 @@ Future<List<Episode>> marcoScraper() async {
             ((element.nodes.first.nodes.first as Element).localName == "a"))
         .toList();
 
-    break; //TODO removeme
+    String errorsOnPage = "";
+
+    for (var row in rows) {
+      String errorsInRow = "";
+
+      String? title = row.nodes[0].text;
+      if (title == null) errorsInRow += "\nCouldn't extract title";
+
+      String? dateString = row.nodes[1].text;
+      if (dateString == null) errorsInRow += "\nCouldn't extract date";
+      DateTime? date;
+      try {
+        date = (dateString == null)
+            ? null
+            : DateFormat('y. MMMM d.', 'hu_HU').parse(dateString);
+      } catch (e) {
+        try {
+          date = (dateString == null)
+              ? null
+              : DateFormat('y MMMM d.', 'hu_HU').parse(dateString);
+        } catch (e) {
+          errorsInRow += "\nCouldn't parse date: $e";
+        }
+      }
+      if (date == null) errorsInRow += "\nCouldn't parse date";
+
+      String? place = row.nodes[2].text;
+      if (place == null) errorsInRow += "\nCouldn't extract place";
+
+      String? fileString =
+          (row.firstChild != null && row.firstChild!.firstChild != null)
+              ? (row.firstChild!.firstChild!.attributes['href'])
+              : null;
+      if (fileString == null) errorsInRow += "\nCouldn't extract file link";
+      Uri? file = Uri.parse("${pageLink.value!}/$fileString");
+      if (file == null) errorsInRow += "\nCouldn't parse file link";
+
+      if (errorsInRow.isNotEmpty) {
+        errorsOnPage +=
+            "\n  Error(s) occured while reading line ${row.text}:$errorsInRow\n  Skipping.\n";
+        continue;
+      }
+
+      pageEpisodes.add(Episode(PodcastID.marco, date!, title!, "", place, null,
+          file.toString(), file.hashCode.toString(), null, null));
+    }
+
+    if (errorsOnPage.isNotEmpty) print(errorsOnPage);
+    print('    Got ${pageEpisodes.length} episodes.\n');
+    episodes.addAll(pageEpisodes);
   }
 
-  //var rows = document.querySelectorAll('div.data');
-
-  List<Episode> list = [];
-/*
-  for (var row in rows) {
-    List<String> downloadLinks = [];
-    row.querySelector('div.dwnld')!.querySelectorAll('a').forEach((element) {
-      downloadLinks.add(element.attributes.values.first);
-    });
-
-    list.add(Episode(
-        PodcastID.krekPodcast,
-        dateFormat.parse(row.querySelector('div.datum')!.text), //! date
-        row.querySelector('div.igeresz')!.text, //! title
-        row.querySelector('div.cim')!.text, //! author
-        null,
-        (downloadLinks.length > 1) ? downloadLinks.first : null,
-        downloadLinks.last,
-        null,
-        null,
-        null));
-  }
-
-  return list;*/
-  return []; //TODO removeme
+  return episodes;
 }
 
 Episode marcoFromJson(Map entry) => Episode(
