@@ -21,52 +21,69 @@ Map<String, String?> marcoPages = {
         "https://marko.reformatus.hu/4Moz.shtml",
     "Bibliamagyarázat - Mózes ötödik könyve":
         "https://marko.reformatus.hu/5Moz.shtml",
-    "Bibliamagyarázat - Józsué könyve": null,
-    "Bibliamagyarázat - A bírák könyve": null,
+    "Bibliamagyarázat - Józsué könyve":
+        "https://marko.reformatus.hu/Jozs.shtml",
+    "Bibliamagyarázat - A bírák könyve":
+        "https://marko.reformatus.hu/Bir.shtml",
     "Bibliamagyarázat - Ruth könyve": "https://marko.reformatus.hu/Ruth.shtml",
     "Bibliamagyarázat - Sámuel első könyve":
         "https://marko.reformatus.hu/Sam1.shtml",
     "Bibliamagyarázat - Sámuel második könyve":
         "https://marko.reformatus.hu/Sam2.shtml",
-    "Bibliamagyarázat - A királyok első könyve": null,
+    "Bibliamagyarázat - A királyok első könyve":
+        "https://marko.reformatus.hu/1Kor.shtml",
     "Bibliamagyarázat - A királyok második könyve":
         "https://marko.reformatus.hu/2Kir.shtml",
-    "Bibliamagyarázat - A krónikák első könyve": null,
-    "Bibliamagyarázat - A krónikák második könyve": null,
-    "Bibliamagyarázat - Ezsdrás könyve": null,
-    "Bibliamagyarázat - Nehémiás könyve": null,
+    "Bibliamagyarázat - A krónikák első könyve":
+        "https://marko.reformatus.hu/1Kron.shtml",
+    "Bibliamagyarázat - A krónikák második könyve":
+        "https://marko.reformatus.hu/2Kron.shtml",
+    "Bibliamagyarázat - Ezsdrás könyve":
+        "https://marko.reformatus.hu/Ezsd.shtml",
+    "Bibliamagyarázat - Nehémiás könyve":
+        "https://marko.reformatus.hu/Neh.shtml",
     "Bibliamagyarázat - Eszter könyve":
         "https://marko.reformatus.hu/Eszter.shtml",
-    "Bibliamagyarázat - Jób könyve": null,
+    "Bibliamagyarázat - Jób könyve": "https://marko.reformatus.hu/Job.shtml",
     "Bibliamagyarázat - A zsoltárok könyve":
         "https://marko.reformatus.hu/Zsolt.shtml",
     "Bibliamagyarázat - A példabeszédek könyve":
         "https://marko.reformatus.hu/Peld.shtml",
-    "Bibliamagyarázat - A prédikátor könyve": null,
-    "Bibliamagyarázat - Énekek éneke": null,
+    "Bibliamagyarázat - A prédikátor könyve":
+        "https://marko.reformatus.hu/Pred.shtml",
+    "Bibliamagyarázat - Énekek éneke": "https://marko.reformatus.hu/Enek.shtml",
     "Bibliamagyarázat - Ézsaiás próféta könyve":
         "https://marko.reformatus.hu/Ezs.shtml",
-    "Bibliamagyarázat - Jeremiás próféta könyve": null,
-    "Bibliamagyarázat - Jeremiás siralmai": null,
+    "Bibliamagyarázat - Jeremiás próféta könyve":
+        "https://marko.reformatus.hu/Jer.shtml",
+    "Bibliamagyarázat - Jeremiás siralmai":
+        "https://marko.reformatus.hu/Sir.shtml",
     "Bibliamagyarázat - Ezékiel próféta könyve":
         "https://marko.reformatus.hu/Ez.shtml",
     "Bibliamagyarázat - Dániel próféta könyve":
         "https://marko.reformatus.hu/Dan.shtml",
-    "Bibliamagyarázat - Hóseás próféta könyve": null,
-    "Bibliamagyarázat - Jóel próféta könyve": null,
+    "Bibliamagyarázat - Hóseás próféta könyve":
+        "https://marko.reformatus.hu/Hos.shtml",
+    "Bibliamagyarázat - Jóel próféta könyve":
+        "https://marko.reformatus.hu/Joel.shtml",
     "Bibliamagyarázat - Ámósz próféta könyve":
         "https://marko.reformatus.hu/Amosz.shtml",
-    "Bibliamagyarázat - Abdiás próféta könyve": null,
-    "Bibliamagyarázat - Jónás próféta könyve": null,
+    "Bibliamagyarázat - Abdiás próféta könyve":
+        "https://marko.reformatus.hu/Abd.shtml",
+    "Bibliamagyarázat - Jónás próféta könyve":
+        "https://marko.reformatus.hu/Jon.shtml",
     "Bibliamagyarázat - Mikeás próféta könyve":
         "https://marko.reformatus.hu/Mikeas.shtml",
     "Bibliamagyarázat - Náhum próféta könyve":
         "https://marko.reformatus.hu/Nahum.shtml",
-    "Bibliamagyarázat - Habakuk próféta könyve": null,
-    "Bibliamagyarázat - Zofóniás próféta könyve": null,
+    "Bibliamagyarázat - Habakuk próféta könyve":
+        "https://marko.reformatus.hu/Hab.shtml",
+    "Bibliamagyarázat - Zofóniás próféta könyve":
+        "https://marko.reformatus.hu/Zof.shtml",
     "Bibliamagyarázat - Haggeus próféta könyve":
         "https://marko.reformatus.hu/Hag.shtml",
-    "Bibliamagyarázat - Zakariás próféta könyve": null,
+    "Bibliamagyarázat - Zakariás próféta könyve":
+        "https://marko.reformatus.hu/Zak.shtml",
     "Bibliamagyarázat - Malakiás próféta könyve":
         "https://marko.reformatus.hu/Mal.shtml",
   },
