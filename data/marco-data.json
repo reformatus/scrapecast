@@ -594,17 +594,6 @@
     "size": 7009954
   },
   {
-    "title": "Pénzügyi szemlélet",
-    "date": "2022.02.12",
-    "place": "Magurahegy",
-    "category": "Presbiterképzés",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Kepzes/MLW20220212B.mp3",
-    "uuid": "ee2b9138-f794-467f-a7d8-27166eb34d16",
-    "length": 3071,
-    "size": 9215420
-  },
-  {
     "title": "Egyetértésben vezetni",
     "date": "2022.02.12",
     "place": "Magurahegy",
@@ -614,6 +603,17 @@
     "uuid": "1a1e54ca-2d63-4c6f-8f83-7674fd983443",
     "length": 2879,
     "size": 8639642
+  },
+  {
+    "title": "Pénzügyi szemlélet",
+    "date": "2022.02.12",
+    "place": "Magurahegy",
+    "category": "Presbiterképzés",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Kepzes/MLW20220212B.mp3",
+    "uuid": "ee2b9138-f794-467f-a7d8-27166eb34d16",
+    "length": 3071,
+    "size": 9215420
   },
   {
     "title": "Méltóságban engedelmességre nevelni",
@@ -1540,17 +1540,6 @@
     "size": 7948472
   },
   {
-    "title": "Jn 4,1-10",
-    "date": "2019.12.01",
-    "place": "Siófok",
-    "category": "Bibliamagyarázat - János evangéliuma",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Janos/MLW20191201A.mp3",
-    "uuid": "3e90f0e4-f0ac-4c1a-9ebc-9fc32296c8af",
-    "length": 1901,
-    "size": 5705527
-  },
-  {
     "title": "Jn 4,11-15",
     "date": "2019.12.01",
     "place": "Siófok",
@@ -1560,6 +1549,17 @@
     "uuid": "65027f61-8235-4dd3-8ba7-807e9a253263",
     "length": 2539,
     "size": 7619288
+  },
+  {
+    "title": "Jn 4,1-10",
+    "date": "2019.12.01",
+    "place": "Siófok",
+    "category": "Bibliamagyarázat - János evangéliuma",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Janos/MLW20191201A.mp3",
+    "uuid": "3e90f0e4-f0ac-4c1a-9ebc-9fc32296c8af",
+    "length": 1901,
+    "size": 5705527
   },
   {
     "title": "Ef 6,10-17",
@@ -2475,17 +2475,6 @@
     "size": 8918740
   },
   {
-    "title": "Ekkléziasztika, avagy a gyülekezet mûködtetése",
-    "date": "2018.10.10",
-    "place": "Tenke",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Kepzes/MLW20181010A.mp3",
-    "uuid": "ab370b1d-433c-4e7b-a1e7-81252af17dcf",
-    "length": 3515,
-    "size": 10546464
-  },
-  {
     "title": "Motiválás a szolgálatra",
     "date": "2018.10.10",
     "place": "Tenke",
@@ -2495,6 +2484,17 @@
     "uuid": "9ec6d146-219e-4e21-9df1-db04beeb534c",
     "length": 2299,
     "size": 6899906
+  },
+  {
+    "title": "Ekkléziasztika, avagy a gyülekezet mûködtetése",
+    "date": "2018.10.10",
+    "place": "Tenke",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Kepzes/MLW20181010A.mp3",
+    "uuid": "ab370b1d-433c-4e7b-a1e7-81252af17dcf",
+    "length": 3515,
+    "size": 10546464
   },
   {
     "title": "1Móz 21,1-13",
@@ -3773,6 +3773,17 @@
     "size": 6348244
   },
   {
+    "title": "Lelkigondozás",
+    "date": "2017.04.08",
+    "place": "Fadd",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408B.mp3",
+    "uuid": "617fb478-b113-4d6b-bb22-69614a683c61",
+    "length": 2645,
+    "size": 7937488
+  },
+  {
     "title": "\"A világ végezetéig\"",
     "date": "2017.04.08",
     "place": "Fadd",
@@ -3782,17 +3793,6 @@
     "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
     "length": 1911,
     "size": 5735454
-  },
-  {
-    "title": "Diakónia",
-    "date": "2017.04.08",
-    "place": "Fadd",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408C.mp3",
-    "uuid": "85e35f99-2f18-4df1-b76b-e11bc00b8bde",
-    "length": 2179,
-    "size": 6538229
   },
   {
     "title": "Evangelizálás",
@@ -3806,17 +3806,6 @@
     "size": 8626180
   },
   {
-    "title": "Lelkigondozás",
-    "date": "2017.04.08",
-    "place": "Fadd",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408B.mp3",
-    "uuid": "617fb478-b113-4d6b-bb22-69614a683c61",
-    "length": 2645,
-    "size": 7937488
-  },
-  {
     "title": "\"Tegyetek tanítvánnyá\"",
     "date": "2017.04.08",
     "place": "Fadd",
@@ -3826,6 +3815,17 @@
     "uuid": "06830853-549b-408c-80b9-41d7cfb718e3",
     "length": 2547,
     "size": 7642919
+  },
+  {
+    "title": "Diakónia",
+    "date": "2017.04.08",
+    "place": "Fadd",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20170408C.mp3",
+    "uuid": "85e35f99-2f18-4df1-b76b-e11bc00b8bde",
+    "length": 2179,
+    "size": 6538229
   },
   {
     "title": "Jn 15,1-8",
@@ -4708,6 +4708,17 @@
     "size": 6010878
   },
   {
+    "title": "Biblika teológia - a Messiás személye",
+    "date": "2016.03.05",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
+    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
+    "length": 2218,
+    "size": 6656287
+  },
+  {
     "title": "Biblika teológia - Dávid királysága",
     "date": "2016.03.05",
     "place": "Fadd",
@@ -4730,28 +4741,6 @@
     "size": 7735796
   },
   {
-    "title": "Biblika teológia - a végkifejlet",
-    "date": "2016.03.05",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20160305E.mp3",
-    "uuid": "9c349c5c-f320-4863-bd28-ed3b64baa6f7",
-    "length": 983,
-    "size": 2950442
-  },
-  {
-    "title": "Biblika teológia - a Messiás személye",
-    "date": "2016.03.05",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
-    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
-    "length": 2218,
-    "size": 6656287
-  },
-  {
     "title": "Biblika teológia - az új szövetség",
     "date": "2016.03.05",
     "place": "Fadd",
@@ -4761,6 +4750,17 @@
     "uuid": "cd43343d-e6d1-4427-bf60-b059f9579e91",
     "length": 2839,
     "size": 8518446
+  },
+  {
+    "title": "Biblika teológia - a végkifejlet",
+    "date": "2016.03.05",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "../../Eloadasok/Tematikus/Vallasismeret/MLW20160305E.mp3",
+    "uuid": "9c349c5c-f320-4863-bd28-ed3b64baa6f7",
+    "length": 983,
+    "size": 2950442
   },
   {
     "title": "Mk 11,27-12,12",
@@ -5346,17 +5346,6 @@
     "size": 6828797
   },
   {
-    "title": "Ez 37,1-14",
-    "date": "2015.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Ezékiel próféta könyve",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Ez/MLW20150525A.mp3",
-    "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
-    "length": 2251,
-    "size": 6753016
-  },
-  {
     "title": "Gal 5,13-25",
     "date": "2015.05.25",
     "place": "Dombóvár",
@@ -5366,6 +5355,17 @@
     "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
     "length": 1582,
     "size": 4746970
+  },
+  {
+    "title": "Ez 37,1-14",
+    "date": "2015.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Ezékiel próféta könyve",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Ez/MLW20150525A.mp3",
+    "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
+    "length": 2251,
+    "size": 6753016
   },
   {
     "title": "Mk 8,22-26",
@@ -5654,6 +5654,17 @@
     "size": 4947432
   },
   {
+    "title": "A thesszalonikaiakhoz írt levelek",
+    "date": "2015.02.28",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
+    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
+    "length": 2369,
+    "size": 7109870
+  },
+  {
     "title": "A kolosséiakhoz, Filemonhoz",
     "date": "2015.02.28",
     "place": "Fadd",
@@ -5676,28 +5687,6 @@
     "size": 7868373
   },
   {
-    "title": "Pál levelei és az ApCsel",
-    "date": "2015.02.28",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228A.mp3",
-    "uuid": "a9a0f3de-2ece-42c4-b3f7-b450b39da9aa",
-    "length": 2433,
-    "size": 7299030
-  },
-  {
-    "title": "A thesszalonikaiakhoz írt levelek",
-    "date": "2015.02.28",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
-    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
-    "length": 2369,
-    "size": 7109870
-  },
-  {
     "title": "A második levél Timóteushoz",
     "date": "2015.02.28",
     "place": "Fadd",
@@ -5718,6 +5707,17 @@
     "uuid": "24c3a344-4c15-431d-a81e-ac00b5973687",
     "length": 2198,
     "size": 6596626
+  },
+  {
+    "title": "Pál levelei és az ApCsel",
+    "date": "2015.02.28",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "../Eloadasok/Tematikus/Vallasismeret/MLW20150228A.mp3",
+    "uuid": "a9a0f3de-2ece-42c4-b3f7-b450b39da9aa",
+    "length": 2433,
+    "size": 7299030
   },
   {
     "title": "1Móz 21,22-34",
@@ -6017,17 +6017,6 @@
     "size": 7809032
   },
   {
-    "title": "Jn 1,1-5",
-    "date": "2014.11.16",
-    "place": "Lengyel",
-    "category": "Bibliamagyarázat - János evangéliuma",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Janos/MLW20141116B.mp3",
-    "uuid": "99473c12-1d1d-4ad7-9ea6-610181e917d9",
-    "length": 1657,
-    "size": 4972978
-  },
-  {
     "title": "Lk 1,13-25",
     "date": "2014.11.16",
     "place": "Dombóvár",
@@ -6037,6 +6026,17 @@
     "uuid": "90295587-a597-4f3e-935c-945a8cf8852c",
     "length": 1921,
     "size": 5763001
+  },
+  {
+    "title": "Jn 1,1-5",
+    "date": "2014.11.16",
+    "place": "Lengyel",
+    "category": "Bibliamagyarázat - János evangéliuma",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Janos/MLW20141116B.mp3",
+    "uuid": "99473c12-1d1d-4ad7-9ea6-610181e917d9",
+    "length": 1657,
+    "size": 4972978
   },
   {
     "title": "A lelkész lelki élete",
@@ -6644,17 +6644,6 @@
     "size": 5600624
   },
   {
-    "title": "Ef 1,13-14",
-    "date": "2014.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Ef/MLW20140525B.mp3",
-    "uuid": "93d73cc6-2ed7-4368-bdc8-9d0e9292d46a",
-    "length": 1649,
-    "size": 4948843
-  },
-  {
     "title": "Mk 3,13-19",
     "date": "2014.05.25",
     "place": "Dombóvár",
@@ -6664,6 +6653,17 @@
     "uuid": "8c58d2ec-a69e-4f40-a13f-25a3a7a7a0f3",
     "length": 1914,
     "size": 5744272
+  },
+  {
+    "title": "Ef 1,13-14",
+    "date": "2014.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Ef/MLW20140525B.mp3",
+    "uuid": "93d73cc6-2ed7-4368-bdc8-9d0e9292d46a",
+    "length": 1649,
+    "size": 4948843
   },
   {
     "title": "2Tim 4",
@@ -7557,17 +7557,6 @@
     "size": 4677769
   },
   {
-    "title": "Ef 2,8-10",
-    "date": "2013.08.05",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "../../Eloadasok/Bibliamagyarazat/Ef/MLW20130805B.mp3",
-    "uuid": "f5006cb3-1688-42e3-b0ba-145018aeaa02",
-    "length": 2274,
-    "size": 6822292
-  },
-  {
     "title": "Ef 1,15-2,7",
     "date": "2013.08.05",
     "place": "Szajol",
@@ -7577,6 +7566,17 @@
     "uuid": "6e91d2e5-37c4-47ca-8ccd-4a0b45710abf",
     "length": 2954,
     "size": 8864390
+  },
+  {
+    "title": "Ef 2,8-10",
+    "date": "2013.08.05",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "../../Eloadasok/Bibliamagyarazat/Ef/MLW20130805B.mp3",
+    "uuid": "f5006cb3-1688-42e3-b0ba-145018aeaa02",
+    "length": 2274,
+    "size": 6822292
   },
   {
     "title": "Ef 1,1-14",
