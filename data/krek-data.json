@@ -352,17 +352,6 @@
     "size": 101871307
   },
   {
-    "title": "A betsaidai vak meggyógyítása. - Széchenyiváros",
-    "bible": "Márk 8,22-26.",
-    "date": "2022.07.24",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220724_9,30h_SZZS_Márk8,22-26_A_betsaidai_vak_meggyógyítása.mp3",
-    "uuid": "ff1e73a9-fa90-4b07-8b70-3ff79c9c96ef",
-    "length": 3475,
-    "size": 55614042
-  },
-  {
     "title": "Isten neveli népét. - 18h",
     "bible": "Hóseás 3,3-4",
     "date": "2022.07.24",
@@ -372,6 +361,17 @@
     "uuid": "fb506881-9487-41ac-b97c-ebafe64cf1ed",
     "length": 1883,
     "size": 45206699
+  },
+  {
+    "title": "A betsaidai vak meggyógyítása. - Széchenyiváros",
+    "bible": "Márk 8,22-26.",
+    "date": "2022.07.24",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220724_9,30h_SZZS_Márk8,22-26_A_betsaidai_vak_meggyógyítása.mp3",
+    "uuid": "ff1e73a9-fa90-4b07-8b70-3ff79c9c96ef",
+    "length": 3475,
+    "size": 55614042
   },
   {
     "title": "Alvás és ébrenlét. - 11h",
@@ -3586,17 +3586,6 @@
     "size": 112368189
   },
   {
-    "title": "Közeledjetek! - 18h",
-    "bible": "János 20,19-23.",
-    "date": "2021.05.23",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210523_18h_KM_János20,19-23._Közeledjetek!.mp3",
-    "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
-    "length": 2739,
-    "size": 65755543
-  },
-  {
     "title": "Közeledjetek! - 15h",
     "bible": "Jakab 4,8.",
     "date": "2021.05.23",
@@ -3606,6 +3595,17 @@
     "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
     "length": 5166,
     "size": 123992197
+  },
+  {
+    "title": "Közeledjetek! - 18h",
+    "bible": "János 20,19-23.",
+    "date": "2021.05.23",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210523_18h_KM_János20,19-23._Közeledjetek!.mp3",
+    "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
+    "length": 2739,
+    "size": 65755543
   },
   {
     "title": "Pünkösd és Konfirmáció - Közeledjetek - 18h",
@@ -10538,17 +10538,6 @@
     "size": 63996357
   },
   {
-    "title": "A gyász - Ifjúsági it",
-    "bible": "Jób1,13-22",
-    "date": "2018.10.21",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20181021_18h_WZ_Jób1,13-22_gyász.mp3",
-    "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
-    "length": 4256,
-    "size": 68104177
-  },
-  {
     "title": "Együtt Jézussal",
     "bible": "Lukács24,15",
     "date": "2018.10.21",
@@ -10558,6 +10547,17 @@
     "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
     "length": 2982,
     "size": 47717928
+  },
+  {
+    "title": "A gyász - Ifjúsági it",
+    "bible": "Jób1,13-22",
+    "date": "2018.10.21",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20181021_18h_WZ_Jób1,13-22_gyász.mp3",
+    "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
+    "length": 4256,
+    "size": 68104177
   },
   {
     "title": "Az akadályok leküzdése - 11h",
@@ -10769,15 +10769,15 @@
     "size": 49530696
   },
   {
-    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
-    "bible": "Jelenések3,8",
+    "title": "Adok, hogy adj - 18h",
+    "bible": "Lukács14,12-15",
     "date": "2018.09.02",
-    "pastor": "Komádi Róbert",
+    "pastor": "Weiner-Legeza Luca",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
-    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
-    "length": 2851,
-    "size": 45622360
+    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
+    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
+    "length": 2157,
+    "size": 34512169
   },
   {
     "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
@@ -10791,15 +10791,15 @@
     "size": 62484087
   },
   {
-    "title": "Adok, hogy adj - 18h",
-    "bible": "Lukács14,12-15",
+    "title": "Az ajtó - 15h (ált.isk.évnyitó)",
+    "bible": "Jelenések3,8",
     "date": "2018.09.02",
-    "pastor": "Weiner-Legeza Luca",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
-    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
-    "length": 2157,
-    "size": 34512169
+    "download": "/media/files/igehirdetesek/20180902_15_h_KR_Jel3,8_Az_ajtó_alt_isk_tanevnyito.MP3",
+    "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
+    "length": 2851,
+    "size": 45622360
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -24750,17 +24750,6 @@
     "size": 17269281
   },
   {
-    "title": "Közöttünk lakó Krisztus - 17h",
-    "bible": "János1,1-14",
-    "date": "2010.12.26",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/101226_17h_LA_Kozottunk_lako_Krisztus_Jn1_1_14.mp3",
-    "uuid": "d641d1ff-7d10-4f9b-a27b-bee97d01dd1a",
-    "length": 1347,
-    "size": 10777748
-  },
-  {
     "title": "Felnőtt konfirmáció - Bizonyságtételek - 17h",
     "bible": "",
     "date": "2010.12.26",
@@ -24770,6 +24759,17 @@
     "uuid": "976c0bc6-b88f-4f3c-abb8-2f25f19038f8",
     "length": 1680,
     "size": 13443492
+  },
+  {
+    "title": "Közöttünk lakó Krisztus - 17h",
+    "bible": "János1,1-14",
+    "date": "2010.12.26",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/101226_17h_LA_Kozottunk_lako_Krisztus_Jn1_1_14.mp3",
+    "uuid": "d641d1ff-7d10-4f9b-a27b-bee97d01dd1a",
+    "length": 1347,
+    "size": 10777748
   },
   {
     "title": "Nem vagy távol, jöjj és éld át - 9h",
@@ -25102,17 +25102,6 @@
     "size": 16420406
   },
   {
-    "title": "Krisztusban legyünk gazdagok - 18h",
-    "bible": "Jelenések3,14-22",
-    "date": "2010.09.26",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100926_18h_AN_Krisztusban_legyunk_gazdagok_Jel3_14_22.mp3",
-    "uuid": "361e5aa9-6140-4010-b1e1-14700cf3e58b",
-    "length": 350,
-    "size": 2800161
-  },
-  {
     "title": "Osváth Viktor - megemlékezés",
     "bible": "",
     "date": "2010.09.26",
@@ -25122,6 +25111,17 @@
     "uuid": "0ec25d6e-1537-47eb-ae81-4007b509877b",
     "length": 829,
     "size": 6639743
+  },
+  {
+    "title": "Krisztusban legyünk gazdagok - 18h",
+    "bible": "Jelenések3,14-22",
+    "date": "2010.09.26",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100926_18h_AN_Krisztusban_legyunk_gazdagok_Jel3_14_22.mp3",
+    "uuid": "361e5aa9-6140-4010-b1e1-14700cf3e58b",
+    "length": 350,
+    "size": 2800161
   },
   {
     "title": "Sámuel elhívása - 11h",
