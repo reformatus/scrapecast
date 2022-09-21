@@ -178,6 +178,10 @@ Map<String, String?> marcoPages = {
     "Ismeretterjesztés": "https://marko.reformatus.hu/Ismeretterjesztes.shtml",
   }
 };
+/*
+void main() {
+  marcoScraper();
+}*/
 
 Future<List<Episode>> marcoScraper() async {
   await initializeDateFormatting('hu_HU', null);
@@ -189,7 +193,7 @@ Future<List<Episode>> marcoScraper() async {
 
   for (MapEntry<String, String?> pageLink in marcoPages.entries) {
     if (pageLink.value == null) continue;
-    print('  Scraping $pageLink');
+    print('  Scraping ${pageLink.key}: ${pageLink.value}');
 
     List<Episode> pageEpisodes = [];
 
@@ -238,7 +242,20 @@ Future<List<Episode>> marcoScraper() async {
           (row.firstChild != null && row.firstChild!.firstChild != null)
               ? (row.firstChild!.firstChild!.attributes['href'])
               : null;
+      Uri? downloadUri = download != null ? Uri.parse(download) : null;
       if (download == null) errorsInRow += "\nCouldn't extract file link";
+      if (downloadUri == null) {
+        errorsInRow += "\nCouldn't parse file link";
+      } else if (!downloadUri.hasAbsolutePath) {
+        try {
+          //downloadUri = Uri.https("marko.reformatus.hu", downloadUri.path);
+          downloadUri = Uri.parse(pageLink.value! + downloadUri.path);
+          downloadUri = downloadUri.normalizePath();
+        } catch (e) {
+          downloadUri = null;
+          errorsInRow += "Couldn't normalize download Uri: $e";
+        }
+      }
 
       String? videoLinkString;
       try {
@@ -258,7 +275,7 @@ Future<List<Episode>> marcoScraper() async {
         pageLink.key,
         place,
         videoLinkString,
-        download!,
+        downloadUri!.toString(),
         null,
         null,
         null,
