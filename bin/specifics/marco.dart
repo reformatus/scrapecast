@@ -275,7 +275,7 @@ Future<List<Episode>> marcoScraper() async {
         pageLink.key,
         place,
         videoLinkString,
-        downloadUri!.toString(),
+        downloadUri!.path,
         null,
         null,
         null,
