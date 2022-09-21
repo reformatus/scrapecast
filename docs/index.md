@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 10 Sep 2022 14:58:17 +0100
+✅ Legutóbb frissítve: Wed, 21 Sep 2022 18:59:01 +0100
 
-Epizódok száma: 2639
+Epizódok száma: 2645
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2639
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
- - 2022.09.04 - "Jézus Krisztus, az Isten Fia evangéliumának kezdete." - 11h - Komádi Róbert
- - 2022.09.04 - Útkészítés (Katonatelep) - Laczay András
- - 2022.09.04 - "A bölcsesség kezdete az Úr félelme." - 9h - Kiss János
- - 2022.09.01 - "Minden dolgotok szeretetben menjen végbe!" - 8h - Általános Iskola - évnyitó - Komádi Róbert
- - 2022.08.31 - Szeretet és hűség. - 17h - Gimnáziumi évnyitó - Peleskey Miklós Péter
- - 2022.08.28 - Közösségünk megélése az Ő világosságában. - 11h - Fodorné Ablonczy Margit
+ - 2022.09.18 - Jelenléte erő. - KERT - Nagy Henrietta
+ - 2022.09.18 - "Akarom, tisztulj meg!" - 11h - Komádi Róbert
+ - 2022.09.18 - "...mert hitben járunk, nem látásban." - 9h - Varga Nándor
+ - 2022.09.11 - "...nincs meg már benned az első szeretet..." - KERT - Nagy Henrietta
+ - 2022.09.11 - A pusztaság után (Katonatelep) - Laczay András
+ - 2022.09.11 - Jézusi családmodell: házasság. - Széchenyiváros - Varga Nándor
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2639
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 10 Sep 2022 14:58:17 +0100
+✅ Legutóbb frissítve: Wed, 21 Sep 2022 18:59:02 +0100
 
 Epizódok száma: 8
 
@@ -59,24 +59,24 @@ Epizódok száma: 8
 
 ---
 
-## [Marco Igehirdetései](https://marko.reformatus.hu/)
+## [Marco igehirdetései](https://marko.reformatus.hu/)
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 10 Sep 2022 14:58:28 +0100
+✅ Legutóbb frissítve: Wed, 21 Sep 2022 18:59:15 +0100
 
-Epizódok száma: 777
+Epizódok száma: 782
 
 **Elérhető:**
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.09.18 - ApCsel 6,1-8 - Bibliamagyarázat - Az apostolok cselekedetei
+ - 2022.09.17 - A presbiter: Isten titkainak hûséges sáfára - Presbiterképzés
+ - 2022.09.11 - ApCsel 6,1-8 - Bibliamagyarázat - Az apostolok cselekedetei
+ - 2022.09.11 - ApCsel 11,19-30 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2022.09.04 - 2Thessz 2, 15-17 - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
  - 2022.09.04 - 2Thessz 2, 13k - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
- - 2022.09.03 - Legeltessétek Isten közöttetek levõ nyáját! - Presbiterképzés
- - 2022.08.28 - Lk 10,25-37 - Bibliamagyarázat - Lukács evangéliuma
- - 2022.08.27 - A szentek közössége - most és mindörökké - Evangelizáció
- - 2022.08.26 - A Szentlélek munkája - Evangelizáció
 
 ---
 
