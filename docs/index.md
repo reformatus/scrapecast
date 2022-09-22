@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:07:35 +0100
+✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:19:54 +0100
 
 Epizódok száma: 2645
 
@@ -37,7 +37,7 @@ Epizódok száma: 2645
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:07:36 +0100
+✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:19:55 +0100
 
 Epizódok száma: 8
 
@@ -63,11 +63,16 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:07:49 +0100
+✅ Legutóbb frissítve: Thu, 22 Sep 2022 15:20:11 +0100
 
 Epizódok száma: 781
 
 **Elérhető:**
+ - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
+ - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
+ - [PocketCasts](https://pca.st/14nmdojx)
+ - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
+ - [CastBox](https://castbox.fm/ch/5087121)
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
