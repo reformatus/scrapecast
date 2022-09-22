@@ -119,6 +119,11 @@ Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján.""",
       File("docs/marco.rss"),
       File("data/marco-data.json"),
       {
+        "Spotify": "https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J",
+        "Google Podcasts": "https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw",
+        "PocketCasts": "https://pca.st/14nmdojx",
+        "TuneIn": "https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/",
+        "CastBox": "https://castbox.fm/ch/5087121",
         "RSS (kézi hozzáadáshoz)":
             "https://reformatus.github.io/scrapecast/marco.rss"
       },
