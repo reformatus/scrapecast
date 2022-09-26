@@ -1,5 +1,49 @@
 [
   {
+    "title": "Jelenléte jó. - KERT",
+    "bible": "Lukács 10,38-42.",
+    "date": "2022.09.25",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220925_18h_IV_Lukács10,38-42_Jelenléte_jó.mp3",
+    "uuid": "d8877082-ec78-48fd-9dfe-c04d85a720c5",
+    "length": 4388,
+    "size": 70223603
+  },
+  {
+    "title": "Jézus meggyógyítja a bénát. - 11h",
+    "bible": "Márk 2,1-12.",
+    "date": "2022.09.25",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220925_11h_IV_Márk2,1-12_Jézus_meggyógyítja_a_bénát.mp3",
+    "uuid": "8d3ec555-f1da-4a4c-94ad-50bea9cc9ad2",
+    "length": 2962,
+    "size": 47406326
+  },
+  {
+    "title": "\"A gyülekezetek küldöttei ők: Krisztus dicsősége - 9h",
+    "bible": "2. Korintus 8,23.",
+    "date": "2022.09.25",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220925_9h_KJ_2.Korintus8,23._A_gyülekezetek_küldöttei_ők_Krisztus_dicsősége.mp3",
+    "uuid": "9b0033f8-5f8d-4b8e-b570-bf68d33d8fad",
+    "length": 3458,
+    "size": 55329066
+  },
+  {
+    "title": "Az adakozás áldása. - 18h",
+    "bible": "2. Korintus 9,6-15.",
+    "date": "2022.09.25",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/Jó_Az_áldozat_áldása.mp3",
+    "uuid": "7bd229e0-c6b7-4c63-8f3a-0882cc9ed02d",
+    "length": 1813,
+    "size": 29021064
+  },
+  {
     "title": "Az adakozás áldása. - 18h",
     "bible": "2. Korintus 9,6-15.",
     "date": "2022.09.24",
@@ -3190,17 +3234,6 @@
     "size": 61229357
   },
   {
-    "title": "Táborkezdő - 14h",
-    "bible": "Ezékiel 37,1-14.",
-    "date": "2021.07.19",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
-    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
-    "length": 1332,
-    "size": 31973249
-  },
-  {
     "title": "Az Evangélium ereje - 19,30h",
     "bible": "1. Thesszalonika 1,1-10",
     "date": "2021.07.19",
@@ -3210,6 +3243,17 @@
     "uuid": "83905baa-4337-466f-b997-0f6cf23ed714",
     "length": 2011,
     "size": 48271517
+  },
+  {
+    "title": "Táborkezdő - 14h",
+    "bible": "Ezékiel 37,1-14.",
+    "date": "2021.07.19",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
+    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
+    "length": 1332,
+    "size": 31973249
   },
   {
     "title": "Illés oltárépítése - 11h",
@@ -14685,17 +14729,6 @@
     "size": 23901040
   },
   {
-    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
-    "bible": "5Móz6,6-9",
-    "date": "2015.06.21",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
-    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
-    "length": 2718,
-    "size": 21751685
-  },
-  {
     "title": "Isten hangja - 18h",
     "bible": "1Mózes3,8",
     "date": "2015.06.21",
@@ -14705,6 +14738,17 @@
     "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
     "length": 1338,
     "size": 10704188
+  },
+  {
+    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
+    "bible": "5Móz6,6-9",
+    "date": "2015.06.21",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
+    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
+    "length": 2718,
+    "size": 21751685
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
