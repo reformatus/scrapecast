@@ -3234,17 +3234,6 @@
     "size": 61229357
   },
   {
-    "title": "Táborkezdő - 14h",
-    "bible": "Ezékiel 37,1-14.",
-    "date": "2021.07.19",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
-    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
-    "length": 1332,
-    "size": 31973249
-  },
-  {
     "title": "Az Evangélium ereje - 19,30h",
     "bible": "1. Thesszalonika 1,1-10",
     "date": "2021.07.19",
@@ -3254,6 +3243,17 @@
     "uuid": "83905baa-4337-466f-b997-0f6cf23ed714",
     "length": 2011,
     "size": 48271517
+  },
+  {
+    "title": "Táborkezdő - 14h",
+    "bible": "Ezékiel 37,1-14.",
+    "date": "2021.07.19",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
+    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
+    "length": 1332,
+    "size": 31973249
   },
   {
     "title": "Illés oltárépítése - 11h",
@@ -14729,17 +14729,6 @@
     "size": 23901040
   },
   {
-    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
-    "bible": "5Móz6,6-9",
-    "date": "2015.06.21",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
-    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
-    "length": 2718,
-    "size": 21751685
-  },
-  {
     "title": "Isten hangja - 18h",
     "bible": "1Mózes3,8",
     "date": "2015.06.21",
@@ -14749,6 +14738,17 @@
     "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
     "length": 1338,
     "size": 10704188
+  },
+  {
+    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
+    "bible": "5Móz6,6-9",
+    "date": "2015.06.21",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
+    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
+    "length": 2718,
+    "size": 21751685
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
