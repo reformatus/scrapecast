@@ -352,17 +352,6 @@
     "size": 93269080
   },
   {
-    "title": "\"Mert az én igám boldogító, és az én terhem könnyű.\" - 18h",
-    "bible": "Máté 11,28-30.",
-    "date": "2022.08.21",
-    "pastor": "Imre Veronika",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220821_18h_IV_Máté11,28-30._Mert_én_igám_boldogító,_és_én_terhem_könnyű..mp3",
-    "uuid": "cabc8de2-89a6-421c-81ee-9fba075d232b",
-    "length": 2926,
-    "size": 70232214
-  },
-  {
     "title": "Szövetség Dáviddal. - Széchenyiváros",
     "bible": "2 Sámuel 7,8-17.; 23,5.",
     "date": "2022.08.21",
@@ -372,6 +361,17 @@
     "uuid": "c2cfea5b-8a2f-4672-891e-7823e8aa2c26",
     "length": 5656,
     "size": 90499005
+  },
+  {
+    "title": "\"Mert az én igám boldogító, és az én terhem könnyű.\" - 18h",
+    "bible": "Máté 11,28-30.",
+    "date": "2022.08.21",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220821_18h_IV_Máté11,28-30._Mert_én_igám_boldogító,_és_én_terhem_könnyű..mp3",
+    "uuid": "cabc8de2-89a6-421c-81ee-9fba075d232b",
+    "length": 2926,
+    "size": 70232214
   },
   {
     "title": "\"Minden szabad nekem, de nem minden használ.\" - 9h",
@@ -704,15 +704,15 @@
     "size": 128343796
   },
   {
-    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
-    "bible": "Márk 6,30-44.",
+    "title": "Isten szeretett gyermekei. - 18h",
+    "bible": "1. János 3,1-12.",
     "date": "2022.06.19",
-    "pastor": "Pál Ferenc",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
-    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
-    "length": 4267,
-    "size": 68272354
+    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
+    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
+    "length": 1746,
+    "size": 27941850
   },
   {
     "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
@@ -726,15 +726,15 @@
     "size": 68517328
   },
   {
-    "title": "Isten szeretett gyermekei. - 18h",
-    "bible": "1. János 3,1-12.",
+    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
+    "bible": "Márk 6,30-44.",
     "date": "2022.06.19",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Pál Ferenc",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
-    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
-    "length": 1746,
-    "size": 27941850
+    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
+    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
+    "length": 4267,
+    "size": 68272354
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -7942,17 +7942,6 @@
     "size": 50488658
   },
   {
-    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
-    "bible": "ApCsel28,11-15",
-    "date": "2019.12.22",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/S37UxWvCLUI",
-    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
-    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
-    "length": 2720,
-    "size": 43521157
-  },
-  {
     "title": "Isten életünket is rendezi - 17h",
     "bible": "Lukács2,1-5",
     "date": "2019.12.22",
@@ -7962,6 +7951,17 @@
     "uuid": "b6b21935-fe5d-4653-a652-ed4e795ca559",
     "length": 2660,
     "size": 42560809
+  },
+  {
+    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
+    "bible": "ApCsel28,11-15",
+    "date": "2019.12.22",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/S37UxWvCLUI",
+    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
+    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
+    "length": 2720,
+    "size": 43521157
   },
   {
     "title": "Adventi igehirdetés másképp - Kert",
