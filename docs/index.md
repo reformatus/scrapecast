@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 18 Nov 2022 17:45:06 +0100
+✅ Legutóbb frissítve: Fri, 18 Nov 2022 22:28:55 +0100
 
 Epizódok száma: 2682
 
@@ -37,7 +37,7 @@ Epizódok száma: 2682
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 18 Nov 2022 17:45:07 +0100
+✅ Legutóbb frissítve: Fri, 18 Nov 2022 22:28:56 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 18 Nov 2022 17:45:24 +0100
+✅ Legutóbb frissítve: Fri, 18 Nov 2022 22:29:08 +0100
 
-Epizódok száma: 782
+Epizódok száma: 783
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 782
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.11.18 - Kinek az életét akarod élni? - Ismeretterjesztés
  - 2022.11.03 - Kuyper Ábrahám a református jogtudomány létjogosultságáról - Ismeretterjesztés
  - 2022.09.18 - ApCsel 6,1-8 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2022.09.17 - A presbiter: Isten titkainak hûséges sáfára - Presbiterképzés
  - 2022.09.11 - ApCsel 11,19-30 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2022.09.04 - 2Thessz 2, 15-17 - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
- - 2022.09.04 - 2Thessz 2, 13k - Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz
 
 ---
 
