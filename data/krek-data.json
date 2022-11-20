@@ -1,5 +1,16 @@
 [
   {
+    "title": "\"Uram, kihez mennénk? Örök élet beszéde van nálad.\" - 9h",
+    "bible": "János 6,68.",
+    "date": "2022.11.20",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20221120_9h_KJ_János6,68._Uram_kihez_mennénk._Örök_élet_beszéde_van_nálad..mp3",
+    "uuid": "71338926-efe1-4b68-a8fe-b7cef1af5949",
+    "length": 3370,
+    "size": 53927965
+  },
+  {
     "title": "Magasztalástól a misszióig. - KERT",
     "bible": "ApCsel 16,21-25.",
     "date": "2022.11.13",
@@ -352,17 +363,6 @@
     "size": 55329066
   },
   {
-    "title": "Isten új szövetséget köt népével. - Széchenyiváros",
-    "bible": "Jeremiás 31,31.",
-    "date": "2022.09.25",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220925_9,30h_PF_Jeremiás31,31_Isten_új_szövetséget_köt_népével.MP3",
-    "uuid": "4664b3fc-8a73-4efa-a9da-76f8e3d812cf",
-    "length": 5418,
-    "size": 130040870
-  },
-  {
     "title": "Az adakozás áldása. - 18h",
     "bible": "2. Korintus 9,6-15.",
     "date": "2022.09.25",
@@ -372,6 +372,17 @@
     "uuid": "7bd229e0-c6b7-4c63-8f3a-0882cc9ed02d",
     "length": 1813,
     "size": 29021064
+  },
+  {
+    "title": "Isten új szövetséget köt népével. - Széchenyiváros",
+    "bible": "Jeremiás 31,31.",
+    "date": "2022.09.25",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220925_9,30h_PF_Jeremiás31,31_Isten_új_szövetséget_köt_népével.MP3",
+    "uuid": "4664b3fc-8a73-4efa-a9da-76f8e3d812cf",
+    "length": 5418,
+    "size": 130040870
   },
   {
     "title": "Az adakozás áldása. - 18h",
@@ -3982,17 +3993,6 @@
     "size": 81458807
   },
   {
-    "title": "Pártfogó - Vigasztaló - 15h",
-    "bible": "János 15,26-27.",
-    "date": "2021.05.24",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210524_15h_KM_János15,26-27._Pártfogó - Vigasztaló.mp3",
-    "uuid": "44ebf27b-744d-4f67-ab67-5dce832faf48",
-    "length": 2578,
-    "size": 61886405
-  },
-  {
     "title": "Pünkösdi találkozás csodája - Emmaus",
     "bible": "ApCsel 2,1-11.",
     "date": "2021.05.24",
@@ -4002,6 +4002,17 @@
     "uuid": "c09932d6-80e8-4643-8d93-a1091d04248e",
     "length": 6335,
     "size": 152055002
+  },
+  {
+    "title": "Pártfogó - Vigasztaló - 15h",
+    "bible": "János 15,26-27.",
+    "date": "2021.05.24",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210524_15h_KM_János15,26-27._Pártfogó - Vigasztaló.mp3",
+    "uuid": "44ebf27b-744d-4f67-ab67-5dce832faf48",
+    "length": 2578,
+    "size": 61886405
   },
   {
     "title": "Közeledjetek!- 11h",
@@ -16742,15 +16753,15 @@
     "size": 13209436
   },
   {
-    "title": "Adni és kapni - 18h",
-    "bible": "Máté7,12",
+    "title": "Mi a te kincsed - 17h",
+    "bible": "Máté3,19-21",
     "date": "2014.08.31",
-    "pastor": "Szikszai Szabolcs",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
-    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
-    "length": 1525,
-    "size": 12207796
+    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
+    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
+    "length": 2805,
+    "size": 22441318
   },
   {
     "title": "Mindenki látja - 15h",
@@ -16764,15 +16775,15 @@
     "size": 13140263
   },
   {
-    "title": "Mi a te kincsed - 17h",
-    "bible": "Máté3,19-21",
+    "title": "Adni és kapni - 18h",
+    "bible": "Máté7,12",
     "date": "2014.08.31",
-    "pastor": "Varga Nándor",
+    "pastor": "Szikszai Szabolcs",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
-    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
-    "length": 2805,
-    "size": 22441318
+    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
+    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
+    "length": 1525,
+    "size": 12207796
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
@@ -17831,17 +17842,6 @@
     "size": 16520090
   },
   {
-    "title": "A földbe esett búzaszem - 18h",
-    "bible": "János12,24",
-    "date": "2014.04.19",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140419 18h VN_bojti bunban.it_nagyheti peldazatok sor._Foldbe esett buzaszem_Jn12,24.mp3",
-    "uuid": "130dc1ad-d858-4162-aafa-429d134a18ad",
-    "length": 1804,
-    "size": 14433637
-  },
-  {
     "title": "A könyörület húrjai - 7,15h",
     "bible": "Jób19,1-20",
     "date": "2014.04.19",
@@ -17851,6 +17851,17 @@
     "uuid": "bd8f3cba-f6cb-483e-afcc-5df4979a566b",
     "length": 928,
     "size": 7428850
+  },
+  {
+    "title": "A földbe esett búzaszem - 18h",
+    "bible": "János12,24",
+    "date": "2014.04.19",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140419 18h VN_bojti bunban.it_nagyheti peldazatok sor._Foldbe esett buzaszem_Jn12,24.mp3",
+    "uuid": "130dc1ad-d858-4162-aafa-429d134a18ad",
+    "length": 1804,
+    "size": 14433637
   },
   {
     "title": "Jézus, emlékezzél meg rólunk - 9h",
