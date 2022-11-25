@@ -3652,17 +3652,6 @@
     "size": 61229357
   },
   {
-    "title": "Táborkezdő - 14h",
-    "bible": "Ezékiel 37,1-14.",
-    "date": "2021.07.19",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
-    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
-    "length": 1332,
-    "size": 31973249
-  },
-  {
     "title": "Az Evangélium ereje - 19,30h",
     "bible": "1. Thesszalonika 1,1-10",
     "date": "2021.07.19",
@@ -3672,6 +3661,17 @@
     "uuid": "83905baa-4337-466f-b997-0f6cf23ed714",
     "length": 2011,
     "size": 48271517
+  },
+  {
+    "title": "Táborkezdő - 14h",
+    "bible": "Ezékiel 37,1-14.",
+    "date": "2021.07.19",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210719_14h_KJ_Ezékiel37,1-14._Tábornyitó.mp3",
+    "uuid": "39a6441c-b54b-455a-a02d-a8ac491b798a",
+    "length": 1332,
+    "size": 31973249
   },
   {
     "title": "Illés oltárépítése - 11h",
@@ -6182,15 +6182,15 @@
     "size": 60860844
   },
   {
-    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
-    "bible": "1 János 4,8 b",
+    "title": "Az igaz istentisztelet - 18h",
+    "bible": "Zsoltárok 50",
     "date": "2020.08.30",
-    "pastor": "Komádi Róbert",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
-    "length": 3659,
-    "size": 58547991
+    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
+    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
+    "length": 2471,
+    "size": 39542307
   },
   {
     "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
@@ -6204,15 +6204,15 @@
     "size": 45771397
   },
   {
-    "title": "Az igaz istentisztelet - 18h",
-    "bible": "Zsoltárok 50",
+    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
+    "bible": "1 János 4,8 b",
     "date": "2020.08.30",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
-    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
-    "length": 2471,
-    "size": 39542307
+    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
+    "length": 3659,
+    "size": 58547991
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -9119,15 +9119,15 @@
     "size": 46399094
   },
   {
-    "title": "A Szentlélekről - 18h",
-    "bible": "János14,15,16 válogatott verseiből",
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
-    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
-    "length": 3358,
-    "size": 53743161
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
@@ -9141,15 +9141,15 @@
     "size": 98845464
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
+    "title": "A Szentlélekről - 18h",
+    "bible": "János14,15,16 válogatott verseiből",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
+    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
+    "length": 3358,
+    "size": 53743161
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -9845,17 +9845,6 @@
     "size": 71471916
   },
   {
-    "title": "A böjt - ifi it",
-    "bible": "Ézsaiás 58,1-12",
-    "date": "2019.03.10",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190310_17h_NH_Ézsaiás 58,1-12_A_böjt.mp3",
-    "uuid": "d894954e-682d-4344-8b74-9ade4af25b2e",
-    "length": 4868,
-    "size": 77889665
-  },
-  {
     "title": "Istennek kell engedelmeskedni (Széchenyiváros)",
     "bible": "ApCsel5,17-32",
     "date": "2019.03.10",
@@ -9865,6 +9854,17 @@
     "uuid": "99bace90-b0a7-48e6-b521-c61573e22fb9",
     "length": 3940,
     "size": 63050666
+  },
+  {
+    "title": "A böjt - ifi it",
+    "bible": "Ézsaiás 58,1-12",
+    "date": "2019.03.10",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190310_17h_NH_Ézsaiás 58,1-12_A_böjt.mp3",
+    "uuid": "d894954e-682d-4344-8b74-9ade4af25b2e",
+    "length": 4868,
+    "size": 77889665
   },
   {
     "title": "51. Zsoltár - 17h",
@@ -11671,17 +11671,6 @@
     "size": 23300832
   },
   {
-    "title": "Mi az istentisztelet? - ifi it.",
-    "bible": "Róm12,1-2",
-    "date": "2018.06.17",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180617_FAM_18h_Róm12,1-2_mi_az_istentisztelet.MP3",
-    "uuid": "5d46a75a-28bf-4a3b-ba1f-06815d943975",
-    "length": 4446,
-    "size": 71138768
-  },
-  {
     "title": "Keressétek előszőr... - 16h",
     "bible": "Mt6,36",
     "date": "2018.06.17",
@@ -11691,6 +11680,17 @@
     "uuid": "4cd79311-79a6-4eca-8f6d-daa63dcddfb7",
     "length": 1546,
     "size": 24744881
+  },
+  {
+    "title": "Mi az istentisztelet? - ifi it.",
+    "bible": "Róm12,1-2",
+    "date": "2018.06.17",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180617_FAM_18h_Róm12,1-2_mi_az_istentisztelet.MP3",
+    "uuid": "5d46a75a-28bf-4a3b-ba1f-06815d943975",
+    "length": 4446,
+    "size": 71138768
   },
   {
     "title": "Hogyan ismerjük meg Istent? - 11h",
@@ -17512,17 +17512,6 @@
     "size": 20341491
   },
   {
-    "title": "Távolodva közelebb - 18h",
-    "bible": "János16,28",
-    "date": "2014.05.29",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140529 18h KM_ald.csut.it_Tavolodva kozelebb_Jn16,28.mp3",
-    "uuid": "b5764a9f-8c09-4fa5-ba9d-c6ea4c5153f1",
-    "length": 1068,
-    "size": 8548773
-  },
-  {
     "title": "Láthatóvá váló Isten - 7,45h",
     "bible": "Efézus1,15-23",
     "date": "2014.05.29",
@@ -17532,6 +17521,17 @@
     "uuid": "f5e8c51b-f1cc-4b4d-addb-688c046eff99",
     "length": 1153,
     "size": 9227120
+  },
+  {
+    "title": "Távolodva közelebb - 18h",
+    "bible": "János16,28",
+    "date": "2014.05.29",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140529 18h KM_ald.csut.it_Tavolodva kozelebb_Jn16,28.mp3",
+    "uuid": "b5764a9f-8c09-4fa5-ba9d-c6ea4c5153f1",
+    "length": 1068,
+    "size": 8548773
   },
   {
     "title": "Az igazi szeretet - 11h",
@@ -21879,17 +21879,6 @@
     "size": 18186910
   },
   {
-    "title": "Vigasztaljátok népemet - 18h",
-    "bible": "Ézsaiás41,1-8",
-    "date": "2012.09.02",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120902_18h_AN_Vigasztaljatok_nepemet_Ezs40_1_8.mp3",
-    "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
-    "length": 2813,
-    "size": 22508190
-  },
-  {
     "title": "Szeress, de hogyan - 16,30h",
     "bible": "1János4,9-12",
     "date": "2012.09.02",
@@ -21899,6 +21888,17 @@
     "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
     "length": 1662,
     "size": 13296788
+  },
+  {
+    "title": "Vigasztaljátok népemet - 18h",
+    "bible": "Ézsaiás41,1-8",
+    "date": "2012.09.02",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120902_18h_AN_Vigasztaljatok_nepemet_Ezs40_1_8.mp3",
+    "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
+    "length": 2813,
+    "size": 22508190
   },
   {
     "title": "Aki a Fiú, azé az élet - 18h",
@@ -26268,17 +26268,6 @@
     "size": 6601500
   },
   {
-    "title": "Jézus és a lator - 7,40h",
-    "bible": "Lukács32,43",
-    "date": "2010.03.22",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100322_7_40h_szzs_alt_isk_ahitat_jezus_es_a_lator_lk_32_43.mp3",
-    "uuid": "c91ee8e8-a6b9-4052-b1e8-879acdaf1497",
-    "length": 1124,
-    "size": 8996406
-  },
-  {
     "title": "Útravaló - 7,15h",
     "bible": "Lukács32,43",
     "date": "2010.03.22",
@@ -26288,6 +26277,17 @@
     "uuid": "c747865d-06e7-4058-bf85-1df8a3dc46cd",
     "length": 659,
     "size": 5277405
+  },
+  {
+    "title": "Jézus és a lator - 7,40h",
+    "bible": "Lukács32,43",
+    "date": "2010.03.22",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100322_7_40h_szzs_alt_isk_ahitat_jezus_es_a_lator_lk_32_43.mp3",
+    "uuid": "c91ee8e8-a6b9-4052-b1e8-879acdaf1497",
+    "length": 1124,
+    "size": 8996406
   },
   {
     "title": "Add meg Istennek ami Istené - 11h",
