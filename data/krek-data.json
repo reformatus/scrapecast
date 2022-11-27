@@ -11319,6 +11319,17 @@
     "size": 49530696
   },
   {
+    "title": "Adok, hogy adj - 18h",
+    "bible": "Lukács14,12-15",
+    "date": "2018.09.02",
+    "pastor": "Weiner-Legeza Luca",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
+    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
+    "length": 2157,
+    "size": 34512169
+  },
+  {
     "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
     "bible": "Lukács15,22-24;31-32",
     "date": "2018.09.02",
@@ -11339,17 +11350,6 @@
     "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
     "length": 2851,
     "size": 45622360
-  },
-  {
-    "title": "Adok, hogy adj - 18h",
-    "bible": "Lukács14,12-15",
-    "date": "2018.09.02",
-    "pastor": "Weiner-Legeza Luca",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
-    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
-    "length": 2157,
-    "size": 34512169
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -12419,17 +12419,6 @@
     "size": 20705172
   },
   {
-    "title": "A szőlőmunkások",
-    "bible": "Mt20,13-16 9h",
-    "date": "2018.03.04",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180304_9h_KJ_Mt20,13-16 a szőlőmunkások.mp3",
-    "uuid": "acb201f9-193f-444b-8a6b-757302421fed",
-    "length": 1891,
-    "size": 15130850
-  },
-  {
     "title": "Megtérés 3. Ifjúsági it.",
     "bible": "Jn3,1-19",
     "date": "2018.03.04",
@@ -12439,6 +12428,17 @@
     "uuid": "2bcd91bf-ceb8-41a1-a4f7-24524409cc52",
     "length": 3887,
     "size": 31097727
+  },
+  {
+    "title": "A szőlőmunkások",
+    "bible": "Mt20,13-16 9h",
+    "date": "2018.03.04",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180304_9h_KJ_Mt20,13-16 a szőlőmunkások.mp3",
+    "uuid": "acb201f9-193f-444b-8a6b-757302421fed",
+    "length": 1891,
+    "size": 15130850
   },
   {
     "title": "Beleszőve az élet szövetébe (Katonatelep, keresztelő is)",
@@ -15708,15 +15708,15 @@
     "size": 13907845
   },
   {
-    "title": "Hittel megtelt diákélet - 7,15h",
-    "bible": "Lukács17,5-7",
+    "title": "Nincs itt, feltámadt - 10,35h",
+    "bible": "Márk16,6",
     "date": "2015.04.01",
-    "pastor": "Tuska Noémi diák",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
-    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
-    "length": 564,
-    "size": 4513586
+    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
+    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
+    "length": 1772,
+    "size": 14182027
   },
   {
     "title": "Jézus és Pilátus - 18h",
@@ -15730,15 +15730,15 @@
     "size": 14294249
   },
   {
-    "title": "Nincs itt, feltámadt - 10,35h",
-    "bible": "Márk16,6",
+    "title": "Hittel megtelt diákélet - 7,15h",
+    "bible": "Lukács17,5-7",
     "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
+    "pastor": "Tuska Noémi diák",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
-    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
-    "length": 1772,
-    "size": 14182027
+    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
+    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
+    "length": 564,
+    "size": 4513586
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
