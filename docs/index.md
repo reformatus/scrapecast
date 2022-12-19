@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 18 Dec 2022 22:22:22 +0100
+✅ Legutóbb frissítve: Mon, 19 Dec 2022 09:31:13 +0100
 
-Epizódok száma: 2699
+Epizódok száma: 2700
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2699
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.12.18 - Megkötözöttségtől a meglátogatottságig. - KERT - Fodorné Ablonczy Margit
  - 2022.12.11 - Megalázottságból a magasztalásig. - KERT - Nagy Henrietta
  - 2022.12.11 - "Ne félj, csak higgy!" - 11h - Peleskey Miklós Péter
  - 2022.12.11 - "Az Úrtól jön a szabadulás." - 9h - Kuti József
  - 2022.12.04 - Meggondolatlanságból a bátorításig. - KERT - Nagy Henrietta
  - 2022.12.04 - "...mindazonáltal a te parancsolatodra kivetem a hálót." - 9h - Varga Nándor
- - 2022.11.27 - Kilátástalanságból az énekig. - KERT - Imre Veronika
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2699
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 18 Dec 2022 22:22:23 +0100
+✅ Legutóbb frissítve: Mon, 19 Dec 2022 09:31:14 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 18 Dec 2022 22:22:33 +0100
+✅ Legutóbb frissítve: Mon, 19 Dec 2022 09:31:31 +0100
 
 Epizódok száma: 786
 
