@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 25 Dec 2022 22:22:44 +0100
+✅ Legutóbb frissítve: Mon, 26 Dec 2022 09:30:31 +0100
 
-Epizódok száma: 2704
+Epizódok száma: 2707
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2704
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2022.12.25 - "Ő Isten dicsőségének a kisugárzása és lényének képmása." - 11h - Komádi Róbert
+ - 2022.12.25 - "Az Ige testté lett, közöttünk lakott, és láttuk az ő dicsőségét." - 9h - Kuti József
+ - 2022.12.25 - "Őbenne van az igen, ezért általa van az ámen is." - 18h - Imre Veronika
  - 2022.12.24 - "Az Úr lesz örök igaszságod" - Karácsonyi ünnepély - 15,30h - Varga Nándor
  - 2022.12.23 - "Imánuelnek nevezi majd el." - 17h - Borsos-Pintér Nóra
  - 2022.12.18 - Megkötözöttségtől a meglátogatottságig. - KERT - Fodorné Ablonczy Margit
- - 2022.12.18 - Urunknak adott legnagyobb adventi ajándék. - 11h - Borsos-Pintér Nóra
- - 2022.12.18 - "Nép a népre kardot nem emel." - 9h - Kuti József
- - 2022.12.11 - Megalázottságból a magasztalásig. - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2704
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 25 Dec 2022 22:22:45 +0100
+✅ Legutóbb frissítve: Mon, 26 Dec 2022 09:30:32 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 25 Dec 2022 22:22:55 +0100
+✅ Legutóbb frissítve: Mon, 26 Dec 2022 09:30:44 +0100
 
 Epizódok száma: 786
 
