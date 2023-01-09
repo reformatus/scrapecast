@@ -605,15 +605,26 @@
     "size": 6428696
   },
   {
-    "title": "Az Istennel való kapcsolat bibliai szerkezete",
+    "title": "Beteljesülés után kiteljesedés",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226B.mp3",
-    "uuid": "4b08f476-764c-4758-a53b-8cfb551c407c",
-    "length": 2576,
-    "size": 7728510
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226F.mp3",
+    "uuid": "62584028-8a0d-4a44-96ea-ee0cfba6efbb",
+    "length": 1393,
+    "size": 4180680
+  },
+  {
+    "title": "Árnyék és valóság",
+    "date": "2022.02.26",
+    "place": "Dunaszentgyörgy",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226D.mp3",
+    "uuid": "92d22e83-d215-422b-a7da-6698b441be21",
+    "length": 2447,
+    "size": 7341742
   },
   {
     "title": "A bibliai szöveg megbízhatósága",
@@ -649,26 +660,15 @@
     "size": 6719374
   },
   {
-    "title": "Árnyék és valóság",
+    "title": "Az Istennel való kapcsolat bibliai szerkezete",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226D.mp3",
-    "uuid": "92d22e83-d215-422b-a7da-6698b441be21",
-    "length": 2447,
-    "size": 7341742
-  },
-  {
-    "title": "Beteljesülés után kiteljesedés",
-    "date": "2022.02.26",
-    "place": "Dunaszentgyörgy",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226F.mp3",
-    "uuid": "62584028-8a0d-4a44-96ea-ee0cfba6efbb",
-    "length": 1393,
-    "size": 4180680
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226B.mp3",
+    "uuid": "4b08f476-764c-4758-a53b-8cfb551c407c",
+    "length": 2576,
+    "size": 7728510
   },
   {
     "title": "Kol 3,17-4,1",
@@ -2497,17 +2497,6 @@
     "size": 5331650
   },
   {
-    "title": "A megfoghatatlan tényezõ: a munkahelyi légkör",
-    "date": "2018.11.16",
-    "place": "Madocsa",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20181116B.mp3",
-    "uuid": "8c7b3a87-9890-44d2-8695-5478225270bd",
-    "length": 1593,
-    "size": 4781298
-  },
-  {
     "title": "Erõs közösség erõs egyéniségekbõl",
     "date": "2018.11.16",
     "place": "Madocsa",
@@ -2517,6 +2506,17 @@
     "uuid": "9282255b-0490-4fb4-83ca-1d00d12adce7",
     "length": 2401,
     "size": 7204994
+  },
+  {
+    "title": "A megfoghatatlan tényezõ: a munkahelyi légkör",
+    "date": "2018.11.16",
+    "place": "Madocsa",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20181116B.mp3",
+    "uuid": "8c7b3a87-9890-44d2-8695-5478225270bd",
+    "length": 1593,
+    "size": 4781298
   },
   {
     "title": "Gondolatok a hitbeli nevelésrõl",
@@ -4411,6 +4411,17 @@
     "size": 7035643
   },
   {
+    "title": "A misszió eszközei (bevezetés hiányzik)",
+    "date": "2016.09.03",
+    "place": "Székelyudvarhely",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903B.mp3",
+    "uuid": "a0f602e1-aa6e-41f8-afda-d7e1b1747545",
+    "length": 3576,
+    "size": 10729721
+  },
+  {
     "title": "Mi a misszió?",
     "date": "2016.09.03",
     "place": "Székelyudvarhely",
@@ -4431,17 +4442,6 @@
     "uuid": "def83521-5a75-4ffa-8abd-fdab9960ebc0",
     "length": 3452,
     "size": 10358267
-  },
-  {
-    "title": "A misszió eszközei (bevezetés hiányzik)",
-    "date": "2016.09.03",
-    "place": "Székelyudvarhely",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903B.mp3",
-    "uuid": "a0f602e1-aa6e-41f8-afda-d7e1b1747545",
-    "length": 3576,
-    "size": 10729721
   },
   {
     "title": "Mk 15,20-32",
@@ -5093,17 +5093,6 @@
     "size": 6706625
   },
   {
-    "title": "3Móz 25,23-28 & 47-55",
-    "date": "2015.12.06",
-    "place": "Lengyel",
-    "category": "Bibliamagyarázat - Mózes harmadik könyve",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/3Moz/MLW20151206.mp3",
-    "uuid": "4d29a6e7-6415-4736-88fa-62b43bee8e67",
-    "length": 2150,
-    "size": 6451957
-  },
-  {
     "title": "4Móz 35,16-21 & 30-34",
     "date": "2015.12.06",
     "place": "Lengyel",
@@ -5111,6 +5100,17 @@
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/4Moz/MLW20151206.mp3",
     "uuid": "f36ec044-08f9-47d1-bce5-c24386b0713a",
+    "length": 2150,
+    "size": 6451957
+  },
+  {
+    "title": "3Móz 25,23-28 & 47-55",
+    "date": "2015.12.06",
+    "place": "Lengyel",
+    "category": "Bibliamagyarázat - Mózes harmadik könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/3Moz/MLW20151206.mp3",
+    "uuid": "4d29a6e7-6415-4736-88fa-62b43bee8e67",
     "length": 2150,
     "size": 6451957
   },
@@ -5731,17 +5731,6 @@
     "size": 6546377
   },
   {
-    "title": "Tit 2,11-14",
-    "date": "2015.03.08",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál levele Tituszhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Titusz/MLW20150308A.mp3",
-    "uuid": "e2757d74-f4f7-458a-a365-bb4d1d382308",
-    "length": 2096,
-    "size": 6289866
-  },
-  {
     "title": "Jn 13,1-17",
     "date": "2015.03.08",
     "place": "Lengyel",
@@ -5751,6 +5740,17 @@
     "uuid": "a24e7d96-2eec-45a5-b456-95fa62858034",
     "length": 1804,
     "size": 5414894
+  },
+  {
+    "title": "Tit 2,11-14",
+    "date": "2015.03.08",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Pál levele Tituszhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Titusz/MLW20150308A.mp3",
+    "uuid": "e2757d74-f4f7-458a-a365-bb4d1d382308",
+    "length": 2096,
+    "size": 6289866
   },
   {
     "title": "Mk 7,24-30",
@@ -7315,17 +7315,6 @@
     "size": 5984881
   },
   {
-    "title": "Mk 1,29-31",
-    "date": "2013.11.17",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
-    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
-    "length": 1684,
-    "size": 5054874
-  },
-  {
     "title": "Ef 1,5-6",
     "date": "2013.11.17",
     "place": "Bonyhád",
@@ -7335,6 +7324,17 @@
     "uuid": "521d6647-394c-481d-a29f-a9c51c884a40",
     "length": 1642,
     "size": 4928857
+  },
+  {
+    "title": "Mk 1,29-31",
+    "date": "2013.11.17",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
+    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
+    "length": 1684,
+    "size": 5054874
   },
   {
     "title": "Mk 1,21-28",
@@ -7645,17 +7645,6 @@
     "size": 6898074
   },
   {
-    "title": "Ef 4,1-12",
-    "date": "2013.08.06",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806B.mp3",
-    "uuid": "69740ee5-3dc3-4e70-8808-964a68145b49",
-    "length": 1559,
-    "size": 4677769
-  },
-  {
     "title": "Ef 2,11-22",
     "date": "2013.08.06",
     "place": "Szajol",
@@ -7665,6 +7654,17 @@
     "uuid": "3c9ce520-2f7b-4055-97bb-9b408a709bf1",
     "length": 2740,
     "size": 8222561
+  },
+  {
+    "title": "Ef 4,1-12",
+    "date": "2013.08.06",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806B.mp3",
+    "uuid": "69740ee5-3dc3-4e70-8808-964a68145b49",
+    "length": 1559,
+    "size": 4677769
   },
   {
     "title": "Ef 1,15-2,7",
@@ -8008,17 +8008,6 @@
     "size": 6454690
   },
   {
-    "title": "Mk 8,27-38",
-    "date": "2013.03.03",
-    "place": "Tamási",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20130303A.mp3",
-    "uuid": "c6946457-62bb-471f-9896-529fe8eb417c",
-    "length": 1845,
-    "size": 5537856
-  },
-  {
     "title": "32. kérdés-felelet (A)",
     "date": "2013.03.03",
     "place": "Váralja",
@@ -8028,6 +8017,17 @@
     "uuid": "527df3f4-c7f5-4d20-b1fe-1dffbe2c4898",
     "length": 1480,
     "size": 4440727
+  },
+  {
+    "title": "Mk 8,27-38",
+    "date": "2013.03.03",
+    "place": "Tamási",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20130303A.mp3",
+    "uuid": "c6946457-62bb-471f-9896-529fe8eb417c",
+    "length": 1845,
+    "size": 5537856
   },
   {
     "title": "Zsolt 73",
