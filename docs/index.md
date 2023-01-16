@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 16 Jan 2023 19:30:33 +0100
+✅ Legutóbb frissítve: Mon, 16 Jan 2023 20:21:15 +0100
 
 Epizódok száma: 2726
 
@@ -37,7 +37,7 @@ Epizódok száma: 2726
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 16 Jan 2023 19:30:34 +0100
+✅ Legutóbb frissítve: Mon, 16 Jan 2023 20:21:16 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 16 Jan 2023 19:30:47 +0100
+✅ Legutóbb frissítve: Mon, 16 Jan 2023 20:21:31 +0100
 
-Epizódok száma: 787
+Epizódok száma: 788
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 787
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.01.16 - Mt 23,23k - Bibliamagyarázat - Máté evangéliuma
  - 2023.01.08 - Lk 4,1-13 - Bibliamagyarázat - Lukács evangéliuma
  - 2022.12.10 - Zsolt 85 - Bibliamagyarázat - A zsoltárok könyve
  - 2022.11.22 - 2Pt 1,5-8 - Bibliamagyarázat - Péter második levele
  - 2022.11.20 - Fil 3,20k - Bibliamagyarázat - Pál levele a filippiekhez
  - 2022.11.18 - Kinek az életét akarod élni? - Ismeretterjesztés
- - 2022.11.03 - Kuyper Ábrahám a református jogtudomány létjogosultságáról - Ismeretterjesztés
 
 ---
 
