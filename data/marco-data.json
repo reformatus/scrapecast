@@ -605,17 +605,6 @@
     "size": 6557790
   },
   {
-    "title": "Lk 9,57-62",
-    "date": "2022.03.06",
-    "place": "Felsõnyék",
-    "category": "Bibliamagyarázat - Lukács evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Lk/MLW20220306B.mp3",
-    "uuid": "a9a1fdf1-78a1-4dcc-a5fe-8e59d53867b9",
-    "length": 2142,
-    "size": 6428696
-  },
-  {
     "title": "Lk 9,51-56",
     "date": "2022.03.06",
     "place": "Nagyszokoly",
@@ -625,6 +614,17 @@
     "uuid": "480ce3e0-415c-4dbc-932f-a4401dde4050",
     "length": 2204,
     "size": 6614456
+  },
+  {
+    "title": "Lk 9,57-62",
+    "date": "2022.03.06",
+    "place": "Felsõnyék",
+    "category": "Bibliamagyarázat - Lukács evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Lk/MLW20220306B.mp3",
+    "uuid": "a9a1fdf1-78a1-4dcc-a5fe-8e59d53867b9",
+    "length": 2142,
+    "size": 6428696
   },
   {
     "title": "Beteljesülés után kiteljesedés",
@@ -924,17 +924,6 @@
     "size": 9934320
   },
   {
-    "title": "Ekkléziasztika (2) - Megszentelõdés, ünneplés",
-    "date": "2021.12.06",
-    "place": "Szilágysomlyó",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3",
-    "uuid": "a3428011-493e-41c1-bf53-8981a4774746",
-    "length": 3297,
-    "size": 9892486
-  },
-  {
     "title": "Ekkléziasztika (3) - Önismeret, pásztori ismeretek",
     "date": "2021.12.06",
     "place": "Szilágysomlyó",
@@ -944,6 +933,17 @@
     "uuid": "c7408498-7bd8-419e-8595-7f502add6119",
     "length": 2811,
     "size": 8435000
+  },
+  {
+    "title": "Ekkléziasztika (2) - Megszentelõdés, ünneplés",
+    "date": "2021.12.06",
+    "place": "Szilágysomlyó",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3",
+    "uuid": "a3428011-493e-41c1-bf53-8981a4774746",
+    "length": 3297,
+    "size": 9892486
   },
   {
     "title": "Ekkléziasztika (1) - Igeértés, imádság",
@@ -4128,10 +4128,10 @@
     "title": "1Kor 3,5-17",
     "date": "2017.02.08",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170208.mp3",
-    "uuid": "65fe6092-275c-4cc6-97b9-543db3b4803d",
+    "uuid": "7f4d7482-185c-465e-9dd0-d81eb8f05ea2",
     "length": 2675,
     "size": 8026330
   },
@@ -4139,10 +4139,10 @@
     "title": "1Kor 3,5-17",
     "date": "2017.02.08",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170208.mp3",
-    "uuid": "7f4d7482-185c-465e-9dd0-d81eb8f05ea2",
+    "uuid": "65fe6092-275c-4cc6-97b9-543db3b4803d",
     "length": 2675,
     "size": 8026330
   },
@@ -4433,17 +4433,6 @@
     "size": 7035643
   },
   {
-    "title": "Hogyan kezdjünk hozzá?",
-    "date": "2016.09.03",
-    "place": "Székelyudvarhely",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903C.mp3",
-    "uuid": "def83521-5a75-4ffa-8abd-fdab9960ebc0",
-    "length": 3452,
-    "size": 10358267
-  },
-  {
     "title": "Mi a misszió?",
     "date": "2016.09.03",
     "place": "Székelyudvarhely",
@@ -4453,6 +4442,17 @@
     "uuid": "63c86a31-6e8d-432e-9af5-a15a7e19a5f9",
     "length": 2466,
     "size": 7400196
+  },
+  {
+    "title": "Hogyan kezdjünk hozzá?",
+    "date": "2016.09.03",
+    "place": "Székelyudvarhely",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903C.mp3",
+    "uuid": "def83521-5a75-4ffa-8abd-fdab9960ebc0",
+    "length": 3452,
+    "size": 10358267
   },
   {
     "title": "A misszió eszközei (bevezetés hiányzik)",
@@ -5390,17 +5390,6 @@
     "size": 8148007
   },
   {
-    "title": "Mire való az egyház?",
-    "date": "2015.07.09",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Tanítványság",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709A.mp3",
-    "uuid": "c78ea454-4231-48ee-9cce-1c51a090b5c8",
-    "length": 2262,
-    "size": 6788629
-  },
-  {
     "title": "Milyen példát mutatott Tanítónk?",
     "date": "2015.07.09",
     "place": "Piliscsaba",
@@ -5410,6 +5399,17 @@
     "uuid": "86eaafb6-3f85-44de-b18b-f1688c8a580d",
     "length": 2778,
     "size": 8336643
+  },
+  {
+    "title": "Mire való az egyház?",
+    "date": "2015.07.09",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Tanítványság",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709A.mp3",
+    "uuid": "c78ea454-4231-48ee-9cce-1c51a090b5c8",
+    "length": 2262,
+    "size": 6788629
   },
   {
     "title": "2Móz 32,7-16 & 19",
@@ -7337,17 +7337,6 @@
     "size": 5984881
   },
   {
-    "title": "Mk 1,29-31",
-    "date": "2013.11.17",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
-    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
-    "length": 1684,
-    "size": 5054874
-  },
-  {
     "title": "Ef 1,5-6",
     "date": "2013.11.17",
     "place": "Bonyhád",
@@ -7357,6 +7346,17 @@
     "uuid": "521d6647-394c-481d-a29f-a9c51c884a40",
     "length": 1642,
     "size": 4928857
+  },
+  {
+    "title": "Mk 1,29-31",
+    "date": "2013.11.17",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
+    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
+    "length": 1684,
+    "size": 5054874
   },
   {
     "title": "Mk 1,21-28",
@@ -7667,17 +7667,6 @@
     "size": 6898074
   },
   {
-    "title": "Ef 4,1-12",
-    "date": "2013.08.06",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806B.mp3",
-    "uuid": "69740ee5-3dc3-4e70-8808-964a68145b49",
-    "length": 1559,
-    "size": 4677769
-  },
-  {
     "title": "Ef 2,11-22",
     "date": "2013.08.06",
     "place": "Szajol",
@@ -7687,6 +7676,17 @@
     "uuid": "3c9ce520-2f7b-4055-97bb-9b408a709bf1",
     "length": 2740,
     "size": 8222561
+  },
+  {
+    "title": "Ef 4,1-12",
+    "date": "2013.08.06",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806B.mp3",
+    "uuid": "69740ee5-3dc3-4e70-8808-964a68145b49",
+    "length": 1559,
+    "size": 4677769
   },
   {
     "title": "Ef 1,15-2,7",
@@ -8030,17 +8030,6 @@
     "size": 6454690
   },
   {
-    "title": "Mk 8,27-38",
-    "date": "2013.03.03",
-    "place": "Tamási",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20130303A.mp3",
-    "uuid": "c6946457-62bb-471f-9896-529fe8eb417c",
-    "length": 1845,
-    "size": 5537856
-  },
-  {
     "title": "32. kérdés-felelet (A)",
     "date": "2013.03.03",
     "place": "Váralja",
@@ -8050,6 +8039,17 @@
     "uuid": "527df3f4-c7f5-4d20-b1fe-1dffbe2c4898",
     "length": 1480,
     "size": 4440727
+  },
+  {
+    "title": "Mk 8,27-38",
+    "date": "2013.03.03",
+    "place": "Tamási",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20130303A.mp3",
+    "uuid": "c6946457-62bb-471f-9896-529fe8eb417c",
+    "length": 1845,
+    "size": 5537856
   },
   {
     "title": "Zsolt 73",
