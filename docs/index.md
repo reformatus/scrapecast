@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Jan 2023 11:30:09 +0100
+✅ Legutóbb frissítve: Mon, 23 Jan 2023 12:23:12 +0100
 
 Epizódok száma: 2729
 
@@ -37,7 +37,7 @@ Epizódok száma: 2729
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Jan 2023 11:30:10 +0100
+✅ Legutóbb frissítve: Mon, 23 Jan 2023 12:23:13 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 23 Jan 2023 11:30:25 +0100
+✅ Legutóbb frissítve: Mon, 23 Jan 2023 12:23:23 +0100
 
 Epizódok száma: 790
 
