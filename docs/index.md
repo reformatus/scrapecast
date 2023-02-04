@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 04 Feb 2023 17:35:57 +0100
+✅ Legutóbb frissítve: Sat, 04 Feb 2023 22:24:08 +0100
 
 Epizódok száma: 2741
 
@@ -37,7 +37,7 @@ Epizódok száma: 2741
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 04 Feb 2023 17:35:59 +0100
+✅ Legutóbb frissítve: Sat, 04 Feb 2023 22:24:09 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 04 Feb 2023 17:36:11 +0100
+✅ Legutóbb frissítve: Sat, 04 Feb 2023 22:24:28 +0100
 
-Epizódok száma: 790
+Epizódok száma: 796
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 790
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2023.01.20 - Ez 34,15-24 - Bibliamagyarázat - Ezékiel próféta könyve
- - 2023.01.16 - Mt 23,23k - Bibliamagyarázat - Máté evangéliuma
- - 2023.01.10 - Ez 34,15-24 - Bibliamagyarázat - Ezékiel próféta könyve
- - 2023.01.08 - Lk 4,1-13 - Bibliamagyarázat - Lukács evangéliuma
- - 2022.12.10 - Zsolt 85 - Bibliamagyarázat - A zsoltárok könyve
- - 2022.11.22 - 2Pt 1,5-8 - Bibliamagyarázat - Péter második levele
+ - 2023.02.04 - Lelki fejlõdés (2) - Alapvetés - Vallásismeret - Egyháztan
+ - 2023.02.04 - Lelki fejlõdés (3) - A gyülekezet szerepe - Vallásismeret - Egyháztan
+ - 2023.02.04 - Lelki fejlõdés (1) - Bevezetés - Vallásismeret - Egyháztan
+ - 2023.02.04 - Lelki fejlõdés (4) - A fejlõdés lépései - Vallásismeret - Egyháztan
+ - 2023.02.04 - Lelki fejlõdés (5) - Próbák - Vallásismeret - Egyháztan
+ - 2023.02.04 - Lelki fejlõdés (6) - Záró gondolatok - Vallásismeret - Egyháztan
 
 ---
 
