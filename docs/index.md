@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Feb 2023 12:22:15 +0100
+✅ Legutóbb frissítve: Sun, 19 Feb 2023 13:45:59 +0100
 
 Epizódok száma: 2748
 
@@ -37,7 +37,7 @@ Epizódok száma: 2748
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Feb 2023 12:22:16 +0100
+✅ Legutóbb frissítve: Sun, 19 Feb 2023 13:46:00 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 19 Feb 2023 12:22:26 +0100
+✅ Legutóbb frissítve: Sun, 19 Feb 2023 13:46:18 +0100
 
-Epizódok száma: 799
+Epizódok száma: 801
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 799
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.02.19 - 1Kor 7,32-35 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
+ - 2023.02.19 - 1Kor 7,32-35 - Bibliamagyarázat - A királyok első könyve
  - 2023.02.18 - Milyen közösségi életre törekedjünk a gyülekezetben? - Vallásismeret - Keresztyén élet
  - 2023.02.12 - 1Kor 7,32-35 - Bibliamagyarázat - A királyok első könyve
  - 2023.02.12 - 1Kor 7,32-35 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
  - 2023.02.04 - Lelki fejlõdés (2) - Alapvetés - Vallásismeret - Egyháztan
- - 2023.02.04 - Lelki fejlõdés (3) - A gyülekezet szerepe - Vallásismeret - Egyháztan
- - 2023.02.04 - Lelki fejlõdés (1) - Bevezetés - Vallásismeret - Egyháztan
 
 ---
 
