@@ -594,17 +594,6 @@
     "size": 8668898
   },
   {
-    "title": "Alapfogalmak: élet, szeretet, megváltás és engesztelés",
-    "date": "2022.04.23",
-    "place": "Dunaszentgyörgy",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220423A.mp3",
-    "uuid": "d13ecabb-dec5-479a-9ca1-e9388e40b3b8",
-    "length": 2754,
-    "size": 8262308
-  },
-  {
     "title": "Alapfogalmak: Krisztuskövetés és kegyelem",
     "date": "2022.04.23",
     "place": "Dunaszentgyörgy",
@@ -614,6 +603,17 @@
     "uuid": "c35f2915-4fb7-4b5d-891b-b79a45a646bd",
     "length": 2363,
     "size": 7091850
+  },
+  {
+    "title": "Alapfogalmak: élet, szeretet, megváltás és engesztelés",
+    "date": "2022.04.23",
+    "place": "Dunaszentgyörgy",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220423A.mp3",
+    "uuid": "d13ecabb-dec5-479a-9ca1-e9388e40b3b8",
+    "length": 2754,
+    "size": 8262308
   },
   {
     "title": "Alapfogalmak: a tanú szerepe",
@@ -1276,15 +1276,15 @@
     "size": 6720014
   },
   {
-    "title": "Határsértések a munkatársi közösségben",
+    "title": "1Jn 3,18-24",
     "date": "2021.09.24",
     "place": "Pécel",
-    "category": "Pedagógusképzés",
+    "category": "Bibliamagyarázat - János első levele",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20210924C.mp3",
-    "uuid": "13a3edf6-dbbd-4988-b108-802e1d571527",
-    "length": 2570,
-    "size": 7711524
+    "download": "Eloadasok/Bibliamagyarazat/1Jn/MLW20210924A.mp3",
+    "uuid": "fc44e290-489e-4abd-a417-4ac924475ded",
+    "length": 1459,
+    "size": 4377911
   },
   {
     "title": "Szabályok a pedagógiai munkában",
@@ -1298,15 +1298,15 @@
     "size": 7010158
   },
   {
-    "title": "1Jn 3,18-24",
+    "title": "Határsértések a munkatársi közösségben",
     "date": "2021.09.24",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - János első levele",
+    "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Jn/MLW20210924A.mp3",
-    "uuid": "fc44e290-489e-4abd-a417-4ac924475ded",
-    "length": 1459,
-    "size": 4377911
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20210924C.mp3",
+    "uuid": "13a3edf6-dbbd-4988-b108-802e1d571527",
+    "length": 2570,
+    "size": 7711524
   },
   {
     "title": "Határok és szabályok a gyermeknevelésben",
@@ -3256,15 +3256,15 @@
     "size": 8242584
   },
   {
-    "title": "Miért, mit és hogyan játszik az óvodás?",
+    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
-    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
-    "length": 1733,
-    "size": 5200454
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
+    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
+    "length": 1585,
+    "size": 4757734
   },
   {
     "title": "Játék által is lehet tanítani",
@@ -3289,15 +3289,15 @@
     "size": 7299088
   },
   {
-    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
+    "title": "Miért, mit és hogyan játszik az óvodás?",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
-    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
-    "length": 1585,
-    "size": 4757734
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
+    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
+    "length": 1733,
+    "size": 5200454
   },
   {
     "title": "Gyerekekkel játszani nem gyermekjáték!",
@@ -3905,15 +3905,15 @@
     "size": 5927106
   },
   {
-    "title": "Gondolatok a szociális kompetenciáról",
+    "title": "1Kor 13,1-8a",
     "date": "2017.05.19",
     "place": "Pécel",
-    "category": "Pedagógusképzés",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20170519B.mp3",
-    "uuid": "ba564b6c-e92c-409e-9728-613c8d4d8b04",
-    "length": 1971,
-    "size": 5915657
+    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
+    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
+    "length": 1479,
+    "size": 4438752
   },
   {
     "title": "A szociális kompetencia fejlesztése az óvodában",
@@ -3930,23 +3930,23 @@
     "title": "1Kor 13,1-8a",
     "date": "2017.05.19",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
-    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
-    "length": 1479,
-    "size": 4438752
-  },
-  {
-    "title": "1Kor 13,1-8a",
-    "date": "2017.05.19",
-    "place": "Pécel",
     "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
     "uuid": "086d20d8-d4f2-4ba3-a092-702b91266309",
     "length": 1479,
     "size": 4438752
+  },
+  {
+    "title": "Gondolatok a szociális kompetenciáról",
+    "date": "2017.05.19",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20170519B.mp3",
+    "uuid": "ba564b6c-e92c-409e-9728-613c8d4d8b04",
+    "length": 1971,
+    "size": 5915657
   },
   {
     "title": "Egyéniséget nevel(j)ünk!",
@@ -4873,17 +4873,6 @@
     "size": 9664861
   },
   {
-    "title": "Hitbeli nevelés az óvodában",
-    "date": "2016.04.22",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160422B.mp3",
-    "uuid": "0ac8d33e-1e31-4b0d-816c-71500ab57c76",
-    "length": 2805,
-    "size": 8416025
-  },
-  {
     "title": "Tablet használata az óvodában (vitaindító)",
     "date": "2016.04.22",
     "place": "Pécel",
@@ -4893,6 +4882,17 @@
     "uuid": "4a04cc9b-c241-41da-ad0d-f29c8e994adb",
     "length": 1244,
     "size": 3732274
+  },
+  {
+    "title": "Hitbeli nevelés az óvodában",
+    "date": "2016.04.22",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160422B.mp3",
+    "uuid": "0ac8d33e-1e31-4b0d-816c-71500ab57c76",
+    "length": 2805,
+    "size": 8416025
   },
   {
     "title": "Valódi felkészítés a virtuális világra",
@@ -5841,6 +5841,17 @@
     "size": 5514735
   },
   {
+    "title": "A bibliai mentálhigiéné alapjai",
+    "date": "2015.03.13",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313A.mp3",
+    "uuid": "5bfb8974-62a9-4d9e-9258-b05ff5e5612f",
+    "length": 3072,
+    "size": 9218358
+  },
+  {
     "title": "Szorongásról",
     "date": "2015.03.13",
     "place": "Pécel",
@@ -5863,15 +5874,15 @@
     "size": 3965676
   },
   {
-    "title": "A bibliai mentálhigiéné alapjai",
-    "date": "2015.03.13",
+    "title": "Gondolatok a bibliai mentálhigiénérõl",
+    "date": "2015.03.12",
     "place": "Pécel",
-    "category": "Pedagógusképzés",
+    "category": "Szülők iskolája",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313A.mp3",
-    "uuid": "5bfb8974-62a9-4d9e-9258-b05ff5e5612f",
-    "length": 3072,
-    "size": 9218358
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20150312.mp3",
+    "uuid": "80ddd8a2-f649-4058-b855-83bd14dd0ed8",
+    "length": 3149,
+    "size": 9447207
   },
   {
     "title": "Gondolatok a bibliai mentálhigiénérõl",
@@ -5881,17 +5892,6 @@
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20150312.mp3",
     "uuid": "82afe49e-2c10-4697-9d80-86706bb5c96e",
-    "length": 3149,
-    "size": 9447207
-  },
-  {
-    "title": "Gondolatok a bibliai mentálhigiénérõl",
-    "date": "2015.03.12",
-    "place": "Pécel",
-    "category": "Szülők iskolája",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20150312.mp3",
-    "uuid": "80ddd8a2-f649-4058-b855-83bd14dd0ed8",
     "length": 3149,
     "size": 9447207
   },
@@ -6424,6 +6424,17 @@
     "size": 7842639
   },
   {
+    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
+    "date": "2014.10.12",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
+    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
+    "length": 2429,
+    "size": 7288579
+  },
+  {
     "title": "ApCsel - A népek felé (12,25 - 16,5)",
     "date": "2014.10.12",
     "place": "Fadd",
@@ -6499,17 +6510,6 @@
     "uuid": "21a9ac6e-194d-4f8a-b155-9cdb1705cbc6",
     "length": 2681,
     "size": 8044352
-  },
-  {
-    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
-    "date": "2014.10.12",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
-    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
-    "length": 2429,
-    "size": 7288579
   },
   {
     "title": "ApCsel - Bevezetõ kérdések (1,1-5)",
@@ -7161,17 +7161,6 @@
     "size": 5184650
   },
   {
-    "title": "A református értékrend alapjai",
-    "date": "2014.03.14",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20140314B.mp3",
-    "uuid": "080faf3d-79a6-47e8-9d0f-af795807459c",
-    "length": 2515,
-    "size": 7545527
-  },
-  {
     "title": "Az értékrend szerepe a pedagógiában",
     "date": "2014.03.14",
     "place": "Pécel",
@@ -7181,6 +7170,17 @@
     "uuid": "3e52834f-4aa8-4f60-8e3c-ce69abaad534",
     "length": 2348,
     "size": 7046104
+  },
+  {
+    "title": "A református értékrend alapjai",
+    "date": "2014.03.14",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20140314B.mp3",
+    "uuid": "080faf3d-79a6-47e8-9d0f-af795807459c",
+    "length": 2515,
+    "size": 7545527
   },
   {
     "title": "Értékrend és szabályok",
@@ -7491,17 +7491,6 @@
     "size": 5984881
   },
   {
-    "title": "Mk 1,29-31",
-    "date": "2013.11.17",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
-    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
-    "length": 1684,
-    "size": 5054874
-  },
-  {
     "title": "Ef 1,5-6",
     "date": "2013.11.17",
     "place": "Bonyhád",
@@ -7511,6 +7500,17 @@
     "uuid": "521d6647-394c-481d-a29f-a9c51c884a40",
     "length": 1642,
     "size": 4928857
+  },
+  {
+    "title": "Mk 1,29-31",
+    "date": "2013.11.17",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20131117A.mp3",
+    "uuid": "de0bf230-2c9e-4d6c-923f-42aca981325e",
+    "length": 1684,
+    "size": 5054874
   },
   {
     "title": "Mk 1,21-28",
