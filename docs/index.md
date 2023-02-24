@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 24 Feb 2023 17:40:37 +0100
+✅ Legutóbb frissítve: Fri, 24 Feb 2023 22:25:05 +0100
 
-Epizódok száma: 2751
+Epizódok száma: 2753
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2751
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.02.24 - Böjti evangélizáció-Térjetek meg. - 17h - Borsos-Pintér Nóra
+ - 2023.02.23 - Böjti evangélizáció-Bölcsesség és bolondság - 17h - Kuti József
  - 2023.02.23 - Bűnbánati hét-Bölcsesség és bolondság - 17h - Kuti József
  - 2023.02.19 - Isten hűséges szeretete. - KERT - Fodorné Ablonczy Margit
  - 2023.02.19 - "Szánakozom a sokaságon, mert már három napja vannak velem, és nincs mit enniük" - 11h - Komádi Róbert
  - 2023.02.12 - Találkozások - KERT - Nagy Henrietta
- - 2023.02.12 - "Mindent helyesen cselekedett." - 11h - Peleskey Miklós Péter
- - 2023.02.12 - Krisztus kinyitja mennyei világát (Katonatelep) - Laczay András
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2751
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 24 Feb 2023 17:40:38 +0100
+✅ Legutóbb frissítve: Fri, 24 Feb 2023 22:25:06 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 24 Feb 2023 17:40:48 +0100
+✅ Legutóbb frissítve: Fri, 24 Feb 2023 22:25:20 +0100
 
-Epizódok száma: 806
+Epizódok száma: 807
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 806
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.02.24 - Elakadások a lelki fejlõdésben (5) - Céltévesztés - Vallásismeret - Egyháztan
  - 2023.02.23 - Elakadások a lelki fejlõdésben (4) - Áthangolás - Vallásismeret - Egyháztan
  - 2023.02.22 - Elakadások a lelki fejlõdésben (3) - Tájékozódás - Vallásismeret - Egyháztan
  - 2023.02.21 - Elakadások a lelki fejlõdésben (2) - Éretlenség - Vallásismeret - Egyháztan
  - 2023.02.20 - Elakadások a lelki fejlõdésben (2) - Éretlenség - Vallásismeret - Egyháztan
  - 2023.02.20 - Elakadások a lelki fejlõdésben (1) - Kapcsolathiány - Vallásismeret - Egyháztan
- - 2023.02.19 - 1Kor 7,32-35 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
 
 ---
 
