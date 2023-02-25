@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 25 Feb 2023 17:36:49 +0100
+✅ Legutóbb frissítve: Sat, 25 Feb 2023 22:25:08 +0100
 
 Epizódok száma: 2753
 
@@ -37,7 +37,7 @@ Epizódok száma: 2753
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 25 Feb 2023 17:36:50 +0100
+✅ Legutóbb frissítve: Sat, 25 Feb 2023 22:25:09 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 25 Feb 2023 17:37:01 +0100
+✅ Legutóbb frissítve: Sat, 25 Feb 2023 22:25:24 +0100
 
-Epizódok száma: 807
+Epizódok száma: 808
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 807
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.02.25 - Közösségi vezetés - Vallásismeret - Egyháztan
  - 2023.02.24 - Elakadások a lelki fejlõdésben (5) - Céltévesztés - Vallásismeret - Egyháztan
  - 2023.02.23 - Elakadások a lelki fejlõdésben (4) - Áthangolás - Vallásismeret - Egyháztan
  - 2023.02.22 - Elakadások a lelki fejlõdésben (3) - Tájékozódás - Vallásismeret - Egyháztan
  - 2023.02.21 - Elakadások a lelki fejlõdésben (2) - Éretlenség - Vallásismeret - Egyháztan
  - 2023.02.20 - Elakadások a lelki fejlõdésben (2) - Éretlenség - Vallásismeret - Egyháztan
- - 2023.02.20 - Elakadások a lelki fejlõdésben (1) - Kapcsolathiány - Vallásismeret - Egyháztan
 
 ---
 
