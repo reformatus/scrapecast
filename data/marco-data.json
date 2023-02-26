@@ -3289,17 +3289,6 @@
     "size": 5105418
   },
   {
-    "title": "Gondolatok a hitbeli nevelésrõl",
-    "date": "2018.03.03",
-    "place": "Bátaszék",
-    "category": "Szülők iskolája",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20180303B.mp3",
-    "uuid": "bd7cec7c-8093-4689-9833-85042f063e8f",
-    "length": 2048,
-    "size": 6146532
-  },
-  {
     "title": "A gyermeknevelés bibliai alapjai",
     "date": "2018.03.03",
     "place": "Bátaszék",
@@ -3309,6 +3298,17 @@
     "uuid": "d341d8ab-e37d-4fc6-9258-51cd4834c77a",
     "length": 2747,
     "size": 8242584
+  },
+  {
+    "title": "Gondolatok a hitbeli nevelésrõl",
+    "date": "2018.03.03",
+    "place": "Bátaszék",
+    "category": "Szülők iskolája",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20180303B.mp3",
+    "uuid": "bd7cec7c-8093-4689-9833-85042f063e8f",
+    "length": 2048,
+    "size": 6146532
   },
   {
     "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
@@ -3564,6 +3564,17 @@
     "size": 6498593
   },
   {
+    "title": "Bibliai ünnepek - Ószövetségi ünnepkör és egyházi év",
+    "date": "2017.11.18",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118A.mp3",
+    "uuid": "fbc4263b-fbda-4c4f-867f-eac1b96c37e7",
+    "length": 1870,
+    "size": 5612331
+  },
+  {
     "title": "Bibliai ünnepek - Lombsátrak ünnepe, templomszentelési ünnep, púrim",
     "date": "2017.11.18",
     "place": "Fadd",
@@ -3606,17 +3617,6 @@
     "uuid": "9811696b-6224-4975-b85f-21d0c30396fb",
     "length": 2790,
     "size": 8372818
-  },
-  {
-    "title": "Bibliai ünnepek - Ószövetségi ünnepkör és egyházi év",
-    "date": "2017.11.18",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118A.mp3",
-    "uuid": "fbc4263b-fbda-4c4f-867f-eac1b96c37e7",
-    "length": 1870,
-    "size": 5612331
   },
   {
     "title": "Róm 11,11-12 és 25-32",
@@ -3941,10 +3941,10 @@
     "title": "1Kor 15,12-28",
     "date": "2017.05.21",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170521.mp3",
-    "uuid": "551b24d5-2bf4-4a45-a8fb-59f57eb9946b",
+    "uuid": "53c8e58b-011c-43d7-8374-3cf043322e71",
     "length": 1975,
     "size": 5927106
   },
@@ -3952,10 +3952,10 @@
     "title": "1Kor 15,12-28",
     "date": "2017.05.21",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170521.mp3",
-    "uuid": "53c8e58b-011c-43d7-8374-3cf043322e71",
+    "uuid": "551b24d5-2bf4-4a45-a8fb-59f57eb9946b",
     "length": 1975,
     "size": 5927106
   },
@@ -5896,6 +5896,17 @@
     "size": 5514735
   },
   {
+    "title": "Megbélyegzésrõl",
+    "date": "2015.03.13",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313C.mp3",
+    "uuid": "6f2ed631-ae64-4075-94f1-553a38848ffa",
+    "length": 1321,
+    "size": 3965676
+  },
+  {
     "title": "A bibliai mentálhigiéné alapjai",
     "date": "2015.03.13",
     "place": "Pécel",
@@ -5916,17 +5927,6 @@
     "uuid": "9df00c9d-c257-4fca-8cfb-82f4ed439828",
     "length": 2859,
     "size": 8577275
-  },
-  {
-    "title": "Megbélyegzésrõl",
-    "date": "2015.03.13",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313C.mp3",
-    "uuid": "6f2ed631-ae64-4075-94f1-553a38848ffa",
-    "length": 1321,
-    "size": 3965676
   },
   {
     "title": "Gondolatok a bibliai mentálhigiénérõl",
@@ -6479,6 +6479,17 @@
     "size": 7842639
   },
   {
+    "title": "ApCsel - A népek felé (12,25 - 16,5)",
+    "date": "2014.10.12",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011F.mp3",
+    "uuid": "2b30d795-50af-4c5c-9313-3c8d5d5bf014",
+    "length": 2614,
+    "size": 7842062
+  },
+  {
     "title": "Mk 5,21-43",
     "date": "2014.10.12",
     "place": "Dombóvár",
@@ -6545,17 +6556,6 @@
     "size": 7197940
   },
   {
-    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
-    "date": "2014.10.12",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
-    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
-    "length": 2429,
-    "size": 7288579
-  },
-  {
     "title": "ApCsel - A kijelentést ismerõk felé (6,8 - 9,31)",
     "date": "2014.10.12",
     "place": "Fadd",
@@ -6567,15 +6567,15 @@
     "size": 8044352
   },
   {
-    "title": "ApCsel - A népek felé (12,25 - 16,5)",
+    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
     "date": "2014.10.12",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011F.mp3",
-    "uuid": "2b30d795-50af-4c5c-9313-3c8d5d5bf014",
-    "length": 2614,
-    "size": 7842062
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
+    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
+    "length": 2429,
+    "size": 7288579
   },
   {
     "title": "Mk 5,21-34",
@@ -6878,10 +6878,10 @@
     "title": "1Kor 2,11-3,3",
     "date": "2014.06.09",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20140609.mp3",
-    "uuid": "06451cde-2acc-4d0c-9c4d-430b3f8c3048",
+    "uuid": "32681981-975e-4004-bb41-828dc2d01863",
     "length": 1703,
     "size": 5110439
   },
@@ -6889,10 +6889,10 @@
     "title": "1Kor 2,11-3,3",
     "date": "2014.06.09",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20140609.mp3",
-    "uuid": "32681981-975e-4004-bb41-828dc2d01863",
+    "uuid": "06451cde-2acc-4d0c-9c4d-430b3f8c3048",
     "length": 1703,
     "size": 5110439
   },
@@ -7216,6 +7216,17 @@
     "size": 5184650
   },
   {
+    "title": "Az értékrend szerepe a pedagógiában",
+    "date": "2014.03.14",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20140314A.mp3",
+    "uuid": "3e52834f-4aa8-4f60-8e3c-ce69abaad534",
+    "length": 2348,
+    "size": 7046104
+  },
+  {
     "title": "A református értékrend alapjai",
     "date": "2014.03.14",
     "place": "Pécel",
@@ -7236,17 +7247,6 @@
     "uuid": "07cde372-440f-4fcf-83f6-155d654d36dc",
     "length": 1935,
     "size": 5807245
-  },
-  {
-    "title": "Az értékrend szerepe a pedagógiában",
-    "date": "2014.03.14",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20140314A.mp3",
-    "uuid": "3e52834f-4aa8-4f60-8e3c-ce69abaad534",
-    "length": 2348,
-    "size": 7046104
   },
   {
     "title": "Mire jó a család?",
@@ -7854,17 +7854,6 @@
     "size": 7533712
   },
   {
-    "title": "Ef 4,7-16",
-    "date": "2013.08.07",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
-    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
-    "length": 3427,
-    "size": 10281348
-  },
-  {
     "title": "Ef 4,17-32",
     "date": "2013.08.07",
     "place": "Szajol",
@@ -7874,6 +7863,17 @@
     "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
     "length": 2299,
     "size": 6898074
+  },
+  {
+    "title": "Ef 4,7-16",
+    "date": "2013.08.07",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
+    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
+    "length": 3427,
+    "size": 10281348
   },
   {
     "title": "Ef 4,1-12",
