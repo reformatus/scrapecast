@@ -330,17 +330,6 @@
     "size": 6322285
   },
   {
-    "title": "2Thessz 2, 13k",
-    "date": "2022.09.04",
-    "place": "Szilágysomlyó",
-    "category": "Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/2Thessz/MLW20220904B.mp3",
-    "uuid": "93839f20-f00b-4028-be23-71437caedf15",
-    "length": 1956,
-    "size": 5868971
-  },
-  {
     "title": "2Thessz 2, 15-17",
     "date": "2022.09.04",
     "place": "Szilágysomlyó",
@@ -350,6 +339,17 @@
     "uuid": "9111c2da-4f7f-4608-a6e7-372842fd191e",
     "length": 1957,
     "size": 5873869
+  },
+  {
+    "title": "2Thessz 2, 13k",
+    "date": "2022.09.04",
+    "place": "Szilágysomlyó",
+    "category": "Bibliamagyarázat - Pál második levele a thesszalonikaiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/2Thessz/MLW20220904B.mp3",
+    "uuid": "93839f20-f00b-4028-be23-71437caedf15",
+    "length": 1956,
+    "size": 5868971
   },
   {
     "title": "Legeltessétek Isten közöttetek levõ nyáját!",
@@ -1969,17 +1969,6 @@
     "size": 7637034
   },
   {
-    "title": "Miért jó Istent valóban megismerni?",
-    "date": "2019.10.12",
-    "place": "Bp-Káposztásmegyer",
-    "category": "Ismeretterjesztés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20191012B.mp3",
-    "uuid": "c0464927-22f6-4ac0-bf9f-7fd5d5c0cd87",
-    "length": 2765,
-    "size": 8297746
-  },
-  {
     "title": "Miért nehéz Istent valóban megismerni?",
     "date": "2019.10.12",
     "place": "Bp-Káposztásmegyer",
@@ -1989,6 +1978,17 @@
     "uuid": "5090e70e-f0f5-48bd-87c5-b17644b11dc5",
     "length": 2720,
     "size": 8160736
+  },
+  {
+    "title": "Miért jó Istent valóban megismerni?",
+    "date": "2019.10.12",
+    "place": "Bp-Káposztásmegyer",
+    "category": "Ismeretterjesztés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20191012B.mp3",
+    "uuid": "c0464927-22f6-4ac0-bf9f-7fd5d5c0cd87",
+    "length": 2765,
+    "size": 8297746
   },
   {
     "title": "A természetfölötti világ veszélyei",
@@ -3311,15 +3311,15 @@
     "size": 8242584
   },
   {
-    "title": "Miért, mit és hogyan játszik az óvodás?",
+    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
-    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
-    "length": 1733,
-    "size": 5200454
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
+    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
+    "length": 1585,
+    "size": 4757734
   },
   {
     "title": "Játék által is lehet tanítani",
@@ -3344,15 +3344,15 @@
     "size": 7299088
   },
   {
-    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
+    "title": "Miért, mit és hogyan játszik az óvodás?",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
-    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
-    "length": 1585,
-    "size": 4757734
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
+    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
+    "length": 1733,
+    "size": 5200454
   },
   {
     "title": "Gyerekekkel játszani nem gyermekjáték!",
@@ -3960,15 +3960,15 @@
     "size": 5927106
   },
   {
-    "title": "Gondolatok a szociális kompetenciáról",
+    "title": "1Kor 13,1-8a",
     "date": "2017.05.19",
     "place": "Pécel",
-    "category": "Pedagógusképzés",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20170519B.mp3",
-    "uuid": "ba564b6c-e92c-409e-9728-613c8d4d8b04",
-    "length": 1971,
-    "size": 5915657
+    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
+    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
+    "length": 1479,
+    "size": 4438752
   },
   {
     "title": "A szociális kompetencia fejlesztése az óvodában",
@@ -3993,15 +3993,15 @@
     "size": 4438752
   },
   {
-    "title": "1Kor 13,1-8a",
+    "title": "Gondolatok a szociális kompetenciáról",
     "date": "2017.05.19",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
-    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
-    "length": 1479,
-    "size": 4438752
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20170519B.mp3",
+    "uuid": "ba564b6c-e92c-409e-9728-613c8d4d8b04",
+    "length": 1971,
+    "size": 5915657
   },
   {
     "title": "Egyéniséget nevel(j)ünk!",
@@ -4620,17 +4620,6 @@
     "size": 6024668
   },
   {
-    "title": "Mt 6,10a",
-    "date": "2016.09.04",
-    "place": "Bögöz",
-    "category": "Bibliamagyarázat - Máté evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mate/MLW20160904A.mp3",
-    "uuid": "1492b666-0de0-4967-8341-5639d1538829",
-    "length": 2380,
-    "size": 7142578
-  },
-  {
     "title": "Testületi vezetés",
     "date": "2016.09.04",
     "place": "Bögöz",
@@ -4640,6 +4629,17 @@
     "uuid": "1bd043ae-da0f-492c-b0d5-bf6bfd322bed",
     "length": 2345,
     "size": 7035643
+  },
+  {
+    "title": "Mt 6,10a",
+    "date": "2016.09.04",
+    "place": "Bögöz",
+    "category": "Bibliamagyarázat - Máté evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mate/MLW20160904A.mp3",
+    "uuid": "1492b666-0de0-4967-8341-5639d1538829",
+    "length": 2380,
+    "size": 7142578
   },
   {
     "title": "Mi a misszió?",
@@ -4928,17 +4928,6 @@
     "size": 8416025
   },
   {
-    "title": "Tablet használata az óvodában (vitaindító)",
-    "date": "2016.04.22",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160422C.mp3",
-    "uuid": "4a04cc9b-c241-41da-ad0d-f29c8e994adb",
-    "length": 1244,
-    "size": 3732274
-  },
-  {
     "title": "Neveld a gyermeket a neki megfelelõ módon (Péld 22,6)",
     "date": "2016.04.22",
     "place": "Pécel",
@@ -4948,6 +4937,17 @@
     "uuid": "e444bd01-3077-46da-8e3f-59750ee0ce37",
     "length": 3221,
     "size": 9664861
+  },
+  {
+    "title": "Tablet használata az óvodában (vitaindító)",
+    "date": "2016.04.22",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160422C.mp3",
+    "uuid": "4a04cc9b-c241-41da-ad0d-f29c8e994adb",
+    "length": 1244,
+    "size": 3732274
   },
   {
     "title": "Valódi felkészítés a virtuális világra",
@@ -5577,17 +5577,6 @@
     "size": 9960503
   },
   {
-    "title": "Hogyan növekszik a tanítvány?",
-    "date": "2015.07.10",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Tanítványság",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150710A.mp3",
-    "uuid": "58afc4ab-7c91-4659-b3a1-7c2b08b33b7c",
-    "length": 2716,
-    "size": 8148007
-  },
-  {
     "title": "Milyen a tanítványok közössége?",
     "date": "2015.07.10",
     "place": "Piliscsaba",
@@ -5597,6 +5586,17 @@
     "uuid": "6caca8b9-c659-442f-964e-885238df707e",
     "length": 3517,
     "size": 10552086
+  },
+  {
+    "title": "Hogyan növekszik a tanítvány?",
+    "date": "2015.07.10",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Tanítványság",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150710A.mp3",
+    "uuid": "58afc4ab-7c91-4659-b3a1-7c2b08b33b7c",
+    "length": 2716,
+    "size": 8148007
   },
   {
     "title": "Mire való az egyház?",
@@ -7898,17 +7898,6 @@
     "size": 8222561
   },
   {
-    "title": "Ef 1,15-2,7",
-    "date": "2013.08.05",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130805A.mp3",
-    "uuid": "6e91d2e5-37c4-47ca-8ccd-4a0b45710abf",
-    "length": 2954,
-    "size": 8864390
-  },
-  {
     "title": "Ef 2,8-10",
     "date": "2013.08.05",
     "place": "Szajol",
@@ -7918,6 +7907,17 @@
     "uuid": "f5006cb3-1688-42e3-b0ba-145018aeaa02",
     "length": 2274,
     "size": 6822292
+  },
+  {
+    "title": "Ef 1,15-2,7",
+    "date": "2013.08.05",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130805A.mp3",
+    "uuid": "6e91d2e5-37c4-47ca-8ccd-4a0b45710abf",
+    "length": 2954,
+    "size": 8864390
   },
   {
     "title": "Ef 1,1-14",
