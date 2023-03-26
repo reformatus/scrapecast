@@ -2629,17 +2629,6 @@
     "size": 57675467
   },
   {
-    "title": "Az Emberfia - 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Kicsoda az Emberfia Jézus?- 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -2647,6 +2636,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Az Emberfia - 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
     "length": 3751,
     "size": 60030249
   },
@@ -9141,17 +9141,6 @@
     "size": 50488658
   },
   {
-    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
-    "bible": "ApCsel28,11-15",
-    "date": "2019.12.22",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/S37UxWvCLUI",
-    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
-    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
-    "length": 2720,
-    "size": 43521157
-  },
-  {
     "title": "Isten életünket is rendezi - 17h",
     "bible": "Lukács2,1-5",
     "date": "2019.12.22",
@@ -9161,6 +9150,17 @@
     "uuid": "b6b21935-fe5d-4653-a652-ed4e795ca559",
     "length": 2660,
     "size": 42560809
+  },
+  {
+    "title": "Isten általunk is munkálkodik (Széchenyiváros)",
+    "bible": "ApCsel28,11-15",
+    "date": "2019.12.22",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/S37UxWvCLUI",
+    "download": "/media/files/igehirdetesek/20191222_9,30h_NH_ApCs_28,11-15_Isten_általunk_is_munkálkodik_(Széchenyiváros).mp3",
+    "uuid": "c2b98a19-8f8b-4b01-8f9c-387b14eed367",
+    "length": 2720,
+    "size": 43521157
   },
   {
     "title": "Adventi igehirdetés másképp - Kert",
