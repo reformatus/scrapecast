@@ -374,17 +374,6 @@
     "size": 41452668
   },
   {
-    "title": "Bűnbánati hét-Bölcsesség és bolondság - 17h",
-    "bible": "Példabeszédek 1,1-9.",
-    "date": "2023.02.23",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
-    "uuid": "c8ad06fb-50a5-4dc5-b353-c94be259bc22",
-    "length": 3089,
-    "size": 49425056
-  },
-  {
     "title": "Böjti evangélizáció-Bölcsesség és bolondság - 17h",
     "bible": "Példabeszédek 1,1-9.",
     "date": "2023.02.23",
@@ -392,6 +381,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
     "uuid": "084f7bda-b4f4-4ffe-bf41-d6cd3da85f02",
+    "length": 3089,
+    "size": 49425056
+  },
+  {
+    "title": "Bűnbánati hét-Bölcsesség és bolondság - 17h",
+    "bible": "Példabeszédek 1,1-9.",
+    "date": "2023.02.23",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
+    "uuid": "c8ad06fb-50a5-4dc5-b353-c94be259bc22",
     "length": 3089,
     "size": 49425056
   },
@@ -2255,15 +2255,15 @@
     "size": 71956296
   },
   {
-    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
-    "bible": "Márk 16,20.",
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
     "date": "2022.06.05",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
-    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
-    "length": 4344,
-    "size": 69514529
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -2277,15 +2277,15 @@
     "size": 71956296
   },
   {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
+    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
+    "bible": "Márk 16,20.",
     "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
+    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
+    "length": 4344,
+    "size": 69514529
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -4675,17 +4675,6 @@
     "size": 50448647
   },
   {
-    "title": "Nyomorúság és szabadulás - 19,30h",
-    "bible": "Zsoltárok 18,7.",
-    "date": "2021.07.22",
-    "pastor": "Csomós József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210722_19,30h_CSJ_Zsoltárok18,7_Nyomorúság_és_szabadulás.mp3",
-    "uuid": "03e79cd6-075f-4436-a559-259e085b3cd2",
-    "length": 2126,
-    "size": 51035267
-  },
-  {
     "title": "A Bukás - 7,15h",
     "bible": "Lukács 22,54-62.",
     "date": "2021.07.22",
@@ -4695,6 +4684,17 @@
     "uuid": "1c78ba8c-1e09-459b-8910-e27f3f6ba4f1",
     "length": 1172,
     "size": 18765020
+  },
+  {
+    "title": "Nyomorúság és szabadulás - 19,30h",
+    "bible": "Zsoltárok 18,7.",
+    "date": "2021.07.22",
+    "pastor": "Csomós József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210722_19,30h_CSJ_Zsoltárok18,7_Nyomorúság_és_szabadulás.mp3",
+    "uuid": "03e79cd6-075f-4436-a559-259e085b3cd2",
+    "length": 2126,
+    "size": 51035267
   },
   {
     "title": "A Követés - 19,30h",
@@ -7711,17 +7711,6 @@
     "size": 56704129
   },
   {
-    "title": "Az Úrnak céljai vannak velem - 18h",
-    "bible": "ApCsel8,1-8.",
-    "date": "2020.06.28",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20200628_18h_WZ_Ap_Cs_8,1-8_Az_Úrnak_célja_van_velem_a_változásokban_is.mp3",
-    "uuid": "0a77c1f1-260d-4560-b31f-782b4e316a6b",
-    "length": 2517,
-    "size": 40278334
-  },
-  {
     "title": "A mustármagnyi hit",
     "bible": "(Mt 17,14-21) Mt 13,31,32",
     "date": "2020.06.28",
@@ -7731,6 +7720,17 @@
     "uuid": "f841b096-4600-4777-9a9b-7dc5e8b64e60",
     "length": 4138,
     "size": 66219806
+  },
+  {
+    "title": "Az Úrnak céljai vannak velem - 18h",
+    "bible": "ApCsel8,1-8.",
+    "date": "2020.06.28",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20200628_18h_WZ_Ap_Cs_8,1-8_Az_Úrnak_célja_van_velem_a_változásokban_is.mp3",
+    "uuid": "0a77c1f1-260d-4560-b31f-782b4e316a6b",
+    "length": 2517,
+    "size": 40278334
   },
   {
     "title": "Beszélgetés Simon Péterrel - 18h",
@@ -7953,17 +7953,6 @@
     "size": 58848678
   },
   {
-    "title": "Egy akarattal együtt küldetésre készen - 18h",
-    "bible": "ApCsel2,1-11.",
-    "date": "2020.05.31",
-    "pastor": "Vass Réka Adrienn",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20200531_18h_VRA_ApCs_2,1-11_Egy_akarattal_együtt,_küldetésre_készen.mp3",
-    "uuid": "164fa907-3aac-44de-a5b9-c25ae801ede5",
-    "length": 2827,
-    "size": 45245361
-  },
-  {
     "title": "Széchenyivárosi Pünkösdi Istentisztelet",
     "bible": "Lukács11,13b",
     "date": "2020.05.31",
@@ -7973,6 +7962,17 @@
     "uuid": "bd824641-ceaf-4557-8cc4-8104068484cb",
     "length": 3134,
     "size": 50155340
+  },
+  {
+    "title": "Egy akarattal együtt küldetésre készen - 18h",
+    "bible": "ApCsel2,1-11.",
+    "date": "2020.05.31",
+    "pastor": "Vass Réka Adrienn",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20200531_18h_VRA_ApCs_2,1-11_Egy_akarattal_együtt,_küldetésre_készen.mp3",
+    "uuid": "164fa907-3aac-44de-a5b9-c25ae801ede5",
+    "length": 2827,
+    "size": 45245361
   },
   {
     "title": "Szentlélek ajándékai :: Könyörület",
@@ -10219,17 +10219,6 @@
     "size": 53743161
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
-    "date": "2019.06.09",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
-  },
-  {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
     "bible": "János3,8",
     "date": "2019.06.09",
@@ -10239,6 +10228,17 @@
     "uuid": "5f4abbb4-b136-420d-b677-3c2d3b0e2b6e",
     "length": 6177,
     "size": 98845464
+  },
+  {
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
+    "date": "2019.06.09",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -11363,17 +11363,6 @@
     "size": 49540218
   },
   {
-    "title": "A Biblia megbízhatósága",
-    "bible": "Lukács1,1-4.",
-    "date": "2019.01.20",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190120_17h_WZ_Luk1,1-4_A_Biblia_megbízhatósága.mp3",
-    "uuid": "7c576814-3aba-446b-96c1-8da415bcd417",
-    "length": 3614,
-    "size": 57827806
-  },
-  {
     "title": "Mi Krisztus célja?",
     "bible": "János3,17",
     "date": "2019.01.20",
@@ -11383,6 +11372,17 @@
     "uuid": "77681275-659a-4c7a-994b-bcb6c3554fd5",
     "length": 3257,
     "size": 52114776
+  },
+  {
+    "title": "A Biblia megbízhatósága",
+    "bible": "Lukács1,1-4.",
+    "date": "2019.01.20",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190120_17h_WZ_Luk1,1-4_A_Biblia_megbízhatósága.mp3",
+    "uuid": "7c576814-3aba-446b-96c1-8da415bcd417",
+    "length": 3614,
+    "size": 57827806
   },
   {
     "title": "A mindennapi Kenyér - 11h",
@@ -16742,6 +16742,17 @@
     "size": 13927489
   },
   {
+    "title": "Hittel megtelt diákélet - 7,15h",
+    "bible": "Lukács17,5-7",
+    "date": "2015.04.01",
+    "pastor": "Tuska Noémi diák",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
+    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
+    "length": 564,
+    "size": 4513586
+  },
+  {
     "title": "Nincs itt, feltámadt - 10,35h",
     "bible": "Márk16,6",
     "date": "2015.04.01",
@@ -16773,17 +16784,6 @@
     "uuid": "784a10ee-c663-4af0-8545-248a3a505de1",
     "length": 1786,
     "size": 14294249
-  },
-  {
-    "title": "Hittel megtelt diákélet - 7,15h",
-    "bible": "Lukács17,5-7",
-    "date": "2015.04.01",
-    "pastor": "Tuska Noémi diák",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
-    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
-    "length": 564,
-    "size": 4513586
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -17897,6 +17897,17 @@
     "size": 13209436
   },
   {
+    "title": "Adni és kapni - 18h",
+    "bible": "Máté7,12",
+    "date": "2014.08.31",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
+    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
+    "length": 1525,
+    "size": 12207796
+  },
+  {
     "title": "Mindenki látja - 15h",
     "bible": "Zsoltárok97,6",
     "date": "2014.08.31",
@@ -17917,17 +17928,6 @@
     "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
     "length": 2805,
     "size": 22441318
-  },
-  {
-    "title": "Adni és kapni - 18h",
-    "bible": "Máté7,12",
-    "date": "2014.08.31",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
-    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
-    "length": 1525,
-    "size": 12207796
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
@@ -18403,17 +18403,6 @@
     "size": 19589582
   },
   {
-    "title": "HK 104. kérdés - 18h",
-    "bible": "Római13,1-7",
-    "date": "2014.06.15",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140615 18h SzSz_hitm.it_HK104.kerd_Rom13,1_7.mp3",
-    "uuid": "5e7f22b7-5fcd-44eb-a046-45079bf9391f",
-    "length": 2017,
-    "size": 16143519
-  },
-  {
     "title": "Közel az Ige - 16h",
     "bible": "Római10,8",
     "date": "2014.06.15",
@@ -18423,6 +18412,17 @@
     "uuid": "1757fe3b-104b-4385-a8ca-ca1dc280f3d5",
     "length": 2442,
     "size": 19537755
+  },
+  {
+    "title": "HK 104. kérdés - 18h",
+    "bible": "Római13,1-7",
+    "date": "2014.06.15",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140615 18h SzSz_hitm.it_HK104.kerd_Rom13,1_7.mp3",
+    "uuid": "5e7f22b7-5fcd-44eb-a046-45079bf9391f",
+    "length": 2017,
+    "size": 16143519
   },
   {
     "title": "A mindig újra kezdés kegyelme - 18h",
@@ -29502,17 +29502,6 @@
     "size": 13046118
   },
   {
-    "title": "Emberek a kereszt alatt. - János apostol - 17h",
-    "bible": "János19,25-27",
-    "date": "2008.03.21",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080320_17h_fodorne-ablonczy-margit--emberek-a-kereszt-alatt.-janos-apostol--jan.-1925-27--2008.-03.-20.-17h.mp3",
-    "uuid": "474399a9-ed74-415b-b6fc-18a5be92be20",
-    "length": 2078,
-    "size": 10391032
-  },
-  {
     "title": "Bizony Istennek a Fia volt ez. - 10h",
     "bible": "Máté,27;54",
     "date": "2008.03.21",
@@ -29522,6 +29511,17 @@
     "uuid": "b3f90e66-bc65-4492-b971-43ef9272edc9",
     "length": 3745,
     "size": 59921181
+  },
+  {
+    "title": "Emberek a kereszt alatt. - János apostol - 17h",
+    "bible": "János19,25-27",
+    "date": "2008.03.21",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080320_17h_fodorne-ablonczy-margit--emberek-a-kereszt-alatt.-janos-apostol--jan.-1925-27--2008.-03.-20.-17h.mp3",
+    "uuid": "474399a9-ed74-415b-b6fc-18a5be92be20",
+    "length": 2078,
+    "size": 10391032
   },
   {
     "title": "Emberek a kereszt alatt. - A római százados hite. - 17h",
