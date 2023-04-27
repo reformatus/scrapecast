@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 26 Apr 2023 23:23:30 +0100
+✅ Legutóbb frissítve: Thu, 27 Apr 2023 10:29:04 +0100
 
 Epizódok száma: 2793
 
@@ -37,7 +37,7 @@ Epizódok száma: 2793
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 26 Apr 2023 23:23:31 +0100
+✅ Legutóbb frissítve: Thu, 27 Apr 2023 10:29:05 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Wed, 26 Apr 2023 23:23:44 +0100
+✅ Legutóbb frissítve: Thu, 27 Apr 2023 10:29:26 +0100
 
-Epizódok száma: 813
+Epizódok száma: 820
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 813
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2023.04.02 - Lk 19,28-44 - Bibliamagyarázat - Lukács evangéliuma
- - 2023.03.26 - Mt 20,17-28 - Bibliamagyarázat - Máté evangéliuma
- - 2023.03.10 - Megértõ beszéd megfáradt lelkészekhez - Lelkészképzés
- - 2023.03.10 - Gondolatok a lelkészi hivatásról - Lelkészképzés
- - 2023.02.25 - Közösségi vezetés - Vallásismeret - Egyháztan
- - 2023.02.24 - Elakadások a lelki fejlõdésben (5) - Céltévesztés - Vallásismeret - Egyháztan
+ - 2023.04.26 - Gyülekezeti tagokból tanítványok (7) - kapcsolatorientáltság - Lelkészképzés
+ - 2023.04.25 - Gyülekezeti tagokból tanítványok (3) - pásztori feladatok - Lelkészképzés
+ - 2023.04.25 - Gyülekezeti tagokból tanítványok (4) - lelki növekedés - Lelkészképzés
+ - 2023.04.25 - Gyülekezeti tagokból tanítványok (5) - kudarcok kezelése - Lelkészképzés
+ - 2023.04.25 - Gyülekezeti tagokból tanítványok (6) - sáfárság - Lelkészképzés
+ - 2023.04.24 - Gyülekezeti tagokból tanítványok (1) - Pál apostol módszere - Lelkészképzés
 
 ---
 
