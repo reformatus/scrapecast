@@ -1881,17 +1881,6 @@
     "size": 93269080
   },
   {
-    "title": "\"Mert az én igám boldogító, és az én terhem könnyű.\" - 18h",
-    "bible": "Máté 11,28-30.",
-    "date": "2022.08.21",
-    "pastor": "Imre Veronika",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220821_18h_IV_Máté11,28-30._Mert_én_igám_boldogító,_és_én_terhem_könnyű..mp3",
-    "uuid": "cabc8de2-89a6-421c-81ee-9fba075d232b",
-    "length": 2926,
-    "size": 70232214
-  },
-  {
     "title": "Szövetség Dáviddal. - Széchenyiváros",
     "bible": "2 Sámuel 7,8-17.; 23,5.",
     "date": "2022.08.21",
@@ -1901,6 +1890,17 @@
     "uuid": "c2cfea5b-8a2f-4672-891e-7823e8aa2c26",
     "length": 5656,
     "size": 90499005
+  },
+  {
+    "title": "\"Mert az én igám boldogító, és az én terhem könnyű.\" - 18h",
+    "bible": "Máté 11,28-30.",
+    "date": "2022.08.21",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220821_18h_IV_Máté11,28-30._Mert_én_igám_boldogító,_és_én_terhem_könnyű..mp3",
+    "uuid": "cabc8de2-89a6-421c-81ee-9fba075d232b",
+    "length": 2926,
+    "size": 70232214
   },
   {
     "title": "\"Minden szabad nekem, de nem minden használ.\" - 9h",
@@ -2390,23 +2390,23 @@
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
     "bible": "ApCsel 18,1-11.",
     "date": "2022.06.05",
+    "pastor": "Kutiné Filep Katalin",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
+    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
+    "length": 2998,
+    "size": 71956296
+  },
+  {
+    "title": "\"Sok népem van ebben a városban.\" - 18h ",
+    "bible": "ApCsel 18,1-11.",
+    "date": "2022.06.05",
     "pastor": "Borsos-Pintér Nóra",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
     "uuid": "67199b6a-a389-4669-a81b-454ecb14c98f",
     "length": 2998,
     "size": 71956296
-  },
-  {
-    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
-    "bible": "Márk 16,20.",
-    "date": "2022.06.05",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
-    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
-    "length": 4344,
-    "size": 69514529
   },
   {
     "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
@@ -2420,15 +2420,15 @@
     "size": 161269641
   },
   {
-    "title": "\"Sok népem van ebben a városban.\" - 18h ",
-    "bible": "ApCsel 18,1-11.",
+    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
+    "bible": "Márk 16,20.",
     "date": "2022.06.05",
-    "pastor": "Kutiné Filep Katalin",
+    "pastor": "Fodorné Ablonczy Margit",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
-    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
-    "length": 2998,
-    "size": 71956296
+    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
+    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
+    "length": 4344,
+    "size": 69514529
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -11407,17 +11407,6 @@
     "size": 76552227
   },
   {
-    "title": "Hogyan olvassuk a Szentírást? - Ifi it.",
-    "bible": "Jelenések22,6-21",
-    "date": "2019.01.27",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190127_WZ_17h_Jel22,6-21.mp3",
-    "uuid": "e19c879c-02e3-4438-a18f-ac43b381dfb8",
-    "length": 4306,
-    "size": 68898739
-  },
-  {
     "title": "Isten hatalmas története, és ami helyünk ebben",
     "bible": "A missziói gyülekezet 13 jellemvonása",
     "date": "2019.01.27",
@@ -11427,6 +11416,17 @@
     "uuid": "ec5b36d2-f575-466a-ba86-28cfabca8f5d",
     "length": 5092,
     "size": 122228502
+  },
+  {
+    "title": "Hogyan olvassuk a Szentírást? - Ifi it.",
+    "bible": "Jelenések22,6-21",
+    "date": "2019.01.27",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190127_WZ_17h_Jel22,6-21.mp3",
+    "uuid": "e19c879c-02e3-4438-a18f-ac43b381dfb8",
+    "length": 4306,
+    "size": 68898739
   },
   {
     "title": "A kánaáni nő - 17h",
@@ -12276,17 +12276,6 @@
     "size": 63996357
   },
   {
-    "title": "A gyász - Ifjúsági it",
-    "bible": "Jób1,13-22",
-    "date": "2018.10.21",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20181021_18h_WZ_Jób1,13-22_gyász.mp3",
-    "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
-    "length": 4256,
-    "size": 68104177
-  },
-  {
     "title": "Együtt Jézussal",
     "bible": "Lukács24,15",
     "date": "2018.10.21",
@@ -12296,6 +12285,17 @@
     "uuid": "487560c4-168e-49b1-81ba-49eb96442010",
     "length": 2982,
     "size": 47717928
+  },
+  {
+    "title": "A gyász - Ifjúsági it",
+    "bible": "Jób1,13-22",
+    "date": "2018.10.21",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20181021_18h_WZ_Jób1,13-22_gyász.mp3",
+    "uuid": "5a2d35f5-c21c-4297-899b-7551256330a8",
+    "length": 4256,
+    "size": 68104177
   },
   {
     "title": "Az akadályok leküzdése - 11h",
@@ -15213,17 +15213,6 @@
     "size": 33699412
   },
   {
-    "title": "A Lélek egységet teremt (Katonatelep)",
-    "bible": "ApCsel2,1-21",
-    "date": "2016.05.15",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
-    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
-    "length": 2051,
-    "size": 16412124
-  },
-  {
     "title": "Konfirmáció (Katonatelep)",
     "bible": "ApCsel2,1-21",
     "date": "2016.05.15",
@@ -15233,6 +15222,17 @@
     "uuid": "706de993-54c1-4e3b-a27f-9d982781804d",
     "length": 2719,
     "size": 21758019
+  },
+  {
+    "title": "A Lélek egységet teremt (Katonatelep)",
+    "bible": "ApCsel2,1-21",
+    "date": "2016.05.15",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
+    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
+    "length": 2051,
+    "size": 16412124
   },
   {
     "title": "Biztos, mint a napfelkelte (Katonatelep)",
@@ -23551,17 +23551,6 @@
     "size": 44586466
   },
   {
-    "title": "Ahol a Lélek ott a szabadság - 18h",
-    "bible": "2Korinthus3,17-18",
-    "date": "2012.05.28",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120528_18h_AN_Ahol_a_Lelek_ott_a_szabadsag_2Kor3_17_18.mp3",
-    "uuid": "9bc7adf7-c433-49cd-afcf-3b5008d60ef5",
-    "length": 2052,
-    "size": 16416644
-  },
-  {
     "title": "Az asztal terítve immár minden kész - 11,30h",
     "bible": "2Sámuel9,1-9",
     "date": "2012.05.28",
@@ -23571,6 +23560,17 @@
     "uuid": "b0b7d806-f114-4449-9a0b-aff88b04e9ff",
     "length": 6177,
     "size": 49416194
+  },
+  {
+    "title": "Ahol a Lélek ott a szabadság - 18h",
+    "bible": "2Korinthus3,17-18",
+    "date": "2012.05.28",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120528_18h_AN_Ahol_a_Lelek_ott_a_szabadsag_2Kor3_17_18.mp3",
+    "uuid": "9bc7adf7-c433-49cd-afcf-3b5008d60ef5",
+    "length": 2052,
+    "size": 16416644
   },
   {
     "title": "Pünkösd - 11h",
@@ -25223,17 +25223,6 @@
     "size": 15680827
   },
   {
-    "title": "Lakó Sándor zenekar szolgálata - 11h",
-    "bible": "János4,4-14",
-    "date": "2011.07.03",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110703_11h_HT_Lako_S_zenekar_szolgalata_Jn4_4_14.mp3",
-    "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
-    "length": 1857,
-    "size": 14859746
-  },
-  {
     "title": "Jézus adja az örök élet vizét - 11h",
     "bible": "János4,4-14",
     "date": "2011.07.03",
@@ -25243,6 +25232,17 @@
     "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
     "length": 44,
     "size": 352592
+  },
+  {
+    "title": "Lakó Sándor zenekar szolgálata - 11h",
+    "bible": "János4,4-14",
+    "date": "2011.07.03",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110703_11h_HT_Lako_S_zenekar_szolgalata_Jn4_4_14.mp3",
+    "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
+    "length": 1857,
+    "size": 14859746
   },
   {
     "title": "Már igen még nem - 9h",
@@ -27104,17 +27104,6 @@
     "size": 14138976
   },
   {
-    "title": "A Lélek munkálkodik - 11,45h",
-    "bible": "ApCsel2,5-11",
-    "date": "2010.05.24",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100524_11_45h_Adamek_Norbert_Punkosd_hetfo_A_lelek_munkalkodik_Apcs_2_5_11.mp3",
-    "uuid": "b28b0951-c2e6-4b04-bfb5-03972b18267c",
-    "length": 1818,
-    "size": 14547531
-  },
-  {
     "title": "\"Pünkösd hétfő\" - 18h",
     "bible": "ApCsel 2:41-42",
     "date": "2010.05.24",
@@ -27124,6 +27113,17 @@
     "uuid": "55625ebe-452b-4e68-ab56-7c4f45e8cd3e",
     "length": 2048,
     "size": 32781628
+  },
+  {
+    "title": "A Lélek munkálkodik - 11,45h",
+    "bible": "ApCsel2,5-11",
+    "date": "2010.05.24",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100524_11_45h_Adamek_Norbert_Punkosd_hetfo_A_lelek_munkalkodik_Apcs_2_5_11.mp3",
+    "uuid": "b28b0951-c2e6-4b04-bfb5-03972b18267c",
+    "length": 1818,
+    "size": 14547531
   },
   {
     "title": "Merre tovább - Mit tegyünk - 9h",
@@ -29645,17 +29645,6 @@
     "size": 13046118
   },
   {
-    "title": "Bizony Istennek a Fia volt ez. - 10h",
-    "bible": "Máté,27;54",
-    "date": "2008.03.21",
-    "pastor": "Varga László",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080321_10h-varga-laszlo--bizony-istennek-a-fia-volt-ez.--mate-2746;54-2008.-03.-21.-10h-nagypentek-tv-kozv-sztereo-hangja.mp3",
-    "uuid": "b3f90e66-bc65-4492-b971-43ef9272edc9",
-    "length": 3745,
-    "size": 59921181
-  },
-  {
     "title": "Emberek a kereszt alatt. - János apostol - 17h",
     "bible": "János19,25-27",
     "date": "2008.03.21",
@@ -29665,6 +29654,17 @@
     "uuid": "474399a9-ed74-415b-b6fc-18a5be92be20",
     "length": 2078,
     "size": 10391032
+  },
+  {
+    "title": "Bizony Istennek a Fia volt ez. - 10h",
+    "bible": "Máté,27;54",
+    "date": "2008.03.21",
+    "pastor": "Varga László",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080321_10h-varga-laszlo--bizony-istennek-a-fia-volt-ez.--mate-2746;54-2008.-03.-21.-10h-nagypentek-tv-kozv-sztereo-hangja.mp3",
+    "uuid": "b3f90e66-bc65-4492-b971-43ef9272edc9",
+    "length": 3745,
+    "size": 59921181
   },
   {
     "title": "Emberek a kereszt alatt. - A római százados hite. - 17h",

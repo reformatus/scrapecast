@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 14 May 2023 12:25:59 +0100
+✅ Legutóbb frissítve: Sun, 14 May 2023 13:21:20 +0100
 
 Epizódok száma: 2800
 
@@ -37,7 +37,7 @@ Epizódok száma: 2800
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 14 May 2023 12:25:59 +0100
+✅ Legutóbb frissítve: Sun, 14 May 2023 13:21:20 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 14 May 2023 12:26:10 +0100
+✅ Legutóbb frissítve: Sun, 14 May 2023 13:21:34 +0100
 
-Epizódok száma: 821
+Epizódok száma: 822
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 821
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.05.14 - Zsid 4,14-16 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2023.05.07 - Zsid 3,1-6 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2023.04.26 - Gyülekezeti tagokból tanítványok (7) - kapcsolatorientáltság - Lelkészképzés
  - 2023.04.25 - Gyülekezeti tagokból tanítványok (3) - pásztori feladatok - Lelkészképzés
  - 2023.04.25 - Gyülekezeti tagokból tanítványok (4) - lelki növekedés - Lelkészképzés
  - 2023.04.25 - Gyülekezeti tagokból tanítványok (5) - kudarcok kezelése - Lelkészképzés
- - 2023.04.25 - Gyülekezeti tagokból tanítványok (6) - sáfárság - Lelkészképzés
 
 ---
 
