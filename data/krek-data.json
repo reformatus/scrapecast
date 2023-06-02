@@ -748,17 +748,6 @@
     "size": 41452668
   },
   {
-    "title": "Böjti evangélizáció-Bölcsesség és bolondság - 17h",
-    "bible": "Példabeszédek 1,1-9.",
-    "date": "2023.02.23",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
-    "uuid": "084f7bda-b4f4-4ffe-bf41-d6cd3da85f02",
-    "length": 3089,
-    "size": 49425056
-  },
-  {
     "title": "Bűnbánati hét-Bölcsesség és bolondság - 17h",
     "bible": "Példabeszédek 1,1-9.",
     "date": "2023.02.23",
@@ -766,6 +755,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
     "uuid": "c8ad06fb-50a5-4dc5-b353-c94be259bc22",
+    "length": 3089,
+    "size": 49425056
+  },
+  {
+    "title": "Böjti evangélizáció-Bölcsesség és bolondság - 17h",
+    "bible": "Példabeszédek 1,1-9.",
+    "date": "2023.02.23",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230223_17h_KJ_Példabeszédek1,1-9._Bölcsesség és bolondság.mp3",
+    "uuid": "084f7bda-b4f4-4ffe-bf41-d6cd3da85f02",
     "length": 3089,
     "size": 49425056
   },
@@ -3190,17 +3190,6 @@
     "size": 57675467
   },
   {
-    "title": "Kicsoda az Emberfia Jézus?- 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Az Emberfia - 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -3208,6 +3197,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Kicsoda az Emberfia Jézus?- 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
     "length": 3751,
     "size": 60030249
   },
@@ -9174,17 +9174,6 @@
     "size": 88182307
   },
   {
-    "title": "Keresztelő János bizonyságtételei (Széchenyiváros)",
-    "bible": "János1,19-34",
-    "date": "2020.01.26",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/nrHkOQr_4UM",
-    "download": "/media/files/igehirdetesek/20200126_9,30h_PF_Jn_1,19-34_Keresztelő_János_bizonyságtételei_(Széchenyiváros).mp3",
-    "uuid": "ce0a7a0e-af9c-4e46-b3e1-3a95c7da17f5",
-    "length": 4137,
-    "size": 41379768
-  },
-  {
     "title": "A keresztség Sákramentuma (Széchenyiváros)",
     "bible": "János1,29-36.",
     "date": "2020.01.26",
@@ -9194,6 +9183,17 @@
     "uuid": "791bbc55-3fe5-4e70-861b-f59b57b285af",
     "length": 12269,
     "size": 98153730
+  },
+  {
+    "title": "Keresztelő János bizonyságtételei (Széchenyiváros)",
+    "bible": "János1,19-34",
+    "date": "2020.01.26",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/nrHkOQr_4UM",
+    "download": "/media/files/igehirdetesek/20200126_9,30h_PF_Jn_1,19-34_Keresztelő_János_bizonyságtételei_(Széchenyiváros).mp3",
+    "uuid": "ce0a7a0e-af9c-4e46-b3e1-3a95c7da17f5",
+    "length": 4137,
+    "size": 41379768
   },
   {
     "title": "Ökumenikus imahét 2020 :: Megtérés",
@@ -10582,15 +10582,15 @@
     "size": 46399094
   },
   {
-    "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
-    "bible": "János3,8",
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
     "date": "2019.06.09",
-    "pastor": "Kuti József",
+    "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_9h_KJ_János3,8_A_Szentlélek_munkája.MP3",
-    "uuid": "5f4abbb4-b136-420d-b677-3c2d3b0e2b6e",
-    "length": 6177,
-    "size": 98845464
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "A Szentlélekről - 18h",
@@ -10604,15 +10604,15 @@
     "size": 53743161
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
+    "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
+    "bible": "János3,8",
     "date": "2019.06.09",
-    "pastor": "Weiner Zoltán",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
+    "download": "/media/files/igehirdetesek/20190609_9h_KJ_János3,8_A_Szentlélek_munkája.MP3",
+    "uuid": "5f4abbb4-b136-420d-b677-3c2d3b0e2b6e",
+    "length": 6177,
+    "size": 98845464
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -11737,17 +11737,6 @@
     "size": 49540218
   },
   {
-    "title": "A Biblia megbízhatósága",
-    "bible": "Lukács1,1-4.",
-    "date": "2019.01.20",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190120_17h_WZ_Luk1,1-4_A_Biblia_megbízhatósága.mp3",
-    "uuid": "7c576814-3aba-446b-96c1-8da415bcd417",
-    "length": 3614,
-    "size": 57827806
-  },
-  {
     "title": "Mi Krisztus célja?",
     "bible": "János3,17",
     "date": "2019.01.20",
@@ -11757,6 +11746,17 @@
     "uuid": "77681275-659a-4c7a-994b-bcb6c3554fd5",
     "length": 3257,
     "size": 52114776
+  },
+  {
+    "title": "A Biblia megbízhatósága",
+    "bible": "Lukács1,1-4.",
+    "date": "2019.01.20",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190120_17h_WZ_Luk1,1-4_A_Biblia_megbízhatósága.mp3",
+    "uuid": "7c576814-3aba-446b-96c1-8da415bcd417",
+    "length": 3614,
+    "size": 57827806
   },
   {
     "title": "A mindennapi Kenyér - 11h",
@@ -25146,17 +25146,6 @@
     "size": 16282270
   },
   {
-    "title": "Hit és üdvösség - 18h",
-    "bible": "Máté16,16",
-    "date": "2011.09.11",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
-    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
-    "length": 2198,
-    "size": 17588393
-  },
-  {
     "title": "Isteni igazság - 17h",
     "bible": "Jób9,1-7",
     "date": "2011.09.11",
@@ -25166,6 +25155,17 @@
     "uuid": "2447eca1-e193-4f49-9613-49c487d06c00",
     "length": 2945,
     "size": 23565209
+  },
+  {
+    "title": "Hit és üdvösség - 18h",
+    "bible": "Máté16,16",
+    "date": "2011.09.11",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
+    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
+    "length": 2198,
+    "size": 17588393
   },
   {
     "title": "Embereket Krisztushoz vezetni - 9h",
@@ -27698,17 +27698,6 @@
     "size": 7328540
   },
   {
-    "title": "Az én beszédeim nem múlnak el - 7,15h",
-    "bible": "Lukács21,33",
-    "date": "2010.03.24",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100325_7_15h_an_reggeli_ahitat_az_en_beszedeim_nem_mulnak_el_lk_21_33.mp3",
-    "uuid": "f7f00355-8e52-464f-9d49-37010b2200dc",
-    "length": 1045,
-    "size": 8367377
-  },
-  {
     "title": "Emeljétek fel a fejeteket - 7,15h",
     "bible": "Lukács21,28",
     "date": "2010.03.24",
@@ -27718,6 +27707,17 @@
     "uuid": "fdcce143-0cc5-4f6e-80a9-fda302ef3800",
     "length": 661,
     "size": 5288899
+  },
+  {
+    "title": "Az én beszédeim nem múlnak el - 7,15h",
+    "bible": "Lukács21,33",
+    "date": "2010.03.24",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100325_7_15h_an_reggeli_ahitat_az_en_beszedeim_nem_mulnak_el_lk_21_33.mp3",
+    "uuid": "f7f00355-8e52-464f-9d49-37010b2200dc",
+    "length": 1045,
+    "size": 8367377
   },
   {
     "title": "Mindent oda adott - 7,15h",
