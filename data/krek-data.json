@@ -121,17 +121,6 @@
     "size": 82244254
   },
   {
-    "title": "A Lélek gyümölcse-hűség. - 11,30h",
-    "bible": "Galata 5,22-23",
-    "date": "2023.05.28",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230528_11,30h_PF_Galata5,22-23_A_Lélek_gyümölcs_hűség.mp3",
-    "uuid": "5e375cdd-bf9d-4963-8c7a-c35d39d11f85",
-    "length": 3597,
-    "size": 57554839
-  },
-  {
     "title": "\"...mert mindenki a maga nyelvén hallotta őket beszélni.\" - 18h",
     "bible": "ApCsel 2,6-8",
     "date": "2023.05.28",
@@ -141,6 +130,17 @@
     "uuid": "7b544937-2662-4537-971d-2382d517d615",
     "length": 2749,
     "size": 43989731
+  },
+  {
+    "title": "A Lélek gyümölcse-hűség. - 11,30h",
+    "bible": "Galata 5,22-23",
+    "date": "2023.05.28",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230528_11,30h_PF_Galata5,22-23_A_Lélek_gyümölcs_hűség.mp3",
+    "uuid": "5e375cdd-bf9d-4963-8c7a-c35d39d11f85",
+    "length": 3597,
+    "size": 57554839
   },
   {
     "title": "A Lélek gyümölcse-jóság. - 18h",
@@ -1529,17 +1529,6 @@
     "size": 48281109
   },
   {
-    "title": "Krisztusba vetett reménységünk. II.-Adventi evangélizáció - 17h",
-    "bible": "Jelenések könyve 4,1-2. 5,1-10.",
-    "date": "2022.11.24",
-    "pastor": "Bán Béla",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20221124_17h_BB_Jelenések4,1-2._5,1-10._Krisztusba_vetett_reménységünk_II..mp3",
-    "uuid": "11245c2a-0108-4701-bfcb-3603512348fd",
-    "length": 2957,
-    "size": 47312618
-  },
-  {
     "title": "Krisztusba vetett reménységünk. II. - Adventi evangélizáció - 17h",
     "bible": "Jelenések könyve 4,1-2. 5,1-10.",
     "date": "2022.11.24",
@@ -1547,6 +1536,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20221124_17h_BB_Jelenések4,1-2._5,1-10._Krisztusba_vetett_reménységünk_II..mp3",
     "uuid": "53e244df-2eac-4ec7-8829-3718dcfd0b8c",
+    "length": 2957,
+    "size": 47312618
+  },
+  {
+    "title": "Krisztusba vetett reménységünk. II.-Adventi evangélizáció - 17h",
+    "bible": "Jelenések könyve 4,1-2. 5,1-10.",
+    "date": "2022.11.24",
+    "pastor": "Bán Béla",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20221124_17h_BB_Jelenések4,1-2._5,1-10._Krisztusba_vetett_reménységünk_II..mp3",
+    "uuid": "11245c2a-0108-4701-bfcb-3603512348fd",
     "length": 2957,
     "size": 47312618
   },
@@ -2541,15 +2541,15 @@
     "size": 128343796
   },
   {
-    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
-    "bible": "ApCsel 1,8.",
+    "title": "Isten szeretett gyermekei. - 18h",
+    "bible": "1. János 3,1-12.",
     "date": "2022.06.19",
-    "pastor": "Komádi Róbert",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
-    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
-    "length": 4282,
-    "size": 68517328
+    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
+    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
+    "length": 1746,
+    "size": 27941850
   },
   {
     "title": "Ötezer ember megvendégelése. - Széchenyiváros",
@@ -2563,15 +2563,15 @@
     "size": 68272354
   },
   {
-    "title": "Isten szeretett gyermekei. - 18h",
-    "bible": "1. János 3,1-12.",
+    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
+    "bible": "ApCsel 1,8.",
     "date": "2022.06.19",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
-    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
-    "length": 1746,
-    "size": 27941850
+    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
+    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
+    "length": 4282,
+    "size": 68517328
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -10362,17 +10362,6 @@
     "size": 40232776
   },
   {
-    "title": "A keresztyén egyház születése - 11h",
-    "bible": "ApCsel2,38-39",
-    "date": "2019.07.28",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190721_11h_FAM_Apcsel2,38,39_A_keresztyén_egyház_születése.MP3",
-    "uuid": "5376279f-b902-455c-80e4-f6646f8c2734",
-    "length": 3711,
-    "size": 59382669
-  },
-  {
     "title": "Amim van azt adom neked - 11h",
     "bible": "ApCsel3,6",
     "date": "2019.07.28",
@@ -10382,6 +10371,17 @@
     "uuid": "fba00a63-c823-4912-a5e6-78f12ec8e542",
     "length": 3052,
     "size": 48846747
+  },
+  {
+    "title": "A keresztyén egyház születése - 11h",
+    "bible": "ApCsel2,38-39",
+    "date": "2019.07.28",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190721_11h_FAM_Apcsel2,38,39_A_keresztyén_egyház_születése.MP3",
+    "uuid": "5376279f-b902-455c-80e4-f6646f8c2734",
+    "length": 3711,
+    "size": 59382669
   },
   {
     "title": "Áldás - 9h",
@@ -10615,17 +10615,6 @@
     "size": 46506126
   },
   {
-    "title": "Veletek maradjon mindörökké - 18h",
-    "bible": "János14,16",
-    "date": "2019.06.10",
-    "pastor": "Vass Réka Adrienn",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190610_18h_VR_János14,16_Veletek_maradjon_mindörökké.MP3",
-    "uuid": "a985cdeb-8021-4356-82c3-f23d92915924",
-    "length": 2712,
-    "size": 43405731
-  },
-  {
     "title": "Szeretet és hűség - iskolai fogadalomtétel",
     "bible": "Példabeszédek3,3",
     "date": "2019.06.10",
@@ -10635,6 +10624,17 @@
     "uuid": "88412827-eaeb-4806-b520-32949fc5eda0",
     "length": 6919,
     "size": 110711199
+  },
+  {
+    "title": "Veletek maradjon mindörökké - 18h",
+    "bible": "János14,16",
+    "date": "2019.06.10",
+    "pastor": "Vass Réka Adrienn",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190610_18h_VR_János14,16_Veletek_maradjon_mindörökké.MP3",
+    "uuid": "a985cdeb-8021-4356-82c3-f23d92915924",
+    "length": 2712,
+    "size": 43405731
   },
   {
     "title": "Jézusnak semmi sem lehetetlen - 11h",
@@ -11385,17 +11385,6 @@
     "size": 71471916
   },
   {
-    "title": "Istennek kell engedelmeskedni (Széchenyiváros)",
-    "bible": "ApCsel5,17-32",
-    "date": "2019.03.10",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/-XaAvM_qXx0",
-    "download": "/media/files/igehirdetesek/20190310_9,30h_NH_ApCs_5,17-32_Istennek_kell_engedelmeskedni_(Széchenyiváros).mp3",
-    "uuid": "99bace90-b0a7-48e6-b521-c61573e22fb9",
-    "length": 3940,
-    "size": 63050666
-  },
-  {
     "title": "A böjt - ifi it",
     "bible": "Ézsaiás 58,1-12",
     "date": "2019.03.10",
@@ -11405,6 +11394,17 @@
     "uuid": "d894954e-682d-4344-8b74-9ade4af25b2e",
     "length": 4868,
     "size": 77889665
+  },
+  {
+    "title": "Istennek kell engedelmeskedni (Széchenyiváros)",
+    "bible": "ApCsel5,17-32",
+    "date": "2019.03.10",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/-XaAvM_qXx0",
+    "download": "/media/files/igehirdetesek/20190310_9,30h_NH_ApCs_5,17-32_Istennek_kell_engedelmeskedni_(Széchenyiváros).mp3",
+    "uuid": "99bace90-b0a7-48e6-b521-c61573e22fb9",
+    "length": 3940,
+    "size": 63050666
   },
   {
     "title": "51. Zsoltár - 17h",
@@ -23419,17 +23419,6 @@
     "size": 18186910
   },
   {
-    "title": "Vigasztaljátok népemet - 18h",
-    "bible": "Ézsaiás41,1-8",
-    "date": "2012.09.02",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120902_18h_AN_Vigasztaljatok_nepemet_Ezs40_1_8.mp3",
-    "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
-    "length": 2813,
-    "size": 22508190
-  },
-  {
     "title": "Szeress, de hogyan - 16,30h",
     "bible": "1János4,9-12",
     "date": "2012.09.02",
@@ -23439,6 +23428,17 @@
     "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
     "length": 1662,
     "size": 13296788
+  },
+  {
+    "title": "Vigasztaljátok népemet - 18h",
+    "bible": "Ézsaiás41,1-8",
+    "date": "2012.09.02",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120902_18h_AN_Vigasztaljatok_nepemet_Ezs40_1_8.mp3",
+    "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
+    "length": 2813,
+    "size": 22508190
   },
   {
     "title": "Aki a Fiú, azé az élet - 18h",
@@ -24574,17 +24574,6 @@
     "size": 5779374
   },
   {
-    "title": "Presbiteri fogadalomtétel és köszöntések - 9h",
-    "bible": "Máté4,1-11",
-    "date": "2012.01.08",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120108_9h_presbiteri_fogadalomtetel_es_koszontosek.mp3",
-    "uuid": "bd490fd1-426e-40be-bacf-4384822e33f1",
-    "length": 2508,
-    "size": 20069190
-  },
-  {
     "title": "Részesedés Krisztus küzdelmében - 9h",
     "bible": "Máté4,1-11",
     "date": "2012.01.08",
@@ -24594,6 +24583,17 @@
     "uuid": "65d75fae-1caf-4fdc-8ef0-c782376950b5",
     "length": 1650,
     "size": 13207972
+  },
+  {
+    "title": "Presbiteri fogadalomtétel és köszöntések - 9h",
+    "bible": "Máté4,1-11",
+    "date": "2012.01.08",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120108_9h_presbiteri_fogadalomtetel_es_koszontosek.mp3",
+    "uuid": "bd490fd1-426e-40be-bacf-4384822e33f1",
+    "length": 2508,
+    "size": 20069190
   },
   {
     "title": "Immánuel velünk az Isten - 9h",
@@ -27775,17 +27775,6 @@
     "size": 7328540
   },
   {
-    "title": "Emeljétek fel a fejeteket - 7,15h",
-    "bible": "Lukács21,28",
-    "date": "2010.03.24",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100324_7_15h_v_reggeli_ahitat_emeljetek_fel_fejeteket_lk_21_28.mp3",
-    "uuid": "fdcce143-0cc5-4f6e-80a9-fda302ef3800",
-    "length": 661,
-    "size": 5288899
-  },
-  {
     "title": "Az én beszédeim nem múlnak el - 7,15h",
     "bible": "Lukács21,33",
     "date": "2010.03.24",
@@ -27795,6 +27784,17 @@
     "uuid": "f7f00355-8e52-464f-9d49-37010b2200dc",
     "length": 1045,
     "size": 8367377
+  },
+  {
+    "title": "Emeljétek fel a fejeteket - 7,15h",
+    "bible": "Lukács21,28",
+    "date": "2010.03.24",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100324_7_15h_v_reggeli_ahitat_emeljetek_fel_fejeteket_lk_21_28.mp3",
+    "uuid": "fdcce143-0cc5-4f6e-80a9-fda302ef3800",
+    "length": 661,
+    "size": 5288899
   },
   {
     "title": "Mindent oda adott - 7,15h",
