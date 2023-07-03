@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 02 Jul 2023 23:22:24 +0100
+✅ Legutóbb frissítve: Mon, 03 Jul 2023 10:31:16 +0100
 
 Epizódok száma: 2843
 
@@ -37,7 +37,7 @@ Epizódok száma: 2843
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 02 Jul 2023 23:22:25 +0100
+✅ Legutóbb frissítve: Mon, 03 Jul 2023 10:31:17 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 02 Jul 2023 23:22:36 +0100
+✅ Legutóbb frissítve: Mon, 03 Jul 2023 10:31:31 +0100
 
-Epizódok száma: 823
+Epizódok száma: 827
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -77,11 +77,11 @@ Epizódok száma: 823
 
 **Legutóbbi epizódok:**
  - 2023.07.02 - 2Móz 34,6a - Bibliamagyarázat - Mózes második könyve
+ - 2023.06.29 - Sáfárság (4) - "õk vigyáznak lelketekre" - Lelkészképzés
+ - 2023.06.28 - Sáfárság (3) - Isten sokféle kegyelmének sáfára - Lelkészképzés
+ - 2023.06.27 - Sáfárság (2) - Isten titkainak sáfára - Lelkészképzés
+ - 2023.06.26 - Sáfárság (1) - a sáfárság alapjai - Lelkészképzés
  - 2023.05.14 - Zsid 4,14-16 - Bibliamagyarázat - A zsidókhoz írt levél
- - 2023.05.07 - Zsid 3,1-6 - Bibliamagyarázat - A zsidókhoz írt levél
- - 2023.04.26 - Gyülekezeti tagokból tanítványok (7) - kapcsolatorientáltság - Lelkészképzés
- - 2023.04.25 - Gyülekezeti tagokból tanítványok (3) - pásztori feladatok - Lelkészképzés
- - 2023.04.25 - Gyülekezeti tagokból tanítványok (4) - lelki növekedés - Lelkészképzés
 
 ---
 
