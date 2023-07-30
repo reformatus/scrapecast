@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 30 Jul 2023 13:21:19 +0100
+✅ Legutóbb frissítve: Sun, 30 Jul 2023 14:39:26 +0100
 
-Epizódok száma: 2856
+Epizódok száma: 2858
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2856
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.07.30 - "Egyesek bosszankodtak magukban: Mire való a kenetnek ez a pazarlása?" - 11h - Komádi Róbert
+ - 2023.07.30 - "Ama nemes harcot megharcoltam, a futásomat elvégeztem, a hitet megtartottam..." - 9h - Komádi Róbert
  - 2023.07.23 - "Vigyázzatok, mert nem tudjátok, mikor jön el az az idő! - 11h - Fodorné Dr. Ablonczy Margit
  - 2023.07.23 - "Ne szégyelld hát a mi Urunkról szóló bizonyságtételt, se engem, az ő foglyát, hanem szenvedj velem együtt az evangéliumért, Isten ereje által." - 9h - Kuti József
  - 2023.07.23 - "Mert nem a félelemnek a lelkét adta nekünk az Isten, hanem az erő, a szeretet és a józanság lelkét." - 18h - Vincze Árpád
  - 2023.07.22 - "Jézus rájuk tekintett...embereknek lehetetlen, de nem az Istennek..." - 18h - Fodorné Dr. Ablonczy Margit
- - 2023.07.21 - "Haragosan végignézett rajtuk...szomorkodva szívük keménysége miatt." - 18h - Borsos-Pintér Nóra
- - 2023.07.20 - "Meglátta a sokaságot....és megszánta őket." - 18h - Kutiné Filep Katalin
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2856
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 30 Jul 2023 13:21:20 +0100
+✅ Legutóbb frissítve: Sun, 30 Jul 2023 14:39:27 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 30 Jul 2023 13:21:30 +0100
+✅ Legutóbb frissítve: Sun, 30 Jul 2023 14:39:43 +0100
 
 Epizódok száma: 828
 
