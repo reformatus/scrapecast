@@ -979,17 +979,6 @@
     "size": 8001296
   },
   {
-    "title": "Csecsemõ- és óvodáskor",
-    "date": "2022.03.28",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20220328B.mp3",
-    "uuid": "f463068f-9fcc-467d-84e1-60ff4d265563",
-    "length": 3021,
-    "size": 9064656
-  },
-  {
     "title": "Az életkori sajátosságok szerepe szolgálatainkban",
     "date": "2022.03.28",
     "place": "Sólyomkõvár",
@@ -999,6 +988,17 @@
     "uuid": "55f450b7-dd0b-4839-8d7c-25c7b36446dd",
     "length": 2550,
     "size": 7650198
+  },
+  {
+    "title": "Csecsemõ- és óvodáskor",
+    "date": "2022.03.28",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20220328B.mp3",
+    "uuid": "f463068f-9fcc-467d-84e1-60ff4d265563",
+    "length": 3021,
+    "size": 9064656
   },
   {
     "title": "2Kor 5,10-21",
@@ -1991,17 +1991,6 @@
     "size": 8377488
   },
   {
-    "title": "Jn 9,1-7",
-    "date": "2020.02.03",
-    "place": "Csongor",
-    "category": "Bibliamagyarázat - János evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20200203A.mp3",
-    "uuid": "48be9ce2-262c-425e-b93c-61f1a6e394c0",
-    "length": 3115,
-    "size": 9345630
-  },
-  {
     "title": "Barnabás jelleme (1)",
     "date": "2020.02.03",
     "place": "Csongor",
@@ -2011,6 +2000,17 @@
     "uuid": "81884375-1069-4a13-aab0-4dbba4b0bf97",
     "length": 2469,
     "size": 7407288
+  },
+  {
+    "title": "Jn 9,1-7",
+    "date": "2020.02.03",
+    "place": "Csongor",
+    "category": "Bibliamagyarázat - János evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20200203A.mp3",
+    "uuid": "48be9ce2-262c-425e-b93c-61f1a6e394c0",
+    "length": 3115,
+    "size": 9345630
   },
   {
     "title": "Zsolt 16",
@@ -5346,6 +5346,17 @@
     "size": 5515205
   },
   {
+    "title": "Biblika teológia - az örökrész ígérete",
+    "date": "2016.02.20",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220D.mp3",
+    "uuid": "5e2b1616-4d3f-4a2f-88e6-f83003f952d9",
+    "length": 1959,
+    "size": 5877529
+  },
+  {
     "title": "Biblika teológia - újrakezdés",
     "date": "2016.02.20",
     "place": "Fadd",
@@ -5368,17 +5379,6 @@
     "size": 6120707
   },
   {
-    "title": "Biblika teológia - a szent nemzet ígérete",
-    "date": "2016.02.20",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220E.mp3",
-    "uuid": "ed5929d8-8663-4c65-a092-a3cc26237914",
-    "length": 1934,
-    "size": 5803252
-  },
-  {
     "title": "Biblika teológia - kezdetek",
     "date": "2016.02.20",
     "place": "Fadd",
@@ -5390,15 +5390,15 @@
     "size": 11179004
   },
   {
-    "title": "Biblika teológia - az örökrész ígérete",
+    "title": "Biblika teológia - a szent nemzet ígérete",
     "date": "2016.02.20",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220D.mp3",
-    "uuid": "5e2b1616-4d3f-4a2f-88e6-f83003f952d9",
-    "length": 1959,
-    "size": 5877529
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220E.mp3",
+    "uuid": "ed5929d8-8663-4c65-a092-a3cc26237914",
+    "length": 1934,
+    "size": 5803252
   },
   {
     "title": "Mk 11,12-19 (A)",
@@ -5698,17 +5698,6 @@
     "size": 6745334
   },
   {
-    "title": "Jel 19,1-9",
-    "date": "2015.08.23",
-    "place": "Lengyel",
-    "category": "Bibliamagyarázat - A jelenések könyve",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Jel/MLW20150823.mp3",
-    "uuid": "e4238fde-9c5a-4241-97b5-8c392891a677",
-    "length": 1612,
-    "size": 4836856
-  },
-  {
     "title": "Jel 13,1-10 és 19,11-21",
     "date": "2015.08.23",
     "place": "Lengyel",
@@ -5718,6 +5707,17 @@
     "uuid": "a5aacca3-88e2-45eb-b250-7fe07c1667f1",
     "length": 2155,
     "size": 6467875
+  },
+  {
+    "title": "Jel 19,1-9",
+    "date": "2015.08.23",
+    "place": "Lengyel",
+    "category": "Bibliamagyarázat - A jelenések könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Jel/MLW20150823.mp3",
+    "uuid": "e4238fde-9c5a-4241-97b5-8c392891a677",
+    "length": 1612,
+    "size": 4836856
   },
   {
     "title": "Jak 2,14-26",
@@ -6721,15 +6721,15 @@
     "size": 7984952
   },
   {
-    "title": "ApCsel - A népek felé (12,25 - 16,5)",
+    "title": "ApCsel - Bevezetõ kérdések (1,1-5)",
     "date": "2014.10.12",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011F.mp3",
-    "uuid": "2b30d795-50af-4c5c-9313-3c8d5d5bf014",
-    "length": 2614,
-    "size": 7842062
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011A.mp3",
+    "uuid": "8dca16d2-2666-4dae-ab41-4610def5a42e",
+    "length": 2399,
+    "size": 7197940
   },
   {
     "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
@@ -6776,15 +6776,15 @@
     "size": 8044352
   },
   {
-    "title": "ApCsel - Bevezetõ kérdések (1,1-5)",
+    "title": "ApCsel - A népek felé (12,25 - 16,5)",
     "date": "2014.10.12",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011A.mp3",
-    "uuid": "8dca16d2-2666-4dae-ab41-4610def5a42e",
-    "length": 2399,
-    "size": 7197940
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011F.mp3",
+    "uuid": "2b30d795-50af-4c5c-9313-3c8d5d5bf014",
+    "length": 2614,
+    "size": 7842062
   },
   {
     "title": "Mk 5,21-34",
@@ -8085,17 +8085,6 @@
     "size": 6898074
   },
   {
-    "title": "Ef 2,11-22",
-    "date": "2013.08.06",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806A.mp3",
-    "uuid": "3c9ce520-2f7b-4055-97bb-9b408a709bf1",
-    "length": 2740,
-    "size": 8222561
-  },
-  {
     "title": "Ef 4,1-12",
     "date": "2013.08.06",
     "place": "Szajol",
@@ -8105,6 +8094,17 @@
     "uuid": "69740ee5-3dc3-4e70-8808-964a68145b49",
     "length": 1559,
     "size": 4677769
+  },
+  {
+    "title": "Ef 2,11-22",
+    "date": "2013.08.06",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130806A.mp3",
+    "uuid": "3c9ce520-2f7b-4055-97bb-9b408a709bf1",
+    "length": 2740,
+    "size": 8222561
   },
   {
     "title": "Ef 2,8-10",
