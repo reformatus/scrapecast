@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 29 Aug 2023 23:23:31 +0100
+✅ Legutóbb frissítve: Wed, 30 Aug 2023 10:28:40 +0100
 
 Epizódok száma: 2875
 
@@ -37,7 +37,7 @@ Epizódok száma: 2875
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 29 Aug 2023 23:23:32 +0100
+✅ Legutóbb frissítve: Wed, 30 Aug 2023 10:28:41 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Tue, 29 Aug 2023 23:23:44 +0100
+✅ Legutóbb frissítve: Wed, 30 Aug 2023 10:28:56 +0100
 
-Epizódok száma: 831
+Epizódok száma: 832
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -78,10 +78,10 @@ Epizódok száma: 831
 **Legutóbbi epizódok:**
  - 2023.08.27 - Jn 6,29-40 - Bibliamagyarázat - János evangéliuma
  - 2023.08.27 - Bir 2,6-22 - Bibliamagyarázat - A bírák könyve
+ - 2023.08.23 - Család - közösség - örök élet - Vallásismeret - Keresztyén élet
  - 2023.08.06 - Zsolt 139 - Bibliamagyarázat - A zsoltárok könyve
  - 2023.07.16 - 2Móz 34,6b-7 - Bibliamagyarázat - Mózes második könyve
  - 2023.07.02 - 2Móz 34,6a - Bibliamagyarázat - Mózes második könyve
- - 2023.06.29 - Sáfárság (4) - "õk vigyáznak lelketekre" - Lelkészképzés
 
 ---
 
