@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 03 Sep 2023 19:25:33 +0100
+✅ Legutóbb frissítve: Sun, 03 Sep 2023 20:25:25 +0100
 
 Epizódok száma: 2877
 
@@ -37,7 +37,7 @@ Epizódok száma: 2877
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 03 Sep 2023 19:25:34 +0100
+✅ Legutóbb frissítve: Sun, 03 Sep 2023 20:25:26 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 03 Sep 2023 19:25:49 +0100
+✅ Legutóbb frissítve: Sun, 03 Sep 2023 20:25:42 +0100
 
-Epizódok száma: 832
+Epizódok száma: 837
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 832
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.09.03 - 1Thessz 5,11 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
+ - 2023.09.03 - 1Thessz 5,14 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
+ - 2023.09.02 - Ki alkalmas a presbiteri tisztségre? - Presbiterképzés
+ - 2023.09.02 - Egyházunk és Ura mit vár el a presbiterektõl? - Presbiterképzés
+ - 2023.09.01 - A presbiteri tisztség gyökere és múltja - Presbiterképzés
  - 2023.08.27 - Jn 6,29-40 - Bibliamagyarázat - János evangéliuma
- - 2023.08.27 - Bir 2,6-22 - Bibliamagyarázat - A bírák könyve
- - 2023.08.23 - Család - közösség - örök élet - Vallásismeret - Keresztyén élet
- - 2023.08.06 - Zsolt 139 - Bibliamagyarázat - A zsoltárok könyve
- - 2023.07.16 - 2Móz 34,6b-7 - Bibliamagyarázat - Mózes második könyve
- - 2023.07.02 - 2Móz 34,6a - Bibliamagyarázat - Mózes második könyve
 
 ---
 
