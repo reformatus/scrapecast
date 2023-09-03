@@ -3234,6 +3234,17 @@
     "size": 25224280
   },
   {
+    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
+    "bible": "Márk 16,20.",
+    "date": "2022.06.05",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
+    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
+    "length": 4344,
+    "size": 69514529
+  },
+  {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
     "bible": "ApCsel 18,1-11.",
     "date": "2022.06.05",
@@ -3243,17 +3254,6 @@
     "uuid": "67199b6a-a389-4669-a81b-454ecb14c98f",
     "length": 2998,
     "size": 71956296
-  },
-  {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
-    "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -3267,15 +3267,15 @@
     "size": 71956296
   },
   {
-    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
-    "bible": "Márk 16,20.",
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
     "date": "2022.06.05",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
-    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
-    "length": 4344,
-    "size": 69514529
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -18887,15 +18887,15 @@
     "size": 13209436
   },
   {
-    "title": "Mindenki látja - 15h",
-    "bible": "Zsoltárok97,6",
+    "title": "Adni és kapni - 18h",
+    "bible": "Máté7,12",
     "date": "2014.08.31",
-    "pastor": "Kuti József",
+    "pastor": "Szikszai Szabolcs",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
-    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
-    "length": 1642,
-    "size": 13140263
+    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
+    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
+    "length": 1525,
+    "size": 12207796
   },
   {
     "title": "Mi a te kincsed - 17h",
@@ -18909,15 +18909,15 @@
     "size": 22441318
   },
   {
-    "title": "Adni és kapni - 18h",
-    "bible": "Máté7,12",
+    "title": "Mindenki látja - 15h",
+    "bible": "Zsoltárok97,6",
     "date": "2014.08.31",
-    "pastor": "Szikszai Szabolcs",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
-    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
-    "length": 1525,
-    "size": 12207796
+    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
+    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
+    "length": 1642,
+    "size": 13140263
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
@@ -20053,17 +20053,6 @@
     "size": 8661621
   },
   {
-    "title": "Értelmes és ostoba döntéseink - 18h",
-    "bible": "Máté25,1-13",
-    "date": "2014.04.16",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140416 18h VN_bojti bunban.it_nagyheti peldazatok sor._Ertelmes es ostoba donteseink_Mt25,1_13.mp3",
-    "uuid": "336c7d2c-cc5b-4d91-868d-49a944ffcaf0",
-    "length": 2011,
-    "size": 16093144
-  },
-  {
     "title": "Úton, távol is biztonságban - 7,15h",
     "bible": "Példabeszédek16,1-33",
     "date": "2014.04.16",
@@ -20073,6 +20062,17 @@
     "uuid": "5490d105-d5b5-41d4-bda5-f7a1a8625f26",
     "length": 983,
     "size": 7869170
+  },
+  {
+    "title": "Értelmes és ostoba döntéseink - 18h",
+    "bible": "Máté25,1-13",
+    "date": "2014.04.16",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140416 18h VN_bojti bunban.it_nagyheti peldazatok sor._Ertelmes es ostoba donteseink_Mt25,1_13.mp3",
+    "uuid": "336c7d2c-cc5b-4d91-868d-49a944ffcaf0",
+    "length": 2011,
+    "size": 16093144
   },
   {
     "title": "Téged hív, fogadd el - 18h",
@@ -27335,17 +27335,6 @@
     "size": 17269281
   },
   {
-    "title": "Felnőtt konfirmáció - Bizonyságtételek - 17h",
-    "bible": "",
-    "date": "2010.12.26",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/101226_17h_HT_felnott_konfirmacio_bizonysagtetelek_fogadalomtetelek.mp3",
-    "uuid": "976c0bc6-b88f-4f3c-abb8-2f25f19038f8",
-    "length": 1680,
-    "size": 13443492
-  },
-  {
     "title": "Közöttünk lakó Krisztus - 17h",
     "bible": "János1,1-14",
     "date": "2010.12.26",
@@ -27355,6 +27344,17 @@
     "uuid": "d641d1ff-7d10-4f9b-a27b-bee97d01dd1a",
     "length": 1347,
     "size": 10777748
+  },
+  {
+    "title": "Felnőtt konfirmáció - Bizonyságtételek - 17h",
+    "bible": "",
+    "date": "2010.12.26",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/101226_17h_HT_felnott_konfirmacio_bizonysagtetelek_fogadalomtetelek.mp3",
+    "uuid": "976c0bc6-b88f-4f3c-abb8-2f25f19038f8",
+    "length": 1680,
+    "size": 13443492
   },
   {
     "title": "Nem vagy távol, jöjj és éld át - 9h",
