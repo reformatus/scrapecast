@@ -5,7 +5,7 @@
     <description>
       <![CDATA[Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján. 
-Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
+Legutóbb frissítve: Sun, 10 Sep 2023 16:24:04 +0100]]>
     </description>
     <link>https://marko.reformatus.hu/</link>
     <image>
@@ -16,7 +16,7 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <link>https://marko.reformatus.hu/</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>Sun, 10 Sep 2023 15:22:23 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 16:24:04 +0100</lastBuildDate>
     <author>
       <![CDATA[Marco de Leeuw van Weenen]]>
     </author>
@@ -30,7 +30,7 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
     <itunes:summary>
       <![CDATA[Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján. 
-Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
+Legutóbb frissítve: Sun, 10 Sep 2023 16:24:04 +0100]]>
     </itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -6924,38 +6924,6 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Bibliamagyarázat - Pál levele a kolosséiakhoz: Kol 2,20-3,4 | Mátraháza | 2019.09.21</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele a kolosséiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2697 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</p>]]>
-      </description>
-      <guid isPermaLink="false">2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</guid>
-      <pubDate>Sat, 21 Sep 2019 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3" length="8092808" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele a kolosséiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2697 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2697</itunes:duration>
-      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Bibliamagyarázat - Pál levele a kolosséiakhoz: Kol 3,1-17 | Mátraháza | 2019.09.21</title>
       <description>
         <![CDATA[<br/>
@@ -6984,6 +6952,38 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2990</itunes:duration>
+      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bibliamagyarázat - Pál levele a kolosséiakhoz: Kol 2,20-3,4 | Mátraháza | 2019.09.21</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele a kolosséiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2697 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</p>]]>
+      </description>
+      <guid isPermaLink="false">2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</guid>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3" length="8092808" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele a kolosséiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Kol/MLW20190921A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2697 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 2a91471a-6a5e-4d2d-bfe0-f46fe6e3deb5</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2697</itunes:duration>
       <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -8908,38 +8908,6 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Pedagógusképzés: Erõs közösség erõs egyéniségekbõl | Madocsa | 2018.11.16</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2401 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 9282255b-0490-4fb4-83ca-1d00d12adce7</p>]]>
-      </description>
-      <guid isPermaLink="false">9282255b-0490-4fb4-83ca-1d00d12adce7</guid>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3" length="7204994" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2401 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 9282255b-0490-4fb4-83ca-1d00d12adce7</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2401</itunes:duration>
-      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Pedagógusképzés: A megfoghatatlan tényezõ: a munkahelyi légkör | Madocsa | 2018.11.16</title>
       <description>
         <![CDATA[<br/>
@@ -8968,6 +8936,38 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1593</itunes:duration>
+      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Pedagógusképzés: Erõs közösség erõs egyéniségekbõl | Madocsa | 2018.11.16</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2401 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 9282255b-0490-4fb4-83ca-1d00d12adce7</p>]]>
+      </description>
+      <guid isPermaLink="false">9282255b-0490-4fb4-83ca-1d00d12adce7</guid>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3" length="7204994" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20181116A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2401 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 9282255b-0490-4fb4-83ca-1d00d12adce7</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2401</itunes:duration>
       <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -19852,34 +19852,34 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Vallásismeret - Bibliaismeret: ApCsel - Az Égei-tenger partjain (16,6 - 19,21) | Fadd | 2014.10.12</title>
+      <title>Vallásismeret - Bibliaismeret: ApCsel - A bizonyságtétel megerõsítése (3,1 - 6,7) | Fadd | 2014.10.12</title>
       <description>
         <![CDATA[<br/>
 <p>Kategória: Vallásismeret - Bibliaismeret</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2711 mp</p>
+<p>Becsült hossz: 2661 mp</p>
 <p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</p>]]>
+<p>UUID: 96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</p>]]>
       </description>
-      <guid isPermaLink="false">8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</guid>
+      <guid isPermaLink="false">96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</guid>
       <pubDate>Sun, 12 Oct 2014 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3" length="8134941" type="audio/mpeg"/>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3" length="7984952" type="audio/mpeg"/>
       <itunes:summary>
         <![CDATA[<br/>
 <p>Kategória: Vallásismeret - Bibliaismeret</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2711 mp</p>
+<p>Becsült hossz: 2661 mp</p>
 <p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</p>]]>
+<p>UUID: 96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</p>]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2711</itunes:duration>
+      <itunes:duration>2661</itunes:duration>
       <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -20076,34 +20076,34 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Vallásismeret - Bibliaismeret: ApCsel - A bizonyságtétel megerõsítése (3,1 - 6,7) | Fadd | 2014.10.12</title>
+      <title>Vallásismeret - Bibliaismeret: ApCsel - Az Égei-tenger partjain (16,6 - 19,21) | Fadd | 2014.10.12</title>
       <description>
         <![CDATA[<br/>
 <p>Kategória: Vallásismeret - Bibliaismeret</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2661 mp</p>
+<p>Becsült hossz: 2711 mp</p>
 <p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</p>]]>
+<p>UUID: 8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</p>]]>
       </description>
-      <guid isPermaLink="false">96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</guid>
+      <guid isPermaLink="false">8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</guid>
       <pubDate>Sun, 12 Oct 2014 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3" length="7984952" type="audio/mpeg"/>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3" length="8134941" type="audio/mpeg"/>
       <itunes:summary>
         <![CDATA[<br/>
 <p>Kategória: Vallásismeret - Bibliaismeret</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011C.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Vallasismeret/MLW20141011G.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2661 mp</p>
+<p>Becsült hossz: 2711 mp</p>
 <p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 96caf839-2cd4-4fb9-b5f0-5d58cefb3fd3</p>]]>
+<p>UUID: 8db373ef-e4c9-4ea2-a374-aa8fa447cbc9</p>]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2661</itunes:duration>
+      <itunes:duration>2711</itunes:duration>
       <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -23820,38 +23820,6 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 4,7-16 | Szajol | 2013.08.07</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3427 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 45ad5a05-8e38-4090-8732-6ba2193ad61b</p>]]>
-      </description>
-      <guid isPermaLink="false">45ad5a05-8e38-4090-8732-6ba2193ad61b</guid>
-      <pubDate>Wed, 07 Aug 2013 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3" length="10281348" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3427 mp</p>
-<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 45ad5a05-8e38-4090-8732-6ba2193ad61b</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>3427</itunes:duration>
-      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 4,17-32 | Szajol | 2013.08.07</title>
       <description>
         <![CDATA[<br/>
@@ -23880,6 +23848,38 @@ Legutóbb frissítve: Sun, 10 Sep 2023 15:22:23 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2299</itunes:duration>
+      <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 4,7-16 | Szajol | 2013.08.07</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3427 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 45ad5a05-8e38-4090-8732-6ba2193ad61b</p>]]>
+      </description>
+      <guid isPermaLink="false">45ad5a05-8e38-4090-8732-6ba2193ad61b</guid>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3" length="10281348" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3427 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 45ad5a05-8e38-4090-8732-6ba2193ad61b</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3427</itunes:duration>
       <itunes:image href="https://reformatus.github.io/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
