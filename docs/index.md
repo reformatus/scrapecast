@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 13 Sep 2023 18:31:08 +0100
+✅ Legutóbb frissítve: Wed, 13 Sep 2023 23:23:28 +0100
 
 Epizódok száma: 2882
 
@@ -37,7 +37,7 @@ Epizódok száma: 2882
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 13 Sep 2023 18:31:09 +0100
+✅ Legutóbb frissítve: Wed, 13 Sep 2023 23:23:29 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Wed, 13 Sep 2023 18:31:21 +0100
+✅ Legutóbb frissítve: Wed, 13 Sep 2023 23:23:42 +0100
 
-Epizódok száma: 840
+Epizódok száma: 841
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 840
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.09.13 - Jn 5,31-40 - Bibliamagyarázat - János evangéliuma
  - 2023.09.12 - Jn 5,24-30 - Bibliamagyarázat - János evangéliuma
  - 2023.09.11 - Jn 5,16-23 - Bibliamagyarázat - János evangéliuma
  - 2023.09.10 - Jn 5,1-15 - Bibliamagyarázat - János evangéliuma
  - 2023.09.03 - 1Thessz 5,11 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
  - 2023.09.03 - 1Thessz 5,14 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
- - 2023.09.02 - Ki alkalmas a presbiteri tisztségre? - Presbiterképzés
 
 ---
 
