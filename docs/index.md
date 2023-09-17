@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 17 Sep 2023 16:23:40 +0100
+✅ Legutóbb frissítve: Sun, 17 Sep 2023 17:21:24 +0100
 
 Epizódok száma: 2882
 
@@ -37,7 +37,7 @@ Epizódok száma: 2882
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 17 Sep 2023 16:23:41 +0100
+✅ Legutóbb frissítve: Sun, 17 Sep 2023 17:21:26 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 17 Sep 2023 16:23:52 +0100
+✅ Legutóbb frissítve: Sun, 17 Sep 2023 17:21:45 +0100
 
-Epizódok száma: 842
+Epizódok száma: 843
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 842
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.09.17 - Lk 7,1-10 - Bibliamagyarázat - Lukács evangéliuma
  - 2023.09.14 - Jn 5,41-47 - Bibliamagyarázat - János evangéliuma
  - 2023.09.13 - Jn 5,31-40 - Bibliamagyarázat - János evangéliuma
  - 2023.09.12 - Jn 5,24-30 - Bibliamagyarázat - János evangéliuma
  - 2023.09.11 - Jn 5,16-23 - Bibliamagyarázat - János evangéliuma
  - 2023.09.10 - Jn 5,1-15 - Bibliamagyarázat - János evangéliuma
- - 2023.09.03 - 1Thessz 5,11 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
 
 ---
 
