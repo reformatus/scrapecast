@@ -308,17 +308,6 @@
     "size": 8196388
   },
   {
-    "title": "Gyülekezeti tagokból tanítványok (2) - gátló tényezõk",
-    "date": "2023.04.24",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230424B.mp3",
-    "uuid": "90b636e0-7c0d-448a-ae90-3623d61eee69",
-    "length": 2739,
-    "size": 8218360
-  },
-  {
     "title": "Gyülekezeti tagokból tanítványok (1) - Pál apostol módszere",
     "date": "2023.04.24",
     "place": "Sólyomkõvár",
@@ -328,6 +317,17 @@
     "uuid": "09a8de0d-309d-44dd-b692-8f45d92c97be",
     "length": 3138,
     "size": 9415444
+  },
+  {
+    "title": "Gyülekezeti tagokból tanítványok (2) - gátló tényezõk",
+    "date": "2023.04.24",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230424B.mp3",
+    "uuid": "90b636e0-7c0d-448a-ae90-3623d61eee69",
+    "length": 2739,
+    "size": 8218360
   },
   {
     "title": "Lk 19,28-44",
@@ -2365,17 +2365,6 @@
     "size": 8160736
   },
   {
-    "title": "1Jn 2,9-11",
-    "date": "2019.10.09",
-    "place": "Szilágysomlyó",
-    "category": "Bibliamagyarázat - János első levele",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Jn/MLW20191009.mp3",
-    "uuid": "33e7eb44-8138-495d-8f27-af3a0098caf7",
-    "length": 1187,
-    "size": 3562088
-  },
-  {
     "title": "A természetfölötti világ veszélyei",
     "date": "2019.10.09",
     "place": "Désháza",
@@ -2385,6 +2374,17 @@
     "uuid": "a79b233b-9c72-4284-8c00-801d481856be",
     "length": 4064,
     "size": 12193806
+  },
+  {
+    "title": "1Jn 2,9-11",
+    "date": "2019.10.09",
+    "place": "Szilágysomlyó",
+    "category": "Bibliamagyarázat - János első levele",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/1Jn/MLW20191009.mp3",
+    "uuid": "33e7eb44-8138-495d-8f27-af3a0098caf7",
+    "length": 1187,
+    "size": 3562088
   },
   {
     "title": "ApCsel 19,11-20",
@@ -4103,15 +4103,15 @@
     "size": 7087580
   },
   {
-    "title": "A református gondolkodás alapelvei",
+    "title": "A református életritmus: az egyházi év",
     "date": "2017.09.15",
     "place": "Dunaszentgyörgy",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20170915B.mp3",
-    "uuid": "940f52ad-44bd-4e64-800a-fa0e5fa457c6",
-    "length": 2474,
-    "size": 7423752
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20170915C.mp3",
+    "uuid": "9a08421b-ddcd-4dc4-868a-ba951cbd5dc7",
+    "length": 1788,
+    "size": 5365516
   },
   {
     "title": "A református oktatás történelmi háttere",
@@ -4125,15 +4125,15 @@
     "size": 7781675
   },
   {
-    "title": "A református életritmus: az egyházi év",
+    "title": "A református gondolkodás alapelvei",
     "date": "2017.09.15",
     "place": "Dunaszentgyörgy",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20170915C.mp3",
-    "uuid": "9a08421b-ddcd-4dc4-868a-ba951cbd5dc7",
-    "length": 1788,
-    "size": 5365516
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20170915B.mp3",
+    "uuid": "940f52ad-44bd-4e64-800a-fa0e5fa457c6",
+    "length": 2474,
+    "size": 7423752
   },
   {
     "title": "ApCsel 20,16-36",
@@ -4777,10 +4777,10 @@
     "title": "1Kor 1,18-25",
     "date": "2017.01.05",
     "place": "Felsõnyék",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170105.mp3",
-    "uuid": "370111f9-3232-4b21-9177-c6efbec8b9ab",
+    "uuid": "8d1b9286-45cb-4b3e-a9fd-be32b24db05e",
     "length": 2328,
     "size": 6986945
   },
@@ -4788,10 +4788,10 @@
     "title": "1Kor 1,18-25",
     "date": "2017.01.05",
     "place": "Felsõnyék",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170105.mp3",
-    "uuid": "8d1b9286-45cb-4b3e-a9fd-be32b24db05e",
+    "uuid": "370111f9-3232-4b21-9177-c6efbec8b9ab",
     "length": 2328,
     "size": 6986945
   },
@@ -8228,17 +8228,6 @@
     "size": 7533712
   },
   {
-    "title": "Ef 4,7-16",
-    "date": "2013.08.07",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
-    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
-    "length": 3427,
-    "size": 10281348
-  },
-  {
     "title": "Ef 4,17-32",
     "date": "2013.08.07",
     "place": "Szajol",
@@ -8248,6 +8237,17 @@
     "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
     "length": 2299,
     "size": 6898074
+  },
+  {
+    "title": "Ef 4,7-16",
+    "date": "2013.08.07",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
+    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
+    "length": 3427,
+    "size": 10281348
   },
   {
     "title": "Ef 4,1-12",
