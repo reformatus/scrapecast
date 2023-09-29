@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 29 Sep 2023 10:28:21 +0100
+✅ Legutóbb frissítve: Fri, 29 Sep 2023 14:43:25 +0100
 
 Epizódok száma: 2886
 
@@ -37,7 +37,7 @@ Epizódok száma: 2886
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 29 Sep 2023 10:28:22 +0100
+✅ Legutóbb frissítve: Fri, 29 Sep 2023 14:43:27 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 29 Sep 2023 10:28:34 +0100
+✅ Legutóbb frissítve: Fri, 29 Sep 2023 14:43:43 +0100
 
-Epizódok száma: 847
+Epizódok száma: 848
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 847
  - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.09.29 - Zsolt 104 - Bibliamagyarázat - A zsoltárok könyve
  - 2023.09.24 - ApCsel 10,1-23 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2023.09.23 - Presbiteri szolgálat vészterhes idõkben - Presbiterképzés
  - 2023.09.23 - A hittanokttás elõfeltételei - Pedagógusképzés
  - 2023.09.22 - Gondolatok református pedagógiáról - Pedagógusképzés
  - 2023.09.17 - Lk 7,1-10 - Bibliamagyarázat - Lukács evangéliuma
- - 2023.09.14 - Jn 5,41-47 - Bibliamagyarázat - János evangéliuma
 
 ---
 
