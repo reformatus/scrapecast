@@ -1353,17 +1353,6 @@
     "size": 5839840
   },
   {
-    "title": "Pénzügyi szemlélet",
-    "date": "2022.02.12",
-    "place": "Magurahegy",
-    "category": "Presbiterképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20220212B.mp3",
-    "uuid": "ee2b9138-f794-467f-a7d8-27166eb34d16",
-    "length": 3071,
-    "size": 9215420
-  },
-  {
     "title": "Egyetértésben vezetni",
     "date": "2022.02.12",
     "place": "Magurahegy",
@@ -1373,6 +1362,17 @@
     "uuid": "1a1e54ca-2d63-4c6f-8f83-7674fd983443",
     "length": 2879,
     "size": 8639642
+  },
+  {
+    "title": "Pénzügyi szemlélet",
+    "date": "2022.02.12",
+    "place": "Magurahegy",
+    "category": "Presbiterképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20220212B.mp3",
+    "uuid": "ee2b9138-f794-467f-a7d8-27166eb34d16",
+    "length": 3071,
+    "size": 9215420
   },
   {
     "title": "Méltóságban engedelmességre nevelni",
@@ -2398,17 +2398,6 @@
     "size": 7637034
   },
   {
-    "title": "Miért nehéz Istent valóban megismerni?",
-    "date": "2019.10.12",
-    "place": "Bp-Káposztásmegyer",
-    "category": "Ismeretterjesztés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20191012A.mp3",
-    "uuid": "5090e70e-f0f5-48bd-87c5-b17644b11dc5",
-    "length": 2720,
-    "size": 8160736
-  },
-  {
     "title": "Miért jó Istent valóban megismerni?",
     "date": "2019.10.12",
     "place": "Bp-Káposztásmegyer",
@@ -2418,6 +2407,17 @@
     "uuid": "c0464927-22f6-4ac0-bf9f-7fd5d5c0cd87",
     "length": 2765,
     "size": 8297746
+  },
+  {
+    "title": "Miért nehéz Istent valóban megismerni?",
+    "date": "2019.10.12",
+    "place": "Bp-Káposztásmegyer",
+    "category": "Ismeretterjesztés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20191012A.mp3",
+    "uuid": "5090e70e-f0f5-48bd-87c5-b17644b11dc5",
+    "length": 2720,
+    "size": 8160736
   },
   {
     "title": "A természetfölötti világ veszélyei",
@@ -5159,17 +5159,6 @@
     "size": 9206509
   },
   {
-    "title": "Gyermeknevelés",
-    "date": "2016.07.22",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Keresztyén élet",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160722A.mp3",
-    "uuid": "ddfcd732-f480-4a61-8f63-7f068fe36674",
-    "length": 3254,
-    "size": 9764655
-  },
-  {
     "title": "Közösség",
     "date": "2016.07.22",
     "place": "Piliscsaba",
@@ -5179,6 +5168,17 @@
     "uuid": "82b7971b-988b-47d0-9726-df4593d0c4c6",
     "length": 3489,
     "size": 10468617
+  },
+  {
+    "title": "Gyermeknevelés",
+    "date": "2016.07.22",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Keresztyén élet",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160722A.mp3",
+    "uuid": "ddfcd732-f480-4a61-8f63-7f068fe36674",
+    "length": 3254,
+    "size": 9764655
   },
   {
     "title": "Hivatás",
@@ -5478,6 +5478,17 @@
     "size": 6010878
   },
   {
+    "title": "Biblika teológia - a Messiás személye",
+    "date": "2016.03.05",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
+    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
+    "length": 2218,
+    "size": 6656287
+  },
+  {
     "title": "Biblika teológia - a végkifejlet",
     "date": "2016.03.05",
     "place": "Fadd",
@@ -5500,17 +5511,6 @@
     "size": 7735796
   },
   {
-    "title": "Biblika teológia - az új szövetség",
-    "date": "2016.03.05",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305D.mp3",
-    "uuid": "cd43343d-e6d1-4427-bf60-b059f9579e91",
-    "length": 2839,
-    "size": 8518446
-  },
-  {
     "title": "Biblika teológia - Dávid királysága",
     "date": "2016.03.05",
     "place": "Fadd",
@@ -5522,15 +5522,15 @@
     "size": 8487963
   },
   {
-    "title": "Biblika teológia - a Messiás személye",
+    "title": "Biblika teológia - az új szövetség",
     "date": "2016.03.05",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
-    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
-    "length": 2218,
-    "size": 6656287
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305D.mp3",
+    "uuid": "cd43343d-e6d1-4427-bf60-b059f9579e91",
+    "length": 2839,
+    "size": 8518446
   },
   {
     "title": "Mk 11,27-12,12",
@@ -8283,17 +8283,6 @@
     "size": 7533712
   },
   {
-    "title": "Ef 4,7-16",
-    "date": "2013.08.07",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
-    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
-    "length": 3427,
-    "size": 10281348
-  },
-  {
     "title": "Ef 4,17-32",
     "date": "2013.08.07",
     "place": "Szajol",
@@ -8303,6 +8292,17 @@
     "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
     "length": 2299,
     "size": 6898074
+  },
+  {
+    "title": "Ef 4,7-16",
+    "date": "2013.08.07",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807A.mp3",
+    "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
+    "length": 3427,
+    "size": 10281348
   },
   {
     "title": "Ef 4,1-12",
@@ -8635,17 +8635,6 @@
     "size": 5234574
   },
   {
-    "title": "Emberképrõl pedagógusoknak",
-    "date": "2013.03.08",
-    "place": "Bp-Rákoscsaba",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308B.mp3",
-    "uuid": "3a9bb7f8-b7b8-4e7c-9995-8da53c662c4d",
-    "length": 2048,
-    "size": 6146173
-  },
-  {
     "title": "A keresztyén református pedagógus tisztsége",
     "date": "2013.03.08",
     "place": "Bp-Rákoscsaba",
@@ -8655,6 +8644,17 @@
     "uuid": "8aec1e39-ab25-4d09-b52e-3038deda6c5f",
     "length": 2360,
     "size": 7081130
+  },
+  {
+    "title": "Emberképrõl pedagógusoknak",
+    "date": "2013.03.08",
+    "place": "Bp-Rákoscsaba",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308B.mp3",
+    "uuid": "3a9bb7f8-b7b8-4e7c-9995-8da53c662c4d",
+    "length": 2048,
+    "size": 6146173
   },
   {
     "title": "32. kérdés-felelet (B)",
