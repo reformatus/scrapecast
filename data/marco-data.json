@@ -1012,15 +1012,15 @@
     "size": 8254482
   },
   {
-    "title": "Jn 14 (fókuszban az Atya)",
+    "title": "Jn 14 (fókuszban a Fiú)",
     "date": "2022.06.12",
-    "place": "Nagyszokoly",
+    "place": "Iregszemcse",
     "category": "Bibliamagyarázat - János evangéliuma",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612A.mp3",
-    "uuid": "7626924c-7c07-4ef7-b09c-b9a1fc61b1d2",
-    "length": 2014,
-    "size": 6042460
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612B.mp3",
+    "uuid": "39555516-432a-478f-ada9-544428cf7049",
+    "length": 2038,
+    "size": 6116902
   },
   {
     "title": "Jn 14 (fókuszban a Lélek)",
@@ -1034,15 +1034,15 @@
     "size": 6024180
   },
   {
-    "title": "Jn 14 (fókuszban a Fiú)",
+    "title": "Jn 14 (fókuszban az Atya)",
     "date": "2022.06.12",
-    "place": "Iregszemcse",
+    "place": "Nagyszokoly",
     "category": "Bibliamagyarázat - János evangéliuma",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612B.mp3",
-    "uuid": "39555516-432a-478f-ada9-544428cf7049",
-    "length": 2038,
-    "size": 6116902
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612A.mp3",
+    "uuid": "7626924c-7c07-4ef7-b09c-b9a1fc61b1d2",
+    "length": 2014,
+    "size": 6042460
   },
   {
     "title": "ApCsel 2,1-21",
@@ -1375,17 +1375,6 @@
     "size": 4180680
   },
   {
-    "title": "Ef 5,31-33",
-    "date": "2022.02.13",
-    "place": "Szilágylompért",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20220213A.mp3",
-    "uuid": "c1fd6aa5-32d0-4d41-8d8d-97fcc72d5a81",
-    "length": 1946,
-    "size": 5839840
-  },
-  {
     "title": "Kol 3,17-4,1",
     "date": "2022.02.13",
     "place": "Szilágylompért",
@@ -1395,6 +1384,17 @@
     "uuid": "f0547b62-ce6e-4fa5-9319-9f021112bb66",
     "length": 2336,
     "size": 7009954
+  },
+  {
+    "title": "Ef 5,31-33",
+    "date": "2022.02.13",
+    "place": "Szilágylompért",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20220213A.mp3",
+    "uuid": "c1fd6aa5-32d0-4d41-8d8d-97fcc72d5a81",
+    "length": 1946,
+    "size": 5839840
   },
   {
     "title": "Egyetértésben vezetni",
@@ -3784,15 +3784,15 @@
     "size": 8242584
   },
   {
-    "title": "Játék által is lehet tanítani",
+    "title": "Miért, mit és hogyan játszik az óvodás?",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302D.mp3",
-    "uuid": "275cf275-3583-4dea-8a15-26b9cb71743e",
-    "length": 1671,
-    "size": 5013166
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
+    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
+    "length": 1733,
+    "size": 5200454
   },
   {
     "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
@@ -3817,15 +3817,15 @@
     "size": 7299088
   },
   {
-    "title": "Miért, mit és hogyan játszik az óvodás?",
+    "title": "Játék által is lehet tanítani",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302A.mp3",
-    "uuid": "b58fef26-4cd7-4e30-81ce-fed8ab9529bc",
-    "length": 1733,
-    "size": 5200454
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302D.mp3",
+    "uuid": "275cf275-3583-4dea-8a15-26b9cb71743e",
+    "length": 1671,
+    "size": 5013166
   },
   {
     "title": "Gyerekekkel játszani nem gyermekjáték!",
@@ -5426,10 +5426,10 @@
     "title": "Valódi felkészítés a virtuális világra",
     "date": "2016.04.21",
     "place": "Pécel",
-    "category": "Szülők iskolája",
+    "category": "Ismeretterjesztés",
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20160421.mp3",
-    "uuid": "a1ee8bf9-881b-4455-b799-66729d067e71",
+    "uuid": "949d10a7-037c-4515-aad1-edf54a8e82ed",
     "length": 2589,
     "size": 7769677
   },
@@ -5437,10 +5437,10 @@
     "title": "Valódi felkészítés a virtuális világra",
     "date": "2016.04.21",
     "place": "Pécel",
-    "category": "Ismeretterjesztés",
+    "category": "Szülők iskolája",
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20160421.mp3",
-    "uuid": "949d10a7-037c-4515-aad1-edf54a8e82ed",
+    "uuid": "a1ee8bf9-881b-4455-b799-66729d067e71",
     "length": 2589,
     "size": 7769677
   },
@@ -5533,15 +5533,15 @@
     "size": 2950442
   },
   {
-    "title": "Biblika teológia - a Messiás személye",
+    "title": "Biblika teológia - a Messiás munkája",
     "date": "2016.03.05",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
-    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
-    "length": 2218,
-    "size": 6656287
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305C.mp3",
+    "uuid": "923b4cb6-2435-423e-aa23-05cfa1792c4c",
+    "length": 2578,
+    "size": 7735796
   },
   {
     "title": "Biblika teológia - az új szövetség",
@@ -5566,15 +5566,15 @@
     "size": 8487963
   },
   {
-    "title": "Biblika teológia - a Messiás munkája",
+    "title": "Biblika teológia - a Messiás személye",
     "date": "2016.03.05",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305C.mp3",
-    "uuid": "923b4cb6-2435-423e-aa23-05cfa1792c4c",
-    "length": 2578,
-    "size": 7735796
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160305B.mp3",
+    "uuid": "6e93d06b-dbbf-425c-8bf5-40c8c05d591d",
+    "length": 2218,
+    "size": 6656287
   },
   {
     "title": "Mk 11,27-12,12",
@@ -8327,17 +8327,6 @@
     "size": 7533712
   },
   {
-    "title": "Ef 4,17-32",
-    "date": "2013.08.07",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3",
-    "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
-    "length": 2299,
-    "size": 6898074
-  },
-  {
     "title": "Ef 4,7-16",
     "date": "2013.08.07",
     "place": "Szajol",
@@ -8347,6 +8336,17 @@
     "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
     "length": 3427,
     "size": 10281348
+  },
+  {
+    "title": "Ef 4,17-32",
+    "date": "2013.08.07",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3",
+    "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
+    "length": 2299,
+    "size": 6898074
   },
   {
     "title": "Ef 4,1-12",
@@ -8679,17 +8679,6 @@
     "size": 5234574
   },
   {
-    "title": "A keresztyén református pedagógus tisztsége",
-    "date": "2013.03.08",
-    "place": "Bp-Rákoscsaba",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3",
-    "uuid": "8aec1e39-ab25-4d09-b52e-3038deda6c5f",
-    "length": 2360,
-    "size": 7081130
-  },
-  {
     "title": "Emberképrõl pedagógusoknak",
     "date": "2013.03.08",
     "place": "Bp-Rákoscsaba",
@@ -8699,6 +8688,17 @@
     "uuid": "3a9bb7f8-b7b8-4e7c-9995-8da53c662c4d",
     "length": 2048,
     "size": 6146173
+  },
+  {
+    "title": "A keresztyén református pedagógus tisztsége",
+    "date": "2013.03.08",
+    "place": "Bp-Rákoscsaba",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3",
+    "uuid": "8aec1e39-ab25-4d09-b52e-3038deda6c5f",
+    "length": 2360,
+    "size": 7081130
   },
   {
     "title": "32. kérdés-felelet (B)",
