@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:27:06 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:45:26 +0100
 
 Epizódok száma: 2903
 
@@ -21,7 +21,7 @@ Epizódok száma: 2903
  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/krek-hu-igehirdetések/id1606886562)
  - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcasts/KREKhu-Igehirdetesek-p1611771/)
  - [RadioPublic](https://radiopublic.com/krekhu-igehirdetsek-6V4z9M)
- - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krek.rss)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
  - 2023.10.22 - Búza és a konkoly. - KERT - Riczuné Kiss Georgina
@@ -37,7 +37,7 @@ Epizódok száma: 2903
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:27:07 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:45:26 +0100
 
 Epizódok száma: 8
 
@@ -47,7 +47,7 @@ Epizódok száma: 8
  - [CastBox](https://castbox.fm/channel/id4772853)
  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/krek-hu-podcast/id1607891600)
  - [RadioPublic](https://radiopublic.com/krekhu-podcast-WdmlkL)
- - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/krekPodcast.rss)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krekPodcast.rss)
 
 **Legutóbbi epizódok:**
  - 2020.03.13 - 8. Apologetika - Nagy Gergely
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:27:38 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:45:46 +0100
 
-Epizódok száma: 855
+Epizódok száma: 861
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -73,7 +73,7 @@ Epizódok száma: 855
  - [PocketCasts](https://pca.st/14nmdojx)
  - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
  - [CastBox](https://castbox.fm/ch/5087121)
- - [RSS (kézi hozzáadáshoz)](https://reformatus.github.io/scrapecast/marco.rss)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
  - 2023.10.21 - Szolgálati lehetõségek kisiskolás korig - Vallásismeret - Egyháztan
