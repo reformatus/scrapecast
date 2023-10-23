@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:53:16 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 16:27:52 +0100
 
 Epizódok száma: 2903
 
@@ -37,7 +37,7 @@ Epizódok száma: 2903
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:53:16 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 16:27:53 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 23 Oct 2023 15:53:34 +0100
+✅ Legutóbb frissítve: Mon, 23 Oct 2023 16:28:10 +0100
 
-Epizódok száma: 861
+Epizódok száma: 862
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -79,9 +79,9 @@ Epizódok száma: 861
  - 2023.10.21 - Szolgálati lehetõségek kisiskolás korig - Vallásismeret - Egyháztan
  - 2023.10.21 - Szolgálati lehetõségek serdülõ és felnõtt korban - Vallásismeret - Egyháztan
  - 2023.10.21 - Szolgálati lehetõségek nyugdíjas kortól - Vallásismeret - Egyháztan
+ - 2023.10.18 - A keresztyén gyermeknevelés alapjai - Szülők iskolája
  - 2023.10.18 - A ckeresztyén gyermeknevelés alapjai - Szülők iskolája
  - 2023.10.15 - Jn 15,2b - Bibliamagyarázat - János evangéliuma
- - 2023.10.15 - 1Jn 1,7-9 - Bibliamagyarázat - János első levele
 
 ---
 
