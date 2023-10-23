@@ -10,7 +10,7 @@ Future<int?> getLength(String download) async {
   List<int> bytes = [];
   try {
     MP3Info? mp3;
-    int? retry;
+    num? retry;
     final req = await httpClient.getUrl(Uri.parse(download));
     final resp = await req.close();
     await for (List<int> current in resp.asBroadcastStream()) {
