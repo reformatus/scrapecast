@@ -16,13 +16,13 @@ Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila""",
       "Religion & Spirituality",
       "Christianity",
-      "https://reformatus.github.io/scrapecast/assets/krek/logo.png",
+      "https://reflabs.hu/scrapecast/assets/krek/logo.png",
       [
-        "https://reformatus.github.io/scrapecast/assets/krek/episode-art/krek.png",
-        "https://reformatus.github.io/scrapecast/assets/krek/episode-art/9.png",
-        "https://reformatus.github.io/scrapecast/assets/krek/episode-art/10.png",
-        "https://reformatus.github.io/scrapecast/assets/krek/episode-art/11.png",
-        "https://reformatus.github.io/scrapecast/assets/krek/episode-art/18.png",
+        "https://reflabs.hu/scrapecast/assets/krek/episode-art/krek.png",
+        "https://reflabs.hu/scrapecast/assets/krek/episode-art/9.png",
+        "https://reflabs.hu/scrapecast/assets/krek/episode-art/10.png",
+        "https://reflabs.hu/scrapecast/assets/krek/episode-art/11.png",
+        "https://reflabs.hu/scrapecast/assets/krek/episode-art/18.png",
       ],
       "Kecskeméti Református Egyházközség",
       "https://krek.hu",
@@ -48,7 +48,7 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
           "https://tunein.com/podcasts/Religion--Spirituality-Podcasts/KREKhu-Igehirdetesek-p1611771/",
       "RadioPublic": "https://radiopublic.com/krekhu-igehirdetsek-6V4z9M",
       "RSS (kézi hozzáadáshoz)":
-          "https://reformatus.github.io/scrapecast/krek.rss"
+          "https://reflabs.hu/scrapecast/krek.rss"
     },
     krekScrape,
     krekTitle,
@@ -65,7 +65,7 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
 Szerkeszti: Papp Attila""",
       "Religion & Spirituality",
       "Christianity",
-      "https://reformatus.github.io/scrapecast/assets/krekPodcast/logo.png",
+      "https://reflabs.hu/scrapecast/assets/krekPodcast/logo.png",
       null,
       "Kecskeméti Református Egyházközség",
       "https://krek.hu/podcast",
@@ -87,7 +87,7 @@ Szerkeszti: Papp Attila""",
           "https://podcasts.apple.com/us/podcast/krek-hu-podcast/id1607891600",
       "RadioPublic": "https://radiopublic.com/krekhu-podcast-WdmlkL",
       "RSS (kézi hozzáadáshoz)":
-          "https://reformatus.github.io/scrapecast/krekPodcast.rss"
+          "https://reflabs.hu/scrapecast/krekPodcast.rss"
     },
     krekPodcastScrape,
     krekPodcastTitle,
@@ -104,7 +104,7 @@ Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatár
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján.""",
         "Religion & Spirituality",
         "Christianity",
-        "https://reformatus.github.io/scrapecast/assets/marco/marco.png",
+        "https://reflabs.hu/scrapecast/assets/marco/marco.png",
         null,
         "Marco de Leeuw van Weenen",
         "https://marko.reformatus.hu/",
@@ -125,7 +125,7 @@ Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján.""",
         "TuneIn": "https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/",
         "CastBox": "https://castbox.fm/ch/5087121",
         "RSS (kézi hozzáadáshoz)":
-            "https://reformatus.github.io/scrapecast/marco.rss"
+            "https://reflabs.hu/scrapecast/marco.rss"
       },
       marcoScraper,
       marcoTitleBuilder,

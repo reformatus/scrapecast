@@ -176,7 +176,7 @@ Map<String, String?> marcoPages = {
     "Bizonyságtétel": "https://marko.reformatus.hu/Biztetel.shtml",
     "Evangelizáció": "https://marko.reformatus.hu/Evang.shtml",
     "Ismeretterjesztés": "https://marko.reformatus.hu/Ismeretterjesztes.shtml",
-    "Mi Atyánk...": "https://marko.reformatus.hu/MiAtyank.shtml", 
+    "Mi Atyánk": "https://marko.reformatus.hu/MiAtyank.shtml", 
   }
 };
 /*
@@ -357,7 +357,7 @@ String marcoDescriptionBuilder(Podcast podcast, Episode element) {
   builder.element('p', nest: () {
     builder.text('Generálta: ');
     builder.element('a',
-        attributes: {"href": "https://reformatus.github.io/scrapecast"},
+        attributes: {"href": "https://reflabs.hu/scrapecast"},
         nest: () {
       builder.text('ScrapeCast');
     });
