@@ -176,6 +176,7 @@ Map<String, String?> marcoPages = {
     "Bizonyságtétel": "https://marko.reformatus.hu/Biztetel.shtml",
     "Evangelizáció": "https://marko.reformatus.hu/Evang.shtml",
     "Ismeretterjesztés": "https://marko.reformatus.hu/Ismeretterjesztes.shtml",
+    "Mi Atyánk...": "https://marko.reformatus.hu/MiAtyank.shtml", 
   }
 };
 /*
