@@ -5,7 +5,7 @@
     <description>
       <![CDATA[Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján. 
-Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
+Legutóbb frissítve: Tue, 24 Oct 2023 10:29:20 +0100]]>
     </description>
     <link>https://marko.reformatus.hu/</link>
     <image>
@@ -16,7 +16,7 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <link>https://marko.reformatus.hu/</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>Mon, 23 Oct 2023 23:21:42 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 10:29:20 +0100</lastBuildDate>
     <author>
       <![CDATA[Marco de Leeuw van Weenen]]>
     </author>
@@ -30,7 +30,7 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
     <itunes:summary>
       <![CDATA[Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján. 
-Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
+Legutóbb frissítve: Tue, 24 Oct 2023 10:29:20 +0100]]>
     </itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -4108,38 +4108,6 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Bibliamagyarázat - Lukács evangéliuma: Lk 9,51-56 | Nagyszokoly | 2022.03.06</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Lukács evangéliuma</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2204 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 480ce3e0-415c-4dbc-932f-a4401dde4050</p>]]>
-      </description>
-      <guid isPermaLink="false">480ce3e0-415c-4dbc-932f-a4401dde4050</guid>
-      <pubDate>Sun, 06 Mar 2022 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3" length="6614456" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Lukács evangéliuma</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2204 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 480ce3e0-415c-4dbc-932f-a4401dde4050</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2204</itunes:duration>
-      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Bibliamagyarázat - Lukács evangéliuma: Lk 9,57-62 | Felsõnyék | 2022.03.06</title>
       <description>
         <![CDATA[<br/>
@@ -4168,6 +4136,38 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2142</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bibliamagyarázat - Lukács evangéliuma: Lk 9,51-56 | Nagyszokoly | 2022.03.06</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Lukács evangéliuma</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2204 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 480ce3e0-415c-4dbc-932f-a4401dde4050</p>]]>
+      </description>
+      <guid isPermaLink="false">480ce3e0-415c-4dbc-932f-a4401dde4050</guid>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3" length="6614456" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Lukács evangéliuma</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Lk/MLW20220306A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2204 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 480ce3e0-415c-4dbc-932f-a4401dde4050</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2204</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -5068,38 +5068,6 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Lelkészképzés: Ekkléziasztika (2) - Megszentelõdés, ünneplés | Szilágysomlyó | 2021.12.06</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Lelkészképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3297 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: a3428011-493e-41c1-bf53-8981a4774746</p>]]>
-      </description>
-      <guid isPermaLink="false">a3428011-493e-41c1-bf53-8981a4774746</guid>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3" length="9892486" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Lelkészképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3297 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: a3428011-493e-41c1-bf53-8981a4774746</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>3297</itunes:duration>
-      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Lelkészképzés: Ekkléziasztika (1) - Igeértés, imádság | Szilágysomlyó | 2021.12.06</title>
       <description>
         <![CDATA[<br/>
@@ -5128,6 +5096,38 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3049</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Lelkészképzés: Ekkléziasztika (2) - Megszentelõdés, ünneplés | Szilágysomlyó | 2021.12.06</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Lelkészképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3297 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: a3428011-493e-41c1-bf53-8981a4774746</p>]]>
+      </description>
+      <guid isPermaLink="false">a3428011-493e-41c1-bf53-8981a4774746</guid>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3" length="9892486" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Lelkészképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3297 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: a3428011-493e-41c1-bf53-8981a4774746</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3297</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -13260,6 +13260,38 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
+      <title>Pedagógusképzés: A szociális kompetencia fejlesztése az óvodában | Pécel | 2017.05.19</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3067 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</p>]]>
+      </description>
+      <guid isPermaLink="false">0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</guid>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3" length="9203265" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3</a></p>
+<br/>
+<p>Becsült hossz: 3067 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>3067</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bibliamagyarázat - Pál első levele a korinthusiakhoz: 1Kor 13,1-8a | Pécel | 2017.05.19</title>
       <description>
         <![CDATA[<br/>
@@ -13352,38 +13384,6 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1479</itunes:duration>
-      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Pedagógusképzés: A szociális kompetencia fejlesztése az óvodában | Pécel | 2017.05.19</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3067 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</p>]]>
-      </description>
-      <guid isPermaLink="false">0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</guid>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3" length="9203265" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20170519C.mp3</a></p>
-<br/>
-<p>Becsült hossz: 3067 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 0810da92-e0d5-469b-ad1f-dcfe9d90b2c4</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>3067</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -24524,38 +24524,6 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 5,22-33 | Szajol | 2013.08.08</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2068 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 685be319-915d-459f-9e39-7acf99cca798</p>]]>
-      </description>
-      <guid isPermaLink="false">685be319-915d-459f-9e39-7acf99cca798</guid>
-      <pubDate>Thu, 08 Aug 2013 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3" length="6206874" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2068 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 685be319-915d-459f-9e39-7acf99cca798</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2068</itunes:duration>
-      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 6,10-20 | Szajol | 2013.08.08</title>
       <description>
         <![CDATA[<br/>
@@ -24588,34 +24556,34 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 4,17-32 | Szajol | 2013.08.07</title>
+      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 5,22-33 | Szajol | 2013.08.08</title>
       <description>
         <![CDATA[<br/>
 <p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2299 mp</p>
+<p>Becsült hossz: 2068 mp</p>
 <p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 0b811030-8532-4278-bf0b-ebaa72c52564</p>]]>
+<p>UUID: 685be319-915d-459f-9e39-7acf99cca798</p>]]>
       </description>
-      <guid isPermaLink="false">0b811030-8532-4278-bf0b-ebaa72c52564</guid>
-      <pubDate>Wed, 07 Aug 2013 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3" length="6898074" type="audio/mpeg"/>
+      <guid isPermaLink="false">685be319-915d-459f-9e39-7acf99cca798</guid>
+      <pubDate>Thu, 08 Aug 2013 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3" length="6206874" type="audio/mpeg"/>
       <itunes:summary>
         <![CDATA[<br/>
 <p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
 <br/>
 <hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3</a></p>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3</a></p>
 <br/>
-<p>Becsült hossz: 2299 mp</p>
+<p>Becsült hossz: 2068 mp</p>
 <p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 0b811030-8532-4278-bf0b-ebaa72c52564</p>]]>
+<p>UUID: 685be319-915d-459f-9e39-7acf99cca798</p>]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2299</itunes:duration>
+      <itunes:duration>2068</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -24648,6 +24616,38 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>3427</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bibliamagyarázat - Pál levele az efezusiakhoz: Ef 4,17-32 | Szajol | 2013.08.07</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2299 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 0b811030-8532-4278-bf0b-ebaa72c52564</p>]]>
+      </description>
+      <guid isPermaLink="false">0b811030-8532-4278-bf0b-ebaa72c52564</guid>
+      <pubDate>Wed, 07 Aug 2013 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3" length="6898074" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Bibliamagyarázat - Pál levele az efezusiakhoz</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3">https://marko.reformatus.hu/Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2299 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 0b811030-8532-4278-bf0b-ebaa72c52564</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2299</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -25612,38 +25612,6 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Pedagógusképzés: A keresztyén református pedagógus tisztsége | Bp-Rákoscsaba | 2013.03.08</title>
-      <description>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2360 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 8aec1e39-ab25-4d09-b52e-3038deda6c5f</p>]]>
-      </description>
-      <guid isPermaLink="false">8aec1e39-ab25-4d09-b52e-3038deda6c5f</guid>
-      <pubDate>Fri, 08 Mar 2013 00:00:00 +0100</pubDate>
-      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3" length="7081130" type="audio/mpeg"/>
-      <itunes:summary>
-        <![CDATA[<br/>
-<p>Kategória: Pedagógusképzés</p>
-<br/>
-<hr/>
-<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3</a></p>
-<br/>
-<p>Becsült hossz: 2360 mp</p>
-<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
-<p>UUID: 8aec1e39-ab25-4d09-b52e-3038deda6c5f</p>]]>
-      </itunes:summary>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:duration>2360</itunes:duration>
-      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Pedagógusképzés: Emberképrõl pedagógusoknak | Bp-Rákoscsaba | 2013.03.08</title>
       <description>
         <![CDATA[<br/>
@@ -25672,6 +25640,38 @@ Legutóbb frissítve: Mon, 23 Oct 2023 23:21:42 +0100]]>
       </itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>2048</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Pedagógusképzés: A keresztyén református pedagógus tisztsége | Bp-Rákoscsaba | 2013.03.08</title>
+      <description>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2360 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 8aec1e39-ab25-4d09-b52e-3038deda6c5f</p>]]>
+      </description>
+      <guid isPermaLink="false">8aec1e39-ab25-4d09-b52e-3038deda6c5f</guid>
+      <pubDate>Fri, 08 Mar 2013 00:00:00 +0100</pubDate>
+      <enclosure url="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3" length="7081130" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Kategória: Pedagógusképzés</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3">https://marko.reformatus.hu/Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2360 mp</p>
+<p>Generálta: <a href="https://reflabs.hu/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 8aec1e39-ab25-4d09-b52e-3038deda6c5f</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2360</itunes:duration>
       <itunes:image href="https://reflabs.hu/scrapecast/assets/marco/marco.png"/>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
