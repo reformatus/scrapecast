@@ -2423,10 +2423,10 @@
     "title": "Csoportból csapat",
     "date": "2019.12.07",
     "place": "Madocsa",
-    "category": "Pedagógusképzés",
+    "category": "Presbiterképzés",
     "video": null,
     "download": "Eloadasok/Tematikus/Kepzes/MLW20191207.mp3",
-    "uuid": "6ae6a77f-40f6-41b4-b9bb-f4bb665b993e",
+    "uuid": "366debe1-3e55-4e85-851e-be43431783c8",
     "length": 2016,
     "size": 6050208
   },
@@ -2434,10 +2434,10 @@
     "title": "Csoportból csapat",
     "date": "2019.12.07",
     "place": "Madocsa",
-    "category": "Presbiterképzés",
+    "category": "Pedagógusképzés",
     "video": null,
     "download": "Eloadasok/Tematikus/Kepzes/MLW20191207.mp3",
-    "uuid": "366debe1-3e55-4e85-851e-be43431783c8",
+    "uuid": "6ae6a77f-40f6-41b4-b9bb-f4bb665b993e",
     "length": 2016,
     "size": 6050208
   },
@@ -4543,6 +4543,17 @@
     "size": 5927106
   },
   {
+    "title": "1Kor 13,1-8a",
+    "date": "2017.05.19",
+    "place": "Pécel",
+    "category": "Bibliamagyarázat - A királyok első könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
+    "uuid": "086d20d8-d4f2-4ba3-a092-702b91266309",
+    "length": 1479,
+    "size": 4438752
+  },
+  {
     "title": "A szociális kompetencia fejlesztése az óvodában",
     "date": "2017.05.19",
     "place": "Pécel",
@@ -4552,17 +4563,6 @@
     "uuid": "0810da92-e0d5-469b-ad1f-dcfe9d90b2c4",
     "length": 3067,
     "size": 9203265
-  },
-  {
-    "title": "1Kor 13,1-8a",
-    "date": "2017.05.19",
-    "place": "Pécel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
-    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
-    "length": 1479,
-    "size": 4438752
   },
   {
     "title": "Gondolatok a szociális kompetenciáról",
@@ -4579,10 +4579,10 @@
     "title": "1Kor 13,1-8a",
     "date": "2017.05.19",
     "place": "Pécel",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170519A.mp3",
-    "uuid": "086d20d8-d4f2-4ba3-a092-702b91266309",
+    "uuid": "d41544dd-bd9c-4485-9583-4edc87d3bdc8",
     "length": 1479,
     "size": 4438752
   },
@@ -5236,17 +5236,6 @@
     "size": 7400196
   },
   {
-    "title": "A misszió eszközei (bevezetés hiányzik)",
-    "date": "2016.09.03",
-    "place": "Székelyudvarhely",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903B.mp3",
-    "uuid": "a0f602e1-aa6e-41f8-afda-d7e1b1747545",
-    "length": 3576,
-    "size": 10729721
-  },
-  {
     "title": "Hogyan kezdjünk hozzá?",
     "date": "2016.09.03",
     "place": "Székelyudvarhely",
@@ -5256,6 +5245,17 @@
     "uuid": "def83521-5a75-4ffa-8abd-fdab9960ebc0",
     "length": 3452,
     "size": 10358267
+  },
+  {
+    "title": "A misszió eszközei (bevezetés hiányzik)",
+    "date": "2016.09.03",
+    "place": "Székelyudvarhely",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160903B.mp3",
+    "uuid": "a0f602e1-aa6e-41f8-afda-d7e1b1747545",
+    "length": 3576,
+    "size": 10729721
   },
   {
     "title": "Mk 15,20-32",
@@ -8415,17 +8415,6 @@
     "size": 4603810
   },
   {
-    "title": "Ef 5,22-33",
-    "date": "2013.08.08",
-    "place": "Szajol",
-    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3",
-    "uuid": "685be319-915d-459f-9e39-7acf99cca798",
-    "length": 2068,
-    "size": 6206874
-  },
-  {
     "title": "Ef 6,10-20",
     "date": "2013.08.08",
     "place": "Szajol",
@@ -8437,15 +8426,15 @@
     "size": 7533712
   },
   {
-    "title": "Ef 4,17-32",
-    "date": "2013.08.07",
+    "title": "Ef 5,22-33",
+    "date": "2013.08.08",
     "place": "Szajol",
     "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3",
-    "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
-    "length": 2299,
-    "size": 6898074
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130808A.mp3",
+    "uuid": "685be319-915d-459f-9e39-7acf99cca798",
+    "length": 2068,
+    "size": 6206874
   },
   {
     "title": "Ef 4,7-16",
@@ -8457,6 +8446,17 @@
     "uuid": "45ad5a05-8e38-4090-8732-6ba2193ad61b",
     "length": 3427,
     "size": 10281348
+  },
+  {
+    "title": "Ef 4,17-32",
+    "date": "2013.08.07",
+    "place": "Szajol",
+    "category": "Bibliamagyarázat - Pál levele az efezusiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ef/MLW20130807B.mp3",
+    "uuid": "0b811030-8532-4278-bf0b-ebaa72c52564",
+    "length": 2299,
+    "size": 6898074
   },
   {
     "title": "Ef 4,1-12",
@@ -8789,17 +8789,6 @@
     "size": 5234574
   },
   {
-    "title": "A keresztyén református pedagógus tisztsége",
-    "date": "2013.03.08",
-    "place": "Bp-Rákoscsaba",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3",
-    "uuid": "8aec1e39-ab25-4d09-b52e-3038deda6c5f",
-    "length": 2360,
-    "size": 7081130
-  },
-  {
     "title": "Emberképrõl pedagógusoknak",
     "date": "2013.03.08",
     "place": "Bp-Rákoscsaba",
@@ -8809,6 +8798,17 @@
     "uuid": "3a9bb7f8-b7b8-4e7c-9995-8da53c662c4d",
     "length": 2048,
     "size": 6146173
+  },
+  {
+    "title": "A keresztyén református pedagógus tisztsége",
+    "date": "2013.03.08",
+    "place": "Bp-Rákoscsaba",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20130308A.mp3",
+    "uuid": "8aec1e39-ab25-4d09-b52e-3038deda6c5f",
+    "length": 2360,
+    "size": 7081130
   },
   {
     "title": "32. kérdés-felelet (B)",
