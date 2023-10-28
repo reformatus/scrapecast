@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 28 Oct 2023 14:39:27 +0100
+✅ Legutóbb frissítve: Sat, 28 Oct 2023 18:29:32 +0100
 
 Epizódok száma: 2904
 
@@ -37,7 +37,7 @@ Epizódok száma: 2904
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 28 Oct 2023 14:39:28 +0100
+✅ Legutóbb frissítve: Sat, 28 Oct 2023 18:29:33 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 28 Oct 2023 14:39:39 +0100
+✅ Legutóbb frissítve: Sat, 28 Oct 2023 18:29:49 +0100
 
-Epizódok száma: 862
+Epizódok száma: 864
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 862
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.10.28 - Mit tehetekk a gyülekezetért? - Presbiterképzés
+ - 2023.10.28 - Mit kaphatok a gyülekezettõl? - Presbiterképzés
  - 2023.10.21 - Szolgálati lehetõségek kisiskolás korig - Vallásismeret - Egyháztan
  - 2023.10.21 - Szolgálati lehetõségek serdülõ és felnõtt korban - Vallásismeret - Egyháztan
  - 2023.10.21 - Szolgálati lehetõségek nyugdíjas kortól - Vallásismeret - Egyháztan
  - 2023.10.18 - A keresztyén gyermeknevelés alapjai - Szülők iskolája
- - 2023.10.18 - A ckeresztyén gyermeknevelés alapjai - Szülők iskolája
- - 2023.10.15 - Jn 15,2b - Bibliamagyarázat - János evangéliuma
 
 ---
 
