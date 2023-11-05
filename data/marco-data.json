@@ -308,17 +308,6 @@
     "size": 7870862
   },
   {
-    "title": "Jn 6,29-40",
-    "date": "2023.08.27",
-    "place": "Mágocs",
-    "category": "Bibliamagyarázat - János evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20230827B.mp3",
-    "uuid": "ba6cec3d-0dba-4ea5-bdd0-89f5e6c81f0f",
-    "length": 1842,
-    "size": 5526032
-  },
-  {
     "title": "Bir 2,6-22",
     "date": "2023.08.27",
     "place": "Kölesd",
@@ -328,6 +317,17 @@
     "uuid": "8238bc18-0678-477a-8d42-7b110141d0ae",
     "length": 2185,
     "size": 6556064
+  },
+  {
+    "title": "Jn 6,29-40",
+    "date": "2023.08.27",
+    "place": "Mágocs",
+    "category": "Bibliamagyarázat - János evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20230827B.mp3",
+    "uuid": "ba6cec3d-0dba-4ea5-bdd0-89f5e6c81f0f",
+    "length": 1842,
+    "size": 5526032
   },
   {
     "title": "Család - közösség - örök élet",
@@ -4224,17 +4224,6 @@
     "size": 8372818
   },
   {
-    "title": "Bibliai ünnepek - Kovásztalan kenyerek ünnepe és nagypéntek",
-    "date": "2017.11.18",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118B.mp3",
-    "uuid": "96c1a668-8d10-4261-ab7c-fb573b74aa06",
-    "length": 2784,
-    "size": 8354420
-  },
-  {
     "title": "Bibliai ünnepek - Hetek ünnepe és pünkösd",
     "date": "2017.11.18",
     "place": "Fadd",
@@ -4244,6 +4233,17 @@
     "uuid": "ee06d68b-6dfa-4ddb-b780-096019e99c56",
     "length": 2568,
     "size": 7706676
+  },
+  {
+    "title": "Bibliai ünnepek - Kovásztalan kenyerek ünnepe és nagypéntek",
+    "date": "2017.11.18",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118B.mp3",
+    "uuid": "96c1a668-8d10-4261-ab7c-fb573b74aa06",
+    "length": 2784,
+    "size": 8354420
   },
   {
     "title": "Róm 11,11-12 és 25-32",
