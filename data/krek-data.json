@@ -1,5 +1,27 @@
 [
   {
+    "title": "Szívünk - 11h",
+    "bible": "Példabeszédek 4,23",
+    "date": "2023.11.05",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20231105_11h_IV_Példapeszédek4,23_Szívünk.mp3",
+    "uuid": "325e7374-c3e2-472a-90b1-aa6aafa48a2a",
+    "length": 3550,
+    "size": 56807432
+  },
+  {
+    "title": "Elhívás - 9h",
+    "bible": "Ámosz 7,14-15",
+    "date": "2023.11.05",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20231105_9h_KJ_Ámosz7,14-15_Elhívás.mp3",
+    "uuid": "9e76b10e-b655-4a7f-bc00-d5a957d409f2",
+    "length": 4591,
+    "size": 73471214
+  },
+  {
     "title": "Történelem-Tisztújítás - 9h",
     "bible": "4 Mózes 33,1-4",
     "date": "2023.10.31",
@@ -880,17 +902,6 @@
     "size": 49261655
   },
   {
-    "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit!\" - 9h - Gimnázium tanévzáró",
-    "bible": "Zsoltárok 37,4-6",
-    "date": "2023.06.18",
-    "pastor": "Peleskey Miklós Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
-    "uuid": "529748d0-c9ec-4747-abe7-15e8bd5a880b",
-    "length": 5550,
-    "size": 88814340
-  },
-  {
     "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit.\" - 9h-Gimnázium évzáró",
     "bible": "Zsoltárok 37,4-6",
     "date": "2023.06.18",
@@ -898,6 +909,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
     "uuid": "c95a99dc-a487-4099-82d7-ff9e319671d0",
+    "length": 5550,
+    "size": 88814340
+  },
+  {
+    "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit!\" - 9h - Gimnázium tanévzáró",
+    "bible": "Zsoltárok 37,4-6",
+    "date": "2023.06.18",
+    "pastor": "Peleskey Miklós Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
+    "uuid": "529748d0-c9ec-4747-abe7-15e8bd5a880b",
     "length": 5550,
     "size": 88814340
   },
@@ -2882,17 +2904,6 @@
     "size": 55329066
   },
   {
-    "title": "Az adakozás áldása. - 18h",
-    "bible": "2. Korintus 9,6-15.",
-    "date": "2022.09.25",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/Jó_Az_áldozat_áldása.mp3",
-    "uuid": "7bd229e0-c6b7-4c63-8f3a-0882cc9ed02d",
-    "length": 1813,
-    "size": 29021064
-  },
-  {
     "title": "Isten új szövetséget köt népével. - Széchenyiváros",
     "bible": "Jeremiás 31,31.",
     "date": "2022.09.25",
@@ -2902,6 +2913,17 @@
     "uuid": "4664b3fc-8a73-4efa-a9da-76f8e3d812cf",
     "length": 5418,
     "size": 130040870
+  },
+  {
+    "title": "Az adakozás áldása. - 18h",
+    "bible": "2. Korintus 9,6-15.",
+    "date": "2022.09.25",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/Jó_Az_áldozat_áldása.mp3",
+    "uuid": "7bd229e0-c6b7-4c63-8f3a-0882cc9ed02d",
+    "length": 1813,
+    "size": 29021064
   },
   {
     "title": "Az adakozás áldása. - 18h",
@@ -6028,17 +6050,6 @@
     "size": 40744667
   },
   {
-    "title": "A Szolgálatba állítás - 19,30h",
-    "bible": "János 21,15-19.",
-    "date": "2021.07.23",
-    "pastor": "Csomós József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210723_19,30h_CSJ_János21,15-19_A_Szolgálatba_állítás.mp3",
-    "uuid": "22575591-1eab-47fa-9572-cc7cc390f769",
-    "length": 2102,
-    "size": 50448647
-  },
-  {
     "title": "A földet betöltő dicsőség - 7,15h",
     "bible": "Zsoltárok 96,1-6.",
     "date": "2021.07.23",
@@ -6048,6 +6059,17 @@
     "uuid": "609a9414-f69c-4c6d-9224-8f4af543d5f9",
     "length": 646,
     "size": 15509538
+  },
+  {
+    "title": "A Szolgálatba állítás - 19,30h",
+    "bible": "János 21,15-19.",
+    "date": "2021.07.23",
+    "pastor": "Csomós József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210723_19,30h_CSJ_János21,15-19_A_Szolgálatba_állítás.mp3",
+    "uuid": "22575591-1eab-47fa-9572-cc7cc390f769",
+    "length": 2102,
+    "size": 50448647
   },
   {
     "title": "Nyomorúság és szabadulás - 19,30h",
@@ -9053,17 +9075,6 @@
     "size": 59386174
   },
   {
-    "title": "Isten szerető irányítása - (Széchenyiváros)",
-    "bible": "1Mózes 45, 4-5.",
-    "date": "2020.07.05",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/TLsUIPLnfzo",
-    "download": "/media/files/igehirdetesek/20200705_9,30h_PF_1 Mozes45,4-5_Isten_szereto_iranyitasa.mp3",
-    "uuid": "c51e25fb-c28e-4dcc-9824-f3bafe258458",
-    "length": 3970,
-    "size": 63521288
-  },
-  {
     "title": "Isten Igéje közösséget teremt - 18h",
     "bible": "ApCsel17,1-10, Thessz2,13.",
     "date": "2020.07.05",
@@ -9073,6 +9084,17 @@
     "uuid": "17571b55-ee61-407d-9b8e-c5c82fdf3b5f",
     "length": 2134,
     "size": 34153142
+  },
+  {
+    "title": "Isten szerető irányítása - (Széchenyiváros)",
+    "bible": "1Mózes 45, 4-5.",
+    "date": "2020.07.05",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/TLsUIPLnfzo",
+    "download": "/media/files/igehirdetesek/20200705_9,30h_PF_1 Mozes45,4-5_Isten_szereto_iranyitasa.mp3",
+    "uuid": "c51e25fb-c28e-4dcc-9824-f3bafe258458",
+    "length": 3970,
+    "size": 63521288
   },
   {
     "title": "Lelki közösség Krisztussal - 11h",
@@ -11451,17 +11473,6 @@
     "size": 47418522
   },
   {
-    "title": "Üdvösség egyenlő Krisztusba vetett hit (Széchenyiváros)",
-    "bible": "ApCsel15,22-35",
-    "date": "2019.06.23",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/e2FfQEsft-8",
-    "download": "/media/files/igehirdetesek/20190623_9,30h_PF_ApCs_15,22-35_Üdvösség_egyenlő_Krisztusba_vetett_hit_(Széchenyiváros).mp3",
-    "uuid": "6f09f966-3eea-407a-a457-bbe1771081b2",
-    "length": 4673,
-    "size": 74770984
-  },
-  {
     "title": "Hűség és kitartás - 18h",
     "bible": "2Timóteus2,3-13",
     "date": "2019.06.23",
@@ -11471,6 +11482,17 @@
     "uuid": "8fa7ee47-45f8-47d9-90e6-6b6516dacda3",
     "length": 2289,
     "size": 36638655
+  },
+  {
+    "title": "Üdvösség egyenlő Krisztusba vetett hit (Széchenyiváros)",
+    "bible": "ApCsel15,22-35",
+    "date": "2019.06.23",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/e2FfQEsft-8",
+    "download": "/media/files/igehirdetesek/20190623_9,30h_PF_ApCs_15,22-35_Üdvösség_egyenlő_Krisztusba_vetett_hit_(Széchenyiváros).mp3",
+    "uuid": "6f09f966-3eea-407a-a457-bbe1771081b2",
+    "length": 4673,
+    "size": 74770984
   },
   {
     "title": "Isten Igéjére hallgatni - 11h",
@@ -21978,17 +22000,6 @@
     "size": 22305271
   },
   {
-    "title": "Isten vigasztalása - 18h",
-    "bible": "1Tesszalónika4,13-18",
-    "date": "2013.09.01",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/130901 18h HT_vigaszt.it_Isten vigasztalasa_1Thessz4,13_18.mp3",
-    "uuid": "b6e1f5bb-63b3-4619-a564-984e9c18fae7",
-    "length": 2130,
-    "size": 17046091
-  },
-  {
     "title": "Gyertek - 15h",
     "bible": "Zsoltárok66,5",
     "date": "2013.09.01",
@@ -21998,6 +22009,17 @@
     "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
     "length": 1985,
     "size": 15883537
+  },
+  {
+    "title": "Isten vigasztalása - 18h",
+    "bible": "1Tesszalónika4,13-18",
+    "date": "2013.09.01",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/130901 18h HT_vigaszt.it_Isten vigasztalasa_1Thessz4,13_18.mp3",
+    "uuid": "b6e1f5bb-63b3-4619-a564-984e9c18fae7",
+    "length": 2130,
+    "size": 17046091
   },
   {
     "title": "Ne csüggedj - 18h",
@@ -23551,17 +23573,6 @@
     "size": 12745709
   },
   {
-    "title": "Van ér van csodás erő - 18h",
-    "bible": "1János5,4-5",
-    "date": "2012.12.31",
-    "pastor": "Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/121231_18h_PN_Van_er_van_csodas_ero_1Jn5_4_5.mp3",
-    "uuid": "2e5b78e6-5a18-44b9-88ed-89e5e9a832cf",
-    "length": 1723,
-    "size": 13788308
-  },
-  {
     "title": "Jézussal a világ végéig - 15h",
     "bible": "Lukács21,5-19",
     "date": "2012.12.31",
@@ -23571,6 +23582,17 @@
     "uuid": "837b42d2-a11f-4a59-b258-10404cd3385c",
     "length": 1724,
     "size": 13795622
+  },
+  {
+    "title": "Van ér van csodás erő - 18h",
+    "bible": "1János5,4-5",
+    "date": "2012.12.31",
+    "pastor": "Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/121231_18h_PN_Van_er_van_csodas_ero_1Jn5_4_5.mp3",
+    "uuid": "2e5b78e6-5a18-44b9-88ed-89e5e9a832cf",
+    "length": 1723,
+    "size": 13788308
   },
   {
     "title": "Szelíd szemed Úr Jézus - 11h",
@@ -24343,17 +24365,6 @@
     "size": 18186910
   },
   {
-    "title": "Szeress, de hogyan - 16,30h",
-    "bible": "1János4,9-12",
-    "date": "2012.09.02",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120902_16_30h_VN_Szeress_de_hogyan_1JN4_9_12.mp3",
-    "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
-    "length": 1662,
-    "size": 13296788
-  },
-  {
     "title": "Vigasztaljátok népemet - 18h",
     "bible": "Ézsaiás41,1-8",
     "date": "2012.09.02",
@@ -24363,6 +24374,17 @@
     "uuid": "62c23ff2-b430-4ac9-ad79-197c60bc031e",
     "length": 2813,
     "size": 22508190
+  },
+  {
+    "title": "Szeress, de hogyan - 16,30h",
+    "bible": "1János4,9-12",
+    "date": "2012.09.02",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120902_16_30h_VN_Szeress_de_hogyan_1JN4_9_12.mp3",
+    "uuid": "9c8f58af-0556-4d4e-ae32-4575c12575eb",
+    "length": 1662,
+    "size": 13296788
   },
   {
     "title": "Aki a Fiú, azé az élet - 18h",
