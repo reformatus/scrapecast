@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 11 Nov 2023 09:26:59 +0100
+✅ Legutóbb frissítve: Sat, 11 Nov 2023 13:40:17 +0100
 
 Epizódok száma: 2916
 
@@ -37,7 +37,7 @@ Epizódok száma: 2916
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 11 Nov 2023 09:27:00 +0100
+✅ Legutóbb frissítve: Sat, 11 Nov 2023 13:40:17 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 11 Nov 2023 09:27:18 +0100
+✅ Legutóbb frissítve: Sat, 11 Nov 2023 13:40:30 +0100
 
-Epizódok száma: 868
+Epizódok száma: 871
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 868
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.11.10 - Mt 13,24-30.36-43 (C) - Bibliamagyarázat - Máté evangéliuma
+ - 2023.11.09 - Mt 13,24-30.36-43 (B) - Bibliamagyarázat - Máté evangéliuma
+ - 2023.11.08 - Mt 13,24-30.36-43 (A) - Bibliamagyarázat - Máté evangéliuma
  - 2023.11.05 - 1Kor 15,35-58 - Bibliamagyarázat - A királyok első könyve
  - 2023.11.05 - 1Kor 15,35-58 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
  - 2023.11.03 - 1Kor 15,12-28 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
- - 2023.11.03 - 1Kor 15,12-28 - Bibliamagyarázat - A királyok első könyve
- - 2023.10.28 - Mit tehetekk a gyülekezetért? - Presbiterképzés
- - 2023.10.28 - Mit kaphatok a gyülekezettõl? - Presbiterképzés
 
 ---
 
