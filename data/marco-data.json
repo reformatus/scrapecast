@@ -4246,17 +4246,6 @@
     "size": 6498593
   },
   {
-    "title": "Bibliai ünnepek - Kovásztalan kenyerek ünnepe és nagypéntek",
-    "date": "2017.11.18",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118B.mp3",
-    "uuid": "96c1a668-8d10-4261-ab7c-fb573b74aa06",
-    "length": 2784,
-    "size": 8354420
-  },
-  {
     "title": "Bibliai ünnepek - Lombsátrak ünnepe, templomszentelési ünnep, púrim",
     "date": "2017.11.18",
     "place": "Fadd",
@@ -4299,6 +4288,17 @@
     "uuid": "9811696b-6224-4975-b85f-21d0c30396fb",
     "length": 2790,
     "size": 8372818
+  },
+  {
+    "title": "Bibliai ünnepek - Kovásztalan kenyerek ünnepe és nagypéntek",
+    "date": "2017.11.18",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118B.mp3",
+    "uuid": "96c1a668-8d10-4261-ab7c-fb573b74aa06",
+    "length": 2784,
+    "size": 8354420
   },
   {
     "title": "Róm 11,11-12 és 25-32",
@@ -4601,10 +4601,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
+    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
     "length": 2099,
     "size": 6299115
   },
@@ -4612,10 +4612,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
+    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
     "length": 2099,
     "size": 6299115
   },
@@ -6369,17 +6369,6 @@
     "size": 6828797
   },
   {
-    "title": "Gal 5,13-25",
-    "date": "2015.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál levele a galatákhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Gal/MLW20150525B.mp3",
-    "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
-    "length": 1582,
-    "size": 4746970
-  },
-  {
     "title": "Ez 37,1-14",
     "date": "2015.05.25",
     "place": "Dombóvár",
@@ -6389,6 +6378,17 @@
     "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
     "length": 2251,
     "size": 6753016
+  },
+  {
+    "title": "Gal 5,13-25",
+    "date": "2015.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Pál levele a galatákhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Gal/MLW20150525B.mp3",
+    "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
+    "length": 1582,
+    "size": 4746970
   },
   {
     "title": "Mk 8,22-26",
@@ -6677,6 +6677,17 @@
     "size": 4947432
   },
   {
+    "title": "A thesszalonikaiakhoz írt levelek",
+    "date": "2015.02.28",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
+    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
+    "length": 2369,
+    "size": 7109870
+  },
+  {
     "title": "Filippi, 1Timóteus és Titusz",
     "date": "2015.02.28",
     "place": "Fadd",
@@ -6730,17 +6741,6 @@
     "uuid": "a9a0f3de-2ece-42c4-b3f7-b450b39da9aa",
     "length": 2433,
     "size": 7299030
-  },
-  {
-    "title": "A thesszalonikaiakhoz írt levelek",
-    "date": "2015.02.28",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
-    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
-    "length": 2369,
-    "size": 7109870
   },
   {
     "title": "1Móz 21,22-34",
