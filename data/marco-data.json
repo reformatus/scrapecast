@@ -319,17 +319,6 @@
     "size": 6693943
   },
   {
-    "title": "1Thessz 5,14",
-    "date": "2023.09.03",
-    "place": "Nagyvisnyó",
-    "category": "Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/1Thessz/MLW20230903B.mp3",
-    "uuid": "8e76e66e-389f-41da-93f2-2eda315995ed",
-    "length": 1664,
-    "size": 4994818
-  },
-  {
     "title": "1Thessz 5,11",
     "date": "2023.09.03",
     "place": "Szilvásvárad",
@@ -339,6 +328,17 @@
     "uuid": "bfd57f43-3d54-496b-9220-7b0434791695",
     "length": 1451,
     "size": 4353514
+  },
+  {
+    "title": "1Thessz 5,14",
+    "date": "2023.09.03",
+    "place": "Nagyvisnyó",
+    "category": "Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/1Thessz/MLW20230903B.mp3",
+    "uuid": "8e76e66e-389f-41da-93f2-2eda315995ed",
+    "length": 1664,
+    "size": 4994818
   },
   {
     "title": "Egyházunk és Ura mit vár el a presbiterektõl?",
@@ -671,17 +671,6 @@
     "size": 6056745
   },
   {
-    "title": "Megértõ beszéd megfáradt lelkészekhez",
-    "date": "2023.03.10",
-    "place": "Dombóvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230310B.mp3",
-    "uuid": "585e2f2b-952f-40d0-9d54-7cb9141100fc",
-    "length": 2676,
-    "size": 16056080
-  },
-  {
     "title": "Gondolatok a lelkészi hivatásról",
     "date": "2023.03.10",
     "place": "Dombóvár",
@@ -691,6 +680,17 @@
     "uuid": "22b19285-328f-46a6-8a67-872d6144598d",
     "length": 2772,
     "size": 16634118
+  },
+  {
+    "title": "Megértõ beszéd megfáradt lelkészekhez",
+    "date": "2023.03.10",
+    "place": "Dombóvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230310B.mp3",
+    "uuid": "585e2f2b-952f-40d0-9d54-7cb9141100fc",
+    "length": 2676,
+    "size": 16056080
   },
   {
     "title": "Közösségi vezetés",
@@ -1397,17 +1397,6 @@
     "size": 5724609
   },
   {
-    "title": "Az élet vége felé közeledve",
-    "date": "2022.03.30",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20220330B.mp3",
-    "uuid": "757e9389-d732-40dd-8f28-c1e77e8a5c87",
-    "length": 2309,
-    "size": 6927058
-  },
-  {
     "title": "Nyugdíjazás, nagyszülõi szerep",
     "date": "2022.03.30",
     "place": "Sólyomkõvár",
@@ -1417,6 +1406,17 @@
     "uuid": "ee561fe9-c10b-45e8-8213-5c6a3e77bab1",
     "length": 2560,
     "size": 7681120
+  },
+  {
+    "title": "Az élet vége felé közeledve",
+    "date": "2022.03.30",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20220330B.mp3",
+    "uuid": "757e9389-d732-40dd-8f28-c1e77e8a5c87",
+    "length": 2309,
+    "size": 6927058
   },
   {
     "title": "Fiatal felnõttkor",
@@ -1730,10 +1730,10 @@
     "title": "1Kor 10,16k",
     "date": "2022.01.02",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20220102.mp3",
-    "uuid": "f93accdd-e62f-4bd8-86b1-de6989c3c75f",
+    "uuid": "65249154-8428-426c-80be-d1dcb7657dd9",
     "length": 1904,
     "size": 5713521
   },
@@ -1741,10 +1741,10 @@
     "title": "1Kor 10,16k",
     "date": "2022.01.02",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20220102.mp3",
-    "uuid": "65249154-8428-426c-80be-d1dcb7657dd9",
+    "uuid": "f93accdd-e62f-4bd8-86b1-de6989c3c75f",
     "length": 1904,
     "size": 5713521
   },
@@ -2453,17 +2453,6 @@
     "size": 7868736
   },
   {
-    "title": "Barnabás jelleme (2)",
-    "date": "2020.02.04",
-    "place": "Csongor",
-    "category": "Vallásismeret - Keresztyén élet",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20200204B.mp3",
-    "uuid": "42ccb988-c685-400f-8b8b-337eb44097d3",
-    "length": 2792,
-    "size": 8377488
-  },
-  {
     "title": "Jn 9,8-23",
     "date": "2020.02.04",
     "place": "Csongor",
@@ -2473,6 +2462,17 @@
     "uuid": "a51a8345-857e-483b-94e4-a83b7381c2ff",
     "length": 2895,
     "size": 8687407
+  },
+  {
+    "title": "Barnabás jelleme (2)",
+    "date": "2020.02.04",
+    "place": "Csongor",
+    "category": "Vallásismeret - Keresztyén élet",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20200204B.mp3",
+    "uuid": "42ccb988-c685-400f-8b8b-337eb44097d3",
+    "length": 2792,
+    "size": 8377488
   },
   {
     "title": "Barnabás jelleme (1)",
@@ -4257,17 +4257,6 @@
     "size": 6498593
   },
   {
-    "title": "Bibliai ünnepek - Ószövetségi ünnepkör és egyházi év",
-    "date": "2017.11.18",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118A.mp3",
-    "uuid": "fbc4263b-fbda-4c4f-867f-eac1b96c37e7",
-    "length": 1870,
-    "size": 5612331
-  },
-  {
     "title": "Bibliai ünnepek - Hetek ünnepe és pünkösd",
     "date": "2017.11.18",
     "place": "Fadd",
@@ -4310,6 +4299,17 @@
     "uuid": "900a1537-0805-40bd-b700-9ebd2ab36329",
     "length": 2390,
     "size": 7172733
+  },
+  {
+    "title": "Bibliai ünnepek - Ószövetségi ünnepkör és egyházi év",
+    "date": "2017.11.18",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20171118A.mp3",
+    "uuid": "fbc4263b-fbda-4c4f-867f-eac1b96c37e7",
+    "length": 1870,
+    "size": 5612331
   },
   {
     "title": "Róm 11,11-12 és 25-32",
@@ -4612,10 +4612,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
+    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
     "length": 2099,
     "size": 6299115
   },
@@ -4623,10 +4623,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
+    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
     "length": 2099,
     "size": 6299115
   },
@@ -6380,17 +6380,6 @@
     "size": 6828797
   },
   {
-    "title": "Gal 5,13-25",
-    "date": "2015.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál levele a galatákhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Gal/MLW20150525B.mp3",
-    "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
-    "length": 1582,
-    "size": 4746970
-  },
-  {
     "title": "Ez 37,1-14",
     "date": "2015.05.25",
     "place": "Dombóvár",
@@ -6400,6 +6389,17 @@
     "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
     "length": 2251,
     "size": 6753016
+  },
+  {
+    "title": "Gal 5,13-25",
+    "date": "2015.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Pál levele a galatákhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Gal/MLW20150525B.mp3",
+    "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
+    "length": 1582,
+    "size": 4746970
   },
   {
     "title": "Mk 8,22-26",
@@ -6688,6 +6688,17 @@
     "size": 4947432
   },
   {
+    "title": "A thesszalonikaiakhoz írt levelek",
+    "date": "2015.02.28",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
+    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
+    "length": 2369,
+    "size": 7109870
+  },
+  {
     "title": "Filippi, 1Timóteus és Titusz",
     "date": "2015.02.28",
     "place": "Fadd",
@@ -6741,17 +6752,6 @@
     "uuid": "a9a0f3de-2ece-42c4-b3f7-b450b39da9aa",
     "length": 2433,
     "size": 7299030
-  },
-  {
-    "title": "A thesszalonikaiakhoz írt levelek",
-    "date": "2015.02.28",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228B.mp3",
-    "uuid": "d58ff9df-11a1-49e8-9740-ad173ad6f144",
-    "length": 2369,
-    "size": 7109870
   },
   {
     "title": "1Móz 21,22-34",
