@@ -1320,17 +1320,6 @@
     "size": 38391739
   },
   {
-    "title": "Együtt-egymásért és másokért. - 17h",
-    "bible": "János 17,21",
-    "date": "2023.05.13",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230513_17h_VN_János17,21_Együtt-egymásért_és_másokért II. (online-audio-converter.com).mp3",
-    "uuid": "2a146431-8c28-40a4-9aee-5464809d5ee2",
-    "length": 1902,
-    "size": 30442519
-  },
-  {
     "title": "Együtt-egymásért és másokért. - 10h",
     "bible": "1 Korintus 12,12-31",
     "date": "2023.05.13",
@@ -1340,6 +1329,17 @@
     "uuid": "4325a1de-99b6-4599-8d3e-c53bf26f247f",
     "length": 3596,
     "size": 57546754
+  },
+  {
+    "title": "Együtt-egymásért és másokért. - 17h",
+    "bible": "János 17,21",
+    "date": "2023.05.13",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230513_17h_VN_János17,21_Együtt-egymásért_és_másokért II. (online-audio-converter.com).mp3",
+    "uuid": "2a146431-8c28-40a4-9aee-5464809d5ee2",
+    "length": 1902,
+    "size": 30442519
   },
   {
     "title": "Szentlélek munkája. - KERT",
@@ -2233,17 +2233,6 @@
     "size": 55061469
   },
   {
-    "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11hh",
-    "bible": "Zsidókhoz 13,8.",
-    "date": "2023.01.01",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
-    "uuid": "8cdc46af-9e4f-4e98-9b22-d75ca3891c2d",
-    "length": 4064,
-    "size": 65031392
-  },
-  {
     "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11h",
     "bible": "Zsidókhoz 13,8.",
     "date": "2023.01.01",
@@ -2251,6 +2240,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
     "uuid": "b502347a-4ad3-4227-a109-de66dfcad468",
+    "length": 4064,
+    "size": 65031392
+  },
+  {
+    "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11hh",
+    "bible": "Zsidókhoz 13,8.",
+    "date": "2023.01.01",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
+    "uuid": "8cdc46af-9e4f-4e98-9b22-d75ca3891c2d",
     "length": 4064,
     "size": 65031392
   },
@@ -3564,15 +3564,15 @@
     "size": 128343796
   },
   {
-    "title": "Isten szeretett gyermekei. - 18h",
-    "bible": "1. János 3,1-12.",
+    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
+    "bible": "Márk 6,30-44.",
     "date": "2022.06.19",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Pál Ferenc",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
-    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
-    "length": 1746,
-    "size": 27941850
+    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
+    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
+    "length": 4267,
+    "size": 68272354
   },
   {
     "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
@@ -3586,15 +3586,15 @@
     "size": 68517328
   },
   {
-    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
-    "bible": "Márk 6,30-44.",
+    "title": "Isten szeretett gyermekei. - 18h",
+    "bible": "1. János 3,1-12.",
     "date": "2022.06.19",
-    "pastor": "Pál Ferenc",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
-    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
-    "length": 4267,
-    "size": 68272354
+    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
+    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
+    "length": 1746,
+    "size": 27941850
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -3718,15 +3718,15 @@
     "size": 131946187
   },
   {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
+    "title": "\"Sok népem van ebben a városban.\" - 18h ",
+    "bible": "ApCsel 18,1-11.",
     "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
+    "pastor": "Kutiné Filep Katalin",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
+    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
+    "length": 2998,
+    "size": 71956296
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -3751,15 +3751,15 @@
     "size": 69514529
   },
   {
-    "title": "\"Sok népem van ebben a városban.\" - 18h ",
-    "bible": "ApCsel 18,1-11.",
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
     "date": "2022.06.05",
-    "pastor": "Kutiné Filep Katalin",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
-    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
-    "length": 2998,
-    "size": 71956296
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -7920,17 +7920,6 @@
     "size": 57888208
   },
   {
-    "title": "Lelki karácsony - 15h",
-    "bible": "János 1,1-14",
-    "date": "2020.12.25",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201225_15h_HT_Janos 1,1-14_Lelki_karacsony.MP3",
-    "uuid": "dee9efa8-79f0-4a76-821c-7fcfb03b5b95",
-    "length": 2223,
-    "size": 35578383
-  },
-  {
     "title": "Öröm a romokon Istenben - 17h",
     "bible": "Ézsaiás 52,7-10",
     "date": "2020.12.25",
@@ -7940,6 +7929,17 @@
     "uuid": "6282a8fc-be8a-4808-a3f4-80e1083d0b37",
     "length": 2483,
     "size": 39740002
+  },
+  {
+    "title": "Lelki karácsony - 15h",
+    "bible": "János 1,1-14",
+    "date": "2020.12.25",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201225_15h_HT_Janos 1,1-14_Lelki_karacsony.MP3",
+    "uuid": "dee9efa8-79f0-4a76-821c-7fcfb03b5b95",
+    "length": 2223,
+    "size": 35578383
   },
   {
     "title": "Találkozás a Messiással-Ne féljetek - 11h",
@@ -18238,17 +18238,6 @@
     "size": 4513586
   },
   {
-    "title": "Nincs itt, feltámadt - 10,35h",
-    "bible": "Márk16,6",
-    "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
-    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
-    "length": 1772,
-    "size": 14182027
-  },
-  {
     "title": "Ne féljetek, feltámadt - 9,40h",
     "bible": "Márk16,6",
     "date": "2015.04.01",
@@ -18258,6 +18247,17 @@
     "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
     "length": 1738,
     "size": 13907845
+  },
+  {
+    "title": "Nincs itt, feltámadt - 10,35h",
+    "bible": "Márk16,6",
+    "date": "2015.04.01",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
+    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
+    "length": 1772,
+    "size": 14182027
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -20075,17 +20075,6 @@
     "size": 20341491
   },
   {
-    "title": "Távolodva közelebb - 18h",
-    "bible": "János16,28",
-    "date": "2014.05.29",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140529 18h KM_ald.csut.it_Tavolodva kozelebb_Jn16,28.mp3",
-    "uuid": "b5764a9f-8c09-4fa5-ba9d-c6ea4c5153f1",
-    "length": 1068,
-    "size": 8548773
-  },
-  {
     "title": "Láthatóvá váló Isten - 7,45h",
     "bible": "Efézus1,15-23",
     "date": "2014.05.29",
@@ -20095,6 +20084,17 @@
     "uuid": "f5e8c51b-f1cc-4b4d-addb-688c046eff99",
     "length": 1153,
     "size": 9227120
+  },
+  {
+    "title": "Távolodva közelebb - 18h",
+    "bible": "János16,28",
+    "date": "2014.05.29",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140529 18h KM_ald.csut.it_Tavolodva kozelebb_Jn16,28.mp3",
+    "uuid": "b5764a9f-8c09-4fa5-ba9d-c6ea4c5153f1",
+    "length": 1068,
+    "size": 8548773
   },
   {
     "title": "Az igazi szeretet - 11h",
@@ -20207,17 +20207,6 @@
     "size": 12295149
   },
   {
-    "title": "Hozzám térjetek ne egymáshoz - 18h",
-    "bible": "Lukács15,1-3",
-    "date": "2014.05.08",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140508 18h SzSz_evang.it_Hozzam terjetek ne egymashoz_Lk15,1_3.12_32.mp3",
-    "uuid": "da353a55-7a28-4a08-8df9-36ac6f95f422",
-    "length": 1915,
-    "size": 15325981
-  },
-  {
     "title": "Döntés, helyzet, hit - 7,15h",
     "bible": "Dániel3,14-20",
     "date": "2014.05.08",
@@ -20227,6 +20216,17 @@
     "uuid": "95cc14b7-0b90-4341-96fe-e05040d9b685",
     "length": 1121,
     "size": 8970285
+  },
+  {
+    "title": "Hozzám térjetek ne egymáshoz - 18h",
+    "bible": "Lukács15,1-3",
+    "date": "2014.05.08",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140508 18h SzSz_evang.it_Hozzam terjetek ne egymashoz_Lk15,1_3.12_32.mp3",
+    "uuid": "da353a55-7a28-4a08-8df9-36ac6f95f422",
+    "length": 1915,
+    "size": 15325981
   },
   {
     "title": "Vereségemben mellettem - 7,15h",
@@ -20350,17 +20350,6 @@
     "size": 22901491
   },
   {
-    "title": "Tarts ki a világosságban - 7,15h",
-    "bible": "Jób24,13-17",
-    "date": "2014.04.26",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140426 7.15h SzZs_regg.ah_Tarts ki a vilagossagban_Job24,13_17.mp3",
-    "uuid": "1c316ce4-c97b-4a78-ac83-451716974971",
-    "length": 1020,
-    "size": 8161116
-  },
-  {
     "title": "Jézus után nekünk is szenvednünk kell - 18h",
     "bible": "Jób24,1-7",
     "date": "2014.04.26",
@@ -20370,6 +20359,17 @@
     "uuid": "38378231-0d21-4a09-af6b-900446709318",
     "length": 1574,
     "size": 12594617
+  },
+  {
+    "title": "Tarts ki a világosságban - 7,15h",
+    "bible": "Jób24,13-17",
+    "date": "2014.04.26",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140426 7.15h SzZs_regg.ah_Tarts ki a vilagossagban_Job24,13_17.mp3",
+    "uuid": "1c316ce4-c97b-4a78-ac83-451716974971",
+    "length": 1020,
+    "size": 8161116
   },
   {
     "title": "Váratlan segítség, amikor elnyel a tenger - 7,15h",
@@ -25377,17 +25377,6 @@
     "size": 16556116
   },
   {
-    "title": "Figyelj, láss, csodálkozz - 7,35h",
-    "bible": "Márk1,16",
-    "date": "2012.02.20",
-    "pastor": "Ritter Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120220_7_35h_RN_Figyelj_lass_csodalkozz_Mk1_16.mp3",
-    "uuid": "d1030e3e-77e4-4c90-a418-3a02032e1123",
-    "length": 1039,
-    "size": 8318767
-  },
-  {
     "title": "Kényszerek útján - 17h",
     "bible": "Máté14,22-34",
     "date": "2012.02.20",
@@ -25397,6 +25386,17 @@
     "uuid": "43dec0d8-b365-4195-94fd-4f1a4e024c77",
     "length": 2521,
     "size": 20175433
+  },
+  {
+    "title": "Figyelj, láss, csodálkozz - 7,35h",
+    "bible": "Márk1,16",
+    "date": "2012.02.20",
+    "pastor": "Ritter Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120220_7_35h_RN_Figyelj_lass_csodalkozz_Mk1_16.mp3",
+    "uuid": "d1030e3e-77e4-4c90-a418-3a02032e1123",
+    "length": 1039,
+    "size": 8318767
   },
   {
     "title": "Szívvel hiszünk - 11h",
@@ -28798,17 +28798,6 @@
     "size": 7328540
   },
   {
-    "title": "Az én beszédeim nem múlnak el - 7,15h",
-    "bible": "Lukács21,33",
-    "date": "2010.03.24",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100325_7_15h_an_reggeli_ahitat_az_en_beszedeim_nem_mulnak_el_lk_21_33.mp3",
-    "uuid": "f7f00355-8e52-464f-9d49-37010b2200dc",
-    "length": 1045,
-    "size": 8367377
-  },
-  {
     "title": "Emeljétek fel a fejeteket - 7,15h",
     "bible": "Lukács21,28",
     "date": "2010.03.24",
@@ -28818,6 +28807,17 @@
     "uuid": "fdcce143-0cc5-4f6e-80a9-fda302ef3800",
     "length": 661,
     "size": 5288899
+  },
+  {
+    "title": "Az én beszédeim nem múlnak el - 7,15h",
+    "bible": "Lukács21,33",
+    "date": "2010.03.24",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100325_7_15h_an_reggeli_ahitat_az_en_beszedeim_nem_mulnak_el_lk_21_33.mp3",
+    "uuid": "f7f00355-8e52-464f-9d49-37010b2200dc",
+    "length": 1045,
+    "size": 8367377
   },
   {
     "title": "Mindent oda adott - 7,15h",
