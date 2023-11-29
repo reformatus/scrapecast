@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 29 Nov 2023 17:33:37 +0100
+✅ Legutóbb frissítve: Wed, 29 Nov 2023 22:23:40 +0100
 
 Epizódok száma: 2922
 
@@ -37,7 +37,7 @@ Epizódok száma: 2922
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 29 Nov 2023 17:33:38 +0100
+✅ Legutóbb frissítve: Wed, 29 Nov 2023 22:23:41 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Wed, 29 Nov 2023 17:33:56 +0100
+✅ Legutóbb frissítve: Wed, 29 Nov 2023 22:23:53 +0100
 
-Epizódok száma: 874
+Epizódok száma: 875
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 874
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.11.29 - Jer 31,31-34 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.28 - Jer 31,15-22 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.27 - Jer 3,6-18 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.19 - Mt 4 - Bibliamagyarázat - Máté evangéliuma
  - 2023.11.10 - Mt 13,24-30.36-43 (C) - Bibliamagyarázat - Máté evangéliuma
  - 2023.11.09 - Mt 13,24-30.36-43 (B) - Bibliamagyarázat - Máté evangéliuma
- - 2023.11.08 - Mt 13,24-30.36-43 (A) - Bibliamagyarázat - Máté evangéliuma
 
 ---
 
