@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 03 Dec 2023 16:22:41 +0100
+✅ Legutóbb frissítve: Sun, 03 Dec 2023 17:29:37 +0100
 
 Epizódok száma: 2928
 
@@ -37,7 +37,7 @@ Epizódok száma: 2928
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 03 Dec 2023 16:22:41 +0100
+✅ Legutóbb frissítve: Sun, 03 Dec 2023 17:29:38 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 03 Dec 2023 16:22:59 +0100
+✅ Legutóbb frissítve: Sun, 03 Dec 2023 17:29:57 +0100
 
-Epizódok száma: 877
+Epizódok száma: 878
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 877
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2023.12.03 - JSir 3 - Bibliamagyarázat - Jeremiás siralmai
  - 2023.12.01 - Jer 23,1-8 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.30 - Jer 33,14-18 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.29 - Jer 31,31-34 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.28 - Jer 31,15-22 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2023.11.27 - Jer 3,6-18 - Bibliamagyarázat - Jeremiás próféta könyve
- - 2023.11.19 - Mt 4 - Bibliamagyarázat - Máté evangéliuma
 
 ---
 
