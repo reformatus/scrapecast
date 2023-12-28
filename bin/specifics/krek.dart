@@ -23,6 +23,10 @@ Future<List<Episode>> krekScrape() async {
       downloadLinks.add(element.attributes.values.first);
     });
 
+    if (downloadLinks.isEmpty) {
+      continue;
+    }
+
     list.add(Episode(
         PodcastID.krek, //! id
         dateFormat.parse(row.querySelector('div.datum')!.text), //! date
