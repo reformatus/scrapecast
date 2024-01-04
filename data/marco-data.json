@@ -792,17 +792,6 @@
     "size": 6056745
   },
   {
-    "title": "Gondolatok a lelkészi hivatásról",
-    "date": "2023.03.10",
-    "place": "Dombóvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230310A.mp3",
-    "uuid": "22b19285-328f-46a6-8a67-872d6144598d",
-    "length": 2772,
-    "size": 16634118
-  },
-  {
     "title": "Megértõ beszéd megfáradt lelkészekhez",
     "date": "2023.03.10",
     "place": "Dombóvár",
@@ -812,6 +801,17 @@
     "uuid": "585e2f2b-952f-40d0-9d54-7cb9141100fc",
     "length": 2676,
     "size": 16056080
+  },
+  {
+    "title": "Gondolatok a lelkészi hivatásról",
+    "date": "2023.03.10",
+    "place": "Dombóvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230310A.mp3",
+    "uuid": "22b19285-328f-46a6-8a67-872d6144598d",
+    "length": 2772,
+    "size": 16634118
   },
   {
     "title": "Közösségi vezetés",
@@ -6721,17 +6721,6 @@
     "size": 9218358
   },
   {
-    "title": "Szorongásról",
-    "date": "2015.03.13",
-    "place": "Pécel",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313B.mp3",
-    "uuid": "9df00c9d-c257-4fca-8cfb-82f4ed439828",
-    "length": 2859,
-    "size": 8577275
-  },
-  {
     "title": "Megbélyegzésrõl",
     "date": "2015.03.13",
     "place": "Pécel",
@@ -6741,6 +6730,17 @@
     "uuid": "6f2ed631-ae64-4075-94f1-553a38848ffa",
     "length": 1321,
     "size": 3965676
+  },
+  {
+    "title": "Szorongásról",
+    "date": "2015.03.13",
+    "place": "Pécel",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313B.mp3",
+    "uuid": "9df00c9d-c257-4fca-8cfb-82f4ed439828",
+    "length": 2859,
+    "size": 8577275
   },
   {
     "title": "Gondolatok a bibliai mentálhigiénérõl",
@@ -6809,15 +6809,15 @@
     "size": 4947432
   },
   {
-    "title": "Filippi, 1Timóteus és Titusz",
+    "title": "A kolosséiakhoz, Filemonhoz",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228E.mp3",
-    "uuid": "2ea98d3f-2512-4bc4-81fa-2eb4b2c53479",
-    "length": 2622,
-    "size": 7868373
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228C.mp3",
+    "uuid": "525184f9-a62c-4fca-be96-a42cbfcedbe4",
+    "length": 2782,
+    "size": 8348140
   },
   {
     "title": "A második levél Timóteushoz",
@@ -6864,15 +6864,15 @@
     "size": 7109870
   },
   {
-    "title": "A kolosséiakhoz, Filemonhoz",
+    "title": "Filippi, 1Timóteus és Titusz",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228C.mp3",
-    "uuid": "525184f9-a62c-4fca-be96-a42cbfcedbe4",
-    "length": 2782,
-    "size": 8348140
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228E.mp3",
+    "uuid": "2ea98d3f-2512-4bc4-81fa-2eb4b2c53479",
+    "length": 2622,
+    "size": 7868373
   },
   {
     "title": "1Móz 21,22-34",
