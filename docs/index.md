@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 07 Jan 2024 16:23:56 +0100
+✅ Legutóbb frissítve: Sun, 07 Jan 2024 17:29:08 +0100
 
-Epizódok száma: 2950
+Epizódok száma: 2951
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 2950
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.01.07 - "Ime mondom nektek: emeljétek fel a szemeteket, és lássátok meg, hogy a mezők már fehérek az aratásra." - 9h - Kuti József
  - 2024.01.01 - "Ügyeljünk arra, hogy egymást kölcsönösen szeretetre és jó cselekedetekre buzdítsuk." - 9h - Varga Nándor
  - 2023.12.31 - "Mindennek megszabott ideje van." - 11h - Varga László
  - 2023.12.31 - "Jézus Krisztus tegnap, ma és mind örökké ugyanaz." - 9h - Kuti József
  - 2023.12.31 - "Jézus Krisztus tegnap, ma és mind örökké ugyanaz." - 9h - Varga László
  - 2023.12.31 - "Semmit sem szerezhet az ember, ha nem a mennyből adatott meg neki." - 17h - Vincze Árpád
- - 2023.12.26 - Simeon várta a Messiást. - 11h - Pál Ferenc
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 2950
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 07 Jan 2024 16:23:57 +0100
+✅ Legutóbb frissítve: Sun, 07 Jan 2024 17:29:08 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 07 Jan 2024 16:24:13 +0100
+✅ Legutóbb frissítve: Sun, 07 Jan 2024 17:29:23 +0100
 
-Epizódok száma: 883
+Epizódok száma: 885
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 883
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.01.07 - Lk 4,14-22 - Bibliamagyarázat - Lukács evangéliuma
+ - 2024.01.07 - Lk 4,23-30 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.01 - Lk 2,21 - Bibliamagyarázat - Lukács evangéliuma
  - 2023.12.26 - Lk 2,1-20 - Bibliamagyarázat - Lukács evangéliuma
  - 2023.12.15 - Ézs 35 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2023.12.11 - Jer 1,11k - Bibliamagyarázat - Jeremiás próféta könyve
- - 2023.12.10 - Ézs 32,1-8 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2023.12.03 - JSir 3 - Bibliamagyarázat - Jeremiás siralmai
 
 ---
 
