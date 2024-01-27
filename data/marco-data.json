@@ -1,5 +1,16 @@
 [
   {
+    "title": "Lk 10,34b",
+    "date": "2024.01.26",
+    "place": "Dunaszentgyörgy",
+    "category": "Bibliamagyarázat - Lukács evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Lk/MLW20240126.mp3",
+    "uuid": "17bdb3db-66ed-4c09-a0b9-c5d6d03266c2",
+    "length": 1690,
+    "size": 5070343
+  },
+  {
     "title": "Lk 10,34a",
     "date": "2024.01.25",
     "place": "Dombóvár",
@@ -319,17 +330,6 @@
     "size": 6497658
   },
   {
-    "title": "A keresztyén gyermeknevelés alapjai",
-    "date": "2023.10.18",
-    "place": "Dunaharaszti",
-    "category": "Szülők iskolája",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
-    "uuid": "431ca29c-47df-4a32-9a34-717b5e7fa8fe",
-    "length": 2636,
-    "size": 7910450
-  },
-  {
     "title": "A ckeresztyén gyermeknevelés alapjai",
     "date": "2023.10.18",
     "place": "Dunaharaszti",
@@ -337,6 +337,17 @@
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
     "uuid": "31e112f0-16d7-42c8-9af4-5cfd31d2e8ed",
+    "length": 2636,
+    "size": 7910450
+  },
+  {
+    "title": "A keresztyén gyermeknevelés alapjai",
+    "date": "2023.10.18",
+    "place": "Dunaharaszti",
+    "category": "Szülők iskolája",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
+    "uuid": "431ca29c-47df-4a32-9a34-717b5e7fa8fe",
     "length": 2636,
     "size": 7910450
   },
@@ -803,17 +814,6 @@
     "size": 8196388
   },
   {
-    "title": "Gyülekezeti tagokból tanítványok (1) - Pál apostol módszere",
-    "date": "2023.04.24",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230424A.mp3",
-    "uuid": "09a8de0d-309d-44dd-b692-8f45d92c97be",
-    "length": 3138,
-    "size": 9415444
-  },
-  {
     "title": "Gyülekezeti tagokból tanítványok (2) - gátló tényezõk",
     "date": "2023.04.24",
     "place": "Sólyomkõvár",
@@ -823,6 +823,17 @@
     "uuid": "90b636e0-7c0d-448a-ae90-3623d61eee69",
     "length": 2739,
     "size": 8218360
+  },
+  {
+    "title": "Gyülekezeti tagokból tanítványok (1) - Pál apostol módszere",
+    "date": "2023.04.24",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230424A.mp3",
+    "uuid": "09a8de0d-309d-44dd-b692-8f45d92c97be",
+    "length": 3138,
+    "size": 9415444
   },
   {
     "title": "Lk 19,28-44",
@@ -1045,17 +1056,6 @@
     "size": 6956136
   },
   {
-    "title": "Lelki fejlõdés (4) - A fejlõdés lépései",
-    "date": "2023.02.04",
-    "place": "Dunaszentgyörgy",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204D.mp3",
-    "uuid": "e8dab596-4cb8-45d7-9ed3-978c59d9d5fe",
-    "length": 2616,
-    "size": 7849818
-  },
-  {
     "title": "Lelki fejlõdés (3) - A gyülekezet szerepe",
     "date": "2023.02.04",
     "place": "Dunaszentgyörgy",
@@ -1065,6 +1065,17 @@
     "uuid": "4f86b273-31a2-46a9-a100-6e90f9ea8fb1",
     "length": 2736,
     "size": 8209174
+  },
+  {
+    "title": "Lelki fejlõdés (4) - A fejlõdés lépései",
+    "date": "2023.02.04",
+    "place": "Dunaszentgyörgy",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204D.mp3",
+    "uuid": "e8dab596-4cb8-45d7-9ed3-978c59d9d5fe",
+    "length": 2616,
+    "size": 7849818
   },
   {
     "title": "Ez 34,15-24",
@@ -1408,15 +1419,15 @@
     "size": 8254482
   },
   {
-    "title": "Jn 14 (fókuszban az Atya)",
+    "title": "Jn 14 (fókuszban a Fiú)",
     "date": "2022.06.12",
-    "place": "Nagyszokoly",
+    "place": "Iregszemcse",
     "category": "Bibliamagyarázat - János evangéliuma",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612A.mp3",
-    "uuid": "7626924c-7c07-4ef7-b09c-b9a1fc61b1d2",
-    "length": 2014,
-    "size": 6042460
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612B.mp3",
+    "uuid": "39555516-432a-478f-ada9-544428cf7049",
+    "length": 2038,
+    "size": 6116902
   },
   {
     "title": "Jn 14 (fókuszban a Lélek)",
@@ -1430,15 +1441,15 @@
     "size": 6024180
   },
   {
-    "title": "Jn 14 (fókuszban a Fiú)",
+    "title": "Jn 14 (fókuszban az Atya)",
     "date": "2022.06.12",
-    "place": "Iregszemcse",
+    "place": "Nagyszokoly",
     "category": "Bibliamagyarázat - János evangéliuma",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612B.mp3",
-    "uuid": "39555516-432a-478f-ada9-544428cf7049",
-    "length": 2038,
-    "size": 6116902
+    "download": "Eloadasok/Bibliamagyarazat/Janos/MLW20220612A.mp3",
+    "uuid": "7626924c-7c07-4ef7-b09c-b9a1fc61b1d2",
+    "length": 2014,
+    "size": 6042460
   },
   {
     "title": "ApCsel 2,1-21",
@@ -5390,17 +5401,6 @@
     "size": 5748426
   },
   {
-    "title": "Milyen legyen a presbiter?",
-    "date": "2016.10.22",
-    "place": "Budapest",
-    "category": "Presbiterképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20161022B.mp3",
-    "uuid": "a818433c-cc01-44c9-a19b-277cccfb926b",
-    "length": 1398,
-    "size": 4195051
-  },
-  {
     "title": "A zsinat-presbiteri rendszer háttere",
     "date": "2016.10.22",
     "place": "Budapest",
@@ -5410,6 +5410,17 @@
     "uuid": "22126b12-02a4-450d-92be-abd5c6cd9d36",
     "length": 1456,
     "size": 4369937
+  },
+  {
+    "title": "Milyen legyen a presbiter?",
+    "date": "2016.10.22",
+    "place": "Budapest",
+    "category": "Presbiterképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20161022B.mp3",
+    "uuid": "a818433c-cc01-44c9-a19b-277cccfb926b",
+    "length": 1398,
+    "size": 4195051
   },
   {
     "title": "Mk 16,9-15",
@@ -7579,17 +7590,6 @@
     "size": 5592007
   },
   {
-    "title": "Mk 4,20",
-    "date": "2014.08.10",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140810A.mp3",
-    "uuid": "ed11ad2b-3b46-4212-a247-8f489fcab394",
-    "length": 1960,
-    "size": 5880706
-  },
-  {
     "title": "Róm 3,1-8",
     "date": "2014.08.10",
     "place": "Lengyel",
@@ -7599,6 +7599,17 @@
     "uuid": "9cc1c7e3-5e2f-453f-ad2b-feeab6aacd15",
     "length": 2148,
     "size": 6446453
+  },
+  {
+    "title": "Mk 4,20",
+    "date": "2014.08.10",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140810A.mp3",
+    "uuid": "ed11ad2b-3b46-4212-a247-8f489fcab394",
+    "length": 1960,
+    "size": 5880706
   },
   {
     "title": "Mk 4,18k",
@@ -9625,17 +9636,6 @@
     "size": 5027204
   },
   {
-    "title": "Üzenetünk szubjektív részei",
-    "date": "2009.02.28",
-    "place": "jegyzet",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
-    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
-    "length": 2403,
-    "size": 7209992
-  },
-  {
     "title": "Üzenetünk objektív részei",
     "date": "2009.02.28",
     "place": "jegyzet",
@@ -9645,6 +9645,17 @@
     "uuid": "51a9c4f4-7cb4-489c-b340-dfea91c9d4e7",
     "length": 2072,
     "size": 6217040
+  },
+  {
+    "title": "Üzenetünk szubjektív részei",
+    "date": "2009.02.28",
+    "place": "jegyzet",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
+    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
+    "length": 2403,
+    "size": 7209992
   },
   {
     "title": "Bibliai alapozás",

@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 26 Jan 2024 22:23:45 +0100
+✅ Legutóbb frissítve: Sat, 27 Jan 2024 09:25:52 +0100
 
 Epizódok száma: 2960
 
@@ -37,7 +37,7 @@ Epizódok száma: 2960
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 26 Jan 2024 22:23:45 +0100
+✅ Legutóbb frissítve: Sat, 27 Jan 2024 09:25:53 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 26 Jan 2024 22:24:02 +0100
+✅ Legutóbb frissítve: Sat, 27 Jan 2024 09:26:12 +0100
 
-Epizódok száma: 888
+Epizódok száma: 889
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 888
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.01.26 - Lk 10,34b - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.25 - Lk 10,34a - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.21 - Lk 10,25-37 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.19 - Lk 10,25-29 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.07 - Lk 4,14-22 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.01.07 - Lk 4,23-30 - Bibliamagyarázat - Lukács evangéliuma
- - 2024.01.01 - Lk 2,21 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
