@@ -1,5 +1,16 @@
 [
   {
+    "title": "2Tim 3,10-11a",
+    "date": "2024.02.04",
+    "place": "Mágocs",
+    "category": "Bibliamagyarázat - Pál második levele Timóteushoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/2Tim/MLW20240204.mp3",
+    "uuid": "baf12c4c-d005-4c07-a5e1-aa2f9099f5e2",
+    "length": 2255,
+    "size": 6765803
+  },
+  {
     "title": "Protestáns államtan (1) - Bevezetés, Luther",
     "date": "2024.02.03",
     "place": "Dunaszentgyörgy",
@@ -341,17 +352,6 @@
     "size": 9351234
   },
   {
-    "title": "Szolgálati lehetõségek nyugdíjas kortól",
-    "date": "2023.10.21",
-    "place": "Dunaszentgyörgy",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20231021C.mp3",
-    "uuid": "c56141ea-abcb-421c-8b76-ba796db79873",
-    "length": 2165,
-    "size": 6497658
-  },
-  {
     "title": "Szolgálati lehetõségek serdülõ és felnõtt korban",
     "date": "2023.10.21",
     "place": "Dunaszentgyörgy",
@@ -372,6 +372,17 @@
     "uuid": "9e7dffe3-dc5f-45e5-b96c-c752ee2e98cb",
     "length": 2481,
     "size": 7444890
+  },
+  {
+    "title": "Szolgálati lehetõségek nyugdíjas kortól",
+    "date": "2023.10.21",
+    "place": "Dunaszentgyörgy",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20231021C.mp3",
+    "uuid": "c56141ea-abcb-421c-8b76-ba796db79873",
+    "length": 2165,
+    "size": 6497658
   },
   {
     "title": "A ckeresztyén gyermeknevelés alapjai",
@@ -814,6 +825,17 @@
     "size": 7138732
   },
   {
+    "title": "Gyülekezeti tagokból tanítványok (3) - pásztori feladatok",
+    "date": "2023.04.25",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425A.mp3",
+    "uuid": "e6911485-ffc2-4932-adc2-3450bc9e3511",
+    "length": 3000,
+    "size": 9002520
+  },
+  {
     "title": "Gyülekezeti tagokból tanítványok (6) - sáfárság",
     "date": "2023.04.25",
     "place": "Sólyomkõvár",
@@ -845,17 +867,6 @@
     "uuid": "c422a32f-ad1f-4cc5-abeb-20d62d26d716",
     "length": 2494,
     "size": 7483606
-  },
-  {
-    "title": "Gyülekezeti tagokból tanítványok (3) - pásztori feladatok",
-    "date": "2023.04.25",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425A.mp3",
-    "uuid": "e6911485-ffc2-4932-adc2-3450bc9e3511",
-    "length": 3000,
-    "size": 9002520
   },
   {
     "title": "Gyülekezeti tagokból tanítványok (2) - gátló tényezõk",
@@ -1056,15 +1067,15 @@
     "size": 6377650
   },
   {
-    "title": "Lelki fejlõdés (6) - Záró gondolatok",
+    "title": "Lelki fejlõdés (4) - A fejlõdés lépései",
     "date": "2023.02.04",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204F.mp3",
-    "uuid": "5e4faca9-ff59-446b-ad69-581b56b969ab",
-    "length": 1220,
-    "size": 3660996
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204D.mp3",
+    "uuid": "e8dab596-4cb8-45d7-9ed3-978c59d9d5fe",
+    "length": 2616,
+    "size": 7849818
   },
   {
     "title": "Lelki fejlõdés (2) - Alapvetés",
@@ -1100,17 +1111,6 @@
     "size": 6956136
   },
   {
-    "title": "Lelki fejlõdés (4) - A fejlõdés lépései",
-    "date": "2023.02.04",
-    "place": "Dunaszentgyörgy",
-    "category": "Vallásismeret - Egyháztan",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204D.mp3",
-    "uuid": "e8dab596-4cb8-45d7-9ed3-978c59d9d5fe",
-    "length": 2616,
-    "size": 7849818
-  },
-  {
     "title": "Lelki fejlõdés (3) - A gyülekezet szerepe",
     "date": "2023.02.04",
     "place": "Dunaszentgyörgy",
@@ -1120,6 +1120,17 @@
     "uuid": "4f86b273-31a2-46a9-a100-6e90f9ea8fb1",
     "length": 2736,
     "size": 8209174
+  },
+  {
+    "title": "Lelki fejlõdés (6) - Záró gondolatok",
+    "date": "2023.02.04",
+    "place": "Dunaszentgyörgy",
+    "category": "Vallásismeret - Egyháztan",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204F.mp3",
+    "uuid": "5e4faca9-ff59-446b-ad69-581b56b969ab",
+    "length": 1220,
+    "size": 3660996
   },
   {
     "title": "Ez 34,15-24",
@@ -1782,15 +1793,15 @@
     "size": 7341742
   },
   {
-    "title": "Tulajdon és kincs",
+    "title": "Az Istennel való kapcsolat bibliai szerkezete",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226C.mp3",
-    "uuid": "c69d6d7d-688e-4cb0-a3d5-9d9cc58aacd5",
-    "length": 2239,
-    "size": 6719374
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226B.mp3",
+    "uuid": "4b08f476-764c-4758-a53b-8cfb551c407c",
+    "length": 2576,
+    "size": 7728510
   },
   {
     "title": "Isten országa",
@@ -1815,15 +1826,15 @@
     "size": 4180680
   },
   {
-    "title": "Az Istennel való kapcsolat bibliai szerkezete",
+    "title": "Tulajdon és kincs",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226B.mp3",
-    "uuid": "4b08f476-764c-4758-a53b-8cfb551c407c",
-    "length": 2576,
-    "size": 7728510
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226C.mp3",
+    "uuid": "c69d6d7d-688e-4cb0-a3d5-9d9cc58aacd5",
+    "length": 2239,
+    "size": 6719374
   },
   {
     "title": "Ef 5,31-33",
@@ -5060,15 +5071,15 @@
     "size": 6538229
   },
   {
-    "title": "\"A világ végezetéig\"",
+    "title": "Lelkigondozás",
     "date": "2017.04.08",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
-    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
-    "length": 1911,
-    "size": 5735454
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408B.mp3",
+    "uuid": "617fb478-b113-4d6b-bb22-69614a683c61",
+    "length": 2645,
+    "size": 7937488
   },
   {
     "title": "\"Tegyetek tanítvánnyá\"",
@@ -5082,15 +5093,15 @@
     "size": 7642919
   },
   {
-    "title": "Lelkigondozás",
+    "title": "\"A világ végezetéig\"",
     "date": "2017.04.08",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408B.mp3",
-    "uuid": "617fb478-b113-4d6b-bb22-69614a683c61",
-    "length": 2645,
-    "size": 7937488
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
+    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
+    "length": 1911,
+    "size": 5735454
   },
   {
     "title": "Jn 15,1-8",
@@ -6523,17 +6534,6 @@
     "size": 8148007
   },
   {
-    "title": "Milyen példát mutatott Tanítónk?",
-    "date": "2015.07.09",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Tanítványság",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709B.mp3",
-    "uuid": "86eaafb6-3f85-44de-b18b-f1688c8a580d",
-    "length": 2778,
-    "size": 8336643
-  },
-  {
     "title": "Mire való az egyház?",
     "date": "2015.07.09",
     "place": "Piliscsaba",
@@ -6543,6 +6543,17 @@
     "uuid": "c78ea454-4231-48ee-9cce-1c51a090b5c8",
     "length": 2262,
     "size": 6788629
+  },
+  {
+    "title": "Milyen példát mutatott Tanítónk?",
+    "date": "2015.07.09",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Tanítványság",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709B.mp3",
+    "uuid": "86eaafb6-3f85-44de-b18b-f1688c8a580d",
+    "length": 2778,
+    "size": 8336643
   },
   {
     "title": "2Móz 32,7-16 & 19",
@@ -7634,17 +7645,6 @@
     "size": 5592007
   },
   {
-    "title": "Mk 4,20",
-    "date": "2014.08.10",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140810A.mp3",
-    "uuid": "ed11ad2b-3b46-4212-a247-8f489fcab394",
-    "length": 1960,
-    "size": 5880706
-  },
-  {
     "title": "Róm 3,1-8",
     "date": "2014.08.10",
     "place": "Lengyel",
@@ -7654,6 +7654,17 @@
     "uuid": "9cc1c7e3-5e2f-453f-ad2b-feeab6aacd15",
     "length": 2148,
     "size": 6446453
+  },
+  {
+    "title": "Mk 4,20",
+    "date": "2014.08.10",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140810A.mp3",
+    "uuid": "ed11ad2b-3b46-4212-a247-8f489fcab394",
+    "length": 1960,
+    "size": 5880706
   },
   {
     "title": "Mk 4,18k",
@@ -9680,17 +9691,6 @@
     "size": 5027204
   },
   {
-    "title": "Üzenetünk szubjektív részei",
-    "date": "2009.02.28",
-    "place": "jegyzet",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
-    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
-    "length": 2403,
-    "size": 7209992
-  },
-  {
     "title": "Üzenetünk objektív részei",
     "date": "2009.02.28",
     "place": "jegyzet",
@@ -9700,6 +9700,17 @@
     "uuid": "51a9c4f4-7cb4-489c-b340-dfea91c9d4e7",
     "length": 2072,
     "size": 6217040
+  },
+  {
+    "title": "Üzenetünk szubjektív részei",
+    "date": "2009.02.28",
+    "place": "jegyzet",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
+    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
+    "length": 2403,
+    "size": 7209992
   },
   {
     "title": "Bibliai alapozás",
