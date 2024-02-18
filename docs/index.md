@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 18 Feb 2024 16:23:49 +0100
+✅ Legutóbb frissítve: Sun, 18 Feb 2024 17:28:20 +0100
 
 Epizódok száma: 2978
 
@@ -37,7 +37,7 @@ Epizódok száma: 2978
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 18 Feb 2024 16:23:50 +0100
+✅ Legutóbb frissítve: Sun, 18 Feb 2024 17:28:20 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 18 Feb 2024 16:24:01 +0100
+✅ Legutóbb frissítve: Sun, 18 Feb 2024 17:28:32 +0100
 
-Epizódok száma: 895
+Epizódok száma: 896
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 895
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.02.18 - Kol 2,6-14 - Bibliamagyarázat - Pál levele a kolosséiakhoz
  - 2024.02.16 - 1Pt 5,5b-11 - Bibliamagyarázat - Péter első levele
  - 2024.02.04 - 2Tim 3,10-11a - Bibliamagyarázat - Pál második levele Timóteushoz
  - 2024.02.03 - Protestáns államtan (1) - Bevezetés, Luther - Ismeretterjesztés
  - 2024.02.03 - Protestáns államtan (3) - Magyarok, modern kor - Ismeretterjesztés
  - 2024.02.03 - Protestáns államtan (2) - Kálvin, Anglia - Ismeretterjesztés
- - 2024.01.28 - Lk 10,37 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
