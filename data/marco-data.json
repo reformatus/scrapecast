@@ -333,10 +333,10 @@
     "title": "1Kor 15,12-28",
     "date": "2023.11.03",
     "place": "Mágocs",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20231103.mp3",
-    "uuid": "fe1c5e2f-4655-43bb-930e-2f6687c59210",
+    "uuid": "22ee3dee-054a-425c-9e70-eb6e19fcac45",
     "length": 1841,
     "size": 5523803
   },
@@ -344,10 +344,10 @@
     "title": "1Kor 15,12-28",
     "date": "2023.11.03",
     "place": "Mágocs",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20231103.mp3",
-    "uuid": "22ee3dee-054a-425c-9e70-eb6e19fcac45",
+    "uuid": "fe1c5e2f-4655-43bb-930e-2f6687c59210",
     "length": 1841,
     "size": 5523803
   },
@@ -682,17 +682,6 @@
     "size": 6443286
   },
   {
-    "title": "a mi mindennapi kenyerünket",
-    "date": "2023.08.19",
-    "place": "Piliscsaba",
-    "category": "Mi Atyánk",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230819A.mp3",
-    "uuid": "da409817-bccc-4e6c-b75f-ec3f00766b67",
-    "length": 2205,
-    "size": 6615370
-  },
-  {
     "title": "bocsásd meg a mi vétkeinket",
     "date": "2023.08.19",
     "place": "Piliscsaba",
@@ -702,6 +691,17 @@
     "uuid": "a88ff962-8156-4faf-8ce7-c24e65badeb9",
     "length": 2243,
     "size": 6729408
+  },
+  {
+    "title": "a mi mindennapi kenyerünket",
+    "date": "2023.08.19",
+    "place": "Piliscsaba",
+    "category": "Mi Atyánk",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230819A.mp3",
+    "uuid": "da409817-bccc-4e6c-b75f-ec3f00766b67",
+    "length": 2205,
+    "size": 6615370
   },
   {
     "title": "jöjjön el a te országod",
@@ -5082,15 +5082,15 @@
     "size": 8626180
   },
   {
-    "title": "\"A világ végezetéig\"",
+    "title": "Diakónia",
     "date": "2017.04.08",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
-    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
-    "length": 1911,
-    "size": 5735454
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408C.mp3",
+    "uuid": "85e35f99-2f18-4df1-b76b-e11bc00b8bde",
+    "length": 2179,
+    "size": 6538229
   },
   {
     "title": "Lelkigondozás",
@@ -5115,15 +5115,15 @@
     "size": 7642919
   },
   {
-    "title": "Diakónia",
+    "title": "\"A világ végezetéig\"",
     "date": "2017.04.08",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408C.mp3",
-    "uuid": "85e35f99-2f18-4df1-b76b-e11bc00b8bde",
-    "length": 2179,
-    "size": 6538229
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170408E.mp3",
+    "uuid": "80943546-b1b0-483b-9d0d-9b13cb3bd375",
+    "length": 1911,
+    "size": 5735454
   },
   {
     "title": "Jn 15,1-8",
@@ -6919,17 +6919,6 @@
     "size": 6546377
   },
   {
-    "title": "Tit 2,11-14",
-    "date": "2015.03.08",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál levele Tituszhoz",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Titusz/MLW20150308A.mp3",
-    "uuid": "e2757d74-f4f7-458a-a365-bb4d1d382308",
-    "length": 2096,
-    "size": 6289866
-  },
-  {
     "title": "Jn 13,1-17",
     "date": "2015.03.08",
     "place": "Lengyel",
@@ -6939,6 +6928,17 @@
     "uuid": "a24e7d96-2eec-45a5-b456-95fa62858034",
     "length": 1804,
     "size": 5414894
+  },
+  {
+    "title": "Tit 2,11-14",
+    "date": "2015.03.08",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Pál levele Tituszhoz",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Titusz/MLW20150308A.mp3",
+    "uuid": "e2757d74-f4f7-458a-a365-bb4d1d382308",
+    "length": 2096,
+    "size": 6289866
   },
   {
     "title": "Mk 7,24-30",
@@ -7513,17 +7513,6 @@
     "size": 7207214
   },
   {
-    "title": "ApCsel - Az Atya ígérete (1,6 - 2,47)",
-    "date": "2014.10.12",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011B.mp3",
-    "uuid": "e72a6b98-68f7-4473-ae5b-ae7d515dc7de",
-    "length": 2487,
-    "size": 7461120
-  },
-  {
     "title": "ApCsel - A kijelentést ismerõk felé (6,8 - 9,31)",
     "date": "2014.10.12",
     "place": "Fadd",
@@ -7533,6 +7522,17 @@
     "uuid": "21a9ac6e-194d-4f8a-b155-9cdb1705cbc6",
     "length": 2681,
     "size": 8044352
+  },
+  {
+    "title": "ApCsel - Az Atya ígérete (1,6 - 2,47)",
+    "date": "2014.10.12",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011B.mp3",
+    "uuid": "e72a6b98-68f7-4473-ae5b-ae7d515dc7de",
+    "length": 2487,
+    "size": 7461120
   },
   {
     "title": "Mk 5,21-34",
@@ -7648,10 +7648,10 @@
     "title": "1Kor 11,17-34",
     "date": "2014.08.17",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20140817.mp3",
-    "uuid": "1c3e5df6-22c9-4672-a9ec-5fc611a8a163",
+    "uuid": "9cfa0fdd-45a9-4540-bea7-aee585ddd98b",
     "length": 1864,
     "size": 5592007
   },
@@ -7659,10 +7659,10 @@
     "title": "1Kor 11,17-34",
     "date": "2014.08.17",
     "place": "Dombóvár",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20140817.mp3",
-    "uuid": "9cfa0fdd-45a9-4540-bea7-aee585ddd98b",
+    "uuid": "1c3e5df6-22c9-4672-a9ec-5fc611a8a163",
     "length": 1864,
     "size": 5592007
   },
@@ -9713,17 +9713,6 @@
     "size": 5027204
   },
   {
-    "title": "Üzenetünk szubjektív részei",
-    "date": "2009.02.28",
-    "place": "jegyzet",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
-    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
-    "length": 2403,
-    "size": 7209992
-  },
-  {
     "title": "Üzenetünk objektív részei",
     "date": "2009.02.28",
     "place": "jegyzet",
@@ -9733,6 +9722,17 @@
     "uuid": "51a9c4f4-7cb4-489c-b340-dfea91c9d4e7",
     "length": 2072,
     "size": 6217040
+  },
+  {
+    "title": "Üzenetünk szubjektív részei",
+    "date": "2009.02.28",
+    "place": "jegyzet",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
+    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
+    "length": 2403,
+    "size": 7209992
   },
   {
     "title": "Bibliai alapozás",
