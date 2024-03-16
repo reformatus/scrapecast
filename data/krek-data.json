@@ -1760,17 +1760,6 @@
     "size": 88814340
   },
   {
-    "title": "Aki kősziklára épít. - 16h - Általános iskola tanévzáró",
-    "bible": "Máté 7,24-27",
-    "date": "2023.06.18",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230618_16h_KR_Máté7,24-27_Aki_kősziklára_épít.mp3",
-    "uuid": "06e59b0f-7b3d-4b47-8d6b-23489da9919d",
-    "length": 3917,
-    "size": 62673388
-  },
-  {
     "title": "Isten fegyverzetének felöltése. - 18h",
     "bible": "Efézus 6,18-20",
     "date": "2023.06.18",
@@ -1780,6 +1769,17 @@
     "uuid": "4482e056-aef4-4982-a9ce-766da88bf31e",
     "length": 1405,
     "size": 22481781
+  },
+  {
+    "title": "Aki kősziklára épít. - 16h - Általános iskola tanévzáró",
+    "bible": "Máté 7,24-27",
+    "date": "2023.06.18",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230618_16h_KR_Máté7,24-27_Aki_kősziklára_épít.mp3",
+    "uuid": "06e59b0f-7b3d-4b47-8d6b-23489da9919d",
+    "length": 3917,
+    "size": 62673388
   },
   {
     "title": "Az Úr biztos menedék. - 18h - Vigasztaló istentisztelet",
@@ -2970,17 +2970,6 @@
     "size": 40294382
   },
   {
-    "title": "\"mert elrejtetted ezeket a bölcsek és értelmesek elől, és felfetted az egyszerű embereknek.\" - 9h",
-    "bible": "Lukács 10,21.",
-    "date": "2023.01.08",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230108_9h_VN_Lukács10,21_mert_elrejtetted_ezeket_a_bölcsek_és_értelmesek_elől,_és_felfetted_az_egyszerű_embereknek.mp3",
-    "uuid": "020476cc-24e9-4f7c-9e1d-c89083ef66b6",
-    "length": 3441,
-    "size": 55061469
-  },
-  {
     "title": "\"mert elrejtetted ezeket a bölcsek és értelmesek elől, és felfedted az egyszerű embereknek.\" - 9h",
     "bible": "Lukács 10,21.",
     "date": "2023.01.08",
@@ -2988,6 +2977,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230108_9h_VN_Lukács10,21_mert_elrejtetted_ezeket_a_bölcsek_és_értelmesek_elől,_és_felfetted_az_egyszerű_embereknek.mp3",
     "uuid": "b0463f7f-8b29-489d-8637-443dba6395e5",
+    "length": 3441,
+    "size": 55061469
+  },
+  {
+    "title": "\"mert elrejtetted ezeket a bölcsek és értelmesek elől, és felfetted az egyszerű embereknek.\" - 9h",
+    "bible": "Lukács 10,21.",
+    "date": "2023.01.08",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230108_9h_VN_Lukács10,21_mert_elrejtetted_ezeket_a_bölcsek_és_értelmesek_elől,_és_felfetted_az_egyszerű_embereknek.mp3",
+    "uuid": "020476cc-24e9-4f7c-9e1d-c89083ef66b6",
     "length": 3441,
     "size": 55061469
   },
@@ -12309,17 +12309,6 @@
     "size": 47418522
   },
   {
-    "title": "Üdvösség egyenlő Krisztusba vetett hit (Széchenyiváros)",
-    "bible": "ApCsel15,22-35",
-    "date": "2019.06.23",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/e2FfQEsft-8",
-    "download": "/media/files/igehirdetesek/20190623_9,30h_PF_ApCs_15,22-35_Üdvösség_egyenlő_Krisztusba_vetett_hit_(Széchenyiváros).mp3",
-    "uuid": "6f09f966-3eea-407a-a457-bbe1771081b2",
-    "length": 4673,
-    "size": 74770984
-  },
-  {
     "title": "Hűség és kitartás - 18h",
     "bible": "2Timóteus2,3-13",
     "date": "2019.06.23",
@@ -12329,6 +12318,17 @@
     "uuid": "8fa7ee47-45f8-47d9-90e6-6b6516dacda3",
     "length": 2289,
     "size": 36638655
+  },
+  {
+    "title": "Üdvösség egyenlő Krisztusba vetett hit (Széchenyiváros)",
+    "bible": "ApCsel15,22-35",
+    "date": "2019.06.23",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/e2FfQEsft-8",
+    "download": "/media/files/igehirdetesek/20190623_9,30h_PF_ApCs_15,22-35_Üdvösség_egyenlő_Krisztusba_vetett_hit_(Széchenyiváros).mp3",
+    "uuid": "6f09f966-3eea-407a-a457-bbe1771081b2",
+    "length": 4673,
+    "size": 74770984
   },
   {
     "title": "Isten Igéjére hallgatni - 11h",
@@ -12441,15 +12441,15 @@
     "size": 46399094
   },
   {
-    "title": "Szentlélek és a munkája - 18h",
-    "bible": "János14,15-16",
+    "title": "A Szentlélekről - 18h",
+    "bible": "János14,15,16 válogatott verseiből",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
-    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
-    "length": 3050,
-    "size": 48800939
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
+    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
+    "length": 3358,
+    "size": 53743161
   },
   {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
@@ -12463,15 +12463,15 @@
     "size": 98845464
   },
   {
-    "title": "A Szentlélekről - 18h",
-    "bible": "János14,15,16 válogatott verseiből",
+    "title": "Szentlélek és a munkája - 18h",
+    "bible": "János14,15-16",
     "date": "2019.06.09",
     "pastor": "Weiner Zoltán",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
-    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
-    "length": 3358,
-    "size": 53743161
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_Jn_14,15,16_Szentlélek és munkája.MP3",
+    "uuid": "af32285c-2328-4ae7-86d5-aa3cd80bb136",
+    "length": 3050,
+    "size": 48800939
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -15697,17 +15697,6 @@
     "size": 20705172
   },
   {
-    "title": "Megtérés 3. Ifjúsági it.",
-    "bible": "Jn3,1-19",
-    "date": "2018.03.04",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180304_17h_NH_jn3,1-19 megtérés 3.mp3",
-    "uuid": "2bcd91bf-ceb8-41a1-a4f7-24524409cc52",
-    "length": 3887,
-    "size": 31097727
-  },
-  {
     "title": "A szőlőmunkások",
     "bible": "Mt20,13-16 9h",
     "date": "2018.03.04",
@@ -15717,6 +15706,17 @@
     "uuid": "acb201f9-193f-444b-8a6b-757302421fed",
     "length": 1891,
     "size": 15130850
+  },
+  {
+    "title": "Megtérés 3. Ifjúsági it.",
+    "bible": "Jn3,1-19",
+    "date": "2018.03.04",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180304_17h_NH_jn3,1-19 megtérés 3.mp3",
+    "uuid": "2bcd91bf-ceb8-41a1-a4f7-24524409cc52",
+    "length": 3887,
+    "size": 31097727
   },
   {
     "title": "Beleszőve az élet szövetébe (Katonatelep, keresztelő is)",
@@ -17028,17 +17028,6 @@
     "size": 20940427
   },
   {
-    "title": "Halljuk-e Isten hívását, szavát - 16,30h",
-    "bible": "1Sámuel,3,10",
-    "date": "2016.08.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/160831 16,30h VN_alt.isk.evnyit.it_Halljuk-e Isten szavat, hivasat_1Sam3,10.mp3",
-    "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
-    "length": 3093,
-    "size": 24749080
-  },
-  {
     "title": "Békesség nektek - 18h",
     "bible": "Lukács24,36",
     "date": "2016.08.31",
@@ -17048,6 +17037,17 @@
     "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
     "length": 3710,
     "size": 29687058
+  },
+  {
+    "title": "Halljuk-e Isten hívását, szavát - 16,30h",
+    "bible": "1Sámuel,3,10",
+    "date": "2016.08.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/160831 16,30h VN_alt.isk.evnyit.it_Halljuk-e Isten szavat, hivasat_1Sam3,10.mp3",
+    "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
+    "length": 3093,
+    "size": 24749080
   },
   {
     "title": "Nem bűneink szerint bánik velünk - 11h",
@@ -17303,17 +17303,6 @@
     "size": 33699412
   },
   {
-    "title": "A Lélek egységet teremt (Katonatelep)",
-    "bible": "ApCsel2,1-21",
-    "date": "2016.05.15",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
-    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
-    "length": 2051,
-    "size": 16412124
-  },
-  {
     "title": "Konfirmáció (Katonatelep)",
     "bible": "ApCsel2,1-21",
     "date": "2016.05.15",
@@ -17323,6 +17312,17 @@
     "uuid": "706de993-54c1-4e3b-a27f-9d982781804d",
     "length": 2719,
     "size": 21758019
+  },
+  {
+    "title": "A Lélek egységet teremt (Katonatelep)",
+    "bible": "ApCsel2,1-21",
+    "date": "2016.05.15",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
+    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
+    "length": 2051,
+    "size": 16412124
   },
   {
     "title": "Biztos, mint a napfelkelte (Katonatelep)",
@@ -20130,15 +20130,15 @@
     "size": 13209436
   },
   {
-    "title": "Adni és kapni - 18h",
-    "bible": "Máté7,12",
+    "title": "Mindenki látja - 15h",
+    "bible": "Zsoltárok97,6",
     "date": "2014.08.31",
-    "pastor": "Szikszai Szabolcs",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
-    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
-    "length": 1525,
-    "size": 12207796
+    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
+    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
+    "length": 1642,
+    "size": 13140263
   },
   {
     "title": "Mi a te kincsed - 17h",
@@ -20152,15 +20152,15 @@
     "size": 22441318
   },
   {
-    "title": "Mindenki látja - 15h",
-    "bible": "Zsoltárok97,6",
+    "title": "Adni és kapni - 18h",
+    "bible": "Máté7,12",
     "date": "2014.08.31",
-    "pastor": "Kuti József",
+    "pastor": "Szikszai Szabolcs",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
-    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
-    "length": 1642,
-    "size": 13140263
+    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
+    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
+    "length": 1525,
+    "size": 12207796
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
@@ -27731,17 +27731,6 @@
     "size": 34082189
   },
   {
-    "title": "Ember kérdez, Isten cselekszik - 18h",
-    "bible": "Márk3,1-6",
-    "date": "2011.05.07",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110507_18h_VN_Ember_kerdez_Isten_cselekszik_Mark3_1_6.mp3",
-    "uuid": "c1293674-af30-4464-a4e2-309c8f3fce6d",
-    "length": 2726,
-    "size": 21811870
-  },
-  {
     "title": "Szeressétek egymást - 7,15h",
     "bible": "1Korinthus13,1-3",
     "date": "2011.05.07",
@@ -27751,6 +27740,17 @@
     "uuid": "5cd62244-4ac1-4d27-a43a-3c504f4dc9a5",
     "length": 1250,
     "size": 10003479
+  },
+  {
+    "title": "Ember kérdez, Isten cselekszik - 18h",
+    "bible": "Márk3,1-6",
+    "date": "2011.05.07",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110507_18h_VN_Ember_kerdez_Isten_cselekszik_Mark3_1_6.mp3",
+    "uuid": "c1293674-af30-4464-a4e2-309c8f3fce6d",
+    "length": 2726,
+    "size": 21811870
   },
   {
     "title": "Szeretet és imádság - 7,15h",
@@ -31658,17 +31658,6 @@
     "size": 15542035
   },
   {
-    "title": "Kik a boldogok? - 16h",
-    "bible": "Máté,5,3-12",
-    "date": "2008.04.07",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080407_16h_Végh_Tamás_Mt_5,3-12_Kik_a_boldogok.mp3",
-    "uuid": "ad59c41d-c677-4934-bce9-fa898a306582",
-    "length": 3291,
-    "size": 16456845
-  },
-  {
     "title": "\"Hegyi beszéd\" - 10h",
     "bible": "Máté5,1-2",
     "date": "2008.04.07",
@@ -31678,6 +31667,17 @@
     "uuid": "7d6158e8-bca1-4983-8765-5e8e47043b55",
     "length": 2890,
     "size": 14451465
+  },
+  {
+    "title": "Kik a boldogok? - 16h",
+    "bible": "Máté,5,3-12",
+    "date": "2008.04.07",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080407_16h_Végh_Tamás_Mt_5,3-12_Kik_a_boldogok.mp3",
+    "uuid": "ad59c41d-c677-4934-bce9-fa898a306582",
+    "length": 3291,
+    "size": 16456845
   },
   {
     "title": "Az Úr az Isten. - 9h",
