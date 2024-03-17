@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 17 Mar 2024 12:21:10 +0100
+✅ Legutóbb frissítve: Sun, 17 Mar 2024 13:36:26 +0100
 
 Epizódok száma: 2990
 
@@ -37,7 +37,7 @@ Epizódok száma: 2990
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 17 Mar 2024 12:21:11 +0100
+✅ Legutóbb frissítve: Sun, 17 Mar 2024 13:36:27 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 17 Mar 2024 12:21:24 +0100
+✅ Legutóbb frissítve: Sun, 17 Mar 2024 13:36:39 +0100
 
-Epizódok száma: 905
+Epizódok száma: 906
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 905
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.03.17 - Ézs 58 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.03.10 - 1Jn 2,12-17 - Bibliamagyarázat - János első levele
  - 2024.03.09 - Gyülekezetvezetés (1)  A presbitérium feladatkörei - Presbiterképzés
  - 2024.03.09 - Gyülekezetvezetés (2)  Alapelvek - Presbiterképzés
  - 2024.03.06 - Ellenszélben is ragaskodva a jóhoz (jellemformálás) - Szülők iskolája
  - 2024.03.03 - Zsid 4,1-13 - Bibliamagyarázat - A zsidókhoz írt levél
- - 2024.03.02 - Barnabás, a lehetõvé tevõ vezetõ - Presbiterképzés
 
 ---
 
