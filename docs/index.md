@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 01 Apr 2024 17:24:23 +0100
+✅ Legutóbb frissítve: Mon, 01 Apr 2024 18:30:31 +0100
 
 Epizódok száma: 3007
 
@@ -37,7 +37,7 @@ Epizódok száma: 3007
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 01 Apr 2024 17:24:24 +0100
+✅ Legutóbb frissítve: Mon, 01 Apr 2024 18:30:32 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 01 Apr 2024 17:24:35 +0100
+✅ Legutóbb frissítve: Mon, 01 Apr 2024 18:30:46 +0100
 
-Epizódok száma: 909
+Epizódok száma: 910
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 909
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.04.01 - Lk 24 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.03.25 - Passióolvasás - Bibliamagyarázat - Lukács evangéliuma
  - 2024.03.22 - Ef 3,14-21 - Bibliamagyarázat - Pál levele az efezusiakhoz
  - 2024.03.17 - Lk 19,11-27 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.03.17 - Ézs 58 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.03.10 - 1Jn 2,12-17 - Bibliamagyarázat - János első levele
- - 2024.03.09 - Gyülekezetvezetés (1)  A presbitérium feladatkörei - Presbiterképzés
 
 ---
 
