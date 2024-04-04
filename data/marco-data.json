@@ -4433,15 +4433,15 @@
     "size": 5013166
   },
   {
-    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
+    "title": "A játszást is tanítani kell!",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
-    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
-    "length": 1585,
-    "size": 4757734
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302C.mp3",
+    "uuid": "2ecc44a5-0db1-45e8-8214-967af79948d3",
+    "length": 2433,
+    "size": 7299088
   },
   {
     "title": "Miért, mit és hogyan játszik az óvodás?",
@@ -4455,15 +4455,15 @@
     "size": 5200454
   },
   {
-    "title": "A játszást is tanítani kell!",
+    "title": "A hívõnek mi az, ami az óvodásnak a játék? (áhítat)",
     "date": "2018.03.02",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302C.mp3",
-    "uuid": "2ecc44a5-0db1-45e8-8214-967af79948d3",
-    "length": 2433,
-    "size": 7299088
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20180302B.mp3",
+    "uuid": "1aa36413-7c4c-4714-a481-cd0ad598443d",
+    "length": 1585,
+    "size": 4757734
   },
   {
     "title": "Gyerekekkel játszani nem gyermekjáték!",
@@ -6270,15 +6270,15 @@
     "size": 5877529
   },
   {
-    "title": "Biblika teológia - kezdetek",
+    "title": "Biblika teológia - bevezetés",
     "date": "2016.02.20",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220B.mp3",
-    "uuid": "e7c8fa1f-d63a-484e-a73d-b8470a3af720",
-    "length": 3726,
-    "size": 11179004
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220A.mp3",
+    "uuid": "f894d5c8-f566-449c-a448-1632a679d3b8",
+    "length": 2040,
+    "size": 6120707
   },
   {
     "title": "Biblika teológia - újrakezdés",
@@ -6292,15 +6292,15 @@
     "size": 6132685
   },
   {
-    "title": "Biblika teológia - bevezetés",
+    "title": "Biblika teológia - kezdetek",
     "date": "2016.02.20",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220A.mp3",
-    "uuid": "f894d5c8-f566-449c-a448-1632a679d3b8",
-    "length": 2040,
-    "size": 6120707
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220B.mp3",
+    "uuid": "e7c8fa1f-d63a-484e-a73d-b8470a3af720",
+    "length": 3726,
+    "size": 11179004
   },
   {
     "title": "Mk 11,12-19 (A)",
@@ -6798,17 +6798,6 @@
     "size": 6828797
   },
   {
-    "title": "Ez 37,1-14",
-    "date": "2015.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Ezékiel próféta könyve",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Ez/MLW20150525A.mp3",
-    "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
-    "length": 2251,
-    "size": 6753016
-  },
-  {
     "title": "Gal 5,13-25",
     "date": "2015.05.25",
     "place": "Dombóvár",
@@ -6818,6 +6807,17 @@
     "uuid": "bac7a47e-9a83-4b2e-8679-717e04c3b1da",
     "length": 1582,
     "size": 4746970
+  },
+  {
+    "title": "Ez 37,1-14",
+    "date": "2015.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Ezékiel próféta könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Ez/MLW20150525A.mp3",
+    "uuid": "5be8333c-b38d-4cfb-bb9e-ce0215209c9d",
+    "length": 2251,
+    "size": 6753016
   },
   {
     "title": "Mk 8,22-26",
@@ -7043,10 +7043,10 @@
     "title": "Gondolatok a bibliai mentálhigiénérõl",
     "date": "2015.03.12",
     "place": "Pécel",
-    "category": "Ismeretterjesztés",
+    "category": "Szülők iskolája",
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20150312.mp3",
-    "uuid": "82afe49e-2c10-4697-9d80-86706bb5c96e",
+    "uuid": "80ddd8a2-f649-4058-b855-83bd14dd0ed8",
     "length": 3149,
     "size": 9447207
   },
@@ -7054,10 +7054,10 @@
     "title": "Gondolatok a bibliai mentálhigiénérõl",
     "date": "2015.03.12",
     "place": "Pécel",
-    "category": "Szülők iskolája",
+    "category": "Ismeretterjesztés",
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20150312.mp3",
-    "uuid": "80ddd8a2-f649-4058-b855-83bd14dd0ed8",
+    "uuid": "82afe49e-2c10-4697-9d80-86706bb5c96e",
     "length": 3149,
     "size": 9447207
   },
@@ -7634,15 +7634,15 @@
     "size": 7197940
   },
   {
-    "title": "Mk 5,21-43",
+    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
     "date": "2014.10.12",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "place": "Fadd",
+    "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20141012.mp3",
-    "uuid": "e263aa3f-fda6-4f89-ae4b-7a2ebe945f28",
-    "length": 2095,
-    "size": 6286025
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
+    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
+    "length": 2429,
+    "size": 7288579
   },
   {
     "title": "ApCsel - A kijelentést ismerõk felé (6,8 - 9,31)",
@@ -7678,15 +7678,15 @@
     "size": 7461120
   },
   {
-    "title": "ApCsel - Isten nem személyválogató (9,32 - 12,24)",
+    "title": "Mk 5,21-43",
     "date": "2014.10.12",
-    "place": "Fadd",
-    "category": "Vallásismeret - Bibliaismeret",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20141011E.mp3",
-    "uuid": "c224ecb3-fdfc-413f-9f9c-85b42877343c",
-    "length": 2429,
-    "size": 7288579
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20141012.mp3",
+    "uuid": "e263aa3f-fda6-4f89-ae4b-7a2ebe945f28",
+    "length": 2095,
+    "size": 6286025
   },
   {
     "title": "Mk 5,21-34",
@@ -9867,17 +9867,6 @@
     "size": 5027204
   },
   {
-    "title": "Üzenetünk szubjektív részei",
-    "date": "2009.02.28",
-    "place": "jegyzet",
-    "category": "Misszióképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
-    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
-    "length": 2403,
-    "size": 7209992
-  },
-  {
     "title": "Üzenetünk objektív részei",
     "date": "2009.02.28",
     "place": "jegyzet",
@@ -9887,6 +9876,17 @@
     "uuid": "51a9c4f4-7cb4-489c-b340-dfea91c9d4e7",
     "length": 2072,
     "size": 6217040
+  },
+  {
+    "title": "Üzenetünk szubjektív részei",
+    "date": "2009.02.28",
+    "place": "jegyzet",
+    "category": "Misszióképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/NagykorosOra4.mp3",
+    "uuid": "27b0badb-a75b-461e-907d-6fb3b7ecb505",
+    "length": 2403,
+    "size": 7209992
   },
   {
     "title": "Bibliai alapozás",
