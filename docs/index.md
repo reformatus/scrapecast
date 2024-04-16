@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 16 Apr 2024 14:42:11 +0100
+✅ Legutóbb frissítve: Tue, 16 Apr 2024 18:29:46 +0100
 
 Epizódok száma: 3014
 
@@ -37,7 +37,7 @@ Epizódok száma: 3014
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 16 Apr 2024 14:42:12 +0100
+✅ Legutóbb frissítve: Tue, 16 Apr 2024 18:29:47 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Tue, 16 Apr 2024 14:42:25 +0100
+✅ Legutóbb frissítve: Tue, 16 Apr 2024 18:30:12 +0100
 
-Epizódok száma: 910
+Epizódok száma: 917
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 910
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2024.04.01 - Lk 24 - Bibliamagyarázat - Lukács evangéliuma
- - 2024.03.25 - Passióolvasás - Bibliamagyarázat - Lukács evangéliuma
- - 2024.03.22 - Ef 3,14-21 - Bibliamagyarázat - Pál levele az efezusiakhoz
- - 2024.03.17 - Lk 19,11-27 - Bibliamagyarázat - Lukács evangéliuma
- - 2024.03.17 - Ézs 58 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2024.03.10 - 1Jn 2,12-17 - Bibliamagyarázat - János első levele
+ - 2024.04.14 - Jn 21,1-19 - Bibliamagyarázat - János evangéliuma
+ - 2024.04.14 - ApCsel 15,36-41 - Bibliamagyarázat - Az apostolok cselekedetei
+ - 2024.04.13 - Izgalmas idõk: háború, technika, kamaszkor - Szülők iskolája
+ - 2024.04.13 - Vedd a példát... Barnabástól - Presbiterképzés
+ - 2024.04.11 - Agyi és szívbeli frissítések (kamaszoknak) - Ismeretterjesztés
+ - 2024.04.11 - 1Kor 15,12-28 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
 
 ---
 
