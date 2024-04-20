@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 20 Apr 2024 18:29:30 +0100
+✅ Legutóbb frissítve: Sat, 20 Apr 2024 23:23:32 +0100
 
 Epizódok száma: 3014
 
@@ -37,7 +37,7 @@ Epizódok száma: 3014
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 20 Apr 2024 18:29:30 +0100
+✅ Legutóbb frissítve: Sat, 20 Apr 2024 23:23:33 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 20 Apr 2024 18:29:48 +0100
+✅ Legutóbb frissítve: Sat, 20 Apr 2024 23:23:45 +0100
 
-Epizódok száma: 918
+Epizódok száma: 919
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 918
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.04.20 - Jn 6,22-59 - Bibliamagyarázat - János evangéliuma
  - 2024.04.19 - 2Móz 16 - Bibliamagyarázat - Mózes második könyve
  - 2024.04.14 - Jn 21,1-19 - Bibliamagyarázat - János evangéliuma
  - 2024.04.14 - ApCsel 15,36-41 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2024.04.13 - Izgalmas idõk: háború, technika, kamaszkor - Szülők iskolája
  - 2024.04.13 - Vedd a példát... Barnabástól - Presbiterképzés
- - 2024.04.11 - Agyi és szívbeli frissítések (kamaszoknak) - Ismeretterjesztés
 
 ---
 
