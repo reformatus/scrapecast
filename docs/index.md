@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 21 Apr 2024 16:24:56 +0100
+✅ Legutóbb frissítve: Sun, 21 Apr 2024 17:22:41 +0100
 
 Epizódok száma: 3014
 
@@ -37,7 +37,7 @@ Epizódok száma: 3014
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 21 Apr 2024 16:24:57 +0100
+✅ Legutóbb frissítve: Sun, 21 Apr 2024 17:22:42 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 21 Apr 2024 16:25:08 +0100
+✅ Legutóbb frissítve: Sun, 21 Apr 2024 17:23:03 +0100
 
-Epizódok száma: 919
+Epizódok száma: 922
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 919
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.04.21 - Ef 2,4-10 - Bibliamagyarázat - Pál levele az efezusiakhoz
+ - 2024.04.21 - 1Kor 11,18-34 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
+ - 2024.04.21 - 1Kor 11,18-34 - Bibliamagyarázat - A királyok első könyve
  - 2024.04.20 - Jn 6,22-59 - Bibliamagyarázat - János evangéliuma
  - 2024.04.19 - 2Móz 16 - Bibliamagyarázat - Mózes második könyve
  - 2024.04.14 - Jn 21,1-19 - Bibliamagyarázat - János evangéliuma
- - 2024.04.14 - ApCsel 15,36-41 - Bibliamagyarázat - Az apostolok cselekedetei
- - 2024.04.13 - Izgalmas idõk: háború, technika, kamaszkor - Szülők iskolája
- - 2024.04.13 - Vedd a példát... Barnabástól - Presbiterképzés
 
 ---
 
