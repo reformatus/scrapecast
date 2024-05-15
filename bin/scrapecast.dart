@@ -22,79 +22,80 @@ void main() async {
 }
 
 Future buildPodcast(Podcast podcast) async {
-  print("\n\nBuilding ${podcast.properties.title}\n");
+  try {
+    print("\n\nBuilding ${podcast.properties.title}\n");
 
-  List<Episode> episodes = [];
-  List<Episode> errors = [];
+    List<Episode> episodes = [];
+    List<Episode> errors = [];
 
-  print('Loading existing data from json');
-  if (!podcast.dataFile.existsSync()) {
-    podcast.dataFile.createSync();
-    podcast.dataFile.writeAsStringSync("[]");
-  }
-  List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
-  for (Map entry in jsonEntries) {
-    episodes.add(podcast.fromJson(entry));
-  }
+    print('Loading existing data from json');
+    if (!podcast.dataFile.existsSync()) {
+      podcast.dataFile.createSync();
+      podcast.dataFile.writeAsStringSync("[]");
+    }
+    List jsonEntries = jsonDecode(podcast.dataFile.readAsStringSync());
+    for (Map entry in jsonEntries) {
+      episodes.add(podcast.fromJson(entry));
+    }
 
-  List<Episode> newIts = (await podcast.scraper())
-      .where((element) => (!episodes.contains(element)))
-      .toList();
-  episodes.insertAll(0, newIts);
-  episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
+    List<Episode> newIts = (await podcast.scraper())
+        .where((element) => (!episodes.contains(element)))
+        .toList();
+    episodes.insertAll(0, newIts);
+    episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
 
-  save() {
-    print("Saving database");
-    podcast.dataFile.createSync();
-    podcast.dataFile.writeAsStringSync(JsonEncoder.withIndent('  ')
-        .convert(episodes.map((e) => podcast.toJson(e)).toList()));
-  }
+    save() {
+      print("Saving database");
+      podcast.dataFile.createSync();
+      podcast.dataFile.writeAsStringSync(JsonEncoder.withIndent('  ')
+          .convert(episodes.map((e) => podcast.toJson(e)).toList()));
+    }
 
-  int i = 0;
-  for (Episode item in episodes) {
-    if (item.length == null || item.fileSize == null) {
-      Uri downloadUri = Uri.parse(item.download);
+    int i = 0;
+    for (Episode item in episodes) {
+      if (item.length == null || item.fileSize == null) {
+        Uri downloadUri = Uri.parse(item.download);
 
-      item.length ??= await getLength(
-          (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-              item.download);
-      item.fileSize ??= await getSize(
-          (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-              item.download);
-      print(
-          "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
-      i++;
-      if (i > 30) {
-        print("\n\nThrottling and saving progress...\n\n");
-        await Future.delayed(Duration(seconds: 5));
-        i = 0;
-        save();
-      }
+        item.length ??= await getLength(
+            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
+                item.download);
+        item.fileSize ??= await getSize(
+            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
+                item.download);
+        print(
+            "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
+        i++;
+        if (i > 30) {
+          print("\n\nThrottling and saving progress...\n\n");
+          await Future.delayed(Duration(seconds: 5));
+          i = 0;
+          save();
+        }
 
-      if (item.length == null) {
-        //! If length request failed
-        print("##> Error while getting length!\n");
-        errors.add(item);
+        if (item.length == null) {
+          //! If length request failed
+          print("##> Error while getting length!\n");
+          errors.add(item);
+        }
       }
     }
-  }
 
-  episodes.removeWhere((element) => errors.contains(element));
+    episodes.removeWhere((element) => errors.contains(element));
 
-  save();
+    save();
 
-  print("Building rss feed");
-  podcast.rssFile.createSync();
-  podcast.rssFile.writeAsStringSync(getFeed(episodes, podcast));
+    print("Building rss feed");
+    podcast.rssFile.createSync();
+    podcast.rssFile.writeAsStringSync(getFeed(episodes, podcast));
 
-  print(errors.isNotEmpty ? 'Errors:' : '');
-  for (Episode item in errors) {
-    print(
-        "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
-  }
+    print(errors.isNotEmpty ? 'Errors:' : '');
+    for (Episode item in errors) {
+      print(
+          "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
+    }
 
-  statusMdString +=
-      """## [${podcast.properties.title}](${podcast.properties.link})
+    statusMdString +=
+        """## [${podcast.properties.title}](${podcast.properties.link})
 _${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
 ✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
@@ -103,14 +104,17 @@ Epizódok száma: ${episodes.length}
 
 **Elérhető:**
 """;
-  for (String key in podcast.links.keys) {
-    statusMdString += " - [$key](${podcast.links[key]})\n";
-  }
+    for (String key in podcast.links.keys) {
+      statusMdString += " - [$key](${podcast.links[key]})\n";
+    }
 
-  statusMdString += "\n**Legutóbbi epizódok:**\n";
-  for (Episode episode in episodes.sublist(0, 6)) {
-    statusMdString +=
-        " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
+    statusMdString += "\n**Legutóbbi epizódok:**\n";
+    for (Episode episode in episodes.sublist(0, 6)) {
+      statusMdString +=
+          " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
+    }
+    statusMdString += "\n---\n\n";
+  } catch (e) {
+    print("Error while building ${podcast.properties.title}!\n$e");
   }
-  statusMdString += "\n---\n\n";
 }

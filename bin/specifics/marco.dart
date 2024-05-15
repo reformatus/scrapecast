@@ -176,7 +176,7 @@ Map<String, String?> marcoPages = {
     "Bizonyságtétel": "https://marko.reformatus.hu/Biztetel.shtml",
     "Evangelizáció": "https://marko.reformatus.hu/Evang.shtml",
     "Ismeretterjesztés": "https://marko.reformatus.hu/Ismeretterjesztes.shtml",
-    "Mi Atyánk": "https://marko.reformatus.hu/MiAtyank.shtml", 
+    "Mi Atyánk": "https://marko.reformatus.hu/MiAtyank.shtml",
   }
 };
 /*
@@ -203,11 +203,18 @@ Future<List<Episode>> marcoScraper() async {
     );
     var document = parse(resp.body);
 
+    var rows = [];
+
+    try {
+
     var rows = document
         .querySelectorAll("##object > table > tbody > tr")
         .where((element) =>
             ((element.nodes.first.nodes.first as Element).localName == "a"))
         .toList();
+    } catch (e) {
+      print("Error while parsing page: $e");
+    }
 
     String errorsOnPage = "";
 
@@ -356,8 +363,7 @@ String marcoDescriptionBuilder(Podcast podcast, Episode element) {
   });
   builder.element('p', nest: () {
     builder.text('Generálta: ');
-    builder.element('a',
-        attributes: {"href": "https://reflabs.hu/scrapecast"},
+    builder.element('a', attributes: {"href": "https://reflabs.hu/scrapecast"},
         nest: () {
       builder.text('ScrapeCast');
     });
