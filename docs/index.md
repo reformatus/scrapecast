@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 18 May 2024 18:29:40 +0100
+✅ Legutóbb frissítve: Sat, 18 May 2024 23:23:33 +0100
 
-Epizódok száma: 3036
+Epizódok száma: 3037
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3036
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.05.18 - Hálaadás az életért - 18h - Pünkösdi evangélizáció - Varga Nándor
  - 2024.05.17 - Ároni áldás - 18h - Pünkösdi evangélizáció - Sümeg Bíbor
  - 2024.05.16 - "Gyönyörködj az Úrban, és megadja szíved kéréseit!" - 18h - Pünkösdi evangélizáció - Szilágyi Noémi
  - 2024.05.15 - "...akik ragaszkodnak Istenükhöz, bátor tetteket visznek véghez." - 18h - Pünkösdi evangélizáció - Ótott Kovács Zalán
  - 2024.05.14 - Bizonyságtétel az emberek előtt - 18h - Pünkösdi evangélizáció - Kuncz Ábel
  - 2024.05.13 - "De akik az Úrban bíznak, erejük megújul" - 18h - Pünkösdi evangélizáció - Szilágyi Sámuel
- - 2024.05.12 - "Az-Isten fegyverzete: Kard" - KERT-Konfirmándusok szeretetvendégsége - Riczuné Kiss Georgina
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3036
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 18 May 2024 18:29:41 +0100
+✅ Legutóbb frissítve: Sat, 18 May 2024 23:23:34 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 18 May 2024 18:29:52 +0100
+✅ Legutóbb frissítve: Sat, 18 May 2024 23:23:49 +0100
 
 Epizódok száma: 922
 
