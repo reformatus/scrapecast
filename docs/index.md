@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 May 2024 23:22:54 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 10:28:52 +0100
 
-Epizódok száma: 3039
+Epizódok száma: 3040
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -25,11 +25,11 @@ Epizódok száma: 3039
 
 **Legutóbbi epizódok:**
  - 2024.05.19 - "Bizony, bizony mondom neked, ha valaki nem születik újonnan, nem látja meg az Isten országát." - 9h - Gulyás Dóra
+ - 2024.05.19 - Szenlélek jó munkája. - 17h - Felnőtt konfirmándusok konfirmációja - Fodorné Dr. Ablonczy Margit
  - 2024.05.19 - Szentlélek kitöltése - Városi hittanosok konfirmációi istentisztelete - 11:30h - Pál Ferenc
  - 2024.05.18 - Hálaadás az életért - 18h - Pünkösdi evangélizáció - Varga Nándor
  - 2024.05.17 - Ároni áldás - 18h - Pünkösdi evangélizáció - Sümeg Bíbor
  - 2024.05.16 - "Gyönyörködj az Úrban, és megadja szíved kéréseit!" - 18h - Pünkösdi evangélizáció - Szilágyi Noémi
- - 2024.05.15 - "...akik ragaszkodnak Istenükhöz, bátor tetteket visznek véghez." - 18h - Pünkösdi evangélizáció - Ótott Kovács Zalán
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3039
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 May 2024 23:22:55 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 10:28:53 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 19 May 2024 23:23:10 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 10:29:09 +0100
 
 Epizódok száma: 922
 
