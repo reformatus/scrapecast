@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 20 May 2024 15:26:46 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 16:28:27 +0100
 
-Epizódok száma: 3040
+Epizódok száma: 3042
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3040
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.05.20 - "Krisztus evangéliumához méltóan viselkedjetek" - 9h - Gimnázium konfirmációi istentisztelete - Vincze Árpád
+ - 2024.05.20 - "Ne félj, mert megváltottalak, neveden szólítottalak, enyém vagy!" - 11:30h - Általános Iskola konfirmációi istentisztelete - Komádi Róbert
  - 2024.05.19 - "Bizony, bizony mondom neked, ha valaki nem születik újonnan, nem látja meg az Isten országát." - 9h - Gulyás Dóra
  - 2024.05.19 - Szenlélek jó munkája. - 17h - Felnőtt konfirmándusok konfirmációja - Fodorné Dr. Ablonczy Margit
  - 2024.05.19 - Szentlélek kitöltése - Városi hittanosok konfirmációi istentisztelete - 11:30h - Pál Ferenc
  - 2024.05.18 - Hálaadás az életért - 18h - Pünkösdi evangélizáció - Varga Nándor
- - 2024.05.17 - Ároni áldás - 18h - Pünkösdi evangélizáció - Sümeg Bíbor
- - 2024.05.16 - "Gyönyörködj az Úrban, és megadja szíved kéréseit!" - 18h - Pünkösdi evangélizáció - Szilágyi Noémi
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3040
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 20 May 2024 15:26:47 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 16:28:27 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 20 May 2024 15:27:02 +0100
+✅ Legutóbb frissítve: Mon, 20 May 2024 16:28:38 +0100
 
 Epizódok száma: 922
 
