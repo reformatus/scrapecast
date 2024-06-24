@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 23 Jun 2024 23:23:45 +0100
+✅ Legutóbb frissítve: Mon, 24 Jun 2024 09:58:47 +0100
 
-Epizódok száma: 3059
+Epizódok száma: 3063
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3059
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.06.23 - A derék asszony dícsérete. - KERT - Imre Veronika
  - 2024.06.23 - Képmutató ítélkezés - 11h - Hankóczi Gergely
  - 2024.06.23 - "...hogy beteljesedjék, amit a próféták mondtak: názáretinek fogják őt nevezni." - 9h - Gimnáziumi tanévzáró istentisztelet - Vincze Árpád
- - 2024.06.21 - "Légy hű mindhalálig" - 11h - Általános Iskola - Ballagás - Komádi Róbert
- - 2024.06.16 - KERT záróalkalom - KERT - Nagy Henrietta
- - 2024.06.16 - "Uram te voltál hajlékunk nemzedékről nemzedékre." - 11h - Pál Ferenc
- - 2024.06.16 - "A trónon ülő ezt mondta: Íme, újjáteremtek mindent." - 9h - Varga Nándor
+ - 2024.06.23 - Hálaadás az életért - 15h - Általános Iskolai tanévzáró istentisztelet  - Komádi Róbert
+ - 2024.06.22 - "A lehet és a kell szorításában." - Kiállítás megnyitó Tóth Károly életéről. - Megnyitották: Varga László, Szabó Gábor - 18h - 
+ - 2024.06.22 - Hálaadó hangverseny az Evangélikus Templomban. - Múzeumok éjszakája - 
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3059
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 23 Jun 2024 23:23:46 +0100
+✅ Legutóbb frissítve: Mon, 24 Jun 2024 09:58:48 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 23 Jun 2024 23:24:02 +0100
+✅ Legutóbb frissítve: Mon, 24 Jun 2024 09:58:58 +0100
 
 Epizódok száma: 922
 
