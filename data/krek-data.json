@@ -3894,17 +3894,6 @@
     "size": 55061469
   },
   {
-    "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11hh",
-    "bible": "Zsidókhoz 13,8.",
-    "date": "2023.01.01",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
-    "uuid": "8cdc46af-9e4f-4e98-9b22-d75ca3891c2d",
-    "length": 4064,
-    "size": 65031392
-  },
-  {
     "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11h",
     "bible": "Zsidókhoz 13,8.",
     "date": "2023.01.01",
@@ -3912,6 +3901,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
     "uuid": "b502347a-4ad3-4227-a109-de66dfcad468",
+    "length": 4064,
+    "size": 65031392
+  },
+  {
+    "title": "\"Jézus Krisztus tegnap, ma és mindörökké ugyanaz.\" - 11hh",
+    "bible": "Zsidókhoz 13,8.",
+    "date": "2023.01.01",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230101_11h_KJ_Zsidók13,8._Jézus_Krisztus_tegnap,_ma_és_mindörökké_ugyanaz..mp3",
+    "uuid": "8cdc46af-9e4f-4e98-9b22-d75ca3891c2d",
     "length": 4064,
     "size": 65031392
   },
@@ -5005,17 +5005,6 @@
     "size": 75377501
   },
   {
-    "title": "Szeretetben való szolgálat. - 18h",
-    "bible": "Galata 5,22-23.",
-    "date": "2022.08.07",
-    "pastor": "Imre Veronika",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220807_18h_IV_Galata5,22-23._Szeretetben való szolgálat..mp3",
-    "uuid": "97978391-26b7-466c-8779-2fb40768d576",
-    "length": 2222,
-    "size": 35552308
-  },
-  {
     "title": "Jézus megdicsőülése. - Széchenyiváros",
     "bible": "Márk 9,2-13.",
     "date": "2022.08.07",
@@ -5025,6 +5014,17 @@
     "uuid": "daf123df-7ffd-4685-a2c8-c6c4dd855c3c",
     "length": 3182,
     "size": 50925794
+  },
+  {
+    "title": "Szeretetben való szolgálat. - 18h",
+    "bible": "Galata 5,22-23.",
+    "date": "2022.08.07",
+    "pastor": "Imre Veronika",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220807_18h_IV_Galata5,22-23._Szeretetben való szolgálat..mp3",
+    "uuid": "97978391-26b7-466c-8779-2fb40768d576",
+    "length": 2222,
+    "size": 35552308
   },
   {
     "title": "A zörgető Jézus. - 11h",
@@ -10406,15 +10406,15 @@
     "size": 60860844
   },
   {
-    "title": "Az igaz istentisztelet - 18h",
-    "bible": "Zsoltárok 50",
+    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
+    "bible": "1 János 4,8 b",
     "date": "2020.08.30",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
-    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
-    "length": 2471,
-    "size": 39542307
+    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
+    "length": 3659,
+    "size": 58547991
   },
   {
     "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
@@ -10428,15 +10428,15 @@
     "size": 45771397
   },
   {
-    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
-    "bible": "1 János 4,8 b",
+    "title": "Az igaz istentisztelet - 18h",
+    "bible": "Zsoltárok 50",
     "date": "2020.08.30",
-    "pastor": "Komádi Róbert",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
-    "length": 3659,
-    "size": 58547991
+    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
+    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
+    "length": 2471,
+    "size": 39542307
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -11396,17 +11396,6 @@
     "size": 22534983
   },
   {
-    "title": "Jézus itt van (Széchenyiváros)",
-    "bible": "János 20, 19-23",
-    "date": "2020.04.12",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/a8907Y45Ke4",
-    "download": "/media/files/igehirdetesek/2020.04.12_SZV_Húsvét_Jézus_itt_van_Nagy_Henrietta.mp3.mp3",
-    "uuid": "fc6981a5-8401-4fee-a558-605bc4b06ef0",
-    "length": 2757,
-    "size": 44121863
-  },
-  {
     "title": "Húsvét Vasárnapi Igehirdetés",
     "bible": "Lukács24,7.",
     "date": "2020.04.12",
@@ -11416,6 +11405,17 @@
     "uuid": "2a2996b4-bded-4aa0-98ed-a3affa36d221",
     "length": 2416,
     "size": 38656675
+  },
+  {
+    "title": "Jézus itt van (Széchenyiváros)",
+    "bible": "János 20, 19-23",
+    "date": "2020.04.12",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/a8907Y45Ke4",
+    "download": "/media/files/igehirdetesek/2020.04.12_SZV_Húsvét_Jézus_itt_van_Nagy_Henrietta.mp3.mp3",
+    "uuid": "fc6981a5-8401-4fee-a558-605bc4b06ef0",
+    "length": 2757,
+    "size": 44121863
   },
   {
     "title": "A tanítványok jutalma - 6/6 Tanítványság",
@@ -17930,17 +17930,6 @@
     "size": 20940427
   },
   {
-    "title": "Halljuk-e Isten hívását, szavát - 16,30h",
-    "bible": "1Sámuel,3,10",
-    "date": "2016.08.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/160831 16,30h VN_alt.isk.evnyit.it_Halljuk-e Isten szavat, hivasat_1Sam3,10.mp3",
-    "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
-    "length": 3093,
-    "size": 24749080
-  },
-  {
     "title": "Békesség nektek - 18h",
     "bible": "Lukács24,36",
     "date": "2016.08.31",
@@ -17950,6 +17939,17 @@
     "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
     "length": 3710,
     "size": 29687058
+  },
+  {
+    "title": "Halljuk-e Isten hívását, szavát - 16,30h",
+    "bible": "1Sámuel,3,10",
+    "date": "2016.08.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/160831 16,30h VN_alt.isk.evnyit.it_Halljuk-e Isten szavat, hivasat_1Sam3,10.mp3",
+    "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
+    "length": 3093,
+    "size": 24749080
   },
   {
     "title": "Nem bűneink szerint bánik velünk - 11h",
@@ -20691,17 +20691,6 @@
     "size": 18354095
   },
   {
-    "title": "Hol van a Király - 17h",
-    "bible": "Máté2,2",
-    "date": "2014.12.27",
-    "pastor": "Pálóczi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/141226 17h PK_kar.2.napi.it_Hol van a Kiraly_Mt2,2.mp3",
-    "uuid": "17a7ad31-8025-488f-9d15-bdce41968e8b",
-    "length": 1638,
-    "size": 13107663
-  },
-  {
     "title": "Visszatérés Názáretbe - 17h",
     "bible": "Máté2,19-23",
     "date": "2014.12.27",
@@ -20711,6 +20700,17 @@
     "uuid": "eb9ee318-a42a-43ad-a951-507587d137f3",
     "length": 1241,
     "size": 9932218
+  },
+  {
+    "title": "Hol van a Király - 17h",
+    "bible": "Máté2,2",
+    "date": "2014.12.27",
+    "pastor": "Pálóczi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/141226 17h PK_kar.2.napi.it_Hol van a Kiraly_Mt2,2.mp3",
+    "uuid": "17a7ad31-8025-488f-9d15-bdce41968e8b",
+    "length": 1638,
+    "size": 13107663
   },
   {
     "title": "Menekülés Egyiptomból - 11h",
@@ -25289,17 +25289,6 @@
     "size": 14789529
   },
   {
-    "title": "Éljetek elhívásotokhoz méltóan - 17h",
-    "bible": "Efézus4,1",
-    "date": "2013.01.01",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/130101_17h_AN_Eljetek_elhivasotokhoz_meltoan_Ef4_1.mp3",
-    "uuid": "ecb2cf29-6196-4829-a8c3-567b227c2825",
-    "length": 1853,
-    "size": 14829862
-  },
-  {
     "title": "Újuljatok meg - 0h",
     "bible": "Efézus4,17-24",
     "date": "2013.01.01",
@@ -25309,6 +25298,17 @@
     "uuid": "db1eca2d-c899-4726-93ca-eef91a97485d",
     "length": 1593,
     "size": 12745709
+  },
+  {
+    "title": "Éljetek elhívásotokhoz méltóan - 17h",
+    "bible": "Efézus4,1",
+    "date": "2013.01.01",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/130101_17h_AN_Eljetek_elhivasotokhoz_meltoan_Ef4_1.mp3",
+    "uuid": "ecb2cf29-6196-4829-a8c3-567b227c2825",
+    "length": 1853,
+    "size": 14829862
   },
   {
     "title": "Jézussal a világ végéig - 15h",
@@ -33638,17 +33638,6 @@
     "size": 35520704
   },
   {
-    "title": "A vérfolyásos asszony meggyógyítása - 17h",
-    "bible": "Márk 5,26-34",
-    "date": "2003.11.27",
-    "pastor": "Csiha Kálmán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20031127_17h_CSK_Mark5,26-34_A_verfolyasos_asszony_meggyogyitasa.mp3",
-    "uuid": "0fb57d41-1c28-4c53-9485-720b3c83ea6c",
-    "length": 1890,
-    "size": 30241044
-  },
-  {
     "title": "Különbségtétel a jó és a rossz között - 7,15h",
     "bible": "Zsoltárok 101",
     "date": "2003.11.27",
@@ -33658,6 +33647,17 @@
     "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
     "length": 690,
     "size": 11040835
+  },
+  {
+    "title": "A vérfolyásos asszony meggyógyítása - 17h",
+    "bible": "Márk 5,26-34",
+    "date": "2003.11.27",
+    "pastor": "Csiha Kálmán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20031127_17h_CSK_Mark5,26-34_A_verfolyasos_asszony_meggyogyitasa.mp3",
+    "uuid": "0fb57d41-1c28-4c53-9485-720b3c83ea6c",
+    "length": 1890,
+    "size": 30241044
   },
   {
     "title": "Jairus lányának feltámasztása - 17h",
