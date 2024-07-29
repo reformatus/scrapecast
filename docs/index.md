@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 28 Jul 2024 22:26:14 +0100
+✅ Legutóbb frissítve: Mon, 29 Jul 2024 08:34:09 +0100
 
-Epizódok száma: 3075
+Epizódok száma: 3078
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3075
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.07.28 - Ilyen az Isten! - 11h - Borsos-Pintér Nóra
+ - 2024.07.28 - "...a farkas a báránnyal játszik..." - 9h - Kuti József
+ - 2024.07.28 - Mindenki iránt a jóra törekedjetek! - 17h - Fodorné Dr. Ablonczy Margit
  - 2024.07.21 - Orgona II. - 11h - Fodorné Dr. Ablonczy Margit
  - 2024.07.21 - "Békesség, békesség - pedig nincs békesség!" - 9h - Kuti József
  - 2024.07.21 - Az igazak és a bűnösök sorsa. - 17h - Mikesi Károly
- - 2024.07.14 - "Mert aki kér, mind kap" - 11h - Vincze Árpád
- - 2024.07.14 - "...az én békességemet adom nektek.." - 9h - Kuti József
- - 2024.07.14 - "Mert aki kér, mind kap" - 17h - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3075
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 28 Jul 2024 22:26:15 +0100
+✅ Legutóbb frissítve: Mon, 29 Jul 2024 08:34:10 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 28 Jul 2024 22:26:27 +0100
+✅ Legutóbb frissítve: Mon, 29 Jul 2024 08:34:26 +0100
 
 Epizódok száma: 922
 
