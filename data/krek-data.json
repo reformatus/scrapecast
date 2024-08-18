@@ -264,15 +264,15 @@
     "size": 49383398
   },
   {
-    "title": "Minden napom, minden napon az Úrral. - Vasárnap este",
-    "bible": "2 Sámuel 11:1-13",
+    "title": "Az igazak és a bűnösök sorsa. - 17h",
+    "bible": "1 Zsoltár",
     "date": "2024.07.21",
-    "pastor": "Bán Béla",
+    "pastor": "Mikesi Károly",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_20,30h_BB_2Sámuel11,1-13.mp3",
-    "uuid": "1ec8f82b-af76-4a99-81f7-32e013040dd3",
-    "length": 4366,
-    "size": 69856912
+    "download": "/media/files/igehirdetesek/20240721_17h_MK_1Zsoltár_Az_igazak_és_a_bűnösök_útja.mp3",
+    "uuid": "c889b58c-abe6-4d64-8845-87e5ea6dd28b",
+    "length": 2825,
+    "size": 45203367
   },
   {
     "title": "Hamis boldogság - 14h - TGT - Tábornyitó Istentisztelet",
@@ -286,15 +286,15 @@
     "size": 23517359
   },
   {
-    "title": "Az igazak és a bűnösök sorsa. - 17h",
-    "bible": "1 Zsoltár",
+    "title": "Minden napom, minden napon az Úrral. - Vasárnap este",
+    "bible": "2 Sámuel 11:1-13",
     "date": "2024.07.21",
-    "pastor": "Mikesi Károly",
+    "pastor": "Bán Béla",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_17h_MK_1Zsoltár_Az_igazak_és_a_bűnösök_útja.mp3",
-    "uuid": "c889b58c-abe6-4d64-8845-87e5ea6dd28b",
-    "length": 2825,
-    "size": 45203367
+    "download": "/media/files/igehirdetesek/20240721_20,30h_BB_2Sámuel11,1-13.mp3",
+    "uuid": "1ec8f82b-af76-4a99-81f7-32e013040dd3",
+    "length": 4366,
+    "size": 69856912
   },
   {
     "title": "\"Mert aki kér, mind kap\" - 11h",
@@ -550,17 +550,6 @@
     "size": 55376312
   },
   {
-    "title": "Harang I. - 11h",
-    "bible": "2 Timóteus 4,7",
-    "date": "2024.06.02",
-    "pastor": "Fodorné Dr. Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
-    "uuid": "10b64ae5-af30-43fb-a55d-2d6100a54b1c",
-    "length": 3487,
-    "size": 55806108
-  },
-  {
     "title": "Harang - 11h",
     "bible": "2 Timóteus 4,7",
     "date": "2024.06.02",
@@ -568,6 +557,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
     "uuid": "145d46a2-c7a3-437d-91b7-40f4dc05a1a4",
+    "length": 3487,
+    "size": 55806108
+  },
+  {
+    "title": "Harang I. - 11h",
+    "bible": "2 Timóteus 4,7",
+    "date": "2024.06.02",
+    "pastor": "Fodorné Dr. Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
+    "uuid": "10b64ae5-af30-43fb-a55d-2d6100a54b1c",
     "length": 3487,
     "size": 55806108
   },
@@ -2937,17 +2937,6 @@
     "size": 49261655
   },
   {
-    "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit.\" - 9h-Gimnázium évzáró",
-    "bible": "Zsoltárok 37,4-6",
-    "date": "2023.06.18",
-    "pastor": "Peleskey Miklós Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
-    "uuid": "c95a99dc-a487-4099-82d7-ff9e319671d0",
-    "length": 5550,
-    "size": 88814340
-  },
-  {
     "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit!\" - 9h - Gimnázium tanévzáró",
     "bible": "Zsoltárok 37,4-6",
     "date": "2023.06.18",
@@ -2955,6 +2944,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
     "uuid": "529748d0-c9ec-4747-abe7-15e8bd5a880b",
+    "length": 5550,
+    "size": 88814340
+  },
+  {
+    "title": "\"Gyönyörködj az Úrban, és megadja szíved kéréseit.\" - 9h-Gimnázium évzáró",
+    "bible": "Zsoltárok 37,4-6",
+    "date": "2023.06.18",
+    "pastor": "Peleskey Miklós Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230618_9h_PM_Gimnázium_évzáró.mp3",
+    "uuid": "c95a99dc-a487-4099-82d7-ff9e319671d0",
     "length": 5550,
     "size": 88814340
   },
@@ -8129,17 +8129,6 @@
     "size": 18765020
   },
   {
-    "title": "Hallgatás és hála - 7,15h",
-    "bible": "Efézus 1,15-16.",
-    "date": "2021.07.21",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
-    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
-    "length": 761,
-    "size": 12179237
-  },
-  {
     "title": "A Követés - 19,30h",
     "bible": "Lukács 9,28-36.",
     "date": "2021.07.21",
@@ -8149,6 +8138,17 @@
     "uuid": "0b554941-9480-4b8c-a679-adbbb39c7a1f",
     "length": 2814,
     "size": 67536812
+  },
+  {
+    "title": "Hallgatás és hála - 7,15h",
+    "bible": "Efézus 1,15-16.",
+    "date": "2021.07.21",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210721_7,15h_LA_Efézus1,15-16_Hallgatás_és_hála.mp3",
+    "uuid": "5b69abee-a234-4f74-8ec7-6b37dba32030",
+    "length": 761,
+    "size": 12179237
   },
   {
     "title": "Csend Isten előtt - 7,15h",
@@ -11209,17 +11209,6 @@
     "size": 54758947
   },
   {
-    "title": "A megbékélés útja (Széchenyiváros)",
-    "bible": "1Mózes 44, 16.",
-    "date": "2020.06.21",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/iWnab3aehys",
-    "download": "/media/files/igehirdetesek/20200621_SZV_PF_1Mózes 44, 16._01.mp3",
-    "uuid": "dd6487ea-5ccb-4b84-b79a-004e55e98b73",
-    "length": 3702,
-    "size": 44432532
-  },
-  {
     "title": "Az Úr mindig közel - 18h",
     "bible": "Máté14,22-33",
     "date": "2020.06.21",
@@ -11229,6 +11218,17 @@
     "uuid": "0f71d29e-0847-4bb0-91b7-51881bafa99a",
     "length": 1857,
     "size": 29713997
+  },
+  {
+    "title": "A megbékélés útja (Széchenyiváros)",
+    "bible": "1Mózes 44, 16.",
+    "date": "2020.06.21",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/iWnab3aehys",
+    "download": "/media/files/igehirdetesek/20200621_SZV_PF_1Mózes 44, 16._01.mp3",
+    "uuid": "dd6487ea-5ccb-4b84-b79a-004e55e98b73",
+    "length": 3702,
+    "size": 44432532
   },
   {
     "title": "Isten őrzi és ápolja közösségeinket (Kert)",
@@ -13596,17 +13596,6 @@
     "size": 46506126
   },
   {
-    "title": "Szeretet és hűség - iskolai fogadalomtétel",
-    "bible": "Példabeszédek3,3",
-    "date": "2019.06.10",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190610_9h_KR_Péld3,3_Szeretet_és_hűség.MP3",
-    "uuid": "88412827-eaeb-4806-b520-32949fc5eda0",
-    "length": 6919,
-    "size": 110711199
-  },
-  {
     "title": "Veletek maradjon mindörökké - 18h",
     "bible": "János14,16",
     "date": "2019.06.10",
@@ -13616,6 +13605,17 @@
     "uuid": "a985cdeb-8021-4356-82c3-f23d92915924",
     "length": 2712,
     "size": 43405731
+  },
+  {
+    "title": "Szeretet és hűség - iskolai fogadalomtétel",
+    "bible": "Példabeszédek3,3",
+    "date": "2019.06.10",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190610_9h_KR_Péld3,3_Szeretet_és_hűség.MP3",
+    "uuid": "88412827-eaeb-4806-b520-32949fc5eda0",
+    "length": 6919,
+    "size": 110711199
   },
   {
     "title": "Jézusnak semmi sem lehetetlen - 11h",
@@ -20185,15 +20185,15 @@
     "size": 14294249
   },
   {
-    "title": "Ne féljetek, feltámadt - 9,40h",
+    "title": "Nincs itt, feltámadt - 10,35h",
     "bible": "Márk16,6",
     "date": "2015.04.01",
     "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
-    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
-    "length": 1738,
-    "size": 13907845
+    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
+    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
+    "length": 1772,
+    "size": 14182027
   },
   {
     "title": "Hittel megtelt diákélet - 7,15h",
@@ -20207,15 +20207,15 @@
     "size": 4513586
   },
   {
-    "title": "Nincs itt, feltámadt - 10,35h",
+    "title": "Ne féljetek, feltámadt - 9,40h",
     "bible": "Márk16,6",
     "date": "2015.04.01",
     "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
-    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
-    "length": 1772,
-    "size": 14182027
+    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
+    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
+    "length": 1738,
+    "size": 13907845
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -22143,17 +22143,6 @@
     "size": 16221666
   },
   {
-    "title": "Az uralkodás művészete - 7,15h",
-    "bible": "János19,9-11",
-    "date": "2014.05.09",
-    "pastor": "Telekes Tamás tanár",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140509 7.15h Telekes Tamas tanar_regg.ah_Az uralkodas muveszete_Jn19,9_11._Zsolt20,10.mp3",
-    "uuid": "7d35a706-0f22-43a9-8d45-3918b06f02df",
-    "length": 1536,
-    "size": 12295149
-  },
-  {
     "title": "Az önmegváltás két útja - 18h",
     "bible": "Lukács15,1-3, 12-15",
     "date": "2014.05.09",
@@ -22163,6 +22152,17 @@
     "uuid": "3a265bc6-67f7-41f1-9827-7b2ceb57836a",
     "length": 1743,
     "size": 13948386
+  },
+  {
+    "title": "Az uralkodás művészete - 7,15h",
+    "bible": "János19,9-11",
+    "date": "2014.05.09",
+    "pastor": "Telekes Tamás tanár",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140509 7.15h Telekes Tamas tanar_regg.ah_Az uralkodas muveszete_Jn19,9_11._Zsolt20,10.mp3",
+    "uuid": "7d35a706-0f22-43a9-8d45-3918b06f02df",
+    "length": 1536,
+    "size": 12295149
   },
   {
     "title": "Hozzám térjetek ne egymáshoz - 18h",
@@ -28204,17 +28204,6 @@
     "size": 16282270
   },
   {
-    "title": "Hit és üdvösség - 18h",
-    "bible": "Máté16,16",
-    "date": "2011.09.11",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
-    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
-    "length": 2198,
-    "size": 17588393
-  },
-  {
     "title": "Isteni igazság - 17h",
     "bible": "Jób9,1-7",
     "date": "2011.09.11",
@@ -28224,6 +28213,17 @@
     "uuid": "2447eca1-e193-4f49-9613-49c487d06c00",
     "length": 2945,
     "size": 23565209
+  },
+  {
+    "title": "Hit és üdvösség - 18h",
+    "bible": "Máté16,16",
+    "date": "2011.09.11",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110911_18h_AN_Hit_es_udvosseg_Mt16_16.mp3",
+    "uuid": "e027831b-811c-49c1-b83a-11d67a031abb",
+    "length": 2198,
+    "size": 17588393
   },
   {
     "title": "Embereket Krisztushoz vezetni - 9h",
@@ -29722,17 +29722,6 @@
     "size": 18477601
   },
   {
-    "title": "Kétségeskedünk, de kétségbe mégsem esünk - 0h",
-    "bible": "2Korinthus4,8",
-    "date": "2011.01.01",
-    "pastor": "Ritter Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110101_0h_RN_ujevi_Ketsegeskedunk_de_ketsegbe_megsem_esunk_2Kor4_8.mp3",
-    "uuid": "866996f0-df26-4e3e-9755-ecc34b64d501",
-    "length": 1566,
-    "size": 12534639
-  },
-  {
     "title": "Életed Isten akaratából van, hogy ne történne veled is - 17h",
     "bible": "Jelenések1,1",
     "date": "2011.01.01",
@@ -29742,6 +29731,17 @@
     "uuid": "3f2808b7-af19-4154-91e8-aae64b77f49c",
     "length": 1532,
     "size": 12261921
+  },
+  {
+    "title": "Kétségeskedünk, de kétségbe mégsem esünk - 0h",
+    "bible": "2Korinthus4,8",
+    "date": "2011.01.01",
+    "pastor": "Ritter Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110101_0h_RN_ujevi_Ketsegeskedunk_de_ketsegbe_megsem_esunk_2Kor4_8.mp3",
+    "uuid": "866996f0-df26-4e3e-9755-ecc34b64d501",
+    "length": 1566,
+    "size": 12534639
   },
   {
     "title": "Áldjad én lelkem az Urat - 18h",
@@ -32813,17 +32813,6 @@
     "size": 16235195
   },
   {
-    "title": "Házastársi hűség és igazmondás. - 16h",
-    "bible": "Máté5,31-37",
-    "date": "2008.04.09",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
-    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
-    "length": 2655,
-    "size": 13275875
-  },
-  {
     "title": "Harag és tisztátalanság. - 10h",
     "bible": "Máté5,21-30",
     "date": "2008.04.09",
@@ -32833,6 +32822,17 @@
     "uuid": "dc28f597-0cc2-4062-911b-d3fb86988d13",
     "length": 3752,
     "size": 18760965
+  },
+  {
+    "title": "Házastársi hűség és igazmondás. - 16h",
+    "bible": "Máté5,31-37",
+    "date": "2008.04.09",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
+    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
+    "length": 2655,
+    "size": 13275875
   },
   {
     "title": "A tanítványok szerepe. - 10h",
@@ -33935,17 +33935,6 @@
     "size": 35520704
   },
   {
-    "title": "Különbségtétel a jó és a rossz között - 7,15h",
-    "bible": "Zsoltárok 101",
-    "date": "2003.11.27",
-    "pastor": "Komlósi Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
-    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
-    "length": 690,
-    "size": 11040835
-  },
-  {
     "title": "A vérfolyásos asszony meggyógyítása - 17h",
     "bible": "Márk 5,26-34",
     "date": "2003.11.27",
@@ -33955,6 +33944,17 @@
     "uuid": "0fb57d41-1c28-4c53-9485-720b3c83ea6c",
     "length": 1890,
     "size": 30241044
+  },
+  {
+    "title": "Különbségtétel a jó és a rossz között - 7,15h",
+    "bible": "Zsoltárok 101",
+    "date": "2003.11.27",
+    "pastor": "Komlósi Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
+    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
+    "length": 690,
+    "size": 11040835
   },
   {
     "title": "Jairus lányának feltámasztása - 17h",
