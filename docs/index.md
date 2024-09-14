@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:25:55 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 11:33:06 +0100
 
 Epizódok száma: 3113
 
@@ -37,7 +37,7 @@ Epizódok száma: 3113
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:25:55 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 11:33:07 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:26:07 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 11:33:45 +0100
 
-Epizódok száma: 922
+Epizódok száma: 942
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 922
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2024.04.21 - Ef 2,4-10 - Bibliamagyarázat - Pál levele az efezusiakhoz
- - 2024.04.21 - 1Kor 11,18-34 - Bibliamagyarázat - Pál első levele a korinthusiakhoz
- - 2024.04.21 - 1Kor 11,18-34 - Bibliamagyarázat - A királyok első könyve
- - 2024.04.20 - Jn 6,22-59 - Bibliamagyarázat - János evangéliuma
- - 2024.04.19 - 2Móz 16 - Bibliamagyarázat - Mózes második könyve
- - 2024.04.14 - Jn 21,1-19 - Bibliamagyarázat - János evangéliuma
+ - 2024.09.08 - Mt 20,1-16 - Bibliamagyarázat - Máté evangéliuma
+ - 2024.09.01 - Fil 1,1-11 - Bibliamagyarázat - Pál levele a filippiekhez
+ - 2024.08.30 - Fil 4,4-7 - Bibliamagyarázat - Pál levele a filippiekhez
+ - 2024.07.22 - Mt 7,24-27 - Bibliamagyarázat - Máté evangéliuma
+ - 2024.07.21 - Mt 8,14-17 - Bibliamagyarázat - Máté evangéliuma
+ - 2024.07.21 - Mt 8,5-13 - Bibliamagyarázat - Máté evangéliuma
 
 ---
 
