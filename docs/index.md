@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 27 Apr 2024 14:39:01 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:25:55 +0100
 
-Epizódok száma: 3017
+Epizódok száma: 3113
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3017
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
- - 2024.04.21 - "Az Isten fegyverzete: Saru" - KERT - Nagy Henrietta
- - 2024.04.21 - Kakas - 11h - Riczuné Kiss Georgina
- - 2024.04.21 - "Jól vigyázzatok tehát, hogyan éltek...értsétek meg, mi az Úr akarata." - 9h - Szabó Zsuzsanna
- - 2024.04.14 - Az Isten fegyverzete: Páncél. - KERT - Nagy Henrietta
- - 2024.04.14 - Elhívatáshoz méltó élet. - 11h - Balog Zoltán
- - 2024.04.14 - "Hiszen kegyelemből van üdvösségetek..." - 9h - Varga Nándor
+ - 2024.09.08 - Isten és én. - KERT - Nagy Henrietta
+ - 2024.09.08 - A szőlőmunkások. - 11h - Fodorné Dr. Ablonczy Margit
+ - 2024.09.08 - "Hallgass, népem, most én beszélek! - 9h - Varga Nándor
+ - 2024.09.01 - Bűnbánat és bűnbocsánat. - 11h - Riczuné Kiss Georgina
+ - 2024.09.01 - "...légy erős és bátor..." - 9h - Általános Iskolai évnyitó istentisztelet - Petró Emőke
+ - 2024.09.01 - "...légy erős és bátor..." - 9h - Petró Emőke
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3017
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 27 Apr 2024 14:39:02 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:25:55 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 27 Apr 2024 14:39:13 +0100
+✅ Legutóbb frissítve: Sat, 14 Sep 2024 09:26:07 +0100
 
 Epizódok száma: 922
 

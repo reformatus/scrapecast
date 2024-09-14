@@ -2,9 +2,10 @@ name: ScrapeCast CRON Run
 
 on:
   schedule:
-    - cron: '20 8-21 * * 0,1'
-    - cron: '20 8,12,16,21 * * 2-6'
-
+    - cron: '20 6-20 * * 0,1'
+    - cron: '20 7,11,15,20 * * 2-6'
+  workflow_dispatch: {}
+  
 jobs:
   run:
     runs-on: ubuntu-latest
