@@ -206,12 +206,11 @@ Future<List<Episode>> marcoScraper() async {
     var rows = [];
 
     try {
-
-    var rows = document
-        .querySelectorAll("##object > table > tbody > tr")
-        .where((element) =>
-            ((element.nodes.first.nodes.first as Element).localName == "a"))
-        .toList();
+      rows = document
+          .querySelectorAll("##object > table > tbody > tr")
+          .where((element) =>
+              ((element.nodes.first.nodes.first as Element).localName == "a"))
+          .toList();
     } catch (e) {
       print("Error while parsing page: $e");
     }
