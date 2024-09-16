@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 16 Sep 2024 13:25:13 +0100
+✅ Legutóbb frissítve: Mon, 16 Sep 2024 14:51:51 +0100
 
-Epizódok száma: 3113
+Epizódok száma: 3117
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3113
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.09.15 - Isten és én: Isten mindent tud rólam - KERT - Kohi-Pál Eszter
+ - 2024.09.15 - Isten magasztalása énekléssel. - 11h - Petró Emőke
+ - 2024.09.15 - "Isten elküldi szeretetét és hűségét." - 9h - Varga Nándor
+ - 2024.09.13 - "...és így megismerjétek Krisztusnak minden ismeretet meghaladó szeretetét..." - 15h - KRE évnyitó - Vass Réka Adrienn
  - 2024.09.08 - Isten és én. - KERT - Nagy Henrietta
  - 2024.09.08 - A szőlőmunkások. - 11h - Fodorné Dr. Ablonczy Margit
- - 2024.09.08 - "Hallgass, népem, most én beszélek! - 9h - Varga Nándor
- - 2024.09.01 - Bűnbánat és bűnbocsánat. - 11h - Riczuné Kiss Georgina
- - 2024.09.01 - "...légy erős és bátor..." - 9h - Általános Iskolai évnyitó istentisztelet - Petró Emőke
- - 2024.09.01 - "...légy erős és bátor..." - 9h - Petró Emőke
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3113
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 16 Sep 2024 13:25:14 +0100
+✅ Legutóbb frissítve: Mon, 16 Sep 2024 14:51:52 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 16 Sep 2024 13:25:34 +0100
+✅ Legutóbb frissítve: Mon, 16 Sep 2024 14:52:11 +0100
 
 Epizódok száma: 943
 
