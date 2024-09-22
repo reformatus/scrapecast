@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 22 Sep 2024 09:24:39 +0100
+✅ Legutóbb frissítve: Sun, 22 Sep 2024 10:31:17 +0100
 
 Epizódok száma: 3118
 
@@ -37,7 +37,7 @@ Epizódok száma: 3118
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 22 Sep 2024 09:24:40 +0100
+✅ Legutóbb frissítve: Sun, 22 Sep 2024 10:31:18 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 22 Sep 2024 09:24:59 +0100
+✅ Legutóbb frissítve: Sun, 22 Sep 2024 10:31:37 +0100
 
-Epizódok száma: 944
+Epizódok száma: 946
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 944
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.09.21 - A tanítványság értelme és területei - Vallásismeret - Tanítványság
+ - 2024.09.21 - Isten országának története - Vallásismeret - Tanítványság
  - 2024.09.20 - Zsolt 30 - Bibliamagyarázat - A zsoltárok könyve
  - 2024.09.15 - Fil 2,5-11 - Bibliamagyarázat - Pál levele a filippiekhez
  - 2024.09.08 - Mt 20,1-16 - Bibliamagyarázat - Máté evangéliuma
  - 2024.09.01 - Fil 1,1-11 - Bibliamagyarázat - Pál levele a filippiekhez
- - 2024.08.30 - Fil 4,4-7 - Bibliamagyarázat - Pál levele a filippiekhez
- - 2024.07.22 - Mt 7,24-27 - Bibliamagyarázat - Máté evangéliuma
 
 ---
 
