@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 29 Sep 2024 16:29:21 +0100
+✅ Legutóbb frissítve: Sun, 29 Sep 2024 17:29:05 +0100
 
-Epizódok száma: 3119
+Epizódok száma: 3121
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3119
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.09.29 - "De keressétek először az ő országát és igazságát, és ezek is mind ráadásul megadatnak nektek." - 11h - Városi hitoktatás tanévnyitó - Pál Ferenc
+ - 2024.09.29 - "Megparancsoltam neked,hogy légy erős és bátor. Ne félj és ne rettegj, mert veled van Istened, az Úr mindenütt, amerre csak jársz." - 9h - Imre Veronika
  - 2024.09.22 - "Ezért tehát nem vagytok többé idegenek és jövevények, hanem polgártársai a szenteknek és háza népe Istennek." - 9h - Közös Istentisztelet - Pál Ferenc
  - 2024.09.19 - Páratlan lehetőség - 1. Van segítség! - 17h - Széchenyiváros - Somogyi Péter
  - 2024.09.15 - Isten és én: Isten mindent tud rólam - KERT - Kohi-Pál Eszter
  - 2024.09.15 - Isten magasztalása énekléssel. - 11h - Petró Emőke
- - 2024.09.15 - "Isten elküldi szeretetét és hűségét." - 9h - Varga Nándor
- - 2024.09.13 - "...és így megismerjétek Krisztusnak minden ismeretet meghaladó szeretetét..." - 15h - KRE évnyitó - Vass Réka Adrienn
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3119
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 29 Sep 2024 16:29:22 +0100
+✅ Legutóbb frissítve: Sun, 29 Sep 2024 17:29:06 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 29 Sep 2024 16:29:41 +0100
+✅ Legutóbb frissítve: Sun, 29 Sep 2024 17:29:20 +0100
 
 Epizódok száma: 947
 
