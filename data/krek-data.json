@@ -418,17 +418,6 @@
     "size": 64985180
   },
   {
-    "title": "A Hálószoba - TGT - Előadás - Szerda délelőtt - Előadó: Komádi Róbert",
-    "bible": "",
-    "date": "2024.07.24",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240724_9,30h_KR_A_Hálószoba.mp3",
-    "uuid": "cca7a363-cb85-4a4f-bbae-b8ad58f1b191",
-    "length": 2971,
-    "size": 47543743
-  },
-  {
     "title": "Minden napom, minden napon az Úrral. - Szerda este ",
     "bible": "2 Sámuel 15:13-37",
     "date": "2024.07.24",
@@ -438,6 +427,17 @@
     "uuid": "7dc2b899-328b-4b3e-bb6f-ae4fef060e55",
     "length": 4209,
     "size": 67354590
+  },
+  {
+    "title": "A Hálószoba - TGT - Előadás - Szerda délelőtt - Előadó: Komádi Róbert",
+    "bible": "",
+    "date": "2024.07.24",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240724_9,30h_KR_A_Hálószoba.mp3",
+    "uuid": "cca7a363-cb85-4a4f-bbae-b8ad58f1b191",
+    "length": 2971,
+    "size": 47543743
   },
   {
     "title": "Minden napom, minden napon az Úrral. - Kedd este",
@@ -3520,17 +3520,6 @@
     "size": 38391739
   },
   {
-    "title": "Együtt-egymásért és másokért. - 17h",
-    "bible": "János 17,21",
-    "date": "2023.05.13",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230513_17h_VN_János17,21_Együtt-egymásért_és_másokért II. (online-audio-converter.com).mp3",
-    "uuid": "2a146431-8c28-40a4-9aee-5464809d5ee2",
-    "length": 1902,
-    "size": 30442519
-  },
-  {
     "title": "Együtt-egymásért és másokért. - 10h",
     "bible": "1 Korintus 12,12-31",
     "date": "2023.05.13",
@@ -3540,6 +3529,17 @@
     "uuid": "4325a1de-99b6-4599-8d3e-c53bf26f247f",
     "length": 3596,
     "size": 57546754
+  },
+  {
+    "title": "Együtt-egymásért és másokért. - 17h",
+    "bible": "János 17,21",
+    "date": "2023.05.13",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230513_17h_VN_János17,21_Együtt-egymásért_és_másokért II. (online-audio-converter.com).mp3",
+    "uuid": "2a146431-8c28-40a4-9aee-5464809d5ee2",
+    "length": 1902,
+    "size": 30442519
   },
   {
     "title": "Szentlélek munkája. - KERT",
@@ -5764,15 +5764,15 @@
     "size": 27941850
   },
   {
-    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
-    "bible": "ApCsel 1,8.",
+    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
+    "bible": "Márk 6,30-44.",
     "date": "2022.06.19",
-    "pastor": "Komádi Róbert",
+    "pastor": "Pál Ferenc",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
-    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
-    "length": 4282,
-    "size": 68517328
+    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
+    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
+    "length": 4267,
+    "size": 68272354
   },
   {
     "title": "\"Lássátok meg, milyen nagy szeretetet tanúsított irántunk az Atya.\" - Gimnáziumi tanévzáró-istentisztelet",
@@ -5786,15 +5786,15 @@
     "size": 128343796
   },
   {
-    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
-    "bible": "Márk 6,30-44.",
+    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
+    "bible": "ApCsel 1,8.",
     "date": "2022.06.19",
-    "pastor": "Pál Ferenc",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
-    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
-    "length": 4267,
-    "size": 68272354
+    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
+    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
+    "length": 4282,
+    "size": 68517328
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -9999,17 +9999,6 @@
     "size": 67955173
   },
   {
-    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
-    "bible": "János 3,1-10",
-    "date": "2020.12.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
-    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
-    "length": 2604,
-    "size": 41675989
-  },
-  {
     "title": "Lelki építkezés - 15h",
     "bible": "1 Péter 2,5",
     "date": "2020.12.31",
@@ -10019,6 +10008,17 @@
     "uuid": "2f14465f-c092-4d2a-8691-ee752755c7af",
     "length": 2527,
     "size": 40440502
+  },
+  {
+    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
+    "bible": "János 3,1-10",
+    "date": "2020.12.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
+    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
+    "length": 2604,
+    "size": 41675989
   },
   {
     "title": "Az evangélium titka - Kert",
@@ -19910,17 +19910,6 @@
     "size": 23901040
   },
   {
-    "title": "Isten hangja - 18h",
-    "bible": "1Mózes3,8",
-    "date": "2015.06.21",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 18h KM_hitm.it_Isten hangja_1Moz3,8.mp3",
-    "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
-    "length": 1338,
-    "size": 10704188
-  },
-  {
     "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
     "bible": "5Móz6,6-9",
     "date": "2015.06.21",
@@ -19930,6 +19919,17 @@
     "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
     "length": 2718,
     "size": 21751685
+  },
+  {
+    "title": "Isten hangja - 18h",
+    "bible": "1Mózes3,8",
+    "date": "2015.06.21",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 18h KM_hitm.it_Isten hangja_1Moz3,8.mp3",
+    "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
+    "length": 1338,
+    "size": 10704188
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
@@ -28798,17 +28798,6 @@
     "size": 22353546
   },
   {
-    "title": "Láncreakciószerű hívás a személyes találkozásért - 9h",
-    "bible": "János1,43-46",
-    "date": "2011.06.26",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110626_9h_KJ_Lancreakcioszeru_hivas_a_szemelyes_talalkozasert_Jn1_43_46.mp3",
-    "uuid": "b202b4f1-ee49-4265-b005-a116a4742cea",
-    "length": 1762,
-    "size": 14103240
-  },
-  {
     "title": "Tanárok köszöntése - 9h",
     "bible": "",
     "date": "2011.06.26",
@@ -28818,6 +28807,17 @@
     "uuid": "30eb90f0-b51b-4876-a98e-739d5a428f90",
     "length": 1039,
     "size": 8318267
+  },
+  {
+    "title": "Láncreakciószerű hívás a személyes találkozásért - 9h",
+    "bible": "János1,43-46",
+    "date": "2011.06.26",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110626_9h_KJ_Lancreakcioszeru_hivas_a_szemelyes_talalkozasert_Jn1_43_46.mp3",
+    "uuid": "b202b4f1-ee49-4265-b005-a116a4742cea",
+    "length": 1762,
+    "size": 14103240
   },
   {
     "title": "Adósság elengedés - 18h",
@@ -34177,17 +34177,6 @@
     "size": 35520704
   },
   {
-    "title": "Különbségtétel a jó és a rossz között - 7,15h",
-    "bible": "Zsoltárok 101",
-    "date": "2003.11.27",
-    "pastor": "Komlósi Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
-    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
-    "length": 690,
-    "size": 11040835
-  },
-  {
     "title": "A vérfolyásos asszony meggyógyítása - 17h",
     "bible": "Márk 5,26-34",
     "date": "2003.11.27",
@@ -34197,6 +34186,17 @@
     "uuid": "0fb57d41-1c28-4c53-9485-720b3c83ea6c",
     "length": 1890,
     "size": 30241044
+  },
+  {
+    "title": "Különbségtétel a jó és a rossz között - 7,15h",
+    "bible": "Zsoltárok 101",
+    "date": "2003.11.27",
+    "pastor": "Komlósi Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
+    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
+    "length": 690,
+    "size": 11040835
   },
   {
     "title": "Jairus lányának feltámasztása - 17h",
