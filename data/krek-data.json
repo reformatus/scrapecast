@@ -693,17 +693,6 @@
     "size": 61626385
   },
   {
-    "title": "Hálaadó hangverseny az Evangélikus Templomban. - Múzeumok éjszakája",
-    "bible": "",
-    "date": "2024.06.22",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240622_18h_gradics muzej 2024.mp3",
-    "uuid": "7c569dce-3925-4724-97e7-87df5b13984b",
-    "length": 5201,
-    "size": 83230536
-  },
-  {
     "title": "\"A lehet és a kell szorításában.\" - Kiállítás megnyitó Tóth Károly életéről. - Megnyitották: Varga László, Szabó Gábor - 18h",
     "bible": "",
     "date": "2024.06.22",
@@ -713,6 +702,17 @@
     "uuid": "adac963e-cedd-4bad-870d-813488cea139",
     "length": 1761,
     "size": 28178088
+  },
+  {
+    "title": "Hálaadó hangverseny az Evangélikus Templomban. - Múzeumok éjszakája",
+    "bible": "",
+    "date": "2024.06.22",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240622_18h_gradics muzej 2024.mp3",
+    "uuid": "7c569dce-3925-4724-97e7-87df5b13984b",
+    "length": 5201,
+    "size": 83230536
   },
   {
     "title": "\"Légy hű mindhalálig\" - 11h - Általános Iskola - Ballagás",
@@ -5082,17 +5082,6 @@
     "size": 46142885
   },
   {
-    "title": "\"Mint forráshoz ültetett fa, zöldelő, virul, el nem hervad, idejében gyümölcse pirul.\"  (Móricz Zs) - 9h",
-    "bible": "Zsoltárok 1,3.",
-    "date": "2022.10.09",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20221009_9h_KJ_Zsoltárok1,3._Mint_forráshoz_ültetett_fa,_zöldelő,_virul,_el_nem_hervad,_idejében_gyümölcse_pirul..mp3",
-    "uuid": "e1d07c46-6cb3-4061-b9d5-3e12ce369776",
-    "length": 4190,
-    "size": 67042916
-  },
-  {
     "title": "\"Mint forráshoz ültetett fa, zöldelő, virul, el nem hervad, idejében gyümölcse pirul.\" - 9h",
     "bible": "Zsoltárok 1,3.",
     "date": "2022.10.09",
@@ -5100,6 +5089,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20221009_9h_KJ_Zsoltárok1,3._Mint_forráshoz_ültetett_fa,_zöldelő,_virul,_el_nem_hervad,_idejében_gyümölcse_pirul..mp3",
     "uuid": "eb380b10-5e29-4b27-8ea8-6f9b9ab761ac",
+    "length": 4190,
+    "size": 67042916
+  },
+  {
+    "title": "\"Mint forráshoz ültetett fa, zöldelő, virul, el nem hervad, idejében gyümölcse pirul.\"  (Móricz Zs) - 9h",
+    "bible": "Zsoltárok 1,3.",
+    "date": "2022.10.09",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20221009_9h_KJ_Zsoltárok1,3._Mint_forráshoz_ültetett_fa,_zöldelő,_virul,_el_nem_hervad,_idejében_gyümölcse_pirul..mp3",
+    "uuid": "e1d07c46-6cb3-4061-b9d5-3e12ce369776",
     "length": 4190,
     "size": 67042916
   },
@@ -5775,15 +5775,15 @@
     "size": 27941850
   },
   {
-    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
-    "bible": "ApCsel 1,8.",
+    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
+    "bible": "Márk 6,30-44.",
     "date": "2022.06.19",
-    "pastor": "Komádi Róbert",
+    "pastor": "Pál Ferenc",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
-    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
-    "length": 4282,
-    "size": 68517328
+    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
+    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
+    "length": 4267,
+    "size": 68272354
   },
   {
     "title": "\"Lássátok meg, milyen nagy szeretetet tanúsított irántunk az Atya.\" - Gimnáziumi tanévzáró-istentisztelet",
@@ -5797,15 +5797,15 @@
     "size": 128343796
   },
   {
-    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
-    "bible": "Márk 6,30-44.",
+    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
+    "bible": "ApCsel 1,8.",
     "date": "2022.06.19",
-    "pastor": "Pál Ferenc",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
-    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
-    "length": 4267,
-    "size": 68272354
+    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
+    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
+    "length": 4282,
+    "size": 68517328
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -5907,17 +5907,6 @@
     "size": 149222112
   },
   {
-    "title": "Térjetek meg! - 9h Felnőtt konfirmációi fogadalomtétel",
-    "bible": "ApCsel 2,37-38.",
-    "date": "2022.06.05",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_9H_NH_Ap.Csel2,37-38._Térjetek meg..mp3",
-    "uuid": "713fa58b-810b-4993-b575-458efc290890",
-    "length": 5497,
-    "size": 131946187
-  },
-  {
     "title": "Térjetek meg! - 9h- Felnőtt konfirmációi fogadalomtétel",
     "bible": "ApCsel 2,37-38.",
     "date": "2022.06.05",
@@ -5927,6 +5916,17 @@
     "uuid": "8d014f2d-e0a0-4824-ad7a-aa152eda121b",
     "length": 1051,
     "size": 25224280
+  },
+  {
+    "title": "Térjetek meg! - 9h Felnőtt konfirmációi fogadalomtétel",
+    "bible": "ApCsel 2,37-38.",
+    "date": "2022.06.05",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_9H_NH_Ap.Csel2,37-38._Térjetek meg..mp3",
+    "uuid": "713fa58b-810b-4993-b575-458efc290890",
+    "length": 5497,
+    "size": 131946187
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -10296,17 +10296,6 @@
     "size": 51680922
   },
   {
-    "title": "Halálon túlmutató ádventi reménység",
-    "bible": "1Mózes 50,1-14",
-    "date": "2020.12.13",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/Az2Nobn0Rss",
-    "download": "/media/files/igehirdetesek/20201213_11h_PF_1Mozes50,1-14_Halalon_tulmutato_adventi_remenyseg.mp3",
-    "uuid": "2beac98c-48b5-42e8-9706-88fbfb818da1",
-    "length": 2343,
-    "size": 37501239
-  },
-  {
     "title": "Ádventi váradalmaink -15h",
     "bible": "Zsoltárok 130,5",
     "date": "2020.12.13",
@@ -10316,6 +10305,17 @@
     "uuid": "e1c17665-7131-4597-a2d5-b8197c5a6993",
     "length": 1978,
     "size": 31650820
+  },
+  {
+    "title": "Halálon túlmutató ádventi reménység",
+    "bible": "1Mózes 50,1-14",
+    "date": "2020.12.13",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/Az2Nobn0Rss",
+    "download": "/media/files/igehirdetesek/20201213_11h_PF_1Mozes50,1-14_Halalon_tulmutato_adventi_remenyseg.mp3",
+    "uuid": "2beac98c-48b5-42e8-9706-88fbfb818da1",
+    "length": 2343,
+    "size": 37501239
   },
   {
     "title": "Békességünk Jézus Krisztusban van - ReKERT",
@@ -19921,17 +19921,6 @@
     "size": 23901040
   },
   {
-    "title": "Isten hangja - 18h",
-    "bible": "1Mózes3,8",
-    "date": "2015.06.21",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 18h KM_hitm.it_Isten hangja_1Moz3,8.mp3",
-    "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
-    "length": 1338,
-    "size": 10704188
-  },
-  {
     "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
     "bible": "5Móz6,6-9",
     "date": "2015.06.21",
@@ -19941,6 +19930,17 @@
     "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
     "length": 2718,
     "size": 21751685
+  },
+  {
+    "title": "Isten hangja - 18h",
+    "bible": "1Mózes3,8",
+    "date": "2015.06.21",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 18h KM_hitm.it_Isten hangja_1Moz3,8.mp3",
+    "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
+    "length": 1338,
+    "size": 10704188
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
@@ -20053,17 +20053,6 @@
     "size": 40869764
   },
   {
-    "title": "A Lélek munkája - 18h",
-    "bible": "ApCsel2,1-4",
-    "date": "2015.05.25",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150525 18h SzSz_punk.hetf.it_A Lelek munkaja_Apcs2,1_4.mp3",
-    "uuid": "e6a6c67c-d14f-4d6b-805c-9fa03472e8be",
-    "length": 1691,
-    "size": 13532308
-  },
-  {
     "title": "A megszólaló Isten magához hív - 11,30h",
     "bible": "ApCsel2,37-41",
     "date": "2015.05.25",
@@ -20073,6 +20062,17 @@
     "uuid": "8f7ed5e6-f5bf-4c47-a771-031ffe44e34b",
     "length": 1324,
     "size": 10599070
+  },
+  {
+    "title": "A Lélek munkája - 18h",
+    "bible": "ApCsel2,1-4",
+    "date": "2015.05.25",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150525 18h SzSz_punk.hetf.it_A Lelek munkaja_Apcs2,1_4.mp3",
+    "uuid": "e6a6c67c-d14f-4d6b-805c-9fa03472e8be",
+    "length": 1691,
+    "size": 13532308
   },
   {
     "title": "Félre értett Isten ünnepe - 11h",
@@ -21593,17 +21593,6 @@
     "size": 22441318
   },
   {
-    "title": "Mindenki látja - 15h",
-    "bible": "Zsoltárok97,6",
-    "date": "2014.08.31",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
-    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
-    "length": 1642,
-    "size": 13140263
-  },
-  {
     "title": "Adni és kapni - 18h",
     "bible": "Máté7,12",
     "date": "2014.08.31",
@@ -21613,6 +21602,17 @@
     "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
     "length": 1525,
     "size": 12207796
+  },
+  {
+    "title": "Mindenki látja - 15h",
+    "bible": "Zsoltárok97,6",
+    "date": "2014.08.31",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
+    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
+    "length": 1642,
+    "size": 13140263
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
@@ -22726,17 +22726,6 @@
     "size": 47942261
   },
   {
-    "title": "A király visszatér, szolgáld akkor is - 18h",
-    "bible": "Lukács19,11-27",
-    "date": "2014.04.17",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140417 18h KJ_bojti bunban.it_nagyheti peldazatok sor._A kiraly visszter, szolgald akkor is_Lk19,11_27.mp3",
-    "uuid": "c2720235-2882-49ee-b68a-82a599126fa9",
-    "length": 2342,
-    "size": 18737154
-  },
-  {
     "title": "Isten védelmében örökre - 7,15h",
     "bible": "Jelenések7,1-8",
     "date": "2014.04.17",
@@ -22746,6 +22735,17 @@
     "uuid": "212f09d4-0a37-48cd-bbbf-a1005b54677b",
     "length": 1082,
     "size": 8661621
+  },
+  {
+    "title": "A király visszatér, szolgáld akkor is - 18h",
+    "bible": "Lukács19,11-27",
+    "date": "2014.04.17",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140417 18h KJ_bojti bunban.it_nagyheti peldazatok sor._A kiraly visszter, szolgald akkor is_Lk19,11_27.mp3",
+    "uuid": "c2720235-2882-49ee-b68a-82a599126fa9",
+    "length": 2342,
+    "size": 18737154
   },
   {
     "title": "Értelmes és ostoba döntéseink - 18h",
@@ -28809,17 +28809,6 @@
     "size": 22353546
   },
   {
-    "title": "Láncreakciószerű hívás a személyes találkozásért - 9h",
-    "bible": "János1,43-46",
-    "date": "2011.06.26",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110626_9h_KJ_Lancreakcioszeru_hivas_a_szemelyes_talalkozasert_Jn1_43_46.mp3",
-    "uuid": "b202b4f1-ee49-4265-b005-a116a4742cea",
-    "length": 1762,
-    "size": 14103240
-  },
-  {
     "title": "Tanárok köszöntése - 9h",
     "bible": "",
     "date": "2011.06.26",
@@ -28829,6 +28818,17 @@
     "uuid": "30eb90f0-b51b-4876-a98e-739d5a428f90",
     "length": 1039,
     "size": 8318267
+  },
+  {
+    "title": "Láncreakciószerű hívás a személyes találkozásért - 9h",
+    "bible": "János1,43-46",
+    "date": "2011.06.26",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110626_9h_KJ_Lancreakcioszeru_hivas_a_szemelyes_talalkozasert_Jn1_43_46.mp3",
+    "uuid": "b202b4f1-ee49-4265-b005-a116a4742cea",
+    "length": 1762,
+    "size": 14103240
   },
   {
     "title": "Adósság elengedés - 18h",
@@ -34188,17 +34188,6 @@
     "size": 35520704
   },
   {
-    "title": "Különbségtétel a jó és a rossz között - 7,15h",
-    "bible": "Zsoltárok 101",
-    "date": "2003.11.27",
-    "pastor": "Komlósi Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
-    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
-    "length": 690,
-    "size": 11040835
-  },
-  {
     "title": "A vérfolyásos asszony meggyógyítása - 17h",
     "bible": "Márk 5,26-34",
     "date": "2003.11.27",
@@ -34208,6 +34197,17 @@
     "uuid": "0fb57d41-1c28-4c53-9485-720b3c83ea6c",
     "length": 1890,
     "size": 30241044
+  },
+  {
+    "title": "Különbségtétel a jó és a rossz között - 7,15h",
+    "bible": "Zsoltárok 101",
+    "date": "2003.11.27",
+    "pastor": "Komlósi Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20031127_7,45h_KP_Zsoltarok101_Különbségtétel_a_jo_es_rossz_között.mp3",
+    "uuid": "d11b8849-c917-45cf-a169-4a9d7a7eaff1",
+    "length": 690,
+    "size": 11040835
   },
   {
     "title": "Jairus lányának feltámasztása - 17h",
