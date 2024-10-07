@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 07 Oct 2024 10:35:43 +0100
+✅ Legutóbb frissítve: Mon, 07 Oct 2024 11:31:09 +0100
 
-Epizódok száma: 3122
+Epizódok száma: 3125
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3122
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.06 - Imádság-I. - 11h - Fodorné Dr. Ablonczy Margit
+ - 2024.10.06 - "Ugyanígy beszélt a többi tanítvány is." - 9h - Cserkészek fogadalomtétele - Hodánics Tamás
+ - 2024.10.06 - Kecskeméti Vég Mihály zenekar és a Lakó Sándor zenekar a Tahi Egyházzenei Hét Kórusa közreműködésével jubileumi zenés, zsoltáros áhitat. - 17h - 
  - 2024.09.29 - "Téma: Isten és én: Mégis mellettem van: 139 zsoltár  (5,6)" - KERT - Nagy Henrietta
  - 2024.09.29 - "De keressétek először az ő országát és igazságát, és ezek is mind ráadásul megadatnak nektek." - 11h - Városi hitoktatás tanévnyitó - Pál Ferenc
  - 2024.09.29 - "Megparancsoltam neked,hogy légy erős és bátor. Ne félj és ne rettegj, mert veled van Istened, az Úr mindenütt, amerre csak jársz." - 9h - Imre Veronika
- - 2024.09.22 - "Ezért tehát nem vagytok többé idegenek és jövevények, hanem polgártársai a szenteknek és háza népe Istennek." - 9h - Közös Istentisztelet - Pál Ferenc
- - 2024.09.19 - Páratlan lehetőség - 1. Van segítség! - 17h - Széchenyiváros - Somogyi Péter
- - 2024.09.15 - Isten és én: Isten mindent tud rólam - KERT - Kohi-Pál Eszter
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3122
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 07 Oct 2024 10:35:43 +0100
+✅ Legutóbb frissítve: Mon, 07 Oct 2024 11:31:10 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 07 Oct 2024 10:35:57 +0100
+✅ Legutóbb frissítve: Mon, 07 Oct 2024 11:31:29 +0100
 
 Epizódok száma: 949
 
