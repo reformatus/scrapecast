@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 13 Oct 2024 17:30:14 +0100
+✅ Legutóbb frissítve: Sun, 13 Oct 2024 18:33:33 +0100
 
-Epizódok száma: 3128
+Epizódok száma: 3129
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3128
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.13 - Szabadulás a mélységből (Katonatelep) - Laczay András
  - 2024.10.06 - "Isten és én: Nem tudok elfutni előle: 139. Zsoltár 7-12" - KERT - Magyar Csanád
  - 2024.10.06 - Imádság-I. - 11h - Fodorné Dr. Ablonczy Margit
  - 2024.10.06 - Keresztyénként a világban (Katonatelep) - Laczay András
  - 2024.10.06 - "Ugyanígy beszélt a többi tanítvány is." - 9h - Cserkészek fogadalomtétele - Hodánics Tamás
  - 2024.10.06 - Kecskeméti Vég Mihály zenekar és a Lakó Sándor zenekar a Tahi Egyházzenei Hét Kórusa közreműködésével jubileumi zenés, zsoltáros áhitat. - 17h - 
- - 2024.09.29 - "Téma: Isten és én: Mégis mellettem van: 139 zsoltár  (5,6)" - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3128
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 13 Oct 2024 17:30:15 +0100
+✅ Legutóbb frissítve: Sun, 13 Oct 2024 18:33:34 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 13 Oct 2024 17:30:27 +0100
+✅ Legutóbb frissítve: Sun, 13 Oct 2024 18:33:48 +0100
 
 Epizódok száma: 949
 
