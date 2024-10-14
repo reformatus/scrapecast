@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 14 Oct 2024 17:30:33 +0100
+✅ Legutóbb frissítve: Mon, 14 Oct 2024 18:35:07 +0100
 
-Epizódok száma: 3132
+Epizódok száma: 3133
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3132
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.13 - "Istenem és én:Szeretettel teremtett: (13-16), 139. Zsoltár" - KERT - Kohi-Pál Eszter
  - 2024.10.13 - Imádság II. - "Aki  a mennyegben vagy,..." - 11h - Komádi Róbert
  - 2024.10.13 - Szabadulás a mélységből (Katonatelep) - Laczay András
  - 2024.10.13 - "...Bizony, hogy Te Uram, s most nem nézted utam, elhagytál fegyveremben." (Simonyi Zoltán fordítása) - 9h - Kuti József
  - 2024.10.06 - "Isten és én: Nem tudok elfutni előle: 139. Zsoltár 7-12" - KERT - Magyar Csanád
  - 2024.10.06 - Imádság-I. - "Mi Atyánk,..." - 11h - Fodorné Dr. Ablonczy Margit
- - 2024.10.06 - Imádság-I. - 11h - Fodorné Dr. Ablonczy Margit
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3132
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 14 Oct 2024 17:30:34 +0100
+✅ Legutóbb frissítve: Mon, 14 Oct 2024 18:35:07 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 14 Oct 2024 17:30:48 +0100
+✅ Legutóbb frissítve: Mon, 14 Oct 2024 18:35:19 +0100
 
 Epizódok száma: 951
 
