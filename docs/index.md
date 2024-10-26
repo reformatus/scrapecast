@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 25 Oct 2024 22:30:34 +0100
+✅ Legutóbb frissítve: Sat, 26 Oct 2024 09:27:23 +0100
 
-Epizódok száma: 3141
+Epizódok száma: 3143
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3141
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.25 - Változás és megújulás Istenben és Istennel. - 17h - Bűnbánati sorozat - Varga Nándor
+ - 2024.10.24 - Változás és megújulás a közösségben - 17h - Bűnbánati sorozat - Kohi-Pál Eszter
  - 2024.10.24 - Ígéret a hazatérésre. - 17h - Bűnbánati sorozat - Kohi-Pál Eszter
  - 2024.10.23 - "Akik Isten igazságát hazugsággal cserélték fel, azok teremtvényt imádtak" - 9h - Varga Nándor
  - 2024.10.20 - "Istenem és én: Összefoglaló -139. Zsoltár"- KERT - Nagy Henrietta
  - 2024.10.20 - "Megtaláltuk a Messiást." - 11h - Varga Nándor
- - 2024.10.20 - "Mit dicsekszel álnokul! Megbosszul az Úr! Elárulsz most engem, De Isten mellettem: Kegyelme messze nyúl." - (Sumonyi Zoltán fordítása) - 9h         - Kuti József
- - 2024.10.13 - "Istenem és én:Szeretettel teremtett: (13-16), 139. Zsoltár" - KERT - Kohi-Pál Eszter
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3141
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 25 Oct 2024 22:30:35 +0100
+✅ Legutóbb frissítve: Sat, 26 Oct 2024 09:27:24 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 25 Oct 2024 22:30:54 +0100
+✅ Legutóbb frissítve: Sat, 26 Oct 2024 09:27:43 +0100
 
 Epizódok száma: 952
 
