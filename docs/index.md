@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 27 Oct 2024 11:32:07 +0100
+✅ Legutóbb frissítve: Sun, 27 Oct 2024 12:24:35 +0100
 
 Epizódok száma: 3143
 
@@ -37,7 +37,7 @@ Epizódok száma: 3143
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 27 Oct 2024 11:32:08 +0100
+✅ Legutóbb frissítve: Sun, 27 Oct 2024 12:24:36 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 27 Oct 2024 11:32:20 +0100
+✅ Legutóbb frissítve: Sun, 27 Oct 2024 12:24:48 +0100
 
-Epizódok száma: 952
+Epizódok száma: 953
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 952
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.27 - Ézs 66,7-14 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.10.18 - Préd 11,9-12,8 - Bibliamagyarázat - A prédikátor könyve
  - 2024.10.13 - Életvégi kérdések - Vallásismeret - Keresztyén élet
  - 2024.10.13 - Ézs 42,18-43,10 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.10.06 - Fil 2,12-16 - Bibliamagyarázat - Pál levele a filippiekhez
  - 2024.10.05 - 2Kron 14-16 - Bibliamagyarázat - A krónikák második könyve
- - 2024.09.29 - Fil 3,7-16 - Bibliamagyarázat - Pál levele a filippiekhez
 
 ---
 
