@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 31 Oct 2024 16:30:54 +0100
+✅ Legutóbb frissítve: Thu, 31 Oct 2024 21:28:30 +0100
 
-Epizódok száma: 3144
+Epizódok száma: 3145
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3144
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.31 - "...uralkodjék a kegyelem is az igazsággal az örök életre Jézus Krisztus, a mi Urunk által." - 9h - Kuti József
  - 2024.10.26 - Változás és megújulás az egyénnél. - 17h - Bűnbánati sorozat - Petró Emőke
  - 2024.10.25 - Változás és megújulás Istenben és Istennel. - 17h - Bűnbánati sorozat - Varga Nándor
  - 2024.10.24 - Változás és megújulás a közösségben - 17h - Bűnbánati sorozat - Kohi-Pál Eszter
  - 2024.10.24 - Ígéret a hazatérésre. - 17h - Bűnbánati sorozat - Kohi-Pál Eszter
  - 2024.10.23 - "Akik Isten igazságát hazugsággal cserélték fel, azok teremtvényt imádtak" - 9h - Varga Nándor
- - 2024.10.20 - "Istenem és én: Összefoglaló -139. Zsoltár"- KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3144
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 31 Oct 2024 16:30:55 +0100
+✅ Legutóbb frissítve: Thu, 31 Oct 2024 21:28:31 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 31 Oct 2024 16:31:14 +0100
+✅ Legutóbb frissítve: Thu, 31 Oct 2024 21:28:45 +0100
 
-Epizódok száma: 953
+Epizódok száma: 954
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 953
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.10.31 - Lk 14,15-24 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.10.27 - Ézs 66,7-14 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.10.18 - Préd 11,9-12,8 - Bibliamagyarázat - A prédikátor könyve
  - 2024.10.13 - Életvégi kérdések - Vallásismeret - Keresztyén élet
  - 2024.10.13 - Ézs 42,18-43,10 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2024.10.06 - Fil 2,12-16 - Bibliamagyarázat - Pál levele a filippiekhez
- - 2024.10.05 - 2Kron 14-16 - Bibliamagyarázat - A krónikák második könyve
 
 ---
 
