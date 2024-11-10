@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 10 Nov 2024 17:32:15 +0100
+✅ Legutóbb frissítve: Sun, 10 Nov 2024 18:27:15 +0100
 
 Epizódok száma: 3153
 
@@ -37,7 +37,7 @@ Epizódok száma: 3153
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 10 Nov 2024 17:32:16 +0100
+✅ Legutóbb frissítve: Sun, 10 Nov 2024 18:27:15 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 10 Nov 2024 17:32:33 +0100
+✅ Legutóbb frissítve: Sun, 10 Nov 2024 18:27:34 +0100
 
-Epizódok száma: 957
+Epizódok száma: 959
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 957
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.11.10 - Zsolt 105,1-8 - Bibliamagyarázat - A zsoltárok könyve
+ - 2024.11.10 - Aggodalom és hit - Vallásismeret - Keresztyén élet
  - 2024.11.09 - ... hanem keressétek elõször Isten országát! - Vallásismeret - Keresztyén élet
  - 2024.11.08 - Ne aggódjatok... - Vallásismeret - Keresztyén élet
  - 2024.11.03 - Zsolt 115 - Bibliamagyarázat - A zsoltárok könyve
  - 2024.10.31 - Lk 14,15-24 - Bibliamagyarázat - Lukács evangéliuma
- - 2024.10.27 - Ézs 66,7-14 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2024.10.18 - Préd 11,9-12,8 - Bibliamagyarázat - A prédikátor könyve
 
 ---
 
