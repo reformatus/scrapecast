@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 11 Nov 2024 07:37:11 +0100
+✅ Legutóbb frissítve: Mon, 11 Nov 2024 08:29:27 +0100
 
-Epizódok száma: 3153
+Epizódok száma: 3156
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3153
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.11.10 - "Istenem és én: Péter (gőg)" - KERT - Nagy Henrietta
+ - 2024.11.10 - "..és ne vígy minket kísértésbe," - 11h - Petró Emőke
+ - 2024.11.10 - "Az Úr segített el bennünket egészen idáig," - 9h - Fodorné Dr. Ablonczy Margit
  - 2024.11.03 - "Isten és én: Hamis én leleplezése." - KERT - Riczuné Kiss Georgina
  - 2024.11.03 - "és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek" - 11h - Laczay András
  - 2024.11.03 - Hogyan van jelen Isten az életünkben? (Katonatelep) - Kuti József
- - 2024.11.03 - "...és Izráel egész háza sóhajtozott az Úr után." - 9h - Kutiné Filep Katalin
- - 2024.10.31 - "...uralkodjék a kegyelem is az igazsággal az örök életre Jézus Krisztus, a mi Urunk által." - 9h - Kuti József
- - 2024.10.31 - Kik a boldogok? - 17h - Ökumenikus istentisztelet - Kovács Barbara
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3153
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 11 Nov 2024 07:37:12 +0100
+✅ Legutóbb frissítve: Mon, 11 Nov 2024 08:29:28 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 11 Nov 2024 07:37:24 +0100
+✅ Legutóbb frissítve: Mon, 11 Nov 2024 08:29:40 +0100
 
 Epizódok száma: 959
 
