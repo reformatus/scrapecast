@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 13 Nov 2024 16:30:22 +0100
+✅ Legutóbb frissítve: Wed, 13 Nov 2024 21:28:58 +0100
 
 Epizódok száma: 3156
 
@@ -37,7 +37,7 @@ Epizódok száma: 3156
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 13 Nov 2024 16:30:23 +0100
+✅ Legutóbb frissítve: Wed, 13 Nov 2024 21:28:58 +0100
 
 Epizódok száma: 8
 
@@ -56,32 +56,6 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
-
----
-
-## [Marco igehirdetései](https://marko.reformatus.hu/)
-_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
-Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
-
-✅ Legutóbb frissítve: Wed, 13 Nov 2024 16:30:35 +0100
-
-Epizódok száma: 959
-
-**Elérhető:**
- - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
- - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
- - [PocketCasts](https://pca.st/14nmdojx)
- - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
- - [CastBox](https://castbox.fm/ch/5087121)
- - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
-
-**Legutóbbi epizódok:**
- - 2024.11.10 - Zsolt 105,1-8 - Bibliamagyarázat - A zsoltárok könyve
- - 2024.11.10 - Aggodalom és hit - Vallásismeret - Keresztyén élet
- - 2024.11.09 - ... hanem keressétek elõször Isten országát! - Vallásismeret - Keresztyén élet
- - 2024.11.08 - Ne aggódjatok... - Vallásismeret - Keresztyén élet
- - 2024.11.03 - Zsolt 115 - Bibliamagyarázat - A zsoltárok könyve
- - 2024.10.31 - Lk 14,15-24 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
