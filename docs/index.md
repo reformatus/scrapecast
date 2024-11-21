@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 21 Nov 2024 12:26:46 +0100
+✅ Legutóbb frissítve: Thu, 21 Nov 2024 16:31:49 +0100
 
-Epizódok száma: 3156
+Epizódok száma: 3158
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3156
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.11.17 - Mire törekszel? - 11h - Dr. Literáty Zoltán
+ - 2024.11.17 - Mire törekszel? - 9h - Dr. Literáty Zoltán
  - 2024.11.10 - "Istenem és én: Péter (gőg)" - KERT - Nagy Henrietta
  - 2024.11.10 - "..és ne vígy minket kísértésbe," - 11h - Petró Emőke
  - 2024.11.10 - "Az Úr segített el bennünket egészen idáig," - 9h - Fodorné Dr. Ablonczy Margit
  - 2024.11.03 - "Isten és én: Hamis én leleplezése." - KERT - Riczuné Kiss Georgina
- - 2024.11.03 - "és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek" - 11h - Laczay András
- - 2024.11.03 - Hogyan van jelen Isten az életünkben? (Katonatelep) - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3156
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 21 Nov 2024 12:26:47 +0100
+✅ Legutóbb frissítve: Thu, 21 Nov 2024 16:31:49 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 21 Nov 2024 12:27:00 +0100
+✅ Legutóbb frissítve: Thu, 21 Nov 2024 16:32:01 +0100
 
 Epizódok száma: 961
 
