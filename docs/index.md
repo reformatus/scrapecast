@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 19 Dec 2024 08:28:07 +0100
+✅ Legutóbb frissítve: Thu, 19 Dec 2024 12:25:59 +0100
 
 Epizódok száma: 3175
 
@@ -37,7 +37,7 @@ Epizódok száma: 3175
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 19 Dec 2024 08:28:08 +0100
+✅ Legutóbb frissítve: Thu, 19 Dec 2024 12:26:00 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 19 Dec 2024 08:28:22 +0100
+✅ Legutóbb frissítve: Thu, 19 Dec 2024 12:26:16 +0100
 
-Epizódok száma: 966
+Epizódok száma: 968
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 966
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2024.12.18 - 1Thessz 1 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
+ - 2024.12.17 - Jn 6,44-47 & 59-69 - Bibliamagyarázat - János evangéliuma
  - 2024.12.06 - Frusztráció felismerése - Pedagógusképzés
  - 2024.12.06 - Frusztráció kezelése - Pedagógusképzés
  - 2024.12.03 - Elhívásunk és kihívásaink - Lelkészképzés
  - 2024.12.01 - Lk 1,5-22 - Bibliamagyarázat - Lukács evangéliuma
- - 2024.11.17 - Róm 8,18-27 - Bibliamagyarázat - Pál levele a rómaiakhoz
- - 2024.11.15 - Lk 17,11-19 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
