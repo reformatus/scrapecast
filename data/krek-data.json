@@ -847,17 +847,6 @@
     "size": 52167591
   },
   {
-    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
-    "bible": "Józsué 1,9",
-    "date": "2024.09.01",
-    "pastor": "Petró Emőke",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
-    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
-    "length": 3099,
-    "size": 49591272
-  },
-  {
     "title": "\"...légy erős és bátor...\" - 9h",
     "bible": "Józsué 1,9",
     "date": "2024.09.01",
@@ -865,6 +854,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor.mp3",
     "uuid": "24d212ac-bca3-42fc-a16d-5c840b27b14a",
+    "length": 3099,
+    "size": 49591272
+  },
+  {
+    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
+    "bible": "Józsué 1,9",
+    "date": "2024.09.01",
+    "pastor": "Petró Emőke",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
+    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
     "length": 3099,
     "size": 49591272
   },
@@ -6336,17 +6336,6 @@
     "size": 101871307
   },
   {
-    "title": "Isten neveli népét. - 18h",
-    "bible": "Hóseás 3,3-4",
-    "date": "2022.07.24",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220724_18h_BPN_Hoseás3,3-4._Isten_neveli_népét.mp3",
-    "uuid": "fb506881-9487-41ac-b97c-ebafe64cf1ed",
-    "length": 1883,
-    "size": 45206699
-  },
-  {
     "title": "A betsaidai vak meggyógyítása. - Széchenyiváros",
     "bible": "Márk 8,22-26.",
     "date": "2022.07.24",
@@ -6356,6 +6345,17 @@
     "uuid": "ff1e73a9-fa90-4b07-8b70-3ff79c9c96ef",
     "length": 3475,
     "size": 55614042
+  },
+  {
+    "title": "Isten neveli népét. - 18h",
+    "bible": "Hóseás 3,3-4",
+    "date": "2022.07.24",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220724_18h_BPN_Hoseás3,3-4._Isten_neveli_népét.mp3",
+    "uuid": "fb506881-9487-41ac-b97c-ebafe64cf1ed",
+    "length": 1883,
+    "size": 45206699
   },
   {
     "title": "Alvás és ébrenlét. - 11h",
@@ -6468,15 +6468,15 @@
     "size": 58876472
   },
   {
-    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
-    "bible": "ApCsel 1,8.",
+    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
+    "bible": "Márk 6,30-44.",
     "date": "2022.06.19",
-    "pastor": "Komádi Róbert",
+    "pastor": "Pál Ferenc",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
-    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
-    "length": 4282,
-    "size": 68517328
+    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
+    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
+    "length": 4267,
+    "size": 68272354
   },
   {
     "title": "\"Lássátok meg, milyen nagy szeretetet tanúsított irántunk az Atya.\" - Gimnáziumi tanévzáró-istentisztelet",
@@ -6501,15 +6501,15 @@
     "size": 27941850
   },
   {
-    "title": "Ötezer ember megvendégelése. - Széchenyiváros",
-    "bible": "Márk 6,30-44.",
+    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
+    "bible": "ApCsel 1,8.",
     "date": "2022.06.19",
-    "pastor": "Pál Ferenc",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_9,30h_PF_Márk6,30-44._Ötezer_ember_megvendégelése.mp3",
-    "uuid": "2ea54c28-50d2-4513-8d15-823b8cf2bc07",
-    "length": 4267,
-    "size": 68272354
+    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
+    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
+    "length": 4282,
+    "size": 68517328
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -6633,6 +6633,17 @@
     "size": 131946187
   },
   {
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
+    "date": "2022.06.05",
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
+  },
+  {
     "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
     "bible": "Márk 16,20.",
     "date": "2022.06.05",
@@ -6647,17 +6658,6 @@
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
     "bible": "ApCsel 18,1-11.",
     "date": "2022.06.05",
-    "pastor": "Kutiné Filep Katalin",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
-    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
-    "length": 2998,
-    "size": 71956296
-  },
-  {
-    "title": "\"Sok népem van ebben a városban.\" - 18h ",
-    "bible": "ApCsel 18,1-11.",
-    "date": "2022.06.05",
     "pastor": "Borsos-Pintér Nóra",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
@@ -6666,15 +6666,15 @@
     "size": 71956296
   },
   {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
+    "title": "\"Sok népem van ebben a városban.\" - 18h ",
+    "bible": "ApCsel 18,1-11.",
     "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
+    "pastor": "Kutiné Filep Katalin",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_18h_FK_ApCsel18,1-11._Sok_népem_van_ebben_a_városban..mp3",
+    "uuid": "35070c1d-a4be-45ca-b550-c719974a5200",
+    "length": 2998,
+    "size": 71956296
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -7205,17 +7205,6 @@
     "size": 57675467
   },
   {
-    "title": "Kicsoda az Emberfia Jézus?- 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Az Emberfia - 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -7223,6 +7212,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Kicsoda az Emberfia Jézus?- 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
     "length": 3751,
     "size": 60030249
   },
@@ -11671,17 +11671,6 @@
     "size": 45771397
   },
   {
-    "title": "Az igaz istentisztelet - 18h",
-    "bible": "Zsoltárok 50",
-    "date": "2020.08.30",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
-    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
-    "length": 2471,
-    "size": 39542307
-  },
-  {
     "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
     "bible": "1 János 4,8 b",
     "date": "2020.08.30",
@@ -11691,6 +11680,17 @@
     "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
     "length": 3659,
     "size": 58547991
+  },
+  {
+    "title": "Az igaz istentisztelet - 18h",
+    "bible": "Zsoltárok 50",
+    "date": "2020.08.30",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
+    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
+    "length": 2471,
+    "size": 39542307
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -14553,17 +14553,6 @@
     "size": 46506126
   },
   {
-    "title": "Szeretet és hűség - iskolai fogadalomtétel",
-    "bible": "Példabeszédek3,3",
-    "date": "2019.06.10",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190610_9h_KR_Péld3,3_Szeretet_és_hűség.MP3",
-    "uuid": "88412827-eaeb-4806-b520-32949fc5eda0",
-    "length": 6919,
-    "size": 110711199
-  },
-  {
     "title": "Veletek maradjon mindörökké - 18h",
     "bible": "János14,16",
     "date": "2019.06.10",
@@ -14573,6 +14562,17 @@
     "uuid": "a985cdeb-8021-4356-82c3-f23d92915924",
     "length": 2712,
     "size": 43405731
+  },
+  {
+    "title": "Szeretet és hűség - iskolai fogadalomtétel",
+    "bible": "Példabeszédek3,3",
+    "date": "2019.06.10",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190610_9h_KR_Péld3,3_Szeretet_és_hűség.MP3",
+    "uuid": "88412827-eaeb-4806-b520-32949fc5eda0",
+    "length": 6919,
+    "size": 110711199
   },
   {
     "title": "Jézusnak semmi sem lehetetlen - 11h",
@@ -17149,17 +17149,6 @@
     "size": 23300832
   },
   {
-    "title": "Keressétek előszőr... - 16h",
-    "bible": "Mt6,36",
-    "date": "2018.06.17",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180617_KJ_16h_Mt6,36_Keressétek_előszőr.MP3",
-    "uuid": "4cd79311-79a6-4eca-8f6d-daa63dcddfb7",
-    "length": 1546,
-    "size": 24744881
-  },
-  {
     "title": "Mi az istentisztelet? - ifi it.",
     "bible": "Róm12,1-2",
     "date": "2018.06.17",
@@ -17169,6 +17158,17 @@
     "uuid": "5d46a75a-28bf-4a3b-ba1f-06815d943975",
     "length": 4446,
     "size": 71138768
+  },
+  {
+    "title": "Keressétek előszőr... - 16h",
+    "bible": "Mt6,36",
+    "date": "2018.06.17",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180617_KJ_16h_Mt6,36_Keressétek_előszőr.MP3",
+    "uuid": "4cd79311-79a6-4eca-8f6d-daa63dcddfb7",
+    "length": 1546,
+    "size": 24744881
   },
   {
     "title": "Hogyan ismerjük meg Istent? - 11h",
@@ -33748,17 +33748,6 @@
     "size": 19150835
   },
   {
-    "title": "Szeressétek ellenségeiteket - 10h",
-    "bible": "Máté5,38-48",
-    "date": "2008.04.10",
-    "pastor": "Somogyi Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080410_10h_somogyi-peter-szeressetek-ellensegeiteket.mp3",
-    "uuid": "0a648e1e-cd35-4cdf-8273-568d6189897c",
-    "length": 3270,
-    "size": 16351675
-  },
-  {
     "title": "A tanítvány nem képmutató, hanem őszinte - 16h",
     "bible": "Máté61,6; 8-16",
     "date": "2008.04.10",
@@ -33768,6 +33757,17 @@
     "uuid": "f86a95cd-9209-4b85-99d1-8dd4327529a5",
     "length": 3247,
     "size": 16235195
+  },
+  {
+    "title": "Szeressétek ellenségeiteket - 10h",
+    "bible": "Máté5,38-48",
+    "date": "2008.04.10",
+    "pastor": "Somogyi Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080410_10h_somogyi-peter-szeressetek-ellensegeiteket.mp3",
+    "uuid": "0a648e1e-cd35-4cdf-8273-568d6189897c",
+    "length": 3270,
+    "size": 16351675
   },
   {
     "title": "Harag és tisztátalanság. - 10h",
@@ -33891,17 +33891,6 @@
     "size": 13046118
   },
   {
-    "title": "Bizony Istennek a Fia volt ez. - 10h",
-    "bible": "Máté,27;54",
-    "date": "2008.03.21",
-    "pastor": "Varga László",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080321_10h-varga-laszlo--bizony-istennek-a-fia-volt-ez.--mate-2746;54-2008.-03.-21.-10h-nagypentek-tv-kozv-sztereo-hangja.mp3",
-    "uuid": "b3f90e66-bc65-4492-b971-43ef9272edc9",
-    "length": 3745,
-    "size": 59921181
-  },
-  {
     "title": "Emberek a kereszt alatt. - János apostol - 17h",
     "bible": "János19,25-27",
     "date": "2008.03.21",
@@ -33911,6 +33900,17 @@
     "uuid": "474399a9-ed74-415b-b6fc-18a5be92be20",
     "length": 2078,
     "size": 10391032
+  },
+  {
+    "title": "Bizony Istennek a Fia volt ez. - 10h",
+    "bible": "Máté,27;54",
+    "date": "2008.03.21",
+    "pastor": "Varga László",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080321_10h-varga-laszlo--bizony-istennek-a-fia-volt-ez.--mate-2746;54-2008.-03.-21.-10h-nagypentek-tv-kozv-sztereo-hangja.mp3",
+    "uuid": "b3f90e66-bc65-4492-b971-43ef9272edc9",
+    "length": 3745,
+    "size": 59921181
   },
   {
     "title": "Emberek a kereszt alatt. - A római százados hite. - 17h",
