@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Jan 2025 16:27:40 +0100
+✅ Legutóbb frissítve: Sun, 19 Jan 2025 17:31:37 +0100
 
 Epizódok száma: 3207
 
@@ -37,7 +37,7 @@ Epizódok száma: 3207
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 19 Jan 2025 16:27:41 +0100
+✅ Legutóbb frissítve: Sun, 19 Jan 2025 17:31:38 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 19 Jan 2025 16:27:55 +0100
+✅ Legutóbb frissítve: Sun, 19 Jan 2025 17:31:55 +0100
 
-Epizódok száma: 970
+Epizódok száma: 971
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 970
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.01.19 - 1Móz 18,16-33 - Bibliamagyarázat - Mózes első könyve
  - 2025.01.05 - Préd 3,1-14 - Bibliamagyarázat - A prédikátor könyve
  - 2024.12.26 - Lk 2,1-20 - Bibliamagyarázat - Lukács evangéliuma
  - 2024.12.18 - 1Thessz 1 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
  - 2024.12.17 - Jn 6,44-47 & 59-69 - Bibliamagyarázat - János evangéliuma
  - 2024.12.06 - Frusztráció felismerése - Pedagógusképzés
- - 2024.12.06 - Frusztráció kezelése - Pedagógusképzés
 
 ---
 
