@@ -6974,15 +6974,15 @@
     "size": 131946187
   },
   {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
+    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
+    "bible": "Márk 16,20.",
     "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
+    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
+    "length": 4344,
+    "size": 69514529
   },
   {
     "title": "\"Sok népem van ebben a városban.\" - 18h ",
@@ -7007,15 +7007,15 @@
     "size": 71956296
   },
   {
-    "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
-    "bible": "Márk 16,20.",
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
     "date": "2022.06.05",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220605_9,30h_FAM_Márk16,20._Jézus_Krisztus_velünk_együtt_cselekszik.mp3",
-    "uuid": "f0d2410b-cc1b-4f99-b85e-3cdf6f430189",
-    "length": 4344,
-    "size": 69514529
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -7546,17 +7546,6 @@
     "size": 57675467
   },
   {
-    "title": "Az Emberfia - 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Kicsoda az Emberfia Jézus?- 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -7564,6 +7553,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Az Emberfia - 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
     "length": 3751,
     "size": 60030249
   },
@@ -9449,17 +9449,6 @@
     "size": 12179237
   },
   {
-    "title": "Az Elhívás - 19,30h",
-    "bible": "Lukács 5,1-11.",
-    "date": "2021.07.20",
-    "pastor": "Csomós József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210720_19,30h_CSJ_Lukács5,1-11_Az_Elhívás.mp3",
-    "uuid": "1d07d6d1-96ee-4813-9b3c-79f5273cc2b3",
-    "length": 2551,
-    "size": 61229357
-  },
-  {
     "title": "Csend Isten előtt - 7,15h",
     "bible": "Jeremiás siralmai 3,26.",
     "date": "2021.07.20",
@@ -9469,6 +9458,17 @@
     "uuid": "3cece3d3-dad3-4d47-bc20-ca2e09c7dda7",
     "length": 735,
     "size": 11764621
+  },
+  {
+    "title": "Az Elhívás - 19,30h",
+    "bible": "Lukács 5,1-11.",
+    "date": "2021.07.20",
+    "pastor": "Csomós József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210720_19,30h_CSJ_Lukács5,1-11_Az_Elhívás.mp3",
+    "uuid": "1d07d6d1-96ee-4813-9b3c-79f5273cc2b3",
+    "length": 2551,
+    "size": 61229357
   },
   {
     "title": "Táborkezdő - 14h",
@@ -11055,17 +11055,6 @@
     "size": 67955173
   },
   {
-    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
-    "bible": "János 3,1-10",
-    "date": "2020.12.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
-    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
-    "length": 2604,
-    "size": 41675989
-  },
-  {
     "title": "Lelki építkezés - 15h",
     "bible": "1 Péter 2,5",
     "date": "2020.12.31",
@@ -11075,6 +11064,17 @@
     "uuid": "2f14465f-c092-4d2a-8691-ee752755c7af",
     "length": 2527,
     "size": 40440502
+  },
+  {
+    "title": "Találkozás Jézussal, személyes beszélgetés - 17h",
+    "bible": "János 3,1-10",
+    "date": "2020.12.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201231_17h_VN_Janos3,1-10_Talalkozas_Jezussal,_szemelyes_beszelgetes.mp3",
+    "uuid": "f85d2852-79fb-4562-a010-7086f806569e",
+    "length": 2604,
+    "size": 41675989
   },
   {
     "title": "Az evangélium titka - Kert",
@@ -11341,17 +11341,6 @@
     "size": 51680922
   },
   {
-    "title": "Ádventi váradalmaink -15h",
-    "bible": "Zsoltárok 130,5",
-    "date": "2020.12.13",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20201213_15h_KR_Zsoltarok130,5_Adventi_varadalmaink.mp3",
-    "uuid": "e1c17665-7131-4597-a2d5-b8197c5a6993",
-    "length": 1978,
-    "size": 31650820
-  },
-  {
     "title": "Halálon túlmutató ádventi reménység",
     "bible": "1Mózes 50,1-14",
     "date": "2020.12.13",
@@ -11361,6 +11350,17 @@
     "uuid": "2beac98c-48b5-42e8-9706-88fbfb818da1",
     "length": 2343,
     "size": 37501239
+  },
+  {
+    "title": "Ádventi váradalmaink -15h",
+    "bible": "Zsoltárok 130,5",
+    "date": "2020.12.13",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20201213_15h_KR_Zsoltarok130,5_Adventi_varadalmaink.mp3",
+    "uuid": "e1c17665-7131-4597-a2d5-b8197c5a6993",
+    "length": 1978,
+    "size": 31650820
   },
   {
     "title": "Békességünk Jézus Krisztusban van - ReKERT",
@@ -15004,17 +15004,6 @@
     "size": 52348439
   },
   {
-    "title": "Hasonló az Isten országa -  11h",
-    "bible": "Máté13,47",
-    "date": "2019.06.02",
-    "pastor": "Vincze Árpád",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190602_11h_VÁ_Máté13,47_Hasonló_Isten_országa.MP3",
-    "uuid": "4c513e90-c7a5-4d5e-a559-13a3e5de09d2",
-    "length": 3203,
-    "size": 51259092
-  },
-  {
     "title": "Isten türelmes - 11h",
     "bible": "Máté13,24-30",
     "date": "2019.06.02",
@@ -15024,6 +15013,17 @@
     "uuid": "3289e52a-99d9-4d58-a33c-b1e596ed8ca6",
     "length": 3528,
     "size": 56451682
+  },
+  {
+    "title": "Hasonló az Isten országa -  11h",
+    "bible": "Máté13,47",
+    "date": "2019.06.02",
+    "pastor": "Vincze Árpád",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190602_11h_VÁ_Máté13,47_Hasonló_Isten_országa.MP3",
+    "uuid": "4c513e90-c7a5-4d5e-a559-13a3e5de09d2",
+    "length": 3203,
+    "size": 51259092
   },
   {
     "title": "Konfirmációról (Sákramentumok sorozat) -9h",
@@ -15433,17 +15433,6 @@
     "size": 45091662
   },
   {
-    "title": "Általános iskolai Passiós istentisztelet",
-    "bible": "ApCsel10,39-40",
-    "date": "2019.04.17",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190417 _Apcsel10,39-40_áltisk_passio.MP3",
-    "uuid": "5fbb6d29-d2a2-404e-a8b5-42fc6c5fea2d",
-    "length": 2279,
-    "size": 36473940
-  },
-  {
     "title": "Jézussal találkozunk - 18h",
     "bible": "Lukács21,1-4",
     "date": "2019.04.17",
@@ -15453,6 +15442,17 @@
     "uuid": "30af95ed-5e4e-4547-a70b-21332cbb5137",
     "length": 2622,
     "size": 41964579
+  },
+  {
+    "title": "Általános iskolai Passiós istentisztelet",
+    "bible": "ApCsel10,39-40",
+    "date": "2019.04.17",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190417 _Apcsel10,39-40_áltisk_passio.MP3",
+    "uuid": "5fbb6d29-d2a2-404e-a8b5-42fc6c5fea2d",
+    "length": 2279,
+    "size": 36473940
   },
   {
     "title": "Jézus kérdése - 18h",
@@ -19800,17 +19800,6 @@
     "size": 33699412
   },
   {
-    "title": "A Lélek egységet teremt (Katonatelep)",
-    "bible": "ApCsel2,1-21",
-    "date": "2016.05.15",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
-    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
-    "length": 2051,
-    "size": 16412124
-  },
-  {
     "title": "Konfirmáció (Katonatelep)",
     "bible": "ApCsel2,1-21",
     "date": "2016.05.15",
@@ -19820,6 +19809,17 @@
     "uuid": "706de993-54c1-4e3b-a27f-9d982781804d",
     "length": 2719,
     "size": 21758019
+  },
+  {
+    "title": "A Lélek egységet teremt (Katonatelep)",
+    "bible": "ApCsel2,1-21",
+    "date": "2016.05.15",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/2016_05_15_Laczay_Andras.mp3",
+    "uuid": "6a8ca754-9231-42f1-a77a-a05c7d785206",
+    "length": 2051,
+    "size": 16412124
   },
   {
     "title": "Biztos, mint a napfelkelte (Katonatelep)",
@@ -20966,17 +20966,6 @@
     "size": 23901040
   },
   {
-    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
-    "bible": "5Móz6,6-9",
-    "date": "2015.06.21",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
-    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
-    "length": 2718,
-    "size": 21751685
-  },
-  {
     "title": "Isten hangja - 18h",
     "bible": "1Mózes3,8",
     "date": "2015.06.21",
@@ -20986,6 +20975,17 @@
     "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
     "length": 1338,
     "size": 10704188
+  },
+  {
+    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
+    "bible": "5Móz6,6-9",
+    "date": "2015.06.21",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
+    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
+    "length": 2718,
+    "size": 21751685
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
@@ -23133,17 +23133,6 @@
     "size": 19589582
   },
   {
-    "title": "Közel az Ige - 16h",
-    "bible": "Római10,8",
-    "date": "2014.06.15",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140615 16h KJ_alt.isk.tanevz.it_Kozel az ige_Rom10,8.mp3",
-    "uuid": "1757fe3b-104b-4385-a8ca-ca1dc280f3d5",
-    "length": 2442,
-    "size": 19537755
-  },
-  {
     "title": "HK 104. kérdés - 18h",
     "bible": "Római13,1-7",
     "date": "2014.06.15",
@@ -23153,6 +23142,17 @@
     "uuid": "5e7f22b7-5fcd-44eb-a046-45079bf9391f",
     "length": 2017,
     "size": 16143519
+  },
+  {
+    "title": "Közel az Ige - 16h",
+    "bible": "Római10,8",
+    "date": "2014.06.15",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140615 16h KJ_alt.isk.tanevz.it_Kozel az ige_Rom10,8.mp3",
+    "uuid": "1757fe3b-104b-4385-a8ca-ca1dc280f3d5",
+    "length": 2442,
+    "size": 19537755
   },
   {
     "title": "A mindig újra kezdés kegyelme - 18h",
