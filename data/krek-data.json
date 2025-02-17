@@ -1,5 +1,38 @@
 [
   {
+    "title": "Biblikus szerelem - KERT",
+    "bible": "Énekek éneke 8,6-7",
+    "date": "2025.02.16",
+    "pastor": "Kohi-Pál Eszter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250216_17h_KPE_Énekek_éneke8,6-7_Biblikus_szerelem.mp3",
+    "uuid": "bda2668e-b704-4d8d-822d-f93287bd6489",
+    "length": 5149,
+    "size": 82387243
+  },
+  {
+    "title": "Zákeus - 11h",
+    "bible": "Lukács 19,1-10",
+    "date": "2025.02.16",
+    "pastor": "Bán Béla",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250216_11h_BB_Lukács19,1-10_Zákeus.mp3",
+    "uuid": "64422aa8-0f01-44de-bee4-6231387a493c",
+    "length": 3046,
+    "size": 48748543
+  },
+  {
+    "title": "\"Véresálkdozatokban és ételáldozatokban nem telik kedved: nyitott fület adtál nekem!\" - 9h",
+    "bible": "Zsoltárok 40,7",
+    "date": "2025.02.16",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250216_9h_VN_Zsolt_40,7_Véresáldozatokban_és_ételáldozatokban_nem_telik_kedved_nyitott_fület_adtál_nekem.mp3",
+    "uuid": "1326abf2-5bbe-470a-b949-5a9e10c42f34",
+    "length": 3944,
+    "size": 63109189
+  },
+  {
     "title": "A megkötözők és Jézus találkozása. - 17h",
     "bible": "Lukács 8,26-39",
     "date": "2025.02.15",
@@ -1276,17 +1309,6 @@
     "size": 52167591
   },
   {
-    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
-    "bible": "Józsué 1,9",
-    "date": "2024.09.01",
-    "pastor": "Petró Emőke",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
-    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
-    "length": 3099,
-    "size": 49591272
-  },
-  {
     "title": "\"...légy erős és bátor...\" - 9h",
     "bible": "Józsué 1,9",
     "date": "2024.09.01",
@@ -1294,6 +1316,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor.mp3",
     "uuid": "24d212ac-bca3-42fc-a16d-5c840b27b14a",
+    "length": 3099,
+    "size": 49591272
+  },
+  {
+    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
+    "bible": "Józsué 1,9",
+    "date": "2024.09.01",
+    "pastor": "Petró Emőke",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
+    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
     "length": 3099,
     "size": 49591272
   },
@@ -1562,17 +1595,6 @@
     "size": 64985180
   },
   {
-    "title": "A Hálószoba - TGT - Előadás - Szerda délelőtt - Előadó: Komádi Róbert",
-    "bible": "",
-    "date": "2024.07.24",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240724_9,30h_KR_A_Hálószoba.mp3",
-    "uuid": "cca7a363-cb85-4a4f-bbae-b8ad58f1b191",
-    "length": 2971,
-    "size": 47543743
-  },
-  {
     "title": "Minden napom, minden napon az Úrral. - Szerda este ",
     "bible": "2 Sámuel 15:13-37",
     "date": "2024.07.24",
@@ -1582,6 +1604,17 @@
     "uuid": "7dc2b899-328b-4b3e-bb6f-ae4fef060e55",
     "length": 4209,
     "size": 67354590
+  },
+  {
+    "title": "A Hálószoba - TGT - Előadás - Szerda délelőtt - Előadó: Komádi Róbert",
+    "bible": "",
+    "date": "2024.07.24",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240724_9,30h_KR_A_Hálószoba.mp3",
+    "uuid": "cca7a363-cb85-4a4f-bbae-b8ad58f1b191",
+    "length": 2971,
+    "size": 47543743
   },
   {
     "title": "A Fürdőszoba - TGT - Előadás - Kedd délelőtt - Előadók:  Nagy Henrietta, Vincze Árpád",
@@ -21560,6 +21593,17 @@
     "size": 13927489
   },
   {
+    "title": "Nincs itt, feltámadt - 10,35h",
+    "bible": "Márk16,6",
+    "date": "2015.04.01",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
+    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
+    "length": 1772,
+    "size": 14182027
+  },
+  {
     "title": "Ne féljetek, feltámadt - 9,40h",
     "bible": "Márk16,6",
     "date": "2015.04.01",
@@ -21591,17 +21635,6 @@
     "uuid": "784a10ee-c663-4af0-8545-248a3a505de1",
     "length": 1786,
     "size": 14294249
-  },
-  {
-    "title": "Nincs itt, feltámadt - 10,35h",
-    "bible": "Márk16,6",
-    "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 10.35h KR_alt.isk.husveti ahitat_Nincs itt, feltamadt_Mk16,6.mp3",
-    "uuid": "84f32843-b3c9-4df3-b384-367137174c37",
-    "length": 1772,
-    "size": 14182027
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -26972,17 +27005,6 @@
     "size": 14789529
   },
   {
-    "title": "Éljetek elhívásotokhoz méltóan - 17h",
-    "bible": "Efézus4,1",
-    "date": "2013.01.01",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/130101_17h_AN_Eljetek_elhivasotokhoz_meltoan_Ef4_1.mp3",
-    "uuid": "ecb2cf29-6196-4829-a8c3-567b227c2825",
-    "length": 1853,
-    "size": 14829862
-  },
-  {
     "title": "Újuljatok meg - 0h",
     "bible": "Efézus4,17-24",
     "date": "2013.01.01",
@@ -26992,6 +27014,17 @@
     "uuid": "db1eca2d-c899-4726-93ca-eef91a97485d",
     "length": 1593,
     "size": 12745709
+  },
+  {
+    "title": "Éljetek elhívásotokhoz méltóan - 17h",
+    "bible": "Efézus4,1",
+    "date": "2013.01.01",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/130101_17h_AN_Eljetek_elhivasotokhoz_meltoan_Ef4_1.mp3",
+    "uuid": "ecb2cf29-6196-4829-a8c3-567b227c2825",
+    "length": 1853,
+    "size": 14829862
   },
   {
     "title": "Van ér van csodás erő - 18h",
@@ -31515,17 +31548,6 @@
     "size": 16420406
   },
   {
-    "title": "Krisztusban legyünk gazdagok - 18h",
-    "bible": "Jelenések3,14-22",
-    "date": "2010.09.26",
-    "pastor": "Adamek Norbert",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/100926_18h_AN_Krisztusban_legyunk_gazdagok_Jel3_14_22.mp3",
-    "uuid": "361e5aa9-6140-4010-b1e1-14700cf3e58b",
-    "length": 350,
-    "size": 2800161
-  },
-  {
     "title": "Osváth Viktor - megemlékezés",
     "bible": "",
     "date": "2010.09.26",
@@ -31535,6 +31557,17 @@
     "uuid": "0ec25d6e-1537-47eb-ae81-4007b509877b",
     "length": 829,
     "size": 6639743
+  },
+  {
+    "title": "Krisztusban legyünk gazdagok - 18h",
+    "bible": "Jelenések3,14-22",
+    "date": "2010.09.26",
+    "pastor": "Adamek Norbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/100926_18h_AN_Krisztusban_legyunk_gazdagok_Jel3_14_22.mp3",
+    "uuid": "361e5aa9-6140-4010-b1e1-14700cf3e58b",
+    "length": 350,
+    "size": 2800161
   },
   {
     "title": "Sámuel elhívása - 11h",
