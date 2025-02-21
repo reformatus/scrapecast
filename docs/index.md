@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 21 Feb 2025 08:26:40 +0100
+✅ Legutóbb frissítve: Fri, 21 Feb 2025 12:25:54 +0100
 
 Epizódok száma: 3231
 
@@ -37,7 +37,7 @@ Epizódok száma: 3231
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 21 Feb 2025 08:26:41 +0100
+✅ Legutóbb frissítve: Fri, 21 Feb 2025 12:25:55 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 21 Feb 2025 08:27:03 +0100
+✅ Legutóbb frissítve: Fri, 21 Feb 2025 12:26:10 +0100
 
-Epizódok száma: 978
+Epizódok száma: 979
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 978
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.02.21 - Zsolt 145 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.02.16 - ApCsel 10,23-48 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2025.02.09 - Lk 9,57-62 - Bibliamagyarázat - Lukács evangéliuma
  - 2025.02.09 - JSir 3,19-33 - Bibliamagyarázat - Jeremiás siralmai
  - 2025.02.06 - Kol 1,9-14 - Bibliamagyarázat - Pál levele a kolosséiakhoz
  - 2025.02.02 - Lk 9,18-26 - Bibliamagyarázat - Lukács evangéliuma
- - 2025.01.24 - Péld 16,31 - Bibliamagyarázat - A példabeszédek könyve
 
 ---
 
