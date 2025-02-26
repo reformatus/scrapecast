@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 26 Feb 2025 16:32:14 +0100
+✅ Legutóbb frissítve: Wed, 26 Feb 2025 21:29:58 +0100
 
 Epizódok száma: 3235
 
@@ -37,7 +37,7 @@ Epizódok száma: 3235
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 26 Feb 2025 16:32:14 +0100
+✅ Legutóbb frissítve: Wed, 26 Feb 2025 21:29:59 +0100
 
 Epizódok száma: 8
 
@@ -56,32 +56,6 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
-
----
-
-## [Marco igehirdetései](https://marko.reformatus.hu/)
-_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
-Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
-
-✅ Legutóbb frissítve: Wed, 26 Feb 2025 16:32:33 +0100
-
-Epizódok száma: 979
-
-**Elérhető:**
- - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
- - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
- - [PocketCasts](https://pca.st/14nmdojx)
- - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
- - [CastBox](https://castbox.fm/ch/5087121)
- - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
-
-**Legutóbbi epizódok:**
- - 2025.02.21 - Zsolt 145 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.02.16 - ApCsel 10,23-48 - Bibliamagyarázat - Az apostolok cselekedetei
- - 2025.02.09 - Lk 9,57-62 - Bibliamagyarázat - Lukács evangéliuma
- - 2025.02.09 - JSir 3,19-33 - Bibliamagyarázat - Jeremiás siralmai
- - 2025.02.06 - Kol 1,9-14 - Bibliamagyarázat - Pál levele a kolosséiakhoz
- - 2025.02.02 - Lk 9,18-26 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
