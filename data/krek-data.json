@@ -276,23 +276,23 @@
   },
   {
     "title": "Téma: Igaz nőiség - KERT",
-    "bible": "-",
-    "date": "2025.02.02",
-    "pastor": "Szerdi Novák Anett",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
-    "uuid": "811380f6-0a25-40f4-8a11-942faaeb4fb7",
-    "length": 4007,
-    "size": 64113333
-  },
-  {
-    "title": "Téma: Igaz nőiség - KERT",
     "bible": "",
     "date": "2025.02.02",
     "pastor": "Szerdiné Novák Anett",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
     "uuid": "9cd50c78-af8f-44dc-bba5-4318b9f401c4",
+    "length": 4007,
+    "size": 64113333
+  },
+  {
+    "title": "Téma: Igaz nőiség - KERT",
+    "bible": "-",
+    "date": "2025.02.02",
+    "pastor": "Szerdi Novák Anett",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
+    "uuid": "811380f6-0a25-40f4-8a11-942faaeb4fb7",
     "length": 4007,
     "size": 64113333
   },
@@ -2035,17 +2035,6 @@
     "size": 61626385
   },
   {
-    "title": "\"A lehet és a kell szorításában.\" - Kiállítás megnyitó Tóth Károly életéről. - Megnyitották: Varga László, Szabó Gábor - 18h",
-    "bible": "",
-    "date": "2024.06.22",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240622_18h-toth-karoly-megnyito.mp3",
-    "uuid": "adac963e-cedd-4bad-870d-813488cea139",
-    "length": 1761,
-    "size": 28178088
-  },
-  {
     "title": "Hálaadó hangverseny az Evangélikus Templomban. - Múzeumok éjszakája",
     "bible": "",
     "date": "2024.06.22",
@@ -2055,6 +2044,17 @@
     "uuid": "7c569dce-3925-4724-97e7-87df5b13984b",
     "length": 5201,
     "size": 83230536
+  },
+  {
+    "title": "\"A lehet és a kell szorításában.\" - Kiállítás megnyitó Tóth Károly életéről. - Megnyitották: Varga László, Szabó Gábor - 18h",
+    "bible": "",
+    "date": "2024.06.22",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240622_18h-toth-karoly-megnyito.mp3",
+    "uuid": "adac963e-cedd-4bad-870d-813488cea139",
+    "length": 1761,
+    "size": 28178088
   },
   {
     "title": "\"Légy hű mindhalálig\" - 11h - Általános Iskola - Ballagás",
@@ -4554,17 +4554,6 @@
     "size": 88814340
   },
   {
-    "title": "Isten fegyverzetének felöltése. - 18h",
-    "bible": "Efézus 6,18-20",
-    "date": "2023.06.18",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20230618_18h_NH_Efézus6,18-20_Isten fegyverzetének felöltése.mp3",
-    "uuid": "4482e056-aef4-4982-a9ce-766da88bf31e",
-    "length": 1405,
-    "size": 22481781
-  },
-  {
     "title": "Aki kősziklára épít. - 16h - Általános iskola tanévzáró",
     "bible": "Máté 7,24-27",
     "date": "2023.06.18",
@@ -4574,6 +4563,17 @@
     "uuid": "06e59b0f-7b3d-4b47-8d6b-23489da9919d",
     "length": 3917,
     "size": 62673388
+  },
+  {
+    "title": "Isten fegyverzetének felöltése. - 18h",
+    "bible": "Efézus 6,18-20",
+    "date": "2023.06.18",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20230618_18h_NH_Efézus6,18-20_Isten fegyverzetének felöltése.mp3",
+    "uuid": "4482e056-aef4-4982-a9ce-766da88bf31e",
+    "length": 1405,
+    "size": 22481781
   },
   {
     "title": "Az Úr biztos menedék. - 18h - Vigasztaló istentisztelet",
@@ -15411,17 +15411,6 @@
     "size": 61818783
   },
   {
-    "title": "Isten szeretetében (Széchenyiváros)",
-    "bible": "ApCse12,20-24",
-    "date": "2019.05.19",
-    "pastor": "Nagy Henrietta",
-    "youtube": "https://youtu.be/GLuZX79Pi90",
-    "download": "/media/files/igehirdetesek/20190519_9,30h_PF_ApCs_12,20-24_Isten_szeretetében_(Széchenyiváros).mp3",
-    "uuid": "419cb02f-feba-44e8-b807-c12a6e73592e",
-    "length": 3807,
-    "size": 60919492
-  },
-  {
     "title": "Dicsőítés: ZENE - Ifi it.",
     "bible": "Zsoltárok 98",
     "date": "2019.05.19",
@@ -15431,6 +15420,17 @@
     "uuid": "bcbcca7a-32cf-4180-9307-076753a24ab4",
     "length": 3645,
     "size": 58320153
+  },
+  {
+    "title": "Isten szeretetében (Széchenyiváros)",
+    "bible": "ApCse12,20-24",
+    "date": "2019.05.19",
+    "pastor": "Nagy Henrietta",
+    "youtube": "https://youtu.be/GLuZX79Pi90",
+    "download": "/media/files/igehirdetesek/20190519_9,30h_PF_ApCs_12,20-24_Isten_szeretetében_(Széchenyiváros).mp3",
+    "uuid": "419cb02f-feba-44e8-b807-c12a6e73592e",
+    "length": 3807,
+    "size": 60919492
   },
   {
     "title": "A kincs megkeresése (befogadó) - 11h",
@@ -30525,17 +30525,6 @@
     "size": 34082189
   },
   {
-    "title": "Ember kérdez, Isten cselekszik - 18h",
-    "bible": "Márk3,1-6",
-    "date": "2011.05.07",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110507_18h_VN_Ember_kerdez_Isten_cselekszik_Mark3_1_6.mp3",
-    "uuid": "c1293674-af30-4464-a4e2-309c8f3fce6d",
-    "length": 2726,
-    "size": 21811870
-  },
-  {
     "title": "Szeressétek egymást - 7,15h",
     "bible": "1Korinthus13,1-3",
     "date": "2011.05.07",
@@ -30545,6 +30534,17 @@
     "uuid": "5cd62244-4ac1-4d27-a43a-3c504f4dc9a5",
     "length": 1250,
     "size": 10003479
+  },
+  {
+    "title": "Ember kérdez, Isten cselekszik - 18h",
+    "bible": "Márk3,1-6",
+    "date": "2011.05.07",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110507_18h_VN_Ember_kerdez_Isten_cselekszik_Mark3_1_6.mp3",
+    "uuid": "c1293674-af30-4464-a4e2-309c8f3fce6d",
+    "length": 2726,
+    "size": 21811870
   },
   {
     "title": "Szeretet és imádság - 7,15h",
@@ -31988,17 +31988,6 @@
     "size": 14138976
   },
   {
-    "title": "\"Pünkösd hétfő\" - 18h",
-    "bible": "ApCsel 2:41-42",
-    "date": "2010.05.24",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20100524_18h_Kerekes_Marton_Punkosd_hetfo_Apcs_2_.mp3",
-    "uuid": "55625ebe-452b-4e68-ab56-7c4f45e8cd3e",
-    "length": 2048,
-    "size": 32781628
-  },
-  {
     "title": "A Lélek munkálkodik - 11,45h",
     "bible": "ApCsel2,5-11",
     "date": "2010.05.24",
@@ -32008,6 +31997,17 @@
     "uuid": "b28b0951-c2e6-4b04-bfb5-03972b18267c",
     "length": 1818,
     "size": 14547531
+  },
+  {
+    "title": "\"Pünkösd hétfő\" - 18h",
+    "bible": "ApCsel 2:41-42",
+    "date": "2010.05.24",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20100524_18h_Kerekes_Marton_Punkosd_hetfo_Apcs_2_.mp3",
+    "uuid": "55625ebe-452b-4e68-ab56-7c4f45e8cd3e",
+    "length": 2048,
+    "size": 32781628
   },
   {
     "title": "Merre tovább - Mit tegyünk - 9h",
