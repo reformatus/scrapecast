@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Mar 2025 14:31:26 +0100
+✅ Legutóbb frissítve: Sun, 16 Mar 2025 15:28:50 +0100
 
-Epizódok száma: 3255
+Epizódok száma: 3257
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3255
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.03.16 - "Haszontalan szolgák vagyunk, azt tettük, ami kötelességünk volt." - 9h - Kuti József
+ - 2025.03.16 - Meg van írva... - Széchenyiváros - Pál Ferenc
  - 2025.03.09 - Imádság II.-"Közeledjetek az Istenhez, és ő is közeledni fog hozzátok." - KERT - Nagy Henrietta
  - 2025.03.09 - "Boldog az, aki az Isten országának vendége." - 11h - Fodorné Dr. Ablonczy Margit
  - 2025.03.09 - Úrvacsora után (Katonatelep) - Laczai András
  - 2025.03.09 - "Boldog az, aki az Isten országának vendége." - 9h - Varga Nándor
- - 2025.03.09 - BÖJT: Ki adott nektek szabadságot? - Széchenyiváros - Pál Ferenc
- - 2025.03.07 - Szívmegtartóztatás III. - 17h - Laczai András
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3255
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Mar 2025 14:31:27 +0100
+✅ Legutóbb frissítve: Sun, 16 Mar 2025 15:28:51 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 16 Mar 2025 14:31:41 +0100
+✅ Legutóbb frissítve: Sun, 16 Mar 2025 15:29:14 +0100
 
 Epizódok száma: 985
 
