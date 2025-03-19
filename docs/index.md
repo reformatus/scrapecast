@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 18 Mar 2025 21:30:01 +0100
+✅ Legutóbb frissítve: Wed, 19 Mar 2025 08:29:17 +0100
 
 Epizódok száma: 3259
 
@@ -37,7 +37,7 @@ Epizódok száma: 3259
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 18 Mar 2025 21:30:02 +0100
+✅ Legutóbb frissítve: Wed, 19 Mar 2025 08:29:18 +0100
 
 Epizódok száma: 8
 
@@ -56,6 +56,32 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
+
+---
+
+## [Marco igehirdetései](https://marko.reformatus.hu/)
+_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
+Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
+
+✅ Legutóbb frissítve: Wed, 19 Mar 2025 08:29:35 +0100
+
+Epizódok száma: 986
+
+**Elérhető:**
+ - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
+ - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
+ - [PocketCasts](https://pca.st/14nmdojx)
+ - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
+ - [CastBox](https://castbox.fm/ch/5087121)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
+
+**Legutóbbi epizódok:**
+ - 2025.03.16 - Jn 11,45-57 - Bibliamagyarázat - János evangéliuma
+ - 2025.03.14 - Lk 9,28-36 - Bibliamagyarázat - Lukács evangéliuma
+ - 2025.03.09 - Lk 14,25-35 - Bibliamagyarázat - Lukács evangéliuma
+ - 2025.03.08 - Lk 14,15-24 - Bibliamagyarázat - Lukács evangéliuma
+ - 2025.03.07 - Lk 14,12-14 - Bibliamagyarázat - Lukács evangéliuma
+ - 2025.03.06 - Lk 14,1-11 - Bibliamagyarázat - Lukács evangéliuma
 
 ---
 
