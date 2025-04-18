@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 17 Apr 2025 22:31:26 +0100
+✅ Legutóbb frissítve: Fri, 18 Apr 2025 09:30:02 +0100
 
 Epizódok száma: 3283
 
@@ -37,7 +37,7 @@ Epizódok száma: 3283
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 17 Apr 2025 22:31:27 +0100
+✅ Legutóbb frissítve: Fri, 18 Apr 2025 09:30:02 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 17 Apr 2025 22:31:41 +0100
+✅ Legutóbb frissítve: Fri, 18 Apr 2025 09:30:18 +0100
 
-Epizódok száma: 999
+Epizódok száma: 1001
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 999
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.04.17 - Jn 15,1-8 - Bibliamagyarázat - János evangéliuma
+ - 2025.04.16 - Jn 12,44-50 - Bibliamagyarázat - János evangéliuma
  - 2025.04.11 - Mt 21,1-17 - Bibliamagyarázat - Máté evangéliuma
  - 2025.04.06 - Zsid 4,14-5,10 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2025.04.02 - A reménység hirdetése - Lelkészképzés
  - 2025.04.01 - Az utolsó események - Lelkészképzés
- - 2025.04.01 - A természetfölötti - Lelkészképzés
- - 2025.03.31 - Üdvtörténet és utolsó idõk - Lelkészképzés
 
 ---
 
