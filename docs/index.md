@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 16 May 2025 09:29:55 +0100
+✅ Legutóbb frissítve: Fri, 16 May 2025 13:27:06 +0100
 
 Epizódok száma: 3308
 
@@ -37,7 +37,7 @@ Epizódok száma: 3308
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 16 May 2025 09:29:56 +0100
+✅ Legutóbb frissítve: Fri, 16 May 2025 13:27:06 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 16 May 2025 09:30:10 +0100
+✅ Legutóbb frissítve: Fri, 16 May 2025 13:27:21 +0100
 
-Epizódok száma: 1005
+Epizódok száma: 1006
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1005
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.05.16 - Péld 11,24-25 - Bibliamagyarázat - A példabeszédek könyve
  - 2025.05.11 - Zsid 12,18-29 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2025.05.04 - 2Kor 4,14-5,9 - Bibliamagyarázat - Pál második levele a korinthusiakhoz
  - 2025.04.27 - 1Pt 2,1-10 - Bibliamagyarázat - Péter első levele
  - 2025.04.21 - Jn 20,1-18 - Bibliamagyarázat - János evangéliuma
  - 2025.04.17 - Jn 15,1-8 - Bibliamagyarázat - János evangéliuma
- - 2025.04.16 - Jn 12,44-50 - Bibliamagyarázat - János evangéliuma
 
 ---
 
