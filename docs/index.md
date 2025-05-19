@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 19 May 2025 09:30:55 +0100
+✅ Legutóbb frissítve: Mon, 19 May 2025 10:42:36 +0100
 
-Epizódok száma: 3310
+Epizódok száma: 3311
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3310
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.05.18 - Megmaradni Krisztusban (Katonatelep) - Laczay András
  - 2025.05.18 - Tisztázó beszélgetés Istennel. - Széchenyiváros - Pál Ferenc
  - 2025.05.16 - Küldetés a világban (Katonatelep) - Hodánics Tamás
  - 2025.05.15 - Megmaradás a világban (Katonatelep) - Laczay András
  - 2025.05.11 - Hogyan vezet a Lélek a dicsőitésben. - KERT - Kohi-Pál Eszter
  - 2025.05.11 - Jó barátság. - 11h - Petró Emőke
- - 2025.05.11 - "Mert ismritek a mi Urunk Jézus Krisztus kegyelmét, hogy gazdag létére szegénnyé lett értünk..." - 9h - Laczay András
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3310
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 19 May 2025 09:30:56 +0100
+✅ Legutóbb frissítve: Mon, 19 May 2025 10:42:37 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 19 May 2025 09:31:18 +0100
+✅ Legutóbb frissítve: Mon, 19 May 2025 10:42:59 +0100
 
 Epizódok száma: 1008
 
