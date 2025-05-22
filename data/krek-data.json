@@ -883,10 +883,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
+    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
     "length": 2937,
     "size": 41127232
   },
@@ -894,10 +894,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
+    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
     "length": 2937,
     "size": 41127232
   },
@@ -8239,17 +8239,6 @@
     "size": 54620569
   },
   {
-    "title": "Általános Iskola - Befogadó Istentisztelet - 16h",
-    "bible": "Máté 11,25-26.",
-    "date": "2022.05.15",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220515_16h_KJ_Máté11,25-26._Általános_Iskola_Befogadó_Istentisztelet.mp3",
-    "uuid": "c6e24966-8587-4b19-b4f2-acd417848f3a",
-    "length": 2148,
-    "size": 34375321
-  },
-  {
     "title": "Jézus meggyógyítja a gadarai megszállottat. - Széchenyiváros",
     "bible": "Márk 5,1-20.",
     "date": "2022.05.15",
@@ -8259,6 +8248,17 @@
     "uuid": "7fc3711a-278c-40b2-8219-f5d8653bd6e0",
     "length": 5518,
     "size": 88293581
+  },
+  {
+    "title": "Általános Iskola - Befogadó Istentisztelet - 16h",
+    "bible": "Máté 11,25-26.",
+    "date": "2022.05.15",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220515_16h_KJ_Máté11,25-26._Általános_Iskola_Befogadó_Istentisztelet.mp3",
+    "uuid": "c6e24966-8587-4b19-b4f2-acd417848f3a",
+    "length": 2148,
+    "size": 34375321
   },
   {
     "title": "A szelíd és a vad olajfa. - 18h",
@@ -10483,17 +10483,6 @@
     "size": 67536812
   },
   {
-    "title": "Az Elhívás - 19,30h",
-    "bible": "Lukács 5,1-11.",
-    "date": "2021.07.20",
-    "pastor": "Csomós József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210720_19,30h_CSJ_Lukács5,1-11_Az_Elhívás.mp3",
-    "uuid": "1d07d6d1-96ee-4813-9b3c-79f5273cc2b3",
-    "length": 2551,
-    "size": 61229357
-  },
-  {
     "title": "Csend Isten előtt - 7,15h",
     "bible": "Jeremiás siralmai 3,26.",
     "date": "2021.07.20",
@@ -10503,6 +10492,17 @@
     "uuid": "3cece3d3-dad3-4d47-bc20-ca2e09c7dda7",
     "length": 735,
     "size": 11764621
+  },
+  {
+    "title": "Az Elhívás - 19,30h",
+    "bible": "Lukács 5,1-11.",
+    "date": "2021.07.20",
+    "pastor": "Csomós József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210720_19,30h_CSJ_Lukács5,1-11_Az_Elhívás.mp3",
+    "uuid": "1d07d6d1-96ee-4813-9b3c-79f5273cc2b3",
+    "length": 2551,
+    "size": 61229357
   },
   {
     "title": "Az Evangélium ereje - 19,30h",
@@ -10945,17 +10945,6 @@
     "size": 112368189
   },
   {
-    "title": "Közeledjetek! - 18h",
-    "bible": "János 20,19-23.",
-    "date": "2021.05.23",
-    "pastor": "Kerekes Márton",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210523_18h_KM_János20,19-23._Közeledjetek!.mp3",
-    "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
-    "length": 2739,
-    "size": 65755543
-  },
-  {
     "title": "Közeledjetek! - 15h",
     "bible": "Jakab 4,8.",
     "date": "2021.05.23",
@@ -10965,6 +10954,17 @@
     "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
     "length": 5166,
     "size": 123992197
+  },
+  {
+    "title": "Közeledjetek! - 18h",
+    "bible": "János 20,19-23.",
+    "date": "2021.05.23",
+    "pastor": "Kerekes Márton",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210523_18h_KM_János20,19-23._Közeledjetek!.mp3",
+    "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
+    "length": 2739,
+    "size": 65755543
   },
   {
     "title": "Pünkösd és Konfirmáció - Közeledjetek - 18h",
@@ -13035,15 +13035,15 @@
     "size": 60860844
   },
   {
-    "title": "Az igaz istentisztelet - 18h",
-    "bible": "Zsoltárok 50",
+    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
+    "bible": "Római 10,14-17",
     "date": "2020.08.30",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Laczay András",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
-    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
-    "length": 2471,
-    "size": 39542307
+    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
+    "length": 2860,
+    "size": 45771397
   },
   {
     "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
@@ -13057,15 +13057,15 @@
     "size": 58547991
   },
   {
-    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
-    "bible": "Római 10,14-17",
+    "title": "Az igaz istentisztelet - 18h",
+    "bible": "Zsoltárok 50",
     "date": "2020.08.30",
-    "pastor": "Laczay András",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
-    "length": 2860,
-    "size": 45771397
+    "download": "/media/files/igehirdetesek/20200830_18h_NH_Zsoltarok50_Az_igaz_istentisztelet.mp3",
+    "uuid": "b4d9f50e-d969-499e-a599-06bd548b7037",
+    "length": 2471,
+    "size": 39542307
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -18128,6 +18128,17 @@
     "size": 49530696
   },
   {
+    "title": "Adok, hogy adj - 18h",
+    "bible": "Lukács14,12-15",
+    "date": "2018.09.02",
+    "pastor": "Weiner-Legeza Luca",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
+    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
+    "length": 2157,
+    "size": 34512169
+  },
+  {
     "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
     "bible": "Lukács15,22-24;31-32",
     "date": "2018.09.02",
@@ -18148,17 +18159,6 @@
     "uuid": "48cefc64-a83f-4313-8372-b42ef648bec1",
     "length": 2851,
     "size": 45622360
-  },
-  {
-    "title": "Adok, hogy adj - 18h",
-    "bible": "Lukács14,12-15",
-    "date": "2018.09.02",
-    "pastor": "Weiner-Legeza Luca",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_18h_WLL_Luk14,12-15_Adok_hogy_adja.MP3",
-    "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
-    "length": 2157,
-    "size": 34512169
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -26356,15 +26356,15 @@
     "size": 17133653
   },
   {
-    "title": "Krisztus szembe jön velünk - 17,30h",
-    "bible": "Lukács7,11-17",
+    "title": "Gyertek - 15h",
+    "bible": "Zsoltárok66,5",
     "date": "2013.09.01",
-    "pastor": "Vincze Árpád",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/130901 17.30h VA_gimn.tanevnyito it_Krisztus szembe jon velunk_Lk7,11_17.mp3",
-    "uuid": "b7edba4b-58f7-47b9-9963-5d1346ea0d6b",
-    "length": 2788,
-    "size": 22305271
+    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
+    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
+    "length": 1985,
+    "size": 15883537
   },
   {
     "title": "Isten vigasztalása - 18h",
@@ -26378,15 +26378,15 @@
     "size": 17046091
   },
   {
-    "title": "Gyertek - 15h",
-    "bible": "Zsoltárok66,5",
+    "title": "Krisztus szembe jön velünk - 17,30h",
+    "bible": "Lukács7,11-17",
     "date": "2013.09.01",
-    "pastor": "Varga Nándor",
+    "pastor": "Vincze Árpád",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
-    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
-    "length": 1985,
-    "size": 15883537
+    "download": "/media/files/igehirdetesek/130901 17.30h VA_gimn.tanevnyito it_Krisztus szembe jon velunk_Lk7,11_17.mp3",
+    "uuid": "b7edba4b-58f7-47b9-9963-5d1346ea0d6b",
+    "length": 2788,
+    "size": 22305271
   },
   {
     "title": "Ne csüggedj - 18h",
@@ -29667,17 +29667,6 @@
     "size": 16556116
   },
   {
-    "title": "Kényszerek útján - 17h",
-    "bible": "Máté14,22-34",
-    "date": "2012.02.20",
-    "pastor": "Nagy Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120220_17h_Kenyszerek_utjan_Mt14_22_34.mp3",
-    "uuid": "43dec0d8-b365-4195-94fd-4f1a4e024c77",
-    "length": 2521,
-    "size": 20175433
-  },
-  {
     "title": "Figyelj, láss, csodálkozz - 7,35h",
     "bible": "Márk1,16",
     "date": "2012.02.20",
@@ -29687,6 +29676,17 @@
     "uuid": "d1030e3e-77e4-4c90-a418-3a02032e1123",
     "length": 1039,
     "size": 8318767
+  },
+  {
+    "title": "Kényszerek útján - 17h",
+    "bible": "Máté14,22-34",
+    "date": "2012.02.20",
+    "pastor": "Nagy Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120220_17h_Kenyszerek_utjan_Mt14_22_34.mp3",
+    "uuid": "43dec0d8-b365-4195-94fd-4f1a4e024c77",
+    "length": 2521,
+    "size": 20175433
   },
   {
     "title": "Szívvel hiszünk - 11h",
@@ -30844,17 +30844,6 @@
     "size": 15680827
   },
   {
-    "title": "Lakó Sándor zenekar szolgálata - 11h",
-    "bible": "János4,4-14",
-    "date": "2011.07.03",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110703_11h_HT_Lako_S_zenekar_szolgalata_Jn4_4_14.mp3",
-    "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
-    "length": 1857,
-    "size": 14859746
-  },
-  {
     "title": "Jézus adja az örök élet vizét - 11h",
     "bible": "János4,4-14",
     "date": "2011.07.03",
@@ -30864,6 +30853,17 @@
     "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
     "length": 44,
     "size": 352592
+  },
+  {
+    "title": "Lakó Sándor zenekar szolgálata - 11h",
+    "bible": "János4,4-14",
+    "date": "2011.07.03",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110703_11h_HT_Lako_S_zenekar_szolgalata_Jn4_4_14.mp3",
+    "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
+    "length": 1857,
+    "size": 14859746
   },
   {
     "title": "Már igen még nem - 9h",
