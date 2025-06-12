@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 12 Jun 2025 13:28:19 +0100
+✅ Legutóbb frissítve: Thu, 12 Jun 2025 17:34:09 +0100
 
-Epizódok száma: 3333
+Epizódok száma: 3334
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -27,9 +27,9 @@ Epizódok száma: 3333
  - 2025.06.09 - Keresték és kutatták az üdvösséget. - 9h - Gimnáziumi konfirmáció - Vincze Árpád
  - 2025.06.09 - Jézus a tengeren jár. - 11,30h - Általános iskolai konfirmáció - Petró Emőke
  - 2025.06.09 - Lélek gyümölcse - Széchenyiváros - Kohi-Pál Eszter
+ - 2025.06.09 - A Lélek gyümölcstortája - Széchenyiváros - Kohi-Pál Eszter
  - 2025.06.08 - Szükségünk van a Lélekre (Katonatelep) - Laczay András
  - 2025.06.08 - "Kegyelem és békesség adassék nektek bőségesen - 9h - Fenött konfirmáció - Varga Nándor
- - 2025.06.08 - Szentlélek nélkül. - 11,30h - Városi hittanosok konfirmációja - Pál Ferenc
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3333
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 12 Jun 2025 13:28:20 +0100
+✅ Legutóbb frissítve: Thu, 12 Jun 2025 17:34:10 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 12 Jun 2025 13:29:02 +0100
+✅ Legutóbb frissítve: Thu, 12 Jun 2025 17:34:25 +0100
 
 Epizódok száma: 1010
 
