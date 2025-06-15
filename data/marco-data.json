@@ -682,17 +682,6 @@
     "size": 6690200
   },
   {
-    "title": "A tanítványság értelme és területei",
-    "date": "2024.09.21",
-    "place": "Vál",
-    "category": "Vallásismeret - Tanítványság",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20240921B.mp3",
-    "uuid": "72d19c55-eda5-40cd-b308-c3b60dcb085f",
-    "length": 2994,
-    "size": 8984976
-  },
-  {
     "title": "Isten országának története",
     "date": "2024.09.21",
     "place": "Vál",
@@ -702,6 +691,17 @@
     "uuid": "bf4de032-971b-40ee-a3e1-377c2a5f9a58",
     "length": 2579,
     "size": 7738998
+  },
+  {
+    "title": "A tanítványság értelme és területei",
+    "date": "2024.09.21",
+    "place": "Vál",
+    "category": "Vallásismeret - Tanítványság",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20240921B.mp3",
+    "uuid": "72d19c55-eda5-40cd-b308-c3b60dcb085f",
+    "length": 2994,
+    "size": 8984976
   },
   {
     "title": "Zsolt 30",
@@ -836,17 +836,6 @@
     "size": 6760156
   },
   {
-    "title": "Jel 21,1-8",
-    "date": "2024.06.16",
-    "place": "Szilágysomlyó",
-    "category": "Bibliamagyarázat - A jelenések könyve",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Jel/MLW20240616A.mp3",
-    "uuid": "9f57634b-868d-47c1-b3b9-ebaa18c9dfdb",
-    "length": 1785,
-    "size": 5357768
-  },
-  {
     "title": "Jel 21,9-12 és 21,22-22,5",
     "date": "2024.06.16",
     "place": "Szilágyballa",
@@ -856,6 +845,17 @@
     "uuid": "ff703911-babc-4ecb-90b3-27c76a45ff72",
     "length": 2082,
     "size": 6246218
+  },
+  {
+    "title": "Jel 21,1-8",
+    "date": "2024.06.16",
+    "place": "Szilágysomlyó",
+    "category": "Bibliamagyarázat - A jelenések könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Jel/MLW20240616A.mp3",
+    "uuid": "9f57634b-868d-47c1-b3b9-ebaa18c9dfdb",
+    "length": 1785,
+    "size": 5357768
   },
   {
     "title": "Keresztyén reménység",
@@ -949,10 +949,10 @@
     "title": "1Kor 11,18-34",
     "date": "2024.04.21",
     "place": "Pécsvárad",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20240421A.mp3",
-    "uuid": "e4b42e28-128b-4a25-a08b-8b339334ad6b",
+    "uuid": "474d0397-287b-4168-a1fc-35cd53fc6d53",
     "length": 1701,
     "size": 5104907
   },
@@ -960,10 +960,10 @@
     "title": "1Kor 11,18-34",
     "date": "2024.04.21",
     "place": "Pécsvárad",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20240421A.mp3",
-    "uuid": "474d0397-287b-4168-a1fc-35cd53fc6d53",
+    "uuid": "e4b42e28-128b-4a25-a08b-8b339334ad6b",
     "length": 1701,
     "size": 5104907
   },
@@ -1111,17 +1111,6 @@
     "size": 6851480
   },
   {
-    "title": "Lk 19,11-27",
-    "date": "2024.03.17",
-    "place": "Mágocs",
-    "category": "Bibliamagyarázat - Lukács evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Lk/MLW20240317B.mp3",
-    "uuid": "eaf74a72-84a7-401c-9110-20a3bfaba303",
-    "length": 2372,
-    "size": 7117017
-  },
-  {
     "title": "Ézs 58",
     "date": "2024.03.17",
     "place": "Bogyiszló",
@@ -1131,6 +1120,17 @@
     "uuid": "1e5cb1a1-8f6d-491e-94c7-e4589cee6b72",
     "length": 2103,
     "size": 6311988
+  },
+  {
+    "title": "Lk 19,11-27",
+    "date": "2024.03.17",
+    "place": "Mágocs",
+    "category": "Bibliamagyarázat - Lukács evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Lk/MLW20240317B.mp3",
+    "uuid": "eaf74a72-84a7-401c-9110-20a3bfaba303",
+    "length": 2372,
+    "size": 7117017
   },
   {
     "title": "1Jn 2,12-17",
@@ -1650,17 +1650,6 @@
     "size": 7444890
   },
   {
-    "title": "A keresztyén gyermeknevelés alapjai",
-    "date": "2023.10.18",
-    "place": "Dunaharaszti",
-    "category": "Szülők iskolája",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
-    "uuid": "431ca29c-47df-4a32-9a34-717b5e7fa8fe",
-    "length": 2636,
-    "size": 7910450
-  },
-  {
     "title": "A ckeresztyén gyermeknevelés alapjai",
     "date": "2023.10.18",
     "place": "Dunaharaszti",
@@ -1668,6 +1657,17 @@
     "video": null,
     "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
     "uuid": "31e112f0-16d7-42c8-9af4-5cfd31d2e8ed",
+    "length": 2636,
+    "size": 7910450
+  },
+  {
+    "title": "A keresztyén gyermeknevelés alapjai",
+    "date": "2023.10.18",
+    "place": "Dunaharaszti",
+    "category": "Szülők iskolája",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Egyeb/MLW20231018.mp3",
+    "uuid": "431ca29c-47df-4a32-9a34-717b5e7fa8fe",
     "length": 2636,
     "size": 7910450
   },
@@ -1727,6 +1727,17 @@
     "size": 5760180
   },
   {
+    "title": "A hittanokttás elõfeltételei",
+    "date": "2023.09.23",
+    "place": "Nagybereg",
+    "category": "Pedagógusképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230923A.mp3",
+    "uuid": "e85ffd04-0481-45ae-a1b1-9a979ffef45a",
+    "length": 3146,
+    "size": 9440370
+  },
+  {
     "title": "A hittanoktatás elõfeltételei",
     "date": "2023.09.23",
     "place": "Nagybereg",
@@ -1747,17 +1758,6 @@
     "uuid": "e27fbaaf-2093-40ff-86da-42c6ea189f2e",
     "length": 2294,
     "size": 6883022
-  },
-  {
-    "title": "A hittanokttás elõfeltételei",
-    "date": "2023.09.23",
-    "place": "Nagybereg",
-    "category": "Pedagógusképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230923A.mp3",
-    "uuid": "e85ffd04-0481-45ae-a1b1-9a979ffef45a",
-    "length": 3146,
-    "size": 9440370
   },
   {
     "title": "Gondolatok református pedagógiáról",
@@ -1958,17 +1958,6 @@
     "size": 6729408
   },
   {
-    "title": "legyen meg a te akaratod",
-    "date": "2023.08.18",
-    "place": "Piliscsaba",
-    "category": "Mi Atyánk",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230818B.mp3",
-    "uuid": "ff05edab-0471-49a4-8cce-c746446abedf",
-    "length": 2350,
-    "size": 7051442
-  },
-  {
     "title": "jöjjön el a te országod",
     "date": "2023.08.18",
     "place": "Piliscsaba",
@@ -1978,6 +1967,17 @@
     "uuid": "87ae9e03-3221-4614-b273-d2b1837ac818",
     "length": 2249,
     "size": 6749570
+  },
+  {
+    "title": "legyen meg a te akaratod",
+    "date": "2023.08.18",
+    "place": "Piliscsaba",
+    "category": "Mi Atyánk",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230818B.mp3",
+    "uuid": "ff05edab-0471-49a4-8cce-c746446abedf",
+    "length": 2350,
+    "size": 7051442
   },
   {
     "title": "szenteltessék meg a te neved",
@@ -2101,15 +2101,15 @@
     "size": 7138732
   },
   {
-    "title": "Gyülekezeti tagokból tanítványok (4) - lelki növekedés",
+    "title": "Gyülekezeti tagokból tanítványok (6) - sáfárság",
     "date": "2023.04.25",
     "place": "Sólyomkõvár",
     "category": "Lelkészképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425B.mp3",
-    "uuid": "d5755b3a-93b3-4f4a-9bc6-966e0ef4b008",
-    "length": 3020,
-    "size": 9061338
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425D.mp3",
+    "uuid": "882dbc8f-196a-4acb-af0e-ec46dbf1e184",
+    "length": 2732,
+    "size": 8196388
   },
   {
     "title": "Gyülekezeti tagokból tanítványok (3) - pásztori feladatok",
@@ -2134,15 +2134,15 @@
     "size": 7483606
   },
   {
-    "title": "Gyülekezeti tagokból tanítványok (6) - sáfárság",
+    "title": "Gyülekezeti tagokból tanítványok (4) - lelki növekedés",
     "date": "2023.04.25",
     "place": "Sólyomkõvár",
     "category": "Lelkészképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425D.mp3",
-    "uuid": "882dbc8f-196a-4acb-af0e-ec46dbf1e184",
-    "length": 2732,
-    "size": 8196388
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20230425B.mp3",
+    "uuid": "d5755b3a-93b3-4f4a-9bc6-966e0ef4b008",
+    "length": 3020,
+    "size": 9061338
   },
   {
     "title": "Gyülekezeti tagokból tanítványok (1) - Pál apostol módszere",
@@ -2365,15 +2365,15 @@
     "size": 8209174
   },
   {
-    "title": "Lelki fejlõdés (2) - Alapvetés",
+    "title": "Lelki fejlõdés (1) - Bevezetés",
     "date": "2023.02.04",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204B.mp3",
-    "uuid": "ba124acf-960f-4e73-b4fe-4aa2c14a62ff",
-    "length": 2603,
-    "size": 7810776
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204A.mp3",
+    "uuid": "178b2f26-c5d6-4f88-b054-49ae7f9b7c44",
+    "length": 2318,
+    "size": 6956136
   },
   {
     "title": "Lelki fejlõdés (5) - Próbák",
@@ -2398,15 +2398,15 @@
     "size": 3660996
   },
   {
-    "title": "Lelki fejlõdés (1) - Bevezetés",
+    "title": "Lelki fejlõdés (2) - Alapvetés",
     "date": "2023.02.04",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204A.mp3",
-    "uuid": "178b2f26-c5d6-4f88-b054-49ae7f9b7c44",
-    "length": 2318,
-    "size": 6956136
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20230204B.mp3",
+    "uuid": "ba124acf-960f-4e73-b4fe-4aa2c14a62ff",
+    "length": 2603,
+    "size": 7810776
   },
   {
     "title": "Ez 34,15-24",
@@ -2937,6 +2937,17 @@
     "size": 6927058
   },
   {
+    "title": "Kisiskoláskor",
+    "date": "2022.03.29",
+    "place": "Sólyomkõvár",
+    "category": "Lelkészképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20220329A.mp3",
+    "uuid": "f8f3d72a-addb-46a3-85ee-31c5873adf7d",
+    "length": 2799,
+    "size": 8399718
+  },
+  {
     "title": "Fiatal felnõttkor",
     "date": "2022.03.29",
     "place": "Sólyomkõvár",
@@ -2946,17 +2957,6 @@
     "uuid": "b4756ade-ada0-4546-b824-581defbd6c7e",
     "length": 2931,
     "size": 8793782
-  },
-  {
-    "title": "A középkorúak életválságai",
-    "date": "2022.03.29",
-    "place": "Sólyomkõvár",
-    "category": "Lelkészképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20220329D.mp3",
-    "uuid": "0a6c298e-91af-439e-9d2d-02a9a68946ee",
-    "length": 2667,
-    "size": 8001296
   },
   {
     "title": "Kamaszkor",
@@ -2970,15 +2970,15 @@
     "size": 9335051
   },
   {
-    "title": "Kisiskoláskor",
+    "title": "A középkorúak életválságai",
     "date": "2022.03.29",
     "place": "Sólyomkõvár",
     "category": "Lelkészképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20220329A.mp3",
-    "uuid": "f8f3d72a-addb-46a3-85ee-31c5873adf7d",
-    "length": 2799,
-    "size": 8399718
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20220329D.mp3",
+    "uuid": "0a6c298e-91af-439e-9d2d-02a9a68946ee",
+    "length": 2667,
+    "size": 8001296
   },
   {
     "title": "Az életkori sajátosságok szerepe szolgálatainkban",
@@ -3058,15 +3058,15 @@
     "size": 7728510
   },
   {
-    "title": "Tulajdon és kincs",
+    "title": "Isten országa",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226C.mp3",
-    "uuid": "c69d6d7d-688e-4cb0-a3d5-9d9cc58aacd5",
-    "length": 2239,
-    "size": 6719374
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226E.mp3",
+    "uuid": "0bba1ddc-37db-4a6a-aa0c-9a3e78e3f23f",
+    "length": 2545,
+    "size": 7635278
   },
   {
     "title": "A bibliai szöveg megbízhatósága",
@@ -3102,15 +3102,15 @@
     "size": 4180680
   },
   {
-    "title": "Isten országa",
+    "title": "Tulajdon és kincs",
     "date": "2022.02.26",
     "place": "Dunaszentgyörgy",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226E.mp3",
-    "uuid": "0bba1ddc-37db-4a6a-aa0c-9a3e78e3f23f",
-    "length": 2545,
-    "size": 7635278
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20220226C.mp3",
+    "uuid": "c69d6d7d-688e-4cb0-a3d5-9d9cc58aacd5",
+    "length": 2239,
+    "size": 6719374
   },
   {
     "title": "Kol 3,17-4,1",
@@ -3212,17 +3212,6 @@
     "size": 6139973
   },
   {
-    "title": "ApCsel 4,32-5,11",
-    "date": "2022.01.09",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Az apostolok cselekedetei",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/ApCsel/MLW20220109.mp3",
-    "uuid": "51907a74-9190-4b01-9710-09f198184ddf",
-    "length": 2288,
-    "size": 6864446
-  },
-  {
     "title": "ApCsel  4,32-5,11",
     "date": "2022.01.09",
     "place": "Dombóvár",
@@ -3230,6 +3219,17 @@
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/ApCsel/MLW20220109.mp3",
     "uuid": "6ad9191a-5894-4aa8-b9ef-1a84ed54ee9e",
+    "length": 2288,
+    "size": 6864446
+  },
+  {
+    "title": "ApCsel 4,32-5,11",
+    "date": "2022.01.09",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Az apostolok cselekedetei",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/ApCsel/MLW20220109.mp3",
+    "uuid": "51907a74-9190-4b01-9710-09f198184ddf",
     "length": 2288,
     "size": 6864446
   },
@@ -3344,15 +3344,15 @@
     "size": 9934320
   },
   {
-    "title": "Ekkléziasztika (2) - Megszentelõdés, ünneplés",
+    "title": "Ekkléziasztika (1) - Igeértés, imádság",
     "date": "2021.12.06",
     "place": "Szilágysomlyó",
     "category": "Lelkészképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3",
-    "uuid": "a3428011-493e-41c1-bf53-8981a4774746",
-    "length": 3297,
-    "size": 9892486
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206A.mp3",
+    "uuid": "3947b546-8586-4d56-94cd-c26defc9d7ae",
+    "length": 3049,
+    "size": 9147924
   },
   {
     "title": "Ekkléziasztika (3) - Önismeret, pásztori ismeretek",
@@ -3366,15 +3366,15 @@
     "size": 8435000
   },
   {
-    "title": "Ekkléziasztika (1) - Igeértés, imádság",
+    "title": "Ekkléziasztika (2) - Megszentelõdés, ünneplés",
     "date": "2021.12.06",
     "place": "Szilágysomlyó",
     "category": "Lelkészképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206A.mp3",
-    "uuid": "3947b546-8586-4d56-94cd-c26defc9d7ae",
-    "length": 3049,
-    "size": 9147924
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20211206B.mp3",
+    "uuid": "a3428011-493e-41c1-bf53-8981a4774746",
+    "length": 3297,
+    "size": 9892486
   },
   {
     "title": "Lk 1,75",
@@ -3776,10 +3776,10 @@
     "title": "1Kor 3,5-17",
     "date": "2020.09.06",
     "place": "Bátaszék",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20200906.mp3",
-    "uuid": "9ff1cba3-a6ec-4c50-8aef-f75ecc196d7c",
+    "uuid": "37fe79c1-9376-4724-adfa-7cd020435d77",
     "length": 2210,
     "size": 6632889
   },
@@ -3787,10 +3787,10 @@
     "title": "1Kor 3,5-17",
     "date": "2020.09.06",
     "place": "Bátaszék",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20200906.mp3",
-    "uuid": "37fe79c1-9376-4724-adfa-7cd020435d77",
+    "uuid": "9ff1cba3-a6ec-4c50-8aef-f75ecc196d7c",
     "length": 2210,
     "size": 6632889
   },
@@ -4051,10 +4051,10 @@
     "title": "Csoportból csapat",
     "date": "2019.12.07",
     "place": "Madocsa",
-    "category": "Presbiterképzés",
+    "category": "Pedagógusképzés",
     "video": null,
     "download": "Eloadasok/Tematikus/Kepzes/MLW20191207.mp3",
-    "uuid": "366debe1-3e55-4e85-851e-be43431783c8",
+    "uuid": "6ae6a77f-40f6-41b4-b9bb-f4bb665b993e",
     "length": 2016,
     "size": 6050208
   },
@@ -4062,10 +4062,10 @@
     "title": "Csoportból csapat",
     "date": "2019.12.07",
     "place": "Madocsa",
-    "category": "Pedagógusképzés",
+    "category": "Presbiterképzés",
     "video": null,
     "download": "Eloadasok/Tematikus/Kepzes/MLW20191207.mp3",
-    "uuid": "6ae6a77f-40f6-41b4-b9bb-f4bb665b993e",
+    "uuid": "366debe1-3e55-4e85-851e-be43431783c8",
     "length": 2016,
     "size": 6050208
   },
@@ -6130,10 +6130,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
+    "category": "Bibliamagyarázat - A királyok első könyve",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
+    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
     "length": 2099,
     "size": 6299115
   },
@@ -6141,10 +6141,10 @@
     "title": "1Kor 15,20-28",
     "date": "2017.05.28",
     "place": "Lengyel",
-    "category": "Bibliamagyarázat - A királyok első könyve",
+    "category": "Bibliamagyarázat - Pál első levele a korinthusiakhoz",
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/1Kor/MLW20170528.mp3",
-    "uuid": "0587021d-5833-44d9-9cc5-c949f96c868d",
+    "uuid": "01147ed0-585a-420c-b69b-69a7628b1a6d",
     "length": 2099,
     "size": 6299115
   },
@@ -6413,15 +6413,15 @@
     "size": 9839608
   },
   {
-    "title": "Folytonosság (Izráel - egyház- Isten országa)",
+    "title": "Szentség",
     "date": "2017.03.25",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170325A.mp3",
-    "uuid": "0c0343e1-7a0c-415b-8514-601395694681",
-    "length": 2532,
-    "size": 7597124
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170325D.mp3",
+    "uuid": "94e303a6-5924-49ec-bf9a-cfe27594716a",
+    "length": 2984,
+    "size": 8952335
   },
   {
     "title": "Egység",
@@ -6446,15 +6446,15 @@
     "size": 8851965
   },
   {
-    "title": "Szentség",
+    "title": "Folytonosság (Izráel - egyház- Isten országa)",
     "date": "2017.03.25",
     "place": "Fadd",
     "category": "Vallásismeret - Egyháztan",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170325D.mp3",
-    "uuid": "94e303a6-5924-49ec-bf9a-cfe27594716a",
-    "length": 2984,
-    "size": 8952335
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20170325A.mp3",
+    "uuid": "0c0343e1-7a0c-415b-8514-601395694681",
+    "length": 2532,
+    "size": 7597124
   },
   {
     "title": "Róm 6,12-14",
@@ -6831,17 +6831,6 @@
     "size": 6024668
   },
   {
-    "title": "Testületi vezetés",
-    "date": "2016.09.04",
-    "place": "Bögöz",
-    "category": "Presbiterképzés",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20160904B.mp3",
-    "uuid": "1bd043ae-da0f-492c-b0d5-bf6bfd322bed",
-    "length": 2345,
-    "size": 7035643
-  },
-  {
     "title": "Mt 6,10a",
     "date": "2016.09.04",
     "place": "Bögöz",
@@ -6851,6 +6840,17 @@
     "uuid": "1492b666-0de0-4967-8341-5639d1538829",
     "length": 2380,
     "size": 7142578
+  },
+  {
+    "title": "Testületi vezetés",
+    "date": "2016.09.04",
+    "place": "Bögöz",
+    "category": "Presbiterképzés",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20160904B.mp3",
+    "uuid": "1bd043ae-da0f-492c-b0d5-bf6bfd322bed",
+    "length": 2345,
+    "size": 7035643
   },
   {
     "title": "Hogyan kezdjünk hozzá?",
@@ -6963,17 +6963,6 @@
     "size": 9764655
   },
   {
-    "title": "Hivatás",
-    "date": "2016.07.21",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Keresztyén élet",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160721A.mp3",
-    "uuid": "56cabd2b-4774-4208-ac8a-c52c17311875",
-    "length": 2758,
-    "size": 8274721
-  },
-  {
     "title": "Párkapcsolat",
     "date": "2016.07.21",
     "place": "Piliscsaba",
@@ -6983,6 +6972,17 @@
     "uuid": "09ba2931-b0ea-417c-872d-fbae98a7db8b",
     "length": 3163,
     "size": 9490443
+  },
+  {
+    "title": "Hivatás",
+    "date": "2016.07.21",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Keresztyén élet",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160721A.mp3",
+    "uuid": "56cabd2b-4774-4208-ac8a-c52c17311875",
+    "length": 2758,
+    "size": 8274721
   },
   {
     "title": "Kicsoda az ember?",
@@ -7359,15 +7359,15 @@
     "size": 11179004
   },
   {
-    "title": "Biblika teológia - bevezetés",
+    "title": "Biblika teológia - az örökrész ígérete",
     "date": "2016.02.20",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220A.mp3",
-    "uuid": "f894d5c8-f566-449c-a448-1632a679d3b8",
-    "length": 2040,
-    "size": 6120707
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220D.mp3",
+    "uuid": "5e2b1616-4d3f-4a2f-88e6-f83003f952d9",
+    "length": 1959,
+    "size": 5877529
   },
   {
     "title": "Biblika teológia - a szent nemzet ígérete",
@@ -7392,15 +7392,15 @@
     "size": 6132685
   },
   {
-    "title": "Biblika teológia - az örökrész ígérete",
+    "title": "Biblika teológia - bevezetés",
     "date": "2016.02.20",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220D.mp3",
-    "uuid": "5e2b1616-4d3f-4a2f-88e6-f83003f952d9",
-    "length": 1959,
-    "size": 5877529
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20160220A.mp3",
+    "uuid": "f894d5c8-f566-449c-a448-1632a679d3b8",
+    "length": 2040,
+    "size": 6120707
   },
   {
     "title": "Mk 11,12-19 (A)",
@@ -7535,17 +7535,6 @@
     "size": 6706625
   },
   {
-    "title": "4Móz 35,16-21 & 30-34",
-    "date": "2015.12.06",
-    "place": "Lengyel",
-    "category": "Bibliamagyarázat - Mózes negyedik könyve",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/4Moz/MLW20151206.mp3",
-    "uuid": "f36ec044-08f9-47d1-bce5-c24386b0713a",
-    "length": 2150,
-    "size": 6451957
-  },
-  {
     "title": "3Móz 25,23-28 & 47-55",
     "date": "2015.12.06",
     "place": "Lengyel",
@@ -7553,6 +7542,17 @@
     "video": null,
     "download": "Eloadasok/Bibliamagyarazat/3Moz/MLW20151206.mp3",
     "uuid": "4d29a6e7-6415-4736-88fa-62b43bee8e67",
+    "length": 2150,
+    "size": 6451957
+  },
+  {
+    "title": "4Móz 35,16-21 & 30-34",
+    "date": "2015.12.06",
+    "place": "Lengyel",
+    "category": "Bibliamagyarázat - Mózes negyedik könyve",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/4Moz/MLW20151206.mp3",
+    "uuid": "f36ec044-08f9-47d1-bce5-c24386b0713a",
     "length": 2150,
     "size": 6451957
   },
@@ -7810,17 +7810,6 @@
     "size": 10552086
   },
   {
-    "title": "Mire való az egyház?",
-    "date": "2015.07.09",
-    "place": "Piliscsaba",
-    "category": "Vallásismeret - Tanítványság",
-    "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709A.mp3",
-    "uuid": "c78ea454-4231-48ee-9cce-1c51a090b5c8",
-    "length": 2262,
-    "size": 6788629
-  },
-  {
     "title": "Milyen példát mutatott Tanítónk?",
     "date": "2015.07.09",
     "place": "Piliscsaba",
@@ -7830,6 +7819,17 @@
     "uuid": "86eaafb6-3f85-44de-b18b-f1688c8a580d",
     "length": 2778,
     "size": 8336643
+  },
+  {
+    "title": "Mire való az egyház?",
+    "date": "2015.07.09",
+    "place": "Piliscsaba",
+    "category": "Vallásismeret - Tanítványság",
+    "video": null,
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150709A.mp3",
+    "uuid": "c78ea454-4231-48ee-9cce-1c51a090b5c8",
+    "length": 2262,
+    "size": 6788629
   },
   {
     "title": "2Móz 32,7-16 & 19",
@@ -8107,15 +8107,15 @@
     "size": 5514735
   },
   {
-    "title": "A bibliai mentálhigiéné alapjai",
+    "title": "Megbélyegzésrõl",
     "date": "2015.03.13",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313A.mp3",
-    "uuid": "5bfb8974-62a9-4d9e-9258-b05ff5e5612f",
-    "length": 3072,
-    "size": 9218358
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313C.mp3",
+    "uuid": "6f2ed631-ae64-4075-94f1-553a38848ffa",
+    "length": 1321,
+    "size": 3965676
   },
   {
     "title": "Szorongásról",
@@ -8129,15 +8129,15 @@
     "size": 8577275
   },
   {
-    "title": "Megbélyegzésrõl",
+    "title": "A bibliai mentálhigiéné alapjai",
     "date": "2015.03.13",
     "place": "Pécel",
     "category": "Pedagógusképzés",
     "video": null,
-    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313C.mp3",
-    "uuid": "6f2ed631-ae64-4075-94f1-553a38848ffa",
-    "length": 1321,
-    "size": 3965676
+    "download": "Eloadasok/Tematikus/Kepzes/MLW20150313A.mp3",
+    "uuid": "5bfb8974-62a9-4d9e-9258-b05ff5e5612f",
+    "length": 3072,
+    "size": 9218358
   },
   {
     "title": "Gondolatok a bibliai mentálhigiénérõl",
@@ -8206,15 +8206,15 @@
     "size": 4947432
   },
   {
-    "title": "A kolosséiakhoz, Filemonhoz",
+    "title": "A második levél Timóteushoz",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228C.mp3",
-    "uuid": "525184f9-a62c-4fca-be96-a42cbfcedbe4",
-    "length": 2782,
-    "size": 8348140
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228F.mp3",
+    "uuid": "24fd119b-d3f2-4ca9-9a02-5e8b7d4a8994",
+    "length": 1412,
+    "size": 4236045
   },
   {
     "title": "Filippi, 1Timóteus és Titusz",
@@ -8261,15 +8261,15 @@
     "size": 7109870
   },
   {
-    "title": "A második levél Timóteushoz",
+    "title": "A kolosséiakhoz, Filemonhoz",
     "date": "2015.02.28",
     "place": "Fadd",
     "category": "Vallásismeret - Bibliaismeret",
     "video": null,
-    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228F.mp3",
-    "uuid": "24fd119b-d3f2-4ca9-9a02-5e8b7d4a8994",
-    "length": 1412,
-    "size": 4236045
+    "download": "Eloadasok/Tematikus/Vallasismeret/MLW20150228C.mp3",
+    "uuid": "525184f9-a62c-4fca-be96-a42cbfcedbe4",
+    "length": 2782,
+    "size": 8348140
   },
   {
     "title": "1Móz 21,22-34",
@@ -9196,17 +9196,6 @@
     "size": 5600624
   },
   {
-    "title": "Mk 3,13-19",
-    "date": "2014.05.25",
-    "place": "Dombóvár",
-    "category": "Bibliamagyarázat - Márk evangéliuma",
-    "video": null,
-    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140525A.mp3",
-    "uuid": "8c58d2ec-a69e-4f40-a13f-25a3a7a7a0f3",
-    "length": 1914,
-    "size": 5744272
-  },
-  {
     "title": "Ef 1,13-14",
     "date": "2014.05.25",
     "place": "Dombóvár",
@@ -9216,6 +9205,17 @@
     "uuid": "93d73cc6-2ed7-4368-bdc8-9d0e9292d46a",
     "length": 1649,
     "size": 4948843
+  },
+  {
+    "title": "Mk 3,13-19",
+    "date": "2014.05.25",
+    "place": "Dombóvár",
+    "category": "Bibliamagyarázat - Márk evangéliuma",
+    "video": null,
+    "download": "Eloadasok/Bibliamagyarazat/Mark/MLW20140525A.mp3",
+    "uuid": "8c58d2ec-a69e-4f40-a13f-25a3a7a7a0f3",
+    "length": 1914,
+    "size": 5744272
   },
   {
     "title": "2Tim 4",
