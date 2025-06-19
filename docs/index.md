@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 19 Jun 2025 17:33:30 +0100
+✅ Legutóbb frissítve: Thu, 19 Jun 2025 22:34:29 +0100
 
 Epizódok száma: 3335
 
@@ -37,7 +37,7 @@ Epizódok száma: 3335
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 19 Jun 2025 17:33:31 +0100
+✅ Legutóbb frissítve: Thu, 19 Jun 2025 22:34:30 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 19 Jun 2025 17:33:52 +0100
+✅ Legutóbb frissítve: Thu, 19 Jun 2025 22:34:45 +0100
 
-Epizódok száma: 1010
+Epizódok száma: 1011
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1010
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.06.19 - Jn 6,36 - Bibliamagyarázat - János evangéliuma
  - 2025.06.09 - 2Kor 1,21-22 - Bibliamagyarázat - Pál második levele a korinthusiakhoz
  - 2025.06.01 - Gondolatok a konfirmációról - Vallásismeret - Egyháztan
  - 2025.05.18 - Zsolt 96 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.05.18 - Zsolt 97 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.05.16 - Péld 11,24-25 - Bibliamagyarázat - A példabeszédek könyve
- - 2025.05.11 - Zsid 12,18-29 - Bibliamagyarázat - A zsidókhoz írt levél
 
 ---
 
