@@ -894,10 +894,10 @@
     "title": "Úrvacsora után (Katonatelep)",
     "bible": "Kolossé 3, 17",
     "date": "2025.03.09",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_09_Laczay_András.mp3",
-    "uuid": "23e5b8ac-5390-4cc7-8ca1-c672cca7e464",
+    "uuid": "99b42ab1-1df3-4757-85f5-8dab17643e9a",
     "length": 2918,
     "size": 40861792
   },
@@ -905,10 +905,10 @@
     "title": "Úrvacsora után (Katonatelep)",
     "bible": "Kolossé 3, 17",
     "date": "2025.03.09",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_09_Laczay_András.mp3",
-    "uuid": "99b42ab1-1df3-4757-85f5-8dab17643e9a",
+    "uuid": "23e5b8ac-5390-4cc7-8ca1-c672cca7e464",
     "length": 2918,
     "size": 40861792
   },
@@ -2860,15 +2860,15 @@
     "size": 49383398
   },
   {
-    "title": "Hamis boldogság - 14h - TGT - Tábornyitó Istentisztelet",
-    "bible": "1 Zsoltár 1-2",
+    "title": "Az igazak és a bűnösök sorsa. - 17h",
+    "bible": "1 Zsoltár",
     "date": "2024.07.21",
-    "pastor": "Varga Nándor",
+    "pastor": "Mikesi Károly",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_14h_VN_1Zsoltár1-2_Hamis_boldogság.mp3",
-    "uuid": "79bd86e9-3814-445a-864c-016c618c40af",
-    "length": 1469,
-    "size": 23517359
+    "download": "/media/files/igehirdetesek/20240721_17h_MK_1Zsoltár_Az_igazak_és_a_bűnösök_útja.mp3",
+    "uuid": "c889b58c-abe6-4d64-8845-87e5ea6dd28b",
+    "length": 2825,
+    "size": 45203367
   },
   {
     "title": "Minden napom, minden napon az Úrral. - Vasárnap este",
@@ -2882,15 +2882,15 @@
     "size": 69856912
   },
   {
-    "title": "Az igazak és a bűnösök sorsa. - 17h",
-    "bible": "1 Zsoltár",
+    "title": "Hamis boldogság - 14h - TGT - Tábornyitó Istentisztelet",
+    "bible": "1 Zsoltár 1-2",
     "date": "2024.07.21",
-    "pastor": "Mikesi Károly",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_17h_MK_1Zsoltár_Az_igazak_és_a_bűnösök_útja.mp3",
-    "uuid": "c889b58c-abe6-4d64-8845-87e5ea6dd28b",
-    "length": 2825,
-    "size": 45203367
+    "download": "/media/files/igehirdetesek/20240721_14h_VN_1Zsoltár1-2_Hamis_boldogság.mp3",
+    "uuid": "79bd86e9-3814-445a-864c-016c618c40af",
+    "length": 1469,
+    "size": 23517359
   },
   {
     "title": "\"Mert aki kér, mind kap\" - 11h",
@@ -7975,17 +7975,6 @@
     "size": 101871307
   },
   {
-    "title": "A betsaidai vak meggyógyítása. - Széchenyiváros",
-    "bible": "Márk 8,22-26.",
-    "date": "2022.07.24",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220724_9,30h_SZZS_Márk8,22-26_A_betsaidai_vak_meggyógyítása.mp3",
-    "uuid": "ff1e73a9-fa90-4b07-8b70-3ff79c9c96ef",
-    "length": 3475,
-    "size": 55614042
-  },
-  {
     "title": "Isten neveli népét. - 18h",
     "bible": "Hóseás 3,3-4",
     "date": "2022.07.24",
@@ -7995,6 +7984,17 @@
     "uuid": "fb506881-9487-41ac-b97c-ebafe64cf1ed",
     "length": 1883,
     "size": 45206699
+  },
+  {
+    "title": "A betsaidai vak meggyógyítása. - Széchenyiváros",
+    "bible": "Márk 8,22-26.",
+    "date": "2022.07.24",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220724_9,30h_SZZS_Márk8,22-26_A_betsaidai_vak_meggyógyítása.mp3",
+    "uuid": "ff1e73a9-fa90-4b07-8b70-3ff79c9c96ef",
+    "length": 3475,
+    "size": 55614042
   },
   {
     "title": "Alvás és ébrenlét. - 11h",
@@ -13299,15 +13299,15 @@
     "size": 60860844
   },
   {
-    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
-    "bible": "1 János 4,8 b",
+    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
+    "bible": "Római 10,14-17",
     "date": "2020.08.30",
-    "pastor": "Komádi Róbert",
+    "pastor": "Laczay András",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
-    "length": 3659,
-    "size": 58547991
+    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
+    "length": 2860,
+    "size": 45771397
   },
   {
     "title": "Az igaz istentisztelet - 18h",
@@ -13321,15 +13321,15 @@
     "size": 39542307
   },
   {
-    "title": "Isten szól, kérd a segítségét - A Református Gimnázium Tanévnyitó Istentisztelete - 17h",
-    "bible": "Római 10,14-17",
+    "title": "Isten szeretet A Református Általános Iskola Tanévnyitó Istentisztelete - 14,30h",
+    "bible": "1 János 4,8 b",
     "date": "2020.08.30",
-    "pastor": "Laczay András",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20200830_17h_LA_Romaiakhoz10,14-17_Isten_szol,_kerd_a_segitseget_A_Reformatus_Gimnazium_Tanevnyito_Istentisztelete.mp3",
-    "uuid": "2be35079-dbb5-424f-8b44-03d8e6e96cbd",
-    "length": 2860,
-    "size": 45771397
+    "download": "/media/files/igehirdetesek/20200830_14,30_KR_1Janos4,8b_Isten_szeretet_A_Reformatus_Altalanos_Iskola_Tanevnyito_Istentisztelete.mp3",
+    "uuid": "55dd1dea-0146-4ebe-9053-1077ada0f289",
+    "length": 3659,
+    "size": 58547991
   },
   {
     "title": "Mindenkinek lesz ítélet, de a kegyelmi idő alatt változhatsz - 11h",
@@ -18403,17 +18403,6 @@
     "size": 45622360
   },
   {
-    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
-    "bible": "Lukács15,22-24;31-32",
-    "date": "2018.09.02",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
-    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
-    "length": 3905,
-    "size": 62484087
-  },
-  {
     "title": "Adok, hogy adj - 18h",
     "bible": "Lukács14,12-15",
     "date": "2018.09.02",
@@ -18423,6 +18412,17 @@
     "uuid": "ab6f8fc6-410f-4421-8da8-2e032824fa2b",
     "length": 2157,
     "size": 34512169
+  },
+  {
+    "title": "A tékozló fiúk - 17h (gimi.évnyitó)",
+    "bible": "Lukács15,22-24;31-32",
+    "date": "2018.09.02",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20180902_17h_KJ_Luk15,22-24,31-32_Tékozlófiúk.MP3",
+    "uuid": "4367c30d-2e0c-463c-902d-db369fd5647b",
+    "length": 3905,
+    "size": 62484087
   },
   {
     "title": "A jó lelked vezéreljen - 11h",
@@ -20823,17 +20823,6 @@
     "size": 20940427
   },
   {
-    "title": "Békesség nektek - 18h",
-    "bible": "Lukács24,36",
-    "date": "2016.08.31",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/160831 18h KJ_gimn.evnyit.it_Bekesseg nektek_Lk24,36.mp3",
-    "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
-    "length": 3710,
-    "size": 29687058
-  },
-  {
     "title": "Halljuk-e Isten hívását, szavát - 16,30h",
     "bible": "1Sámuel,3,10",
     "date": "2016.08.31",
@@ -20843,6 +20832,17 @@
     "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
     "length": 3093,
     "size": 24749080
+  },
+  {
+    "title": "Békesség nektek - 18h",
+    "bible": "Lukács24,36",
+    "date": "2016.08.31",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/160831 18h KJ_gimn.evnyit.it_Bekesseg nektek_Lk24,36.mp3",
+    "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
+    "length": 3710,
+    "size": 29687058
   },
   {
     "title": "Nem bűneink szerint bánik velünk - 11h",
@@ -22770,15 +22770,15 @@
     "size": 13927489
   },
   {
-    "title": "Ne féljetek, feltámadt - 9,40h",
-    "bible": "Márk16,6",
+    "title": "Hittel megtelt diákélet - 7,15h",
+    "bible": "Lukács17,5-7",
     "date": "2015.04.01",
-    "pastor": "Komádi Róbert",
+    "pastor": "Tuska Noémi diák",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
-    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
-    "length": 1738,
-    "size": 13907845
+    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
+    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
+    "length": 564,
+    "size": 4513586
   },
   {
     "title": "Nincs itt, feltámadt - 10,35h",
@@ -22803,15 +22803,15 @@
     "size": 14294249
   },
   {
-    "title": "Hittel megtelt diákélet - 7,15h",
-    "bible": "Lukács17,5-7",
+    "title": "Ne féljetek, feltámadt - 9,40h",
+    "bible": "Márk16,6",
     "date": "2015.04.01",
-    "pastor": "Tuska Noémi diák",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/150401 7.15h Tuska Noemi_vegz.diakok szolg_Hittel megelt diakelet_Lk17,5_7.mp3",
-    "uuid": "3df8921e-f540-493b-8e22-5f055792099f",
-    "length": 564,
-    "size": 4513586
+    "download": "/media/files/igehirdetesek/150401 9.40h KR_alt.isk.husv.ah_Ne feljetek, feltamadt_Mk16,6.mp3",
+    "uuid": "7fa3cf0c-5c7f-4ea8-be31-05f0ea8e37e9",
+    "length": 1738,
+    "size": 13907845
   },
   {
     "title": "Hétköznapi csodák - 7,15h",
@@ -24904,17 +24904,6 @@
     "size": 22901491
   },
   {
-    "title": "Jézus után nekünk is szenvednünk kell - 18h",
-    "bible": "Jób24,1-7",
-    "date": "2014.04.26",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140426 18h SzSz_hetz.it_Jezus utun nekunk is szenvednunk kell_Job24,1_7.mp3",
-    "uuid": "38378231-0d21-4a09-af6b-900446709318",
-    "length": 1574,
-    "size": 12594617
-  },
-  {
     "title": "Tarts ki a világosságban - 7,15h",
     "bible": "Jób24,13-17",
     "date": "2014.04.26",
@@ -24924,6 +24913,17 @@
     "uuid": "1c316ce4-c97b-4a78-ac83-451716974971",
     "length": 1020,
     "size": 8161116
+  },
+  {
+    "title": "Jézus után nekünk is szenvednünk kell - 18h",
+    "bible": "Jób24,1-7",
+    "date": "2014.04.26",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140426 18h SzSz_hetz.it_Jezus utun nekunk is szenvednunk kell_Job24,1_7.mp3",
+    "uuid": "38378231-0d21-4a09-af6b-900446709318",
+    "length": 1574,
+    "size": 12594617
   },
   {
     "title": "Váratlan segítség, amikor elnyel a tenger - 7,15h",
@@ -28204,17 +28204,6 @@
     "size": 14829862
   },
   {
-    "title": "Van ér van csodás erő - 18h",
-    "bible": "1János5,4-5",
-    "date": "2012.12.31",
-    "pastor": "Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/121231_18h_PN_Van_er_van_csodas_ero_1Jn5_4_5.mp3",
-    "uuid": "2e5b78e6-5a18-44b9-88ed-89e5e9a832cf",
-    "length": 1723,
-    "size": 13788308
-  },
-  {
     "title": "Jézussal a világ végéig - 15h",
     "bible": "Lukács21,5-19",
     "date": "2012.12.31",
@@ -28224,6 +28213,17 @@
     "uuid": "837b42d2-a11f-4a59-b258-10404cd3385c",
     "length": 1724,
     "size": 13795622
+  },
+  {
+    "title": "Van ér van csodás erő - 18h",
+    "bible": "1János5,4-5",
+    "date": "2012.12.31",
+    "pastor": "Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/121231_18h_PN_Van_er_van_csodas_ero_1Jn5_4_5.mp3",
+    "uuid": "2e5b78e6-5a18-44b9-88ed-89e5e9a832cf",
+    "length": 1723,
+    "size": 13788308
   },
   {
     "title": "Szelíd szemed Úr Jézus - 11h",
@@ -31229,17 +31229,6 @@
     "size": 44443106
   },
   {
-    "title": "Világosság gyermekei - 18h",
-    "bible": "Efézus5,8-9",
-    "date": "2011.06.13",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110613_18h_AM_Vilagossag_gyermekei-Ef5_8_9.mp3",
-    "uuid": "0b1748d5-5191-467a-9300-6fec83557b23",
-    "length": 2467,
-    "size": 19741092
-  },
-  {
     "title": "A Lélek dolgaival való törödés, pedig élet és békesség - 11,30h",
     "bible": "Római8,1-12",
     "date": "2011.06.13",
@@ -31249,6 +31238,17 @@
     "uuid": "ad486dbc-2967-4a47-bcdb-c74216284f76",
     "length": 1496,
     "size": 11974783
+  },
+  {
+    "title": "Világosság gyermekei - 18h",
+    "bible": "Efézus5,8-9",
+    "date": "2011.06.13",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110613_18h_AM_Vilagossag_gyermekei-Ef5_8_9.mp3",
+    "uuid": "0b1748d5-5191-467a-9300-6fec83557b23",
+    "length": 2467,
+    "size": 19741092
   },
   {
     "title": "Konfirmáció - 9h",
@@ -31526,17 +31526,6 @@
     "size": 34082189
   },
   {
-    "title": "Szeressétek egymást - 7,15h",
-    "bible": "1Korinthus13,1-3",
-    "date": "2011.05.07",
-    "pastor": "Lakatos Enikő",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110507_Lakatos_Eniko_Szeressetek_egymast_1Kor13_1_3.mp3",
-    "uuid": "5cd62244-4ac1-4d27-a43a-3c504f4dc9a5",
-    "length": 1250,
-    "size": 10003479
-  },
-  {
     "title": "Ember kérdez, Isten cselekszik - 18h",
     "bible": "Márk3,1-6",
     "date": "2011.05.07",
@@ -31546,6 +31535,17 @@
     "uuid": "c1293674-af30-4464-a4e2-309c8f3fce6d",
     "length": 2726,
     "size": 21811870
+  },
+  {
+    "title": "Szeressétek egymást - 7,15h",
+    "bible": "1Korinthus13,1-3",
+    "date": "2011.05.07",
+    "pastor": "Lakatos Enikő",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110507_Lakatos_Eniko_Szeressetek_egymast_1Kor13_1_3.mp3",
+    "uuid": "5cd62244-4ac1-4d27-a43a-3c504f4dc9a5",
+    "length": 1250,
+    "size": 10003479
   },
   {
     "title": "Szeretet és imádság - 7,15h",
