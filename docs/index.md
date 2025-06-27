@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 27 Jun 2025 13:28:25 +0100
+✅ Legutóbb frissítve: Fri, 27 Jun 2025 17:33:20 +0100
 
-Epizódok száma: 3336
+Epizódok száma: 3341
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3336
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.06.22 - Örülj az életnek, míg tart - 11h - Vincze Árpád
+ - 2025.06.22 - "Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból. - 9h - Gimnáziumi tanévzáró" - Vincze Árpád
+ - 2025.06.22 - "Többet ér a bölcsesség a hatalomnál. - 17h - Általános Iskola tanévzáró - Varga Nándor
  - 2025.06.22 - Vezetőre várva - Széchenyiváros - Pál Ferenc
- - 2025.06.15 - A romok üzenete. - Széchenyiváros - Varga Nándor
- - 2025.06.09 - Keresték és kutatták az üdvösséget. - 9h - Gimnáziumi konfirmáció - Vincze Árpád
- - 2025.06.09 - Jézus a tengeren jár. - 11,30h - Általános iskolai konfirmáció - Petró Emőke
- - 2025.06.09 - Lélek gyümölcse - Széchenyiváros - Kohi-Pál Eszter
- - 2025.06.09 - A Lélek gyümölcstortája - Széchenyiváros - Kohi-Pál Eszter
+ - 2025.06.15 - Isten Izráel megváltója - 11h - Városi hittanosok évzárója - Szabóné Szanyi Ilona
+ - 2025.06.15 - "Hasonlóképpen, ti asszonyok...hasonlóképpen, ti férfiak..." - 9h - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3336
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 27 Jun 2025 13:28:26 +0100
+✅ Legutóbb frissítve: Fri, 27 Jun 2025 17:33:20 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 27 Jun 2025 13:28:43 +0100
+✅ Legutóbb frissítve: Fri, 27 Jun 2025 17:33:35 +0100
 
 Epizódok száma: 1011
 
