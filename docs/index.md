@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 29 Jun 2025 22:32:31 +0100
+✅ Legutóbb frissítve: Mon, 30 Jun 2025 08:46:52 +0100
 
-Epizódok száma: 3347
+Epizódok száma: 3348
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -29,7 +29,7 @@ Epizódok száma: 3347
  - 2025.06.29 - A király pohárnoka, Isten napszámosa. - Széchenyiváros - Szabó Zsuzsanna
  - 2025.06.29 - Az imádság meghallgatása. - 17h - Nagy Henrietta
  - 2025.06.22 - Örülj az életnek, míg tart - 11h - Vincze Árpád
- - 2025.06.22 - "Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból." - 9h - Gimnáziumi tanévzáró - Vincze Árpád
+ - 2025.06.22 - "Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból." - 9h - Gimnáziumi tanévzáró - Komádi Róbert
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3347
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 29 Jun 2025 22:32:32 +0100
+✅ Legutóbb frissítve: Mon, 30 Jun 2025 08:46:53 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 29 Jun 2025 22:32:49 +0100
+✅ Legutóbb frissítve: Mon, 30 Jun 2025 08:47:07 +0100
 
 Epizódok száma: 1011
 
