@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 05 Jul 2025 09:29:03 +0100
+✅ Legutóbb frissítve: Sat, 05 Jul 2025 13:26:44 +0100
 
 Epizódok száma: 3348
 
@@ -37,7 +37,7 @@ Epizódok száma: 3348
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 05 Jul 2025 09:29:04 +0100
+✅ Legutóbb frissítve: Sat, 05 Jul 2025 13:26:45 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 05 Jul 2025 09:29:27 +0100
+✅ Legutóbb frissítve: Sat, 05 Jul 2025 13:27:05 +0100
 
-Epizódok száma: 1011
+Epizódok száma: 1020
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1011
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2025.06.19 - Jn 6,36 - Bibliamagyarázat - János evangéliuma
- - 2025.06.09 - 2Kor 1,21-22 - Bibliamagyarázat - Pál második levele a korinthusiakhoz
- - 2025.06.01 - Gondolatok a konfirmációról - Vallásismeret - Egyháztan
- - 2025.05.18 - Zsolt 96 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.05.18 - Zsolt 97 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.05.16 - Péld 11,24-25 - Bibliamagyarázat - A példabeszédek könyve
+ - 2025.07.03 - Jer 33,1-11 - Bibliamagyarázat - Jeremiás próféta könyve
+ - 2025.07.02 - Jer 32,1-15 - Bibliamagyarázat - Jeremiás próféta könyve
+ - 2025.07.01 - JSir 3,25-33 - Bibliamagyarázat - Jeremiás siralmai
+ - 2025.06.30 - JSir 5 - Bibliamagyarázat - Jeremiás siralmai
+ - 2025.06.26 - Fordulópontok (4) - záróakkord - Lelkészképzés
+ - 2025.06.25 - Fordulópontok (3) - számonkérés - Lelkészképzés
 
 ---
 
