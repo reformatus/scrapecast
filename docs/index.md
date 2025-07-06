@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 06 Jul 2025 16:32:21 +0100
+✅ Legutóbb frissítve: Sun, 06 Jul 2025 17:31:11 +0100
 
 Epizódok száma: 3351
 
@@ -37,7 +37,7 @@ Epizódok száma: 3351
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 06 Jul 2025 16:32:22 +0100
+✅ Legutóbb frissítve: Sun, 06 Jul 2025 17:31:12 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 06 Jul 2025 16:32:45 +0100
+✅ Legutóbb frissítve: Sun, 06 Jul 2025 17:31:30 +0100
 
-Epizódok száma: 1020
+Epizódok száma: 1021
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1020
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.07.06 - 1Móz 11,1-9 - Bibliamagyarázat - Mózes első könyve
  - 2025.07.03 - Jer 33,1-11 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2025.07.02 - Jer 32,1-15 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2025.07.01 - JSir 3,25-33 - Bibliamagyarázat - Jeremiás siralmai
  - 2025.06.30 - JSir 5 - Bibliamagyarázat - Jeremiás siralmai
  - 2025.06.26 - Fordulópontok (4) - záróakkord - Lelkészképzés
- - 2025.06.25 - Fordulópontok (3) - számonkérés - Lelkészképzés
 
 ---
 
