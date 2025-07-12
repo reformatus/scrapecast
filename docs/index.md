@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 12 Jul 2025 09:30:38 +0100
+✅ Legutóbb frissítve: Sat, 12 Jul 2025 13:28:10 +0100
 
-Epizódok száma: 3352
+Epizódok száma: 3358
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3352
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
- - 2025.07.06 - Bábel tornya - 11h - Hodánics Tamás
- - 2025.07.06 - "Vajon böjtölhet-e a násznép, amíg velük van a vőlegény?" - 9h - Varga Nándor
- - 2025.07.06 - Határtartás - 17h - Nagy Henrietta
- - 2025.07.06 - Vízre lépve - Széchenyiváros - Hajdú Zoltán Levente
- - 2025.06.29 - "Növekedjetek a kegyelemben és mi Urunk, üdvözítő Jézus Krisztusunk ismeretében." - 11h - Petró Emőke
- - 2025.06.29 - "...azonnal követték őt." - 9h - Vincze Árpád
+ - 2025.07.10 - Megmentőnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét - Kohi-Pál Eszter
+ - 2025.07.10 - Isten, aki vezet - Beregdaróc - Családos Csendeshét - Riczuné Kiss Georgina
+ - 2025.07.09 - Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét - Kohi-Pál Eszter
+ - 2025.07.09 - Isten, aki elhív - Beregdaróc - Családos Csendeshét - Riczuné Kiss Georgina
+ - 2025.07.08 - Királynőnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét - Kohi-Pál Eszter
+ - 2025.07.08 - Isten, aki megajándékoz - Beregdaróc - Családos Csendeshét - Riczuné Kiss Georgina
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3352
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 12 Jul 2025 09:30:39 +0100
+✅ Legutóbb frissítve: Sat, 12 Jul 2025 13:28:10 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 12 Jul 2025 09:30:55 +0100
+✅ Legutóbb frissítve: Sat, 12 Jul 2025 13:28:27 +0100
 
 Epizódok száma: 1021
 
