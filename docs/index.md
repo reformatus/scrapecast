@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 20 Jul 2025 15:42:31 +0100
+✅ Legutóbb frissítve: Sun, 20 Jul 2025 16:34:17 +0100
 
-Epizódok száma: 3360
+Epizódok száma: 3364
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3360
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.07.20 - Jézus Názáretben - 11h - Vincze Árpád
+ - 2025.07.20 - Csodálkozott is hitetlenségükért - 9h - Komádi Róbert
  - 2025.07.20 - Isten építőmunkásai - Széchenyiváros - Szabó Zsuzsanna
+ - 2025.07.13 - A tizenkét tanítvány elhívása - 11h - Riczuné Kiss Georgina
+ - 2025.07.13 - Van-e valami lehetetlen az Úr számára. - 9h - Hodánics Tamás
  - 2025.07.13 - Éjszakai őrjárat - Széchenyiváros - Pál Ferenc
- - 2025.07.10 - Megmentőnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét - Kohi-Pál Eszter
- - 2025.07.10 - Isten, aki vezet - Beregdaróc - Családos Csendeshét - Riczuné Kiss Georgina
- - 2025.07.09 - Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét - Kohi-Pál Eszter
- - 2025.07.09 - Isten, aki elhív - Beregdaróc - Családos Csendeshét - Riczuné Kiss Georgina
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3360
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 20 Jul 2025 15:42:32 +0100
+✅ Legutóbb frissítve: Sun, 20 Jul 2025 16:34:18 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 20 Jul 2025 15:42:55 +0100
+✅ Legutóbb frissítve: Sun, 20 Jul 2025 16:34:37 +0100
 
-Epizódok száma: 1021
+Epizódok száma: 1022
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1021
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.07.20 - 2Pt 3 - Bibliamagyarázat - Péter második levele
  - 2025.07.06 - 1Móz 11,1-9 - Bibliamagyarázat - Mózes első könyve
  - 2025.07.03 - Jer 33,1-11 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2025.07.02 - Jer 32,1-15 - Bibliamagyarázat - Jeremiás próféta könyve
  - 2025.07.01 - JSir 3,25-33 - Bibliamagyarázat - Jeremiás siralmai
  - 2025.06.30 - JSir 5 - Bibliamagyarázat - Jeremiás siralmai
- - 2025.06.26 - Fordulópontok (4) - záróakkord - Lelkészképzés
 
 ---
 
