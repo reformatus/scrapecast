@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 27 Sep 2025 17:26:54 +0100
+✅ Legutóbb frissítve: Sat, 27 Sep 2025 22:29:01 +0100
 
 Epizódok száma: 3398
 
@@ -37,7 +37,7 @@ Epizódok száma: 3398
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 27 Sep 2025 17:26:55 +0100
+✅ Legutóbb frissítve: Sat, 27 Sep 2025 22:29:02 +0100
 
 Epizódok száma: 8
 
@@ -56,32 +56,6 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
-
----
-
-## [Marco igehirdetései](https://marko.reformatus.hu/)
-_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
-Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
-
-✅ Legutóbb frissítve: Sat, 27 Sep 2025 17:27:17 +0100
-
-Epizódok száma: 1027
-
-**Elérhető:**
- - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
- - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
- - [PocketCasts](https://pca.st/14nmdojx)
- - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
- - [CastBox](https://castbox.fm/ch/5087121)
- - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
-
-**Legutóbbi epizódok:**
- - 2025.09.21 - Zsolt 103,5 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.09.19 - Zsolt 90 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.09.12 - A református oktatás küzdelmes múltja és jelene - Pedagógusképzés
- - 2025.09.07 - Jer 35 - Bibliamagyarázat - Jeremiás próféta könyve
- - 2025.08.03 - Ézs 49,13-21 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2025.07.20 - 2Pt 3 - Bibliamagyarázat - Péter második levele
 
 ---
 
