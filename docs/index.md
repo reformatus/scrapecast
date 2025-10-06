@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 06 Oct 2025 09:29:31 +0100
+✅ Legutóbb frissítve: Mon, 06 Oct 2025 10:38:40 +0100
 
 Epizódok száma: 3406
 
@@ -37,7 +37,7 @@ Epizódok száma: 3406
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 06 Oct 2025 09:29:32 +0100
+✅ Legutóbb frissítve: Mon, 06 Oct 2025 10:38:41 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 06 Oct 2025 09:30:01 +0100
+✅ Legutóbb frissítve: Mon, 06 Oct 2025 10:39:04 +0100
 
-Epizódok száma: 1028
+Epizódok száma: 1029
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1028
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.10.05 - Zsid 7,26 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2025.09.28 - 2Móz 33,12-34,9 - Bibliamagyarázat - Mózes második könyve
  - 2025.09.21 - Zsolt 103,5 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.09.19 - Zsolt 90 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.09.12 - A református oktatás küzdelmes múltja és jelene - Pedagógusképzés
  - 2025.09.07 - Jer 35 - Bibliamagyarázat - Jeremiás próféta könyve
- - 2025.08.03 - Ézs 49,13-21 - Bibliamagyarázat - Ézsaiás próféta könyve
 
 ---
 
