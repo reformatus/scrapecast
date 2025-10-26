@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 26 Oct 2025 13:53:51 +0100
+✅ Legutóbb frissítve: Sun, 26 Oct 2025 14:32:48 +0100
 
-Epizódok száma: 3416
+Epizódok száma: 3419
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3416
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.10.26 - "Két ember ment fel a templomba imádkozni: az egyik farizeus, a másik vámszedő." - 11h - Szabó Zsuzsanna
+ - 2025.10.26 - "...Szentlélek segítségével számban is gyarapodott." - 9h - Varga Nándor
  - 2025.10.26 - A szövetség - Széchenyiváros - Nagy Henrietta
+ - 2025.10.23 - Testvérháború - 9h - Kuti József
  - 2025.10.19 - Istennel járni - Imádság - KERT - Kutiné Filep Katalin
  - 2025.10.19 - De ha nem hisztek, nem maradtok meg!" - 11h - Varga Nándor
- - 2025.10.19 - "Mivel látsz engem, hiszel: boldogok, akik nem látnak, és hisznek." - 9h - Kuti József
- - 2025.10.19 - A kegyelem, ami felépít - Széchenyiváros - Pál Ferenc
- - 2025.10.12 - Istennel járni - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3416
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 26 Oct 2025 13:53:51 +0100
+✅ Legutóbb frissítve: Sun, 26 Oct 2025 14:32:49 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 26 Oct 2025 13:54:11 +0100
+✅ Legutóbb frissítve: Sun, 26 Oct 2025 14:33:06 +0100
 
-Epizódok száma: 1030
+Epizódok száma: 1031
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1030
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.10.26 - ApCsel 9,31-43 - Bibliamagyarázat - Az apostolok cselekedetei
  - 2025.10.17 - Zsolt 92 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.10.05 - Zsid 7,26 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2025.09.28 - 2Móz 33,12-34,9 - Bibliamagyarázat - Mózes második könyve
  - 2025.09.21 - Zsolt 103,5 - Bibliamagyarázat - A zsoltárok könyve
  - 2025.09.19 - Zsolt 90 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.09.12 - A református oktatás küzdelmes múltja és jelene - Pedagógusképzés
 
 ---
 
