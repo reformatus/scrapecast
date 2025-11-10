@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 10 Nov 2025 08:30:37 +0100
+✅ Legutóbb frissítve: Mon, 10 Nov 2025 09:42:42 +0100
 
 Epizódok száma: 3428
 
@@ -37,7 +37,7 @@ Epizódok száma: 3428
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 10 Nov 2025 08:30:38 +0100
+✅ Legutóbb frissítve: Mon, 10 Nov 2025 09:42:43 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 10 Nov 2025 08:31:02 +0100
+✅ Legutóbb frissítve: Mon, 10 Nov 2025 09:43:02 +0100
 
-Epizódok száma: 1032
+Epizódok száma: 1036
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1032
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.11.09 - Ézs 9,5 - Bibliamagyarázat - Ézsaiás próféta könyve
+ - 2025.11.08 - Ézs 8,23-9,4 - Bibliamagyarázat - Ézsaiás próféta könyve
+ - 2025.11.07 - Ézs 8,11-22 - Bibliamagyarázat - Ézsaiás próféta könyve
+ - 2025.11.06 - Ézs 8,1-10 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.02 - Jel 7,9-17 - Bibliamagyarázat - A jelenések könyve
  - 2025.10.26 - ApCsel 9,31-43 - Bibliamagyarázat - Az apostolok cselekedetei
- - 2025.10.17 - Zsolt 92 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.10.05 - Zsid 7,26 - Bibliamagyarázat - A zsidókhoz írt levél
- - 2025.09.28 - 2Móz 33,12-34,9 - Bibliamagyarázat - Mózes második könyve
- - 2025.09.21 - Zsolt 103,5 - Bibliamagyarázat - A zsoltárok könyve
 
 ---
 
