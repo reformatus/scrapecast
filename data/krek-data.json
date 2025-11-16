@@ -924,17 +924,6 @@
     "size": 51109733
   },
   {
-    "title": "Az imádság meghallgatása. - 17h",
-    "bible": "Máté 7,7-11",
-    "date": "2025.06.29",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
-    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
-    "length": 1762,
-    "size": 28196346
-  },
-  {
     "title": "A király pohárnoka, Isten napszámosa. - Széchenyiváros",
     "bible": "Nehémiás 2,1-10",
     "date": "2025.06.29",
@@ -944,6 +933,17 @@
     "uuid": "dc71528d-c64e-47f9-8931-457193fcddab",
     "length": 3153,
     "size": 50455590
+  },
+  {
+    "title": "Az imádság meghallgatása. - 17h",
+    "bible": "Máté 7,7-11",
+    "date": "2025.06.29",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
+    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
+    "length": 1762,
+    "size": 28196346
   },
   {
     "title": "Örülj az életnek, míg tart - 11h",
@@ -1562,17 +1562,6 @@
     "size": 55314608
   },
   {
-    "title": "\"Pedig mi abban reménykedtünk...\" - Széchenyiváros",
-    "bible": "Lukács 24,21",
-    "date": "2025.04.20",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250420_Széchenyiváros.mp3",
-    "uuid": "7f800989-79fb-43fb-a5fa-178b63cfc771",
-    "length": 3801,
-    "size": 60816380
-  },
-  {
     "title": "\"Láttam az Urat.\" - 17h",
     "bible": "János 20,11-18",
     "date": "2025.04.20",
@@ -1582,6 +1571,17 @@
     "uuid": "b6c87404-f0a8-4af8-843e-73e7a2469c49",
     "length": 3059,
     "size": 48944411
+  },
+  {
+    "title": "\"Pedig mi abban reménykedtünk...\" - Széchenyiváros",
+    "bible": "Lukács 24,21",
+    "date": "2025.04.20",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250420_Széchenyiváros.mp3",
+    "uuid": "7f800989-79fb-43fb-a5fa-178b63cfc771",
+    "length": 3801,
+    "size": 60816380
   },
   {
     "title": "A Per -Nagyhét - Szombat - 17h",
@@ -1873,10 +1873,10 @@
     "title": "Hol vagyok kísérthető? (Katonatelep)",
     "bible": "Máté 4, 10",
     "date": "2025.03.16",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_16_Laczay_András.mp3",
-    "uuid": "525c9ab8-bcd7-4fb9-85f8-b4ed91ce90c3",
+    "uuid": "81b6f206-e582-40b6-a352-af68a4a93054",
     "length": 2899,
     "size": 40592992
   },
@@ -1884,10 +1884,10 @@
     "title": "Hol vagyok kísérthető? (Katonatelep)",
     "bible": "Máté 4, 10",
     "date": "2025.03.16",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_16_Laczay_András.mp3",
-    "uuid": "81b6f206-e582-40b6-a352-af68a4a93054",
+    "uuid": "525c9ab8-bcd7-4fb9-85f8-b4ed91ce90c3",
     "length": 2899,
     "size": 40592992
   },
@@ -4191,17 +4191,6 @@
     "size": 55376312
   },
   {
-    "title": "Harang - 11h",
-    "bible": "2 Timóteus 4,7",
-    "date": "2024.06.02",
-    "pastor": "Fodorné Dr. Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
-    "uuid": "145d46a2-c7a3-437d-91b7-40f4dc05a1a4",
-    "length": 3487,
-    "size": 55806108
-  },
-  {
     "title": "Harang I. - 11h",
     "bible": "2 Timóteus 4,7",
     "date": "2024.06.02",
@@ -4209,6 +4198,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
     "uuid": "10b64ae5-af30-43fb-a55d-2d6100a54b1c",
+    "length": 3487,
+    "size": 55806108
+  },
+  {
+    "title": "Harang - 11h",
+    "bible": "2 Timóteus 4,7",
+    "date": "2024.06.02",
+    "pastor": "Fodorné Dr. Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240602_11h_FAM_2Timóteus4,7_Harang.mp3",
+    "uuid": "145d46a2-c7a3-437d-91b7-40f4dc05a1a4",
     "length": 3487,
     "size": 55806108
   },
@@ -12254,17 +12254,6 @@
     "size": 112368189
   },
   {
-    "title": "Közeledjetek! - 15h",
-    "bible": "Jakab 4,8.",
-    "date": "2021.05.23",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=s2Fr98zQ6wU",
-    "download": "/media/files/igehirdetesek/20210523_15h_VÁ_Jakab4,8._Közeledjetek.mp3",
-    "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
-    "length": 5166,
-    "size": 123992197
-  },
-  {
     "title": "Közeledjetek! - 18h",
     "bible": "János 20,19-23.",
     "date": "2021.05.23",
@@ -12274,6 +12263,17 @@
     "uuid": "66f5786b-4660-48f4-9e02-d40a22666611",
     "length": 2739,
     "size": 65755543
+  },
+  {
+    "title": "Közeledjetek! - 15h",
+    "bible": "Jakab 4,8.",
+    "date": "2021.05.23",
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=s2Fr98zQ6wU",
+    "download": "/media/files/igehirdetesek/20210523_15h_VÁ_Jakab4,8._Közeledjetek.mp3",
+    "uuid": "4db4c927-975d-4b55-84e4-cef1503fb4f4",
+    "length": 5166,
+    "size": 123992197
   },
   {
     "title": "Pünkösd és Konfirmáció - Közeledjetek - 18h",
@@ -14597,17 +14597,6 @@
     "size": 83010063
   },
   {
-    "title": "A Lélek a lényeg",
-    "bible": "Példabeszédek 4, 23.",
-    "date": "2020.07.26",
-    "pastor": "Laczay András",
-    "youtube": "https://youtu.be/Uelhg3-_VY4",
-    "download": "/media/files/igehirdetesek/20200726_9,30h_LA_Peldabeszedek4,23_A_lelek_a_lenyeg.mp3",
-    "uuid": "51bc9651-9bef-4c2c-b1ca-9590a47e6a52",
-    "length": 4380,
-    "size": 70081157
-  },
-  {
     "title": "Figyelmeztetés Isten akaratának megtartására - 18h",
     "bible": "ApCsel20,17-38",
     "date": "2020.07.26",
@@ -14617,6 +14606,17 @@
     "uuid": "b14f0ab0-2c47-4740-8e94-73b06cf991ee",
     "length": 3675,
     "size": 58811898
+  },
+  {
+    "title": "A Lélek a lényeg",
+    "bible": "Példabeszédek 4, 23.",
+    "date": "2020.07.26",
+    "pastor": "Laczay András",
+    "youtube": "https://youtu.be/Uelhg3-_VY4",
+    "download": "/media/files/igehirdetesek/20200726_9,30h_LA_Peldabeszedek4,23_A_lelek_a_lenyeg.mp3",
+    "uuid": "51bc9651-9bef-4c2c-b1ca-9590a47e6a52",
+    "length": 4380,
+    "size": 70081157
   },
   {
     "title": "Találkozás Istennel - Jób bűnbánata - 18h",
@@ -21868,17 +21868,6 @@
     "size": 20940427
   },
   {
-    "title": "Békesség nektek - 18h",
-    "bible": "Lukács24,36",
-    "date": "2016.08.31",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/160831 18h KJ_gimn.evnyit.it_Bekesseg nektek_Lk24,36.mp3",
-    "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
-    "length": 3710,
-    "size": 29687058
-  },
-  {
     "title": "Halljuk-e Isten hívását, szavát - 16,30h",
     "bible": "1Sámuel,3,10",
     "date": "2016.08.31",
@@ -21888,6 +21877,17 @@
     "uuid": "2a7ea11b-dc8f-44ab-bff3-eddd41d1838c",
     "length": 3093,
     "size": 24749080
+  },
+  {
+    "title": "Békesség nektek - 18h",
+    "bible": "Lukács24,36",
+    "date": "2016.08.31",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/160831 18h KJ_gimn.evnyit.it_Bekesseg nektek_Lk24,36.mp3",
+    "uuid": "edae6d5a-9229-412f-a846-c21913505e9c",
+    "length": 3710,
+    "size": 29687058
   },
   {
     "title": "Nem bűneink szerint bánik velünk - 11h",
@@ -24970,15 +24970,15 @@
     "size": 13209436
   },
   {
-    "title": "Adni és kapni - 18h",
-    "bible": "Máté7,12",
+    "title": "Mi a te kincsed - 17h",
+    "bible": "Máté3,19-21",
     "date": "2014.08.31",
-    "pastor": "Szikszai Szabolcs",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
-    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
-    "length": 1525,
-    "size": 12207796
+    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
+    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
+    "length": 2805,
+    "size": 22441318
   },
   {
     "title": "Mindenki látja - 15h",
@@ -24992,15 +24992,15 @@
     "size": 13140263
   },
   {
-    "title": "Mi a te kincsed - 17h",
-    "bible": "Máté3,19-21",
+    "title": "Adni és kapni - 18h",
+    "bible": "Máté7,12",
     "date": "2014.08.31",
-    "pastor": "Varga Nándor",
+    "pastor": "Szikszai Szabolcs",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
-    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
-    "length": 2805,
-    "size": 22441318
+    "download": "/media/files/igehirdetesek/140831 18h SzSz_hitm.it_HK111.kerd_Adni és kapni_Mt7,12.mp3",
+    "uuid": "d2d4aa49-2bdc-4b6c-b579-76dbd7347cf3",
+    "length": 1525,
+    "size": 12207796
   },
   {
     "title": "Dicső jelenlétedre dűljön le a dágon - 18h",
