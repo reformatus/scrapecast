@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Nov 2025 16:28:59 +0100
+✅ Legutóbb frissítve: Sun, 16 Nov 2025 17:35:24 +0100
 
 Epizódok száma: 3430
 
@@ -37,7 +37,7 @@ Epizódok száma: 3430
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Nov 2025 16:29:00 +0100
+✅ Legutóbb frissítve: Sun, 16 Nov 2025 17:35:25 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 16 Nov 2025 16:29:24 +0100
+✅ Legutóbb frissítve: Sun, 16 Nov 2025 17:35:44 +0100
 
-Epizódok száma: 1037
+Epizódok száma: 1038
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1037
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2025.11.16 - 1Pt 3,15 - Bibliamagyarázat - Péter első levele
  - 2025.11.14 - Ézs 9,5-6 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.09 - Ézs 9,5 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.08 - Ézs 8,23-9,4 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.07 - Ézs 8,11-22 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.06 - Ézs 8,1-10 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2025.11.02 - Jel 7,9-17 - Bibliamagyarázat - A jelenések könyve
 
 ---
 
