@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:01:08 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:15 +0100
 
-Epizódok száma: 3472
+Epizódok száma: 3474
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3472
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.01.11 - "Az én Atyám mind ez ideig munkálkodik, én is munkálkodom." - 11h - Vincze Árpád
+ - 2026.01.11 - "Hol vannak mindazok a csodák, amelyekről atyáink beszéltek nekünk..." - 9h - Varga Nándor
  - 2026.01.11 - Debóra éneke - Széchenyiváros - Pál Ferenc
  - 2026.01.04 - Kapcsolatok - KERT - Nagy Henrietta
  - 2026.01.04 - "Úgy tekintsen minket minden ember, mint Krisztus szolgáit és Isten titkainak sáfárait" - 9h - Varga Nándor
  - 2026.01.04 - Kérj hálaadással - Széchenyiváros - Pál Ferenc
- - 2026.01.01 - "Neki növekednie kell, nekem pedig kisebbé lennem" - 11h - Varga Nándor
- - 2026.01.01 - "Úgy tekintsen minket minden ember, mint Krisztus szolgáit és Isten titkainak sáfárait" - 9h - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3472
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:01:09 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:16 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:01:31 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:46 +0100
 
 Epizódok száma: 1050
 
