@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:15 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 15:34:02 +0100
 
 Epizódok száma: 3474
 
@@ -37,7 +37,7 @@ Epizódok száma: 3474
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:16 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 15:34:03 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 11 Jan 2026 14:42:46 +0100
+✅ Legutóbb frissítve: Sun, 11 Jan 2026 15:34:26 +0100
 
-Epizódok száma: 1050
+Epizódok száma: 1052
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1050
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.01.09 - A kiégés kiváltó okai - Pedagógusképzés
+ - 2026.01.09 - Egészséges közösség - Pedagógusképzés
  - 2026.01.04 - Énekek 2,8-17 - Bibliamagyarázat - Énekek éneke
  - 2025.12.07 - Ézs 51,1-8 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2025.11.30 - Jel 12,1-12 - Bibliamagyarázat - A jelenések könyve
  - 2025.11.29 - Lk 15,1-7 - Bibliamagyarázat - Lukács evangéliuma
- - 2025.11.28 - Zsolt 84 - Bibliamagyarázat - A zsoltárok könyve
- - 2025.11.27 - Mt 23,23 - Bibliamagyarázat - Máté evangéliuma
 
 ---
 
