@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 23 Jan 2026 21:41:02 +0100
+✅ Legutóbb frissítve: Sat, 24 Jan 2026 08:31:42 +0100
 
 Epizódok száma: 3480
 
@@ -37,7 +37,7 @@ Epizódok száma: 3480
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 23 Jan 2026 21:41:03 +0100
+✅ Legutóbb frissítve: Sat, 24 Jan 2026 08:31:42 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 23 Jan 2026 21:41:26 +0100
+✅ Legutóbb frissítve: Sat, 24 Jan 2026 08:32:01 +0100
 
-Epizódok száma: 1054
+Epizódok száma: 1055
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1054
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.01.23 - Ef 4,3-6 - Bibliamagyarázat - Pál levele az efezusiakhoz
  - 2026.01.22 - Ef 4,5 - Bibliamagyarázat - Pál levele az efezusiakhoz
  - 2026.01.16 - Ef 6,10-20 - Bibliamagyarázat - Pál levele az efezusiakhoz
  - 2026.01.09 - A kiégés kiváltó okai - Pedagógusképzés
  - 2026.01.09 - Egészséges közösség - Pedagógusképzés
  - 2026.01.04 - Énekek 2,8-17 - Bibliamagyarázat - Énekek éneke
- - 2025.12.07 - Ézs 51,1-8 - Bibliamagyarázat - Ézsaiás próféta könyve
 
 ---
 
