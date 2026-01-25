@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:03:28 +0100
+✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:44:54 +0100
 
-Epizódok száma: 3481
+Epizódok száma: 3483
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3481
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.01.25 - Pál apostol bizonyságtétele - 11h - Nagy Henrietta
+ - 2026.01.25 - "Vizet árasztok a szomjas földre, patakokat a száraz tájra." - 9h - Varga Nándor
  - 2026.01.25 - Isten szabadítót ígér - Széchenyiváros - Pál Ferenc
  - 2026.01.18 - Kapcsolatok: Helyreállítás - KERT - Nagy Henrietta
  - 2026.01.18 - "Ha mások megfeledkeznének is, én nem feledkezem meg rólad!" - 11h - Petró Emőke
  - 2026.01.18 - "Mert aki felmagasztalja magát, megaláztatik, aki pedig megalázza magát, felmagasztaltatik." - 9h - Varga Nándor
- - 2026.01.18 - Hallgass, hogy meghallgattas - Széchenyiváros - Komádi Róbert
- - 2026.01.11 - Kapcsolatok: "A probléma; 1 Mózes 2,18/Zsoltárok 68,7/1 Mózes 3,7-10" - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3481
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:03:29 +0100
+✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:44:55 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:03:59 +0100
+✅ Legutóbb frissítve: Sun, 25 Jan 2026 14:45:10 +0100
 
 Epizódok száma: 1055
 
