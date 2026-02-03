@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 02 Feb 2026 18:57:47 +0100
+✅ Legutóbb frissítve: Tue, 03 Feb 2026 08:54:47 +0100
 
-Epizódok száma: 3492
+Epizódok száma: 3493
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -28,8 +28,8 @@ Epizódok száma: 3492
  - 2026.02.01 - Emberségünk kiteljesedése - 11h - Kókai Csaba
  - 2026.02.01 - "Abban az időben nem volt király Izráelben: mindenki azt csinálta, ami neki tetszett." - 9h - Varga Nándor
  - 2026.02.01 - "Abban az időben nem volt király Izráelben: mindenki azt csinálta, ami neki tetszett." - 9h - Kókai Csaba
+ - 2026.02.01 - Ami jónak látszott - Széchenyiváros - Pál Ferenc
  - 2026.01.25 - Kapcsolatok: Család - KERT - Sáska Attila
- - 2026.01.25 - Pál apostol bizonyságtétele - 11h - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3492
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Mon, 02 Feb 2026 18:57:48 +0100
+✅ Legutóbb frissítve: Tue, 03 Feb 2026 08:54:48 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Mon, 02 Feb 2026 18:58:04 +0100
+✅ Legutóbb frissítve: Tue, 03 Feb 2026 08:55:04 +0100
 
 Epizódok száma: 1057
 
