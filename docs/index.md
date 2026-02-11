@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 11 Feb 2026 12:57:58 +0100
+✅ Legutóbb frissítve: Wed, 11 Feb 2026 17:15:44 +0100
 
-Epizódok száma: 3494
+Epizódok száma: 3498
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3494
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.02.08 - Téma: Kapcsolatok: Párkapcsolat - KERT - Korsós Tamás
+ - 2026.02.08 - "Ő azt felelte, próféta" - 11h - Vincze Árpád
+ - 2026.02.08 - "Te mit mondasz róla?" - 9h - Kuti József
+ - 2026.02.08 - Kifogás helyett küldetés - Széchenyiváros - Pál Ferenc
  - 2026.02.01 - "Kapcsolatok: Barátság" - KERT - Nagy Henrietta
  - 2026.02.01 - Emberségünk kiteljesedése - 11h - Kókai Csaba
- - 2026.02.01 - Viharban Jézussal (Katonatelep) - Laczay András
- - 2026.02.01 - "Abban az időben nem volt király Izráelben: mindenki azt csinálta, ami neki tetszett." - 9h - Varga Nándor
- - 2026.02.01 - "Abban az időben nem volt király Izráelben: mindenki azt csinálta, ami neki tetszett." - 9h - Kókai Csaba
- - 2026.02.01 - Ami jónak látszott - Széchenyiváros - Pál Ferenc
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3494
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 11 Feb 2026 12:57:59 +0100
+✅ Legutóbb frissítve: Wed, 11 Feb 2026 17:15:44 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Wed, 11 Feb 2026 12:58:17 +0100
+✅ Legutóbb frissítve: Wed, 11 Feb 2026 17:16:01 +0100
 
 Epizódok száma: 1059
 
