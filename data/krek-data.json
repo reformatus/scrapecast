@@ -1738,17 +1738,6 @@
     "size": 51109733
   },
   {
-    "title": "Az imádság meghallgatása. - 17h",
-    "bible": "Máté 7,7-11",
-    "date": "2025.06.29",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
-    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
-    "length": 1762,
-    "size": 28196346
-  },
-  {
     "title": "A király pohárnoka, Isten napszámosa. - Széchenyiváros",
     "bible": "Nehémiás 2,1-10",
     "date": "2025.06.29",
@@ -1758,6 +1747,17 @@
     "uuid": "dc71528d-c64e-47f9-8931-457193fcddab",
     "length": 3153,
     "size": 50455590
+  },
+  {
+    "title": "Az imádság meghallgatása. - 17h",
+    "bible": "Máté 7,7-11",
+    "date": "2025.06.29",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
+    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
+    "length": 1762,
+    "size": 28196346
   },
   {
     "title": "Örülj az életnek, míg tart - 11h",
@@ -3006,10 +3006,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
+    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
     "length": 2937,
     "size": 41127232
   },
@@ -3017,10 +3017,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
+    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
     "length": 2937,
     "size": 41127232
   },
@@ -9977,15 +9977,15 @@
     "size": 68272354
   },
   {
-    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
-    "bible": "ApCsel 1,8.",
+    "title": "Isten szeretett gyermekei. - 18h",
+    "bible": "1. János 3,1-12.",
     "date": "2022.06.19",
-    "pastor": "Komádi Róbert",
+    "pastor": "Nagy Henrietta",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
-    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
-    "length": 4282,
-    "size": 68517328
+    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
+    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
+    "length": 1746,
+    "size": 27941850
   },
   {
     "title": "\"Lássátok meg, milyen nagy szeretetet tanúsított irántunk az Atya.\" - Gimnáziumi tanévzáró-istentisztelet",
@@ -9999,15 +9999,15 @@
     "size": 128343796
   },
   {
-    "title": "Isten szeretett gyermekei. - 18h",
-    "bible": "1. János 3,1-12.",
+    "title": "A Szentlélek ereje. - Általános iskolai tanévzáró istentisztelet",
+    "bible": "ApCsel 1,8.",
     "date": "2022.06.19",
-    "pastor": "Nagy Henrietta",
+    "pastor": "Komádi Róbert",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20220619_18h_NH_1.János3,1-12._Isten_szeretett_gyermekei.mp3",
-    "uuid": "c2ec83be-1c69-4d70-86c4-ca465cf45d75",
-    "length": 1746,
-    "size": 27941850
+    "download": "/media/files/igehirdetesek/20220619_16h_KR_ApCsel1,8._A_Szentlélek_ereje_Általános_iskola_tanévzáró_istentisztelet.mp3",
+    "uuid": "f583075d-1e91-4695-95e0-a7a3314a3baa",
+    "length": 4282,
+    "size": 68517328
   },
   {
     "title": "Építkezésünk alapja - Ált. Iskola ballagás",
@@ -10131,6 +10131,17 @@
     "size": 25224280
   },
   {
+    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
+    "bible": "Efézus 5,1-2.",
+    "date": "2022.06.05",
+    "pastor": "Vincze Árpád",
+    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
+    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
+    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
+    "length": 6719,
+    "size": 161269641
+  },
+  {
     "title": "Jézus Krisztus velünk együtt cselekszik. - Széchenyiváros",
     "bible": "Márk 16,20.",
     "date": "2022.06.05",
@@ -10162,17 +10173,6 @@
     "uuid": "67199b6a-a389-4669-a81b-454ecb14c98f",
     "length": 2998,
     "size": 71956296
-  },
-  {
-    "title": "Éljetek Isten szeretetében. - 15h Konfirmációi fogadalomtétel-Gimnázium",
-    "bible": "Efézus 5,1-2.",
-    "date": "2022.06.05",
-    "pastor": "Vincze Árpád",
-    "youtube": "https://www.youtube.com/watch?v=D6w7Vz8UPR4",
-    "download": "/media/files/igehirdetesek/20220605_15h_VA_Efézus5,1-2._Éljetek_Isten_szeretetében..mp3",
-    "uuid": "94bdda0a-2eab-4cd2-86df-a93ecafe691d",
-    "length": 6719,
-    "size": 161269641
   },
   {
     "title": "Ifjúsági evangélizáció - 18h",
@@ -12837,17 +12837,6 @@
     "size": 111503825
   },
   {
-    "title": "\"Legnagyobb a szeretet\" - 18h",
-    "bible": "1. Korintus 13,13.",
-    "date": "2021.06.20",
-    "pastor": "Fodorné Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20210620_18h_FAM_Korintus13,13._Legnagyobb_a_szeretet.mp3",
-    "uuid": "80ef0bb4-2426-4508-8bf3-522a117faf8e",
-    "length": 2565,
-    "size": 61579832
-  },
-  {
     "title": "Mindennek megvan a maga ideje - 16h - Általános Iskolai évzáró",
     "bible": "Prédikátor 3,1.",
     "date": "2021.06.20",
@@ -12857,6 +12846,17 @@
     "uuid": "cc0c2bb4-39b6-4465-82cd-4002ae8d6598",
     "length": 3546,
     "size": 85113203
+  },
+  {
+    "title": "\"Legnagyobb a szeretet\" - 18h",
+    "bible": "1. Korintus 13,13.",
+    "date": "2021.06.20",
+    "pastor": "Fodorné Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20210620_18h_FAM_Korintus13,13._Legnagyobb_a_szeretet.mp3",
+    "uuid": "80ef0bb4-2426-4508-8bf3-522a117faf8e",
+    "length": 2565,
+    "size": 61579832
   },
   {
     "title": "Hit és közösség - Kert",
@@ -26950,17 +26950,6 @@
     "size": 18737154
   },
   {
-    "title": "Úton, távol is biztonságban - 7,15h",
-    "bible": "Példabeszédek16,1-33",
-    "date": "2014.04.16",
-    "pastor": "Galambos Eszter végzős diák",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140416 7.15h Galambos Eszter_vegz.diakok biz.tet_Uton, tavol is biztonsagban_Peld16,1_3.33.mp3",
-    "uuid": "5490d105-d5b5-41d4-bda5-f7a1a8625f26",
-    "length": 983,
-    "size": 7869170
-  },
-  {
     "title": "Értelmes és ostoba döntéseink - 18h",
     "bible": "Máté25,1-13",
     "date": "2014.04.16",
@@ -26970,6 +26959,17 @@
     "uuid": "336c7d2c-cc5b-4d91-868d-49a944ffcaf0",
     "length": 2011,
     "size": 16093144
+  },
+  {
+    "title": "Úton, távol is biztonságban - 7,15h",
+    "bible": "Példabeszédek16,1-33",
+    "date": "2014.04.16",
+    "pastor": "Galambos Eszter végzős diák",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140416 7.15h Galambos Eszter_vegz.diakok biz.tet_Uton, tavol is biztonsagban_Peld16,1_3.33.mp3",
+    "uuid": "5490d105-d5b5-41d4-bda5-f7a1a8625f26",
+    "length": 983,
+    "size": 7869170
   },
   {
     "title": "Téged hív, fogadd el - 18h",
@@ -37268,17 +37268,6 @@
     "size": 16351675
   },
   {
-    "title": "Házastársi hűség és igazmondás. - 16h",
-    "bible": "Máté5,31-37",
-    "date": "2008.04.09",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
-    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
-    "length": 2655,
-    "size": 13275875
-  },
-  {
     "title": "Harag és tisztátalanság. - 10h",
     "bible": "Máté5,21-30",
     "date": "2008.04.09",
@@ -37288,6 +37277,17 @@
     "uuid": "dc28f597-0cc2-4062-911b-d3fb86988d13",
     "length": 3752,
     "size": 18760965
+  },
+  {
+    "title": "Házastársi hűség és igazmondás. - 16h",
+    "bible": "Máté5,31-37",
+    "date": "2008.04.09",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
+    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
+    "length": 2655,
+    "size": 13275875
   },
   {
     "title": "A tanítványok és a törvény. - 16h",
