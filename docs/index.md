@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 01 Mar 2026 16:37:36 +0100
+✅ Legutóbb frissítve: Sun, 01 Mar 2026 17:44:53 +0100
 
 Epizódok száma: 3508
 
@@ -37,7 +37,7 @@ Epizódok száma: 3508
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 01 Mar 2026 16:37:37 +0100
+✅ Legutóbb frissítve: Sun, 01 Mar 2026 17:44:54 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 01 Mar 2026 16:37:59 +0100
+✅ Legutóbb frissítve: Sun, 01 Mar 2026 17:45:13 +0100
 
-Epizódok száma: 1062
+Epizódok száma: 1063
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1062
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.03.01 - 2Móz 17,8-16 - Bibliamagyarázat - Mózes második könyve
  - 2026.02.20 - Ézs 61 - Bibliamagyarázat - Ézsaiás próféta könyve
  - 2026.02.16 - 5Móz 8,1-18 - Bibliamagyarázat - Mózes ötödik könyve
  - 2026.02.06 - Református: több, mint vallás - Pedagógusképzés
  - 2026.02.01 - Zsolt 25,6-7 - Bibliamagyarázat - A zsoltárok könyve
  - 2026.02.01 - Zsolt 25,67 - Bibliamagyarázat - A zsoltárok könyve
- - 2026.01.23 - Ef 4,3-6 - Bibliamagyarázat - Pál levele az efezusiakhoz
 
 ---
 
