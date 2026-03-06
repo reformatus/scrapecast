@@ -1419,17 +1419,6 @@
     "size": 47241308
   },
   {
-    "title": "Pszichológiai hadviselés - Széchenyiváros",
-    "bible": "Nehémiás 6,1-9",
-    "date": "2025.08.31",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250831_PF_Nehémiás6,1-9_Pszichológiai_hadviselés_Széchenyiváros.mp3",
-    "uuid": "8f5394e5-bd9a-4522-a52b-d2498b1a07cb",
-    "length": 3741,
-    "size": 59870120
-  },
-  {
     "title": "\"Mindnyájan együtt részesültök velem a kegyelemben\" - 17h - Gimnázium tanévnyitó istentisztelet",
     "bible": "Filippi 1,7b",
     "date": "2025.08.31",
@@ -1439,6 +1428,17 @@
     "uuid": "b0225ea2-43ac-43a7-8cb1-b13243400b39",
     "length": 3122,
     "size": 49962183
+  },
+  {
+    "title": "Pszichológiai hadviselés - Széchenyiváros",
+    "bible": "Nehémiás 6,1-9",
+    "date": "2025.08.31",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250831_PF_Nehémiás6,1-9_Pszichológiai_hadviselés_Széchenyiváros.mp3",
+    "uuid": "8f5394e5-bd9a-4522-a52b-d2498b1a07cb",
+    "length": 3741,
+    "size": 59870120
   },
   {
     "title": "\"A nép pedig hitt\" - 9h",
@@ -1738,17 +1738,6 @@
     "size": 48753660
   },
   {
-    "title": "Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
-    "bible": "Eszter Könyve",
-    "date": "2025.07.09",
-    "pastor": "Kohi-Pál Eszter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250709_9h_KPE_Ellenségnek_lenni_Eszter_könyve.mp3",
-    "uuid": "b709ced5-78ca-42ed-b81c-c27369eae0e4",
-    "length": 3945,
-    "size": 63126022
-  },
-  {
     "title": "Isten, aki elhív - Beregdaróc - Családos Csendeshét",
     "bible": "Eszter 4,1-14",
     "date": "2025.07.09",
@@ -1758,6 +1747,17 @@
     "uuid": "6aa9b824-2912-4db5-a0b0-c459eaf79afc",
     "length": 3561,
     "size": 56984530
+  },
+  {
+    "title": "Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
+    "bible": "Eszter Könyve",
+    "date": "2025.07.09",
+    "pastor": "Kohi-Pál Eszter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250709_9h_KPE_Ellenségnek_lenni_Eszter_könyve.mp3",
+    "uuid": "b709ced5-78ca-42ed-b81c-c27369eae0e4",
+    "length": 3945,
+    "size": 63126022
   },
   {
     "title": "Isten, aki megajándékoz - Beregdaróc - Családos Csendeshét",
@@ -2687,10 +2687,10 @@
     "title": "Atyád pedig... (Katonatelep)",
     "bible": "Máté 6, 18",
     "date": "2025.03.30",
-    "pastor": "Varga Nándor",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_30_Varga_Nándor.mp3",
-    "uuid": "fe335522-afd7-4b9e-9657-e30d2fbbf001",
+    "uuid": "78920e5b-643f-48be-b432-7616f76a7f20",
     "length": 4968,
     "size": 69559552
   },
@@ -2698,10 +2698,10 @@
     "title": "Atyád pedig... (Katonatelep)",
     "bible": "Máté 6, 18",
     "date": "2025.03.30",
-    "pastor": "Laczay András",
+    "pastor": "Varga Nándor",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_30_Varga_Nándor.mp3",
-    "uuid": "78920e5b-643f-48be-b432-7616f76a7f20",
+    "uuid": "fe335522-afd7-4b9e-9657-e30d2fbbf001",
     "length": 4968,
     "size": 69559552
   },
@@ -4455,17 +4455,6 @@
     "size": 52167591
   },
   {
-    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
-    "bible": "Józsué 1,9",
-    "date": "2024.09.01",
-    "pastor": "Petró Emőke",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
-    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
-    "length": 3099,
-    "size": 49591272
-  },
-  {
     "title": "\"...légy erős és bátor...\" - 9h",
     "bible": "Józsué 1,9",
     "date": "2024.09.01",
@@ -4473,6 +4462,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor.mp3",
     "uuid": "24d212ac-bca3-42fc-a16d-5c840b27b14a",
+    "length": 3099,
+    "size": 49591272
+  },
+  {
+    "title": "\"...légy erős és bátor...\" - 9h - Általános Iskolai évnyitó istentisztelet",
+    "bible": "Józsué 1,9",
+    "date": "2024.09.01",
+    "pastor": "Petró Emőke",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240901_9h_PE_Józsué1,9_légy_erős_és_bátor(1).mp3",
+    "uuid": "b976e9c4-4899-446c-9143-c9f3a0a91472",
     "length": 3099,
     "size": 49591272
   },
@@ -26400,17 +26400,6 @@
     "size": 19589582
   },
   {
-    "title": "Közel az Ige - 16h",
-    "bible": "Római10,8",
-    "date": "2014.06.15",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140615 16h KJ_alt.isk.tanevz.it_Kozel az ige_Rom10,8.mp3",
-    "uuid": "1757fe3b-104b-4385-a8ca-ca1dc280f3d5",
-    "length": 2442,
-    "size": 19537755
-  },
-  {
     "title": "HK 104. kérdés - 18h",
     "bible": "Római13,1-7",
     "date": "2014.06.15",
@@ -26420,6 +26409,17 @@
     "uuid": "5e7f22b7-5fcd-44eb-a046-45079bf9391f",
     "length": 2017,
     "size": 16143519
+  },
+  {
+    "title": "Közel az Ige - 16h",
+    "bible": "Római10,8",
+    "date": "2014.06.15",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140615 16h KJ_alt.isk.tanevz.it_Kozel az ige_Rom10,8.mp3",
+    "uuid": "1757fe3b-104b-4385-a8ca-ca1dc280f3d5",
+    "length": 2442,
+    "size": 19537755
   },
   {
     "title": "A mindig újra kezdés kegyelme - 18h",
@@ -27016,17 +27016,6 @@
     "size": 19913500
   },
   {
-    "title": "Készül a megoldás, várd - 7,15h",
-    "bible": "Jeremiás siralmai3,22-26",
-    "date": "2014.04.18",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140418 7.15h SzSz_regg.ah_Keszul a megoldas, vard_Jer.sir3,22_26.mp3",
-    "uuid": "6928e67d-e839-4408-ba24-fcc23a624097",
-    "length": 517,
-    "size": 4140138
-  },
-  {
     "title": "Passiós istentisztelet - 18h",
     "bible": "",
     "date": "2014.04.18",
@@ -27036,6 +27025,17 @@
     "uuid": "b8007475-698a-4924-b1de-1e83100842a6",
     "length": 5992,
     "size": 47942261
+  },
+  {
+    "title": "Készül a megoldás, várd - 7,15h",
+    "bible": "Jeremiás siralmai3,22-26",
+    "date": "2014.04.18",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140418 7.15h SzSz_regg.ah_Keszul a megoldas, vard_Jer.sir3,22_26.mp3",
+    "uuid": "6928e67d-e839-4408-ba24-fcc23a624097",
+    "length": 517,
+    "size": 4140138
   },
   {
     "title": "Isten védelmében örökre - 7,15h",
@@ -27181,17 +27181,6 @@
     "size": 17461124
   },
   {
-    "title": "Az öt kis kövecske - 8h",
-    "bible": "1Sámuel17",
-    "date": "2014.04.05",
-    "pastor": "Szabóné Csökmei Edit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140405 8h Szabone Csokmei Edit_bibl.ism.vers.kezd.ah_Az ot kis kovecske_1Sam17.mp3",
-    "uuid": "4e374c00-da2c-43e6-a2b1-5ba3e58b8475",
-    "length": 1228,
-    "size": 9828563
-  },
-  {
     "title": "Vissza a szeretethez - 18h",
     "bible": "Jelenések2,1-8",
     "date": "2014.04.05",
@@ -27201,6 +27190,17 @@
     "uuid": "dff44bdb-a958-480e-be0d-289265df29af",
     "length": 1263,
     "size": 10109431
+  },
+  {
+    "title": "Az öt kis kövecske - 8h",
+    "bible": "1Sámuel17",
+    "date": "2014.04.05",
+    "pastor": "Szabóné Csökmei Edit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140405 8h Szabone Csokmei Edit_bibl.ism.vers.kezd.ah_Az ot kis kovecske_1Sam17.mp3",
+    "uuid": "4e374c00-da2c-43e6-a2b1-5ba3e58b8475",
+    "length": 1228,
+    "size": 9828563
   },
   {
     "title": "A mindeneket gyógyító igazi böjt  - 11h-",
@@ -33077,17 +33077,6 @@
     "size": 15680827
   },
   {
-    "title": "Jézus adja az örök élet vizét - 11h",
-    "bible": "János4,4-14",
-    "date": "2011.07.03",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110703_11h_HT_Jezus_adja_az_orok_elet_vizet_Jn4_4_14.mp3",
-    "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
-    "length": 44,
-    "size": 352592
-  },
-  {
     "title": "Lakó Sándor zenekar szolgálata - 11h",
     "bible": "János4,4-14",
     "date": "2011.07.03",
@@ -33097,6 +33086,17 @@
     "uuid": "4acdfb29-344c-47ca-b018-3d1c0531cdda",
     "length": 1857,
     "size": 14859746
+  },
+  {
+    "title": "Jézus adja az örök élet vizét - 11h",
+    "bible": "János4,4-14",
+    "date": "2011.07.03",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110703_11h_HT_Jezus_adja_az_orok_elet_vizet_Jn4_4_14.mp3",
+    "uuid": "da433185-8c7e-453d-b380-5d149412bcba",
+    "length": 44,
+    "size": 352592
   },
   {
     "title": "Már igen még nem - 9h",
@@ -34342,17 +34342,6 @@
     "size": 17269281
   },
   {
-    "title": "Felnőtt konfirmáció - Bizonyságtételek - 17h",
-    "bible": "",
-    "date": "2010.12.26",
-    "pastor": "Hodánics Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/101226_17h_HT_felnott_konfirmacio_bizonysagtetelek_fogadalomtetelek.mp3",
-    "uuid": "976c0bc6-b88f-4f3c-abb8-2f25f19038f8",
-    "length": 1680,
-    "size": 13443492
-  },
-  {
     "title": "Közöttünk lakó Krisztus - 17h",
     "bible": "János1,1-14",
     "date": "2010.12.26",
@@ -34362,6 +34351,17 @@
     "uuid": "d641d1ff-7d10-4f9b-a27b-bee97d01dd1a",
     "length": 1347,
     "size": 10777748
+  },
+  {
+    "title": "Felnőtt konfirmáció - Bizonyságtételek - 17h",
+    "bible": "",
+    "date": "2010.12.26",
+    "pastor": "Hodánics Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/101226_17h_HT_felnott_konfirmacio_bizonysagtetelek_fogadalomtetelek.mp3",
+    "uuid": "976c0bc6-b88f-4f3c-abb8-2f25f19038f8",
+    "length": 1680,
+    "size": 13443492
   },
   {
     "title": "Nem vagy távol, jöjj és éld át - 9h",
@@ -37378,17 +37378,6 @@
     "size": 16351675
   },
   {
-    "title": "Házastársi hűség és igazmondás. - 16h",
-    "bible": "Máté5,31-37",
-    "date": "2008.04.09",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
-    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
-    "length": 2655,
-    "size": 13275875
-  },
-  {
     "title": "Harag és tisztátalanság. - 10h",
     "bible": "Máté5,21-30",
     "date": "2008.04.09",
@@ -37398,6 +37387,17 @@
     "uuid": "dc28f597-0cc2-4062-911b-d3fb86988d13",
     "length": 3752,
     "size": 18760965
+  },
+  {
+    "title": "Házastársi hűség és igazmondás. - 16h",
+    "bible": "Máté5,31-37",
+    "date": "2008.04.09",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080409_16h-vegh-tamas--hazastarsi-huseg-es-igazmondas--mate-531-37--2008.-04.-09.-16h.mp3",
+    "uuid": "e15cd3f9-6e1d-4f89-8530-e5ef44a2fde4",
+    "length": 2655,
+    "size": 13275875
   },
   {
     "title": "A tanítványok és a törvény. - 16h",
