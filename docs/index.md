@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 15 Mar 2026 15:49:28 +0100
+✅ Legutóbb frissítve: Sun, 15 Mar 2026 16:44:27 +0100
 
-Epizódok száma: 3519
+Epizódok száma: 3521
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3519
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.03.15 - "Krisztus szabadságra szabadított meg minket,..." - 11h - Varga Nándor
+ - 2026.03.15 - "...az én örömöm legyen bennetek..." - 9h - Kuti József
  - 2026.03.15 - Befektetés a láthatatlan jövőbe - Széchenyiváros - Pál Ferenc
  - 2026.03.08 - Téma: Imádkozás - KERT - Damásdi Péter 
  - 2026.03.08 - "Én vagyok az út, az igazság és az élet..." - 11h - Hodánics Tamás
  - 2026.03.08 - "Jézus így válaszolt: Én vagyok az út, az igazság és az élet..." - 9h - Varga Nándor
- - 2026.03.08 - Virágozz ott, ahová ültettek - Széchenyiváros - Pál Ferenc
- - 2026.03.01 - "Kapcsolatok: Istennel adakozás" - KERT - Nagy Henrietta
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3519
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 15 Mar 2026 15:49:29 +0100
+✅ Legutóbb frissítve: Sun, 15 Mar 2026 16:44:28 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 15 Mar 2026 15:49:45 +0100
+✅ Legutóbb frissítve: Sun, 15 Mar 2026 16:44:52 +0100
 
-Epizódok száma: 1066
+Epizódok száma: 1067
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1066
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.03.15 - Zsolt 125 - Bibliamagyarázat - A zsoltárok könyve
  - 2026.03.09 - Zsolt 9,19-21 - Bibliamagyarázat - A zsoltárok könyve
  - 2026.03.08 - Zsolt 25,15-17 - Bibliamagyarázat - A zsoltárok könyve
  - 2026.03.08 - Zsolt 25,20-21 - Bibliamagyarázat - A zsoltárok könyve
  - 2026.03.01 - 2Móz 17,8-16 - Bibliamagyarázat - Mózes második könyve
  - 2026.02.20 - Ézs 61 - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2026.02.16 - 5Móz 8,1-18 - Bibliamagyarázat - Mózes ötödik könyve
 
 ---
 
