@@ -1925,17 +1925,6 @@
     "size": 51109733
   },
   {
-    "title": "Az imádság meghallgatása. - 17h",
-    "bible": "Máté 7,7-11",
-    "date": "2025.06.29",
-    "pastor": "Nagy Henrietta",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
-    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
-    "length": 1762,
-    "size": 28196346
-  },
-  {
     "title": "A király pohárnoka, Isten napszámosa. - Széchenyiváros",
     "bible": "Nehémiás 2,1-10",
     "date": "2025.06.29",
@@ -1945,6 +1934,17 @@
     "uuid": "dc71528d-c64e-47f9-8931-457193fcddab",
     "length": 3153,
     "size": 50455590
+  },
+  {
+    "title": "Az imádság meghallgatása. - 17h",
+    "bible": "Máté 7,7-11",
+    "date": "2025.06.29",
+    "pastor": "Nagy Henrietta",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250629_17h_NH_Máté 7,7-11_Az_imádság_meghallgatása.mp3",
+    "uuid": "9ee64d74-c79c-46c0-9292-8f18039d6c35",
+    "length": 1762,
+    "size": 28196346
   },
   {
     "title": "Örülj az életnek, míg tart - 11h",
@@ -2068,6 +2068,17 @@
     "size": 56633708
   },
   {
+    "title": "Jézus a tengeren jár. - 11,30h - Általános iskolai konfirmáció",
+    "bible": "Máté 14,22-33",
+    "date": "2025.06.09",
+    "pastor": "Petró Emőke",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250609_11,30h_PE_Máté14,22-33_Jézus_a_tengeren_jár.mp3",
+    "uuid": "84fa9b34-1f16-41b9-afa2-83b0141fe65d",
+    "length": 4192,
+    "size": 67080598
+  },
+  {
     "title": "Lélek gyümölcse - Széchenyiváros",
     "bible": "Galaták 5,22-23",
     "date": "2025.06.09",
@@ -2088,17 +2099,6 @@
     "uuid": "b0780cec-589d-4833-bbc3-2103114ccb63",
     "length": 6047,
     "size": 96755629
-  },
-  {
-    "title": "Jézus a tengeren jár. - 11,30h - Általános iskolai konfirmáció",
-    "bible": "Máté 14,22-33",
-    "date": "2025.06.09",
-    "pastor": "Petró Emőke",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250609_11,30h_PE_Máté14,22-33_Jézus_a_tengeren_jár.mp3",
-    "uuid": "84fa9b34-1f16-41b9-afa2-83b0141fe65d",
-    "length": 4192,
-    "size": 67080598
   },
   {
     "title": "Szükségünk van a Lélekre (Katonatelep)",
@@ -2211,17 +2211,6 @@
     "size": 60509180
   },
   {
-    "title": "Isten Krisztust mindenek fölé emelte. - 9h",
-    "bible": "Efézus 1,15-23",
-    "date": "2025.05.29",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250529_17h_VN_Effézus1,15-23_Isten_Krisztust_mindenek_fölé_emelte.mp3",
-    "uuid": "8fb57493-1fb9-4b2e-9bf9-b819e25be11f",
-    "length": 2431,
-    "size": 38909236
-  },
-  {
     "title": "Jézus visszatér. - 9h",
     "bible": "János 16,16-23",
     "date": "2025.05.29",
@@ -2231,6 +2220,17 @@
     "uuid": "ef5dff3b-1bd4-4cb5-a993-93c204dda741",
     "length": 1887,
     "size": 30203067
+  },
+  {
+    "title": "Isten Krisztust mindenek fölé emelte. - 9h",
+    "bible": "Efézus 1,15-23",
+    "date": "2025.05.29",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250529_17h_VN_Effézus1,15-23_Isten_Krisztust_mindenek_fölé_emelte.mp3",
+    "uuid": "8fb57493-1fb9-4b2e-9bf9-b819e25be11f",
+    "length": 2431,
+    "size": 38909236
   },
   {
     "title": "A Lélek vezet. - KERT",
@@ -2544,10 +2544,10 @@
     "title": "\"...de a harmadik napon fel kell támadnia.\" - 9h",
     "bible": "Lukács 24,7",
     "date": "2025.04.20",
-    "pastor": "Granczin Jonathan",
+    "pastor": "Granzin Jonathan",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250420_9h_GJ_Lukács24,7_de_a_harmadik_napon_fel_kell_támadnia.mp3",
-    "uuid": "7737a2b4-9196-415e-9836-f90417408877",
+    "uuid": "57871cc6-a224-4169-aff6-484f7421338f",
     "length": 3457,
     "size": 55314608
   },
@@ -2555,10 +2555,10 @@
     "title": "\"...de a harmadik napon fel kell támadnia.\" - 9h",
     "bible": "Lukács 24,7",
     "date": "2025.04.20",
-    "pastor": "Granzin Jonathan",
+    "pastor": "Granczin Jonathan",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250420_9h_GJ_Lukács24,7_de_a_harmadik_napon_fel_kell_támadnia.mp3",
-    "uuid": "57871cc6-a224-4169-aff6-484f7421338f",
+    "uuid": "7737a2b4-9196-415e-9836-f90417408877",
     "length": 3457,
     "size": 55314608
   },
@@ -4301,17 +4301,6 @@
     "size": 76977129
   },
   {
-    "title": "Imádság-I. - 11h",
-    "bible": "Máté 6,9-13",
-    "date": "2024.10.06",
-    "pastor": "Fodorné Dr. Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
-    "uuid": "3a8ca185-dfe7-43d0-93ef-7d5865cdda1f",
-    "length": 3147,
-    "size": 50367913
-  },
-  {
     "title": "Imádság-I. - \"Mi Atyánk,...\" - 11h",
     "bible": "Máté 6,9-13",
     "date": "2024.10.06",
@@ -4319,6 +4308,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
     "uuid": "d8e59feb-b9fb-4d34-b387-354ae04a07d7",
+    "length": 3147,
+    "size": 50367913
+  },
+  {
+    "title": "Imádság-I. - 11h",
+    "bible": "Máté 6,9-13",
+    "date": "2024.10.06",
+    "pastor": "Fodorné Dr. Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
+    "uuid": "3a8ca185-dfe7-43d0-93ef-7d5865cdda1f",
     "length": 3147,
     "size": 50367913
   },
@@ -19129,17 +19129,6 @@
     "size": 60643260
   },
   {
-    "title": "A munka II. - ifi it",
-    "bible": "Jakab2,14-22",
-    "date": "2019.03.03",
-    "pastor": "Szabóné László Lilla",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190303_17h_SZLL_Jakab2,14-22_Munka.mp3",
-    "uuid": "6184cbe7-a791-414d-8c0d-1a986c7d2299",
-    "length": 5287,
-    "size": 84592013
-  },
-  {
     "title": "Képmutatás nélkül (Széchenyiváros)",
     "bible": "ApCsel5,1-11",
     "date": "2019.03.03",
@@ -19149,6 +19138,17 @@
     "uuid": "c62764c7-43ee-409a-b40a-e6fc6d40c97d",
     "length": 3604,
     "size": 57669023
+  },
+  {
+    "title": "A munka II. - ifi it",
+    "bible": "Jakab2,14-22",
+    "date": "2019.03.03",
+    "pastor": "Szabóné László Lilla",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190303_17h_SZLL_Jakab2,14-22_Munka.mp3",
+    "uuid": "6184cbe7-a791-414d-8c0d-1a986c7d2299",
+    "length": 5287,
+    "size": 84592013
   },
   {
     "title": "A vakon született meggyógyítása - 11h",
@@ -24684,17 +24684,6 @@
     "size": 30899976
   },
   {
-    "title": "Hol laksz - 8h",
-    "bible": "Zsoltár65,1-9",
-    "date": "2015.04.11",
-    "pastor": "Laczay András",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150411 8h LA_bibl.ism.vers.ahitat_Hol laksz_Zsolt65,1_9.mp3",
-    "uuid": "1d2f7c6b-ceab-495f-9d65-f403f3efeae8",
-    "length": 973,
-    "size": 7789968
-  },
-  {
     "title": "Jézus evangéliuma - világ evangéliumai - 18h",
     "bible": "Galata1,1-10",
     "date": "2015.04.11",
@@ -24704,6 +24693,17 @@
     "uuid": "a11db935-cc93-488a-a46f-7d716034254f",
     "length": 1318,
     "size": 10546618
+  },
+  {
+    "title": "Hol laksz - 8h",
+    "bible": "Zsoltár65,1-9",
+    "date": "2015.04.11",
+    "pastor": "Laczay András",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150411 8h LA_bibl.ism.vers.ahitat_Hol laksz_Zsolt65,1_9.mp3",
+    "uuid": "1d2f7c6b-ceab-495f-9d65-f403f3efeae8",
+    "length": 973,
+    "size": 7789968
   },
   {
     "title": "Jézus csodái ma - 7,15h",
@@ -25630,17 +25630,6 @@
     "size": 18354095
   },
   {
-    "title": "Visszatérés Názáretbe - 17h",
-    "bible": "Máté2,19-23",
-    "date": "2014.12.27",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/141227 17h PF_hetz.it_Vizateres Nazaretbe_Mt2,19_23.mp3",
-    "uuid": "eb9ee318-a42a-43ad-a951-507587d137f3",
-    "length": 1241,
-    "size": 9932218
-  },
-  {
     "title": "Hol van a Király - 17h",
     "bible": "Máté2,2",
     "date": "2014.12.27",
@@ -25650,6 +25639,17 @@
     "uuid": "17a7ad31-8025-488f-9d15-bdce41968e8b",
     "length": 1638,
     "size": 13107663
+  },
+  {
+    "title": "Visszatérés Názáretbe - 17h",
+    "bible": "Máté2,19-23",
+    "date": "2014.12.27",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/141227 17h PF_hetz.it_Vizateres Nazaretbe_Mt2,19_23.mp3",
+    "uuid": "eb9ee318-a42a-43ad-a951-507587d137f3",
+    "length": 1241,
+    "size": 9932218
   },
   {
     "title": "Menekülés Egyiptomból - 11h",
@@ -25971,15 +25971,15 @@
     "size": 13209436
   },
   {
-    "title": "Mindenki látja - 15h",
-    "bible": "Zsoltárok97,6",
+    "title": "Mi a te kincsed - 17h",
+    "bible": "Máté3,19-21",
     "date": "2014.08.31",
-    "pastor": "Kuti József",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
-    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
-    "length": 1642,
-    "size": 13140263
+    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
+    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
+    "length": 2805,
+    "size": 22441318
   },
   {
     "title": "Adni és kapni - 18h",
@@ -25993,15 +25993,15 @@
     "size": 12207796
   },
   {
-    "title": "Mi a te kincsed - 17h",
-    "bible": "Máté3,19-21",
+    "title": "Mindenki látja - 15h",
+    "bible": "Zsoltárok97,6",
     "date": "2014.08.31",
-    "pastor": "Varga Nándor",
+    "pastor": "Kuti József",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/140831 17h VN_gimn.tanevnyit.it_Mi a te kincsed_Mt3,19_21.mp3",
-    "uuid": "db24fe9d-2844-4372-b71d-3bd252e951e3",
-    "length": 2805,
-    "size": 22441318
+    "download": "/media/files/igehirdetesek/140831 15h KJ_alt.isk.tanevnyit.it_Mindenki latja_Zsolt97,6.mp3",
+    "uuid": "6884a719-89a4-4fef-bd18-0784be6232cf",
+    "length": 1642,
+    "size": 13140263
   },
   {
     "title": "A frigyláda tartalma, amire szükségünk van - 10h",
@@ -28677,17 +28677,6 @@
     "size": 22305271
   },
   {
-    "title": "Gyertek - 15h",
-    "bible": "Zsoltárok66,5",
-    "date": "2013.09.01",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
-    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
-    "length": 1985,
-    "size": 15883537
-  },
-  {
     "title": "Isten vigasztalása - 18h",
     "bible": "1Tesszalónika4,13-18",
     "date": "2013.09.01",
@@ -28697,6 +28686,17 @@
     "uuid": "b6e1f5bb-63b3-4619-a564-984e9c18fae7",
     "length": 2130,
     "size": 17046091
+  },
+  {
+    "title": "Gyertek - 15h",
+    "bible": "Zsoltárok66,5",
+    "date": "2013.09.01",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/130901 15h VN_alt.isk.tanevnyito it_Gyertek_Zsolt66,5.mp3",
+    "uuid": "66fdfa0c-6163-47fa-beff-fceff1ac625e",
+    "length": 1985,
+    "size": 15883537
   },
   {
     "title": "Ne csüggedj - 18h",
@@ -32197,17 +32197,6 @@
     "size": 5779374
   },
   {
-    "title": "Presbiteri fogadalomtétel és köszöntések - 9h",
-    "bible": "Máté4,1-11",
-    "date": "2012.01.08",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120108_9h_presbiteri_fogadalomtetel_es_koszontosek.mp3",
-    "uuid": "bd490fd1-426e-40be-bacf-4384822e33f1",
-    "length": 2508,
-    "size": 20069190
-  },
-  {
     "title": "Részesedés Krisztus küzdelmében - 9h",
     "bible": "Máté4,1-11",
     "date": "2012.01.08",
@@ -32217,6 +32206,17 @@
     "uuid": "65d75fae-1caf-4fdc-8ef0-c782376950b5",
     "length": 1650,
     "size": 13207972
+  },
+  {
+    "title": "Presbiteri fogadalomtétel és köszöntések - 9h",
+    "bible": "Máté4,1-11",
+    "date": "2012.01.08",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120108_9h_presbiteri_fogadalomtetel_es_koszontosek.mp3",
+    "uuid": "bd490fd1-426e-40be-bacf-4384822e33f1",
+    "length": 2508,
+    "size": 20069190
   },
   {
     "title": "Immánuel velünk az Isten - 9h",
