@@ -1914,17 +1914,6 @@
     "size": 60456517
   },
   {
-    "title": "Megmentőnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
-    "bible": "Eszter Könyve",
-    "date": "2025.07.10",
-    "pastor": "Kohi-Pál Eszter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250710_9h_KPE_Megmentőnek_lenni_Eszter_könyve.mp3",
-    "uuid": "32242039-03ad-40e7-8173-6b19016421f8",
-    "length": 3287,
-    "size": 52592615
-  },
-  {
     "title": "Isten, aki vezet - Beregdaróc - Családos Csendeshét",
     "bible": "Eszter 5,1-8",
     "date": "2025.07.10",
@@ -1936,15 +1925,15 @@
     "size": 48753660
   },
   {
-    "title": "Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
+    "title": "Megmentőnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
     "bible": "Eszter Könyve",
-    "date": "2025.07.09",
+    "date": "2025.07.10",
     "pastor": "Kohi-Pál Eszter",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20250709_9h_KPE_Ellenségnek_lenni_Eszter_könyve.mp3",
-    "uuid": "b709ced5-78ca-42ed-b81c-c27369eae0e4",
-    "length": 3945,
-    "size": 63126022
+    "download": "/media/files/igehirdetesek/20250710_9h_KPE_Megmentőnek_lenni_Eszter_könyve.mp3",
+    "uuid": "32242039-03ad-40e7-8173-6b19016421f8",
+    "length": 3287,
+    "size": 52592615
   },
   {
     "title": "Isten, aki elhív - Beregdaróc - Családos Csendeshét",
@@ -1956,6 +1945,17 @@
     "uuid": "6aa9b824-2912-4db5-a0b0-c459eaf79afc",
     "length": 3561,
     "size": 56984530
+  },
+  {
+    "title": "Ellenségnek lenni - Eszter Könyve - Beregdaróc - Családos Csendeshét",
+    "bible": "Eszter Könyve",
+    "date": "2025.07.09",
+    "pastor": "Kohi-Pál Eszter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250709_9h_KPE_Ellenségnek_lenni_Eszter_könyve.mp3",
+    "uuid": "b709ced5-78ca-42ed-b81c-c27369eae0e4",
+    "length": 3945,
+    "size": 63126022
   },
   {
     "title": "Isten, aki megajándékoz - Beregdaróc - Családos Csendeshét",
@@ -2079,13 +2079,13 @@
     "size": 43514257
   },
   {
-    "title": "\"Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból. - 9h - Gimnáziumi tanévzáró\"",
+    "title": "\"Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból.\" - 9h - Gimnáziumi tanévzáró",
     "bible": "2 Péter 1,20",
     "date": "2025.06.22",
-    "pastor": "Vincze Árpád",
+    "pastor": "Komádi Róbert",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250622_9h_VÁ_2Péter1,20_Mindenekelőtt_tudnotok_kell,_hogy_az_Írás_egyetlen_próféciája_sem_ered_önkényes_magyarázatból.mp3",
-    "uuid": "6e4c512a-848c-4046-91d1-004b9f9200df",
+    "uuid": "e0abbc86-1c21-402f-9f90-e4d2d7cd3407",
     "length": 5776,
     "size": 92421636
   },
@@ -2101,13 +2101,13 @@
     "size": 92421636
   },
   {
-    "title": "\"Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból.\" - 9h - Gimnáziumi tanévzáró",
+    "title": "\"Mindenek előtt tudnotok kell, hogy az Írás egyetlen próféciája sem ered önkényes magyarázatból. - 9h - Gimnáziumi tanévzáró\"",
     "bible": "2 Péter 1,20",
     "date": "2025.06.22",
-    "pastor": "Komádi Róbert",
+    "pastor": "Vincze Árpád",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250622_9h_VÁ_2Péter1,20_Mindenekelőtt_tudnotok_kell,_hogy_az_Írás_egyetlen_próféciája_sem_ered_önkényes_magyarázatból.mp3",
-    "uuid": "e0abbc86-1c21-402f-9f90-e4d2d7cd3407",
+    "uuid": "6e4c512a-848c-4046-91d1-004b9f9200df",
     "length": 5776,
     "size": 92421636
   },
@@ -3182,10 +3182,10 @@
     "title": "Úrvacsorára készülve... (Katonatelep)",
     "bible": "Máté 5, 23-26",
     "date": "2025.03.02",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_02_Laczay_András.mp3",
-    "uuid": "15572325-0bb8-45a5-85c5-cf81dad23d7e",
+    "uuid": "f56c4f27-9ffe-49dc-bc6f-b721a0e565ec",
     "length": 2765,
     "size": 38714416
   },
@@ -3193,10 +3193,10 @@
     "title": "Úrvacsorára készülve... (Katonatelep)",
     "bible": "Máté 5, 23-26",
     "date": "2025.03.02",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_03_02_Laczay_András.mp3",
-    "uuid": "f56c4f27-9ffe-49dc-bc6f-b721a0e565ec",
+    "uuid": "15572325-0bb8-45a5-85c5-cf81dad23d7e",
     "length": 2765,
     "size": 38714416
   },
@@ -3652,17 +3652,6 @@
     "size": 44465728
   },
   {
-    "title": "\"Krisztusért járva követségben\"-Igehírdetés - 9h",
-    "bible": "Róma 10,12-17",
-    "date": "2025.01.05",
-    "pastor": "Kuti József",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250105_9h_KJ_Róma10,12-17_Krisztusért_járva_követségben-Igehírdetés.mp3",
-    "uuid": "8de7a3d8-777f-494e-bfdc-13cc82380e84",
-    "length": 3287,
-    "size": 52602422
-  },
-  {
     "title": "\"Krisztusért járva követségben\"- Igehírdetés - 9h",
     "bible": "Róma 10,12-17",
     "date": "2025.01.05",
@@ -3670,6 +3659,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250105_9h_KJ_Róma10,12-17_Krisztusért_járva_követségben-Igehírdetés.mp3",
     "uuid": "6d2ceaf7-5253-41ae-861a-b1630a46c434",
+    "length": 3287,
+    "size": 52602422
+  },
+  {
+    "title": "\"Krisztusért járva követségben\"-Igehírdetés - 9h",
+    "bible": "Róma 10,12-17",
+    "date": "2025.01.05",
+    "pastor": "Kuti József",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250105_9h_KJ_Róma10,12-17_Krisztusért_járva_követségben-Igehírdetés.mp3",
+    "uuid": "8de7a3d8-777f-494e-bfdc-13cc82380e84",
     "length": 3287,
     "size": 52602422
   },
@@ -4961,17 +4961,6 @@
     "size": 67354590
   },
   {
-    "title": "A Fürdőszoba - TGT - Előadás - Kedd délelőtt - Előadók:  Nagy Henrietta, Vincze Árpád",
-    "bible": "",
-    "date": "2024.07.23",
-    "pastor": "",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240723_9,30h_NH,VÁ_A_Fürdőszoba.mp3",
-    "uuid": "bb8c44f8-f7e1-474b-8af2-a0f3d362a54a",
-    "length": 2919,
-    "size": 46716184
-  },
-  {
     "title": "Minden napom, minden napon az Úrral. - Kedd este",
     "bible": "2 Sámuel 13:1-19",
     "date": "2024.07.23",
@@ -4981,6 +4970,17 @@
     "uuid": "8dc84d45-1ecc-431b-8f9e-79ba659c2a36",
     "length": 4133,
     "size": 66128716
+  },
+  {
+    "title": "A Fürdőszoba - TGT - Előadás - Kedd délelőtt - Előadók:  Nagy Henrietta, Vincze Árpád",
+    "bible": "",
+    "date": "2024.07.23",
+    "pastor": "",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240723_9,30h_NH,VÁ_A_Fürdőszoba.mp3",
+    "uuid": "bb8c44f8-f7e1-474b-8af2-a0f3d362a54a",
+    "length": 2919,
+    "size": 46716184
   },
   {
     "title": "Minden napom, minden napon az Úrral. - Hétfő este",
@@ -5423,17 +5423,6 @@
     "size": 71749683
   },
   {
-    "title": "Szenlélek jó munkája. - 17h - Felnőtt konfirmándusok konfirmációja",
-    "bible": "Filippi 1,6",
-    "date": "2024.05.19",
-    "pastor": "Fodorné Dr. Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20240519_17h_FAM_Filippi1,6_meg_vagyok_győződve_arról,_hogy_aki_elkezdte_bennetek_a_jó_munkát..el_is_végzi.mp3",
-    "uuid": "7e0e2596-5c63-4e50-828a-b92956eac61a",
-    "length": 3589,
-    "size": 57424694
-  },
-  {
     "title": "Szentlélek kitöltése - Városi hittanosok konfirmációi istentisztelete - 11:30h",
     "bible": "ApCsel 2 válogatott versek",
     "date": "2024.05.19",
@@ -5443,6 +5432,17 @@
     "uuid": "a4fa71d2-a5c5-4ef2-af7e-f41d84abf9d1",
     "length": 4241,
     "size": 67860797
+  },
+  {
+    "title": "Szenlélek jó munkája. - 17h - Felnőtt konfirmándusok konfirmációja",
+    "bible": "Filippi 1,6",
+    "date": "2024.05.19",
+    "pastor": "Fodorné Dr. Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20240519_17h_FAM_Filippi1,6_meg_vagyok_győződve_arról,_hogy_aki_elkezdte_bennetek_a_jó_munkát..el_is_végzi.mp3",
+    "uuid": "7e0e2596-5c63-4e50-828a-b92956eac61a",
+    "length": 3589,
+    "size": 57424694
   },
   {
     "title": "Hálaadás az életért - 18h - Pünkösdi evangélizáció",
@@ -7351,10 +7351,10 @@
     "title": "Hűen szolgálni Urunkat. - 18h",
     "bible": "Efézus, 2 Korintus válogatott versek",
     "date": "2023.08.13",
-    "pastor": "Almási Jenő Attila",
+    "pastor": "Bobvos Gergely",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230813_18h_Bobvos_Gergő_Efézus,_2Korintus_válogatott_versei_Hűen_szolgálni_Urunkat.mp3",
-    "uuid": "ecb42d03-f95e-46b5-886e-6731f2630536",
+    "uuid": "1604a708-e2be-4853-992b-38701ec53a06",
     "length": 2985,
     "size": 47775618
   },
@@ -7362,10 +7362,10 @@
     "title": "Hűen szolgálni Urunkat. - 18h",
     "bible": "Efézus, 2 Korintus válogatott versek",
     "date": "2023.08.13",
-    "pastor": "Bobvos Gergely",
+    "pastor": "Almási Jenő Attila",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20230813_18h_Bobvos_Gergő_Efézus,_2Korintus_válogatott_versei_Hűen_szolgálni_Urunkat.mp3",
-    "uuid": "1604a708-e2be-4853-992b-38701ec53a06",
+    "uuid": "ecb42d03-f95e-46b5-886e-6731f2630536",
     "length": 2985,
     "size": 47775618
   },
@@ -10065,17 +10065,6 @@
     "size": 75377501
   },
   {
-    "title": "Jézus megdicsőülése. - Széchenyiváros",
-    "bible": "Márk 9,2-13.",
-    "date": "2022.08.07",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220807_9,30h_SZZS_Márk9,2-13._Jézus_megdicsőülése.mp3",
-    "uuid": "daf123df-7ffd-4685-a2c8-c6c4dd855c3c",
-    "length": 3182,
-    "size": 50925794
-  },
-  {
     "title": "Szeretetben való szolgálat. - 18h",
     "bible": "Galata 5,22-23.",
     "date": "2022.08.07",
@@ -10085,6 +10074,17 @@
     "uuid": "97978391-26b7-466c-8779-2fb40768d576",
     "length": 2222,
     "size": 35552308
+  },
+  {
+    "title": "Jézus megdicsőülése. - Széchenyiváros",
+    "bible": "Márk 9,2-13.",
+    "date": "2022.08.07",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220807_9,30h_SZZS_Márk9,2-13._Jézus_megdicsőülése.mp3",
+    "uuid": "daf123df-7ffd-4685-a2c8-c6c4dd855c3c",
+    "length": 3182,
+    "size": 50925794
   },
   {
     "title": "A zörgető Jézus. - 11h",
@@ -11011,17 +11011,6 @@
     "size": 57675467
   },
   {
-    "title": "Az Emberfia - 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Kicsoda az Emberfia Jézus?- 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -11029,6 +11018,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Az Emberfia - 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
     "length": 3751,
     "size": 60030249
   },
@@ -18711,17 +18711,6 @@
     "size": 54532959
   },
   {
-    "title": "Szentlélek szüntelenül munkálkodik (Széchenyiváros)",
-    "bible": "ApCsel10,17-23",
-    "date": "2019.05.05",
-    "pastor": "Pál Ferenc",
-    "youtube": "https://youtu.be/4r9_QPoUjXM",
-    "download": "/media/files/igehirdetesek/20190505_9,30h_PF_ApCs_10,17-23_Szentlélek_szüntelen_munkálkodik_(Széchenyiváros).mp3",
-    "uuid": "7dea213b-74fb-461a-9cab-f815a81bfd15",
-    "length": 4074,
-    "size": 65195957
-  },
-  {
     "title": "Az imádság - ifi it.",
     "bible": "1Thesszalonika5,16-18",
     "date": "2019.05.05",
@@ -18731,6 +18720,17 @@
     "uuid": "0187e0a2-c3e4-48c3-8124-915c97475b0b",
     "length": 2977,
     "size": 47640814
+  },
+  {
+    "title": "Szentlélek szüntelenül munkálkodik (Széchenyiváros)",
+    "bible": "ApCsel10,17-23",
+    "date": "2019.05.05",
+    "pastor": "Pál Ferenc",
+    "youtube": "https://youtu.be/4r9_QPoUjXM",
+    "download": "/media/files/igehirdetesek/20190505_9,30h_PF_ApCs_10,17-23_Szentlélek_szüntelen_munkálkodik_(Széchenyiváros).mp3",
+    "uuid": "7dea213b-74fb-461a-9cab-f815a81bfd15",
+    "length": 4074,
+    "size": 65195957
   },
   {
     "title": "Törvény és örökség (Gimnáziumi ballagás)",
@@ -24431,17 +24431,6 @@
     "size": 23901040
   },
   {
-    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
-    "bible": "5Móz6,6-9",
-    "date": "2015.06.21",
-    "pastor": "Borsos-Pintér Nóra",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
-    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
-    "length": 2718,
-    "size": 21751685
-  },
-  {
     "title": "Isten hangja - 18h",
     "bible": "1Mózes3,8",
     "date": "2015.06.21",
@@ -24451,6 +24440,17 @@
     "uuid": "2c4eae74-6627-4f51-86b2-95dfcbbd7b4b",
     "length": 1338,
     "size": 10704188
+  },
+  {
+    "title": "A hitünkben ne tartsunk nyári szünetet - 16h",
+    "bible": "5Móz6,6-9",
+    "date": "2015.06.21",
+    "pastor": "Borsos-Pintér Nóra",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/150621 16h BPN_alt.isk.tanevz.it_A hitunkben ne tartsunk nyari szunetet_5Moz6,6_9.mp3",
+    "uuid": "ac352ef9-6cb7-4fca-a240-4fe64cdbb7fc",
+    "length": 2718,
+    "size": 21751685
   },
   {
     "title": "Vértanúság - halál nélkül is - 11h",
@@ -25707,17 +25707,6 @@
     "size": 13571178
   },
   {
-    "title": "Ítélet helyett üdvösség - 18h",
-    "bible": "János3,17",
-    "date": "2014.12.31",
-    "pastor": "Varga Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/141231 18h VN_oevbucs.it_Itelet helyett udvosseg_Jn3,17.mp3",
-    "uuid": "877f9333-dce6-416a-b2db-764883fae273",
-    "length": 1544,
-    "size": 12353455
-  },
-  {
     "title": "Isten valóságos szeretete - 15h",
     "bible": "János3,16",
     "date": "2014.12.31",
@@ -25727,6 +25716,17 @@
     "uuid": "74a13ab0-a185-482e-85b5-e8585919dd7f",
     "length": 1198,
     "size": 9591581
+  },
+  {
+    "title": "Ítélet helyett üdvösség - 18h",
+    "bible": "János3,17",
+    "date": "2014.12.31",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/141231 18h VN_oevbucs.it_Itelet helyett udvosseg_Jn3,17.mp3",
+    "uuid": "877f9333-dce6-416a-b2db-764883fae273",
+    "length": 1544,
+    "size": 12353455
   },
   {
     "title": "A lényeg a kezedben van - 11h",
@@ -30371,17 +30371,6 @@
     "size": 12745709
   },
   {
-    "title": "Jézussal a világ végéig - 15h",
-    "bible": "Lukács21,5-19",
-    "date": "2012.12.31",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/121231_15h_PF_Jezussal_a_vilag_vegeig_Lk21_5_19.mp3",
-    "uuid": "837b42d2-a11f-4a59-b258-10404cd3385c",
-    "length": 1724,
-    "size": 13795622
-  },
-  {
     "title": "Van ér van csodás erő - 18h",
     "bible": "1János5,4-5",
     "date": "2012.12.31",
@@ -30391,6 +30380,17 @@
     "uuid": "2e5b78e6-5a18-44b9-88ed-89e5e9a832cf",
     "length": 1723,
     "size": 13788308
+  },
+  {
+    "title": "Jézussal a világ végéig - 15h",
+    "bible": "Lukács21,5-19",
+    "date": "2012.12.31",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/121231_15h_PF_Jezussal_a_vilag_vegeig_Lk21_5_19.mp3",
+    "uuid": "837b42d2-a11f-4a59-b258-10404cd3385c",
+    "length": 1724,
+    "size": 13795622
   },
   {
     "title": "Szelíd szemed Úr Jézus - 11h",
@@ -33396,17 +33396,6 @@
     "size": 44443106
   },
   {
-    "title": "A Lélek dolgaival való törödés, pedig élet és békesség - 11,30h",
-    "bible": "Római8,1-12",
-    "date": "2011.06.13",
-    "pastor": "Ritter Nándor",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/110613_11_30h_RN_A_lelek_dolgaival_valo_torodes_pedig_elet_es_bekesseg_Rom8_1_12.mp3",
-    "uuid": "ad486dbc-2967-4a47-bcdb-c74216284f76",
-    "length": 1496,
-    "size": 11974783
-  },
-  {
     "title": "Világosság gyermekei - 18h",
     "bible": "Efézus5,8-9",
     "date": "2011.06.13",
@@ -33416,6 +33405,17 @@
     "uuid": "0b1748d5-5191-467a-9300-6fec83557b23",
     "length": 2467,
     "size": 19741092
+  },
+  {
+    "title": "A Lélek dolgaival való törödés, pedig élet és békesség - 11,30h",
+    "bible": "Római8,1-12",
+    "date": "2011.06.13",
+    "pastor": "Ritter Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/110613_11_30h_RN_A_lelek_dolgaival_valo_torodes_pedig_elet_es_bekesseg_Rom8_1_12.mp3",
+    "uuid": "ad486dbc-2967-4a47-bcdb-c74216284f76",
+    "length": 1496,
+    "size": 11974783
   },
   {
     "title": "Konfirmáció - 9h",
