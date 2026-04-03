@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 03 Apr 2026 13:53:16 +0100
+✅ Legutóbb frissítve: Fri, 03 Apr 2026 17:53:44 +0100
 
-Epizódok száma: 3533
+Epizódok száma: 3538
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3533
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.04.03 - "Aki pedig látta ezt, az tesz róla bizonyságot" - 9h - Kuti József
+ - 2026.04.02 - Az Úr szenvedő szolgájának üzenete IV. - Széchenyváros - Engedelmesség, áldozat, bizalom - 17h - Pál Ferenc
+ - 2026.04.01 - Az Úr szenvedő szolgájának üzenete III. - Petőfiváros - "Megörizlek és megajándékozom általad szövetségemmel népemet" - 17h - Borsos-Pintér Nóra
+ - 2026.03.31 - Az Úr szenvedő szolgájának üzenete II. - Katonatelep - Figyelemfelkeltő szó fontossága - 17h - Laczay András
+ - 2026.03.30 - Az Úr szenvedő szolgájának üzenete I. - Belváros - "Ez az én szolgám, akit támogatok" - 17h - Kuti József
  - 2026.03.30 - Az Úr szenvedő szolgájának üzenete-I.-Belváros - "Ez az én szolgám, akit támogatok" - 17h - Kuti József
- - 2026.03.29 - "Mert a házad iránti féltő szeretet emészt..." - 9h - Varga Nándor
- - 2026.03.22 - Téma: Kapcsolat: Kapcsolat Jézussal - KERT - Nagy Henrietta
- - 2026.03.22 - "A világon nyomorúságotok van, de bízzatok, én legyőztem a világot." - 11h - Varga Nándor
- - 2026.03.22 - Mi él bennünk? (Katonatelep) - Laczay András
- - 2026.03.22 - "Ezeket azért mondom nektek, hogy békességetek legyen énbennem" - 9h - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3533
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 03 Apr 2026 13:53:16 +0100
+✅ Legutóbb frissítve: Fri, 03 Apr 2026 17:53:44 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 03 Apr 2026 13:53:42 +0100
+✅ Legutóbb frissítve: Fri, 03 Apr 2026 17:54:03 +0100
 
 Epizódok száma: 1070
 
