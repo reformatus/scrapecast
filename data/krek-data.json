@@ -1760,17 +1760,6 @@
     "size": 68752025
   },
   {
-    "title": "Üzemzavar - Széchenyiváros",
-    "bible": "Nehémiás 5,1-13",
-    "date": "2025.08.17",
-    "pastor": "Pál Ferenc",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250817_PF_Nehémiás5,1-13_Üzemzavar_Széchenyíváros.mp3",
-    "uuid": "1bf51085-0c49-4003-91bc-772564ff54c6",
-    "length": 4220,
-    "size": 67525043
-  },
-  {
     "title": "Vigyázzatok! - 17h",
     "bible": "Márk 13,35-37",
     "date": "2025.08.17",
@@ -1780,6 +1769,17 @@
     "uuid": "e8410ab3-9854-4686-adfb-19d18e1f6e38",
     "length": 2999,
     "size": 47991116
+  },
+  {
+    "title": "Üzemzavar - Széchenyiváros",
+    "bible": "Nehémiás 5,1-13",
+    "date": "2025.08.17",
+    "pastor": "Pál Ferenc",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250817_PF_Nehémiás5,1-13_Üzemzavar_Széchenyíváros.mp3",
+    "uuid": "1bf51085-0c49-4003-91bc-772564ff54c6",
+    "length": 4220,
+    "size": 67525043
   },
   {
     "title": "Az imádság feltétele (Katonatelep)",
@@ -5104,15 +5104,15 @@
     "size": 49383398
   },
   {
-    "title": "Minden napom, minden napon az Úrral. - Vasárnap este",
-    "bible": "2 Sámuel 11:1-13",
+    "title": "Hamis boldogság - 14h - TGT - Tábornyitó Istentisztelet",
+    "bible": "1 Zsoltár 1-2",
     "date": "2024.07.21",
-    "pastor": "Bán Béla",
+    "pastor": "Varga Nándor",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_20,30h_BB_2Sámuel11,1-13.mp3",
-    "uuid": "1ec8f82b-af76-4a99-81f7-32e013040dd3",
-    "length": 4366,
-    "size": 69856912
+    "download": "/media/files/igehirdetesek/20240721_14h_VN_1Zsoltár1-2_Hamis_boldogság.mp3",
+    "uuid": "79bd86e9-3814-445a-864c-016c618c40af",
+    "length": 1469,
+    "size": 23517359
   },
   {
     "title": "Az igazak és a bűnösök sorsa. - 17h",
@@ -5126,15 +5126,15 @@
     "size": 45203367
   },
   {
-    "title": "Hamis boldogság - 14h - TGT - Tábornyitó Istentisztelet",
-    "bible": "1 Zsoltár 1-2",
+    "title": "Minden napom, minden napon az Úrral. - Vasárnap este",
+    "bible": "2 Sámuel 11:1-13",
     "date": "2024.07.21",
-    "pastor": "Varga Nándor",
+    "pastor": "Bán Béla",
     "youtube": null,
-    "download": "/media/files/igehirdetesek/20240721_14h_VN_1Zsoltár1-2_Hamis_boldogság.mp3",
-    "uuid": "79bd86e9-3814-445a-864c-016c618c40af",
-    "length": 1469,
-    "size": 23517359
+    "download": "/media/files/igehirdetesek/20240721_20,30h_BB_2Sámuel11,1-13.mp3",
+    "uuid": "1ec8f82b-af76-4a99-81f7-32e013040dd3",
+    "length": 4366,
+    "size": 69856912
   },
   {
     "title": "\"Mert aki kér, mind kap\" - 11h",
@@ -26730,17 +26730,6 @@
     "size": 49032299
   },
   {
-    "title": "A Lélek elmét és lelket palléroz - 11,30h",
-    "bible": "1Korinthus2,10-16",
-    "date": "2014.06.09",
-    "pastor": "Szikszai Szabolcs",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/140609 11.30h SzSz_punk.hetfo.it_A lelek elmet es lelket palleroz_1Kor2,10_16.mp3",
-    "uuid": "3ce5d32d-99c8-4fb3-8752-abec3c6efaf8",
-    "length": 2077,
-    "size": 16619983
-  },
-  {
     "title": "Nyomorúságból egyházba Krisztus hívására - 18h",
     "bible": "Római7,24-25",
     "date": "2014.06.09",
@@ -26750,6 +26739,17 @@
     "uuid": "9a6b78b2-d567-4d58-a5a0-8fd0ef79bf9d",
     "length": 2329,
     "size": 18636218
+  },
+  {
+    "title": "A Lélek elmét és lelket palléroz - 11,30h",
+    "bible": "1Korinthus2,10-16",
+    "date": "2014.06.09",
+    "pastor": "Szikszai Szabolcs",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/140609 11.30h SzSz_punk.hetfo.it_A lelek elmet es lelket palleroz_1Kor2,10_16.mp3",
+    "uuid": "3ce5d32d-99c8-4fb3-8752-abec3c6efaf8",
+    "length": 2077,
+    "size": 16619983
   },
   {
     "title": "Az elhívottak elkészített útja - 9h",
@@ -37631,17 +37631,6 @@
     "size": 11955075
   },
   {
-    "title": "A tanítvány nem képmutató, hanem őszinte - 16h",
-    "bible": "Máté61,6; 8-16",
-    "date": "2008.04.10",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080410_16h-vegh-tamas--a-tanitvany-nem-kepmutato-hanem-oszinte--mate-61-6;8-16-18-2008.-04.-10.-16h.mp3",
-    "uuid": "f86a95cd-9209-4b85-99d1-8dd4327529a5",
-    "length": 3247,
-    "size": 16235195
-  },
-  {
     "title": "Szeressétek ellenségeiteket - 10h",
     "bible": "Máté5,38-48",
     "date": "2008.04.10",
@@ -37651,6 +37640,17 @@
     "uuid": "0a648e1e-cd35-4cdf-8273-568d6189897c",
     "length": 3270,
     "size": 16351675
+  },
+  {
+    "title": "A tanítvány nem képmutató, hanem őszinte - 16h",
+    "bible": "Máté61,6; 8-16",
+    "date": "2008.04.10",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080410_16h-vegh-tamas--a-tanitvany-nem-kepmutato-hanem-oszinte--mate-61-6;8-16-18-2008.-04.-10.-16h.mp3",
+    "uuid": "f86a95cd-9209-4b85-99d1-8dd4327529a5",
+    "length": 3247,
+    "size": 16235195
   },
   {
     "title": "Házastársi hűség és igazmondás. - 16h",
