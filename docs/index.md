@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 12 Apr 2026 22:53:17 +0100
+✅ Legutóbb frissítve: Mon, 13 Apr 2026 10:22:28 +0100
 
-Epizódok száma: 3550
+Epizódok száma: 3553
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3550
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.04.12 - Téma: A Szentlélek vezet - személyes élet - KERT - Szűcs Júlia
+ - 2026.04.12 - "Én vagyok a jó pásztor. A jó pásztor életét adja a juhokért." - 11h - Komádi Róbert
+ - 2026.04.12 - "Kegyelem néktek és békesség Istentől, a mi Atyánktól és az Úr Jézus Krisztustól." - 9h - Varga Nándor
  - 2026.04.12 - A legbiztosabb választás - Széchenyiváros - Kohi-Pál Eszter
  - 2026.04.06 - Téma: Kapcsolat a feltámadott Jézussal - KERT - Nagy Henrietta
  - 2026.04.06 - "...örömötöket senki sem veheti el tőletek" - 11h - Borsos-Pintér Nóra
- - 2026.04.06 - Húsvét után (Katonatelep) - Laczay András
- - 2026.04.06 - Jézus megjelenik a Tibériás-tengernél - 9h - Kuti József
- - 2026.04.05 - Az üres sír - 11h - Kuti József
 
 ---
 
@@ -37,7 +37,7 @@ Epizódok száma: 3550
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 12 Apr 2026 22:53:17 +0100
+✅ Legutóbb frissítve: Mon, 13 Apr 2026 10:22:29 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +63,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 12 Apr 2026 22:53:34 +0100
+✅ Legutóbb frissítve: Mon, 13 Apr 2026 10:22:46 +0100
 
 Epizódok száma: 1072
 

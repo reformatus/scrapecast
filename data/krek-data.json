@@ -1,5 +1,38 @@
 [
   {
+    "title": "Téma: A Szentlélek vezet - személyes élet - KERT",
+    "bible": "Jónás 2. fejezet",
+    "date": "2026.04.12",
+    "pastor": "Szűcs Júlia",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20260412_17h_SZJ_Jónás2._fejezet_Téma_A_Szentlélek_vezet - személyes_élet.mp3",
+    "uuid": "85503fc2-5a36-4ce1-81ee-a45907096c0c",
+    "length": 3273,
+    "size": 52380638
+  },
+  {
+    "title": "\"Én vagyok a jó pásztor. A jó pásztor életét adja a juhokért.\" - 11h",
+    "bible": "János 10,11",
+    "date": "2026.04.12",
+    "pastor": "Komádi Róbert",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20260412_11h_KR_János10,11_Én_vagyok_a_jó_pásztor._A_jó_pásztor_életét_adja_a_juhokért.mp3",
+    "uuid": "983b31fb-7811-4745-a492-ee5a03028b19",
+    "length": 2064,
+    "size": 33029288
+  },
+  {
+    "title": "\"Kegyelem néktek és békesség Istentől, a mi Atyánktól és az Úr Jézus Krisztustól.\" - 9h",
+    "bible": "Róma 1,7",
+    "date": "2026.04.12",
+    "pastor": "Varga Nándor",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20260412_9h_VN_Róma1,7_Kegyelem_néktek_és_békesség_Istentől,_a_mi_Atyánktól_és_az_Úr_Jézus_Krisztustól..mp3",
+    "uuid": "d0f37347-dbdd-41dc-a9a5-e4db15e062a5",
+    "length": 3002,
+    "size": 48045199
+  },
+  {
     "title": "A legbiztosabb választás - Széchenyiváros",
     "bible": "1 Mózes 13,5-18",
     "date": "2026.04.12",
@@ -2057,17 +2090,6 @@
     "size": 40531249
   },
   {
-    "title": "Isten kárpótlása - 17h",
-    "bible": "Jóel 2,18-24",
-    "date": "2025.07.20",
-    "pastor": "Kohi-Pál Eszter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250720_17h_KPE_Joel2,18-24_Isten_kárpótlása.mp3",
-    "uuid": "de6101e2-573a-4486-a2eb-4d8f5ff630f0",
-    "length": 1699,
-    "size": 27192569
-  },
-  {
     "title": "Isten építőmunkásai - Széchenyiváros",
     "bible": "Nehémiás 3,1-15",
     "date": "2025.07.20",
@@ -2077,6 +2099,17 @@
     "uuid": "e4575ba7-4570-47a6-940e-f3a8304c7490",
     "length": 3288,
     "size": 52611005
+  },
+  {
+    "title": "Isten kárpótlása - 17h",
+    "bible": "Jóel 2,18-24",
+    "date": "2025.07.20",
+    "pastor": "Kohi-Pál Eszter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250720_17h_KPE_Joel2,18-24_Isten_kárpótlása.mp3",
+    "uuid": "de6101e2-573a-4486-a2eb-4d8f5ff630f0",
+    "length": 1699,
+    "size": 27192569
   },
   {
     "title": "A tizenkét tanítvány elhívása - 11h",
@@ -2838,17 +2871,6 @@
     "size": 55894228
   },
   {
-    "title": "Jézus feltámadása. - 11h",
-    "bible": "Lukács 24,1-12",
-    "date": "2025.04.20",
-    "pastor": "Vincze Árpád",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250420_11h_VÁ_Lukács24,1-12_Jézus_feltámadása.mp3",
-    "uuid": "a9069a01-ed14-44ab-a282-1f60f8c67df9",
-    "length": 3333,
-    "size": 53338371
-  },
-  {
     "title": "\"...én veletek vagyok minden napon a világ végezetéig.\" - 11h",
     "bible": "Máté 20,28",
     "date": "2025.04.20",
@@ -2856,6 +2878,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250420_11h_VÁ_Máté28,20_én_veletek_vagyok_minden_napon_a_világ_végezetéig.mp3",
     "uuid": "44cdf808-317a-4272-af6d-a8f1d2134d71",
+    "length": 3333,
+    "size": 53338371
+  },
+  {
+    "title": "Jézus feltámadása. - 11h",
+    "bible": "Lukács 24,1-12",
+    "date": "2025.04.20",
+    "pastor": "Vincze Árpád",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250420_11h_VÁ_Lukács24,1-12_Jézus_feltámadása.mp3",
+    "uuid": "a9069a01-ed14-44ab-a282-1f60f8c67df9",
     "length": 3333,
     "size": 53338371
   },
@@ -3512,10 +3545,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczay András",
+    "pastor": "Laczai András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
+    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
     "length": 2937,
     "size": 41127232
   },
@@ -3523,10 +3556,10 @@
     "title": "Az igaz hit (Katonatelep)",
     "bible": "Róma 10, 17",
     "date": "2025.02.16",
-    "pastor": "Laczai András",
+    "pastor": "Laczay András",
     "youtube": null,
     "download": "/media/files/igehirdetesek/2025_02_16_Laczay_András.mp3",
-    "uuid": "5a81d5ef-9379-4ea9-b234-a9747b4611fb",
+    "uuid": "44fa1fe9-e70d-495b-9d66-38b75fb80a5b",
     "length": 2937,
     "size": 41127232
   },
@@ -3642,23 +3675,23 @@
   },
   {
     "title": "Téma: Igaz nőiség - KERT",
-    "bible": "-",
-    "date": "2025.02.02",
-    "pastor": "Szerdi Novák Anett",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
-    "uuid": "811380f6-0a25-40f4-8a11-942faaeb4fb7",
-    "length": 4007,
-    "size": 64113333
-  },
-  {
-    "title": "Téma: Igaz nőiség - KERT",
     "bible": "",
     "date": "2025.02.02",
     "pastor": "Szerdiné Novák Anett",
     "youtube": null,
     "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
     "uuid": "9cd50c78-af8f-44dc-bba5-4318b9f401c4",
+    "length": 4007,
+    "size": 64113333
+  },
+  {
+    "title": "Téma: Igaz nőiség - KERT",
+    "bible": "-",
+    "date": "2025.02.02",
+    "pastor": "Szerdi Novák Anett",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20250202_17h_NH_Téma_Igaz_nőiség.mp3",
+    "uuid": "811380f6-0a25-40f4-8a11-942faaeb4fb7",
     "length": 4007,
     "size": 64113333
   },
@@ -4620,17 +4653,6 @@
     "size": 76977129
   },
   {
-    "title": "Imádság-I. - \"Mi Atyánk,...\" - 11h",
-    "bible": "Máté 6,9-13",
-    "date": "2024.10.06",
-    "pastor": "Fodorné Dr. Ablonczy Margit",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
-    "uuid": "d8e59feb-b9fb-4d34-b387-354ae04a07d7",
-    "length": 3147,
-    "size": 50367913
-  },
-  {
     "title": "Imádság-I. - 11h",
     "bible": "Máté 6,9-13",
     "date": "2024.10.06",
@@ -4638,6 +4660,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
     "uuid": "3a8ca185-dfe7-43d0-93ef-7d5865cdda1f",
+    "length": 3147,
+    "size": 50367913
+  },
+  {
+    "title": "Imádság-I. - \"Mi Atyánk,...\" - 11h",
+    "bible": "Máté 6,9-13",
+    "date": "2024.10.06",
+    "pastor": "Fodorné Dr. Ablonczy Margit",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20241006_11h_FAM_Imádság_I..mp3",
+    "uuid": "d8e59feb-b9fb-4d34-b387-354ae04a07d7",
     "length": 3147,
     "size": 50367913
   },
@@ -10263,17 +10296,6 @@
     "size": 75377501
   },
   {
-    "title": "Jézus megdicsőülése. - Széchenyiváros",
-    "bible": "Márk 9,2-13.",
-    "date": "2022.08.07",
-    "pastor": "Szabó Zsuzsanna",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220807_9,30h_SZZS_Márk9,2-13._Jézus_megdicsőülése.mp3",
-    "uuid": "daf123df-7ffd-4685-a2c8-c6c4dd855c3c",
-    "length": 3182,
-    "size": 50925794
-  },
-  {
     "title": "Szeretetben való szolgálat. - 18h",
     "bible": "Galata 5,22-23.",
     "date": "2022.08.07",
@@ -10283,6 +10305,17 @@
     "uuid": "97978391-26b7-466c-8779-2fb40768d576",
     "length": 2222,
     "size": 35552308
+  },
+  {
+    "title": "Jézus megdicsőülése. - Széchenyiváros",
+    "bible": "Márk 9,2-13.",
+    "date": "2022.08.07",
+    "pastor": "Szabó Zsuzsanna",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220807_9,30h_SZZS_Márk9,2-13._Jézus_megdicsőülése.mp3",
+    "uuid": "daf123df-7ffd-4685-a2c8-c6c4dd855c3c",
+    "length": 3182,
+    "size": 50925794
   },
   {
     "title": "A zörgető Jézus. - 11h",
@@ -11209,17 +11242,6 @@
     "size": 57675467
   },
   {
-    "title": "Az Emberfia - 17h",
-    "bible": "János 3,13.",
-    "date": "2022.04.11",
-    "pastor": "Mikesi Károly",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
-    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
-    "length": 3751,
-    "size": 60030249
-  },
-  {
     "title": "Kicsoda az Emberfia Jézus?- 17h",
     "bible": "János 3,13.",
     "date": "2022.04.11",
@@ -11227,6 +11249,17 @@
     "youtube": null,
     "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
     "uuid": "81b19a58-e58f-42cd-bfd9-5af62501c74d",
+    "length": 3751,
+    "size": 60030249
+  },
+  {
+    "title": "Az Emberfia - 17h",
+    "bible": "János 3,13.",
+    "date": "2022.04.11",
+    "pastor": "Mikesi Károly",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20220411_17h_MK_János3,13._Az_Emberfia.mp3",
+    "uuid": "0f8cc26b-2a9b-4e56-8108-0c1c63004e09",
     "length": 3751,
     "size": 60030249
   },
@@ -18612,17 +18645,6 @@
     "size": 48800939
   },
   {
-    "title": "A Szentlélekről - 18h",
-    "bible": "János14,15,16 válogatott verseiből",
-    "date": "2019.06.09",
-    "pastor": "Weiner Zoltán",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
-    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
-    "length": 3358,
-    "size": 53743161
-  },
-  {
     "title": "A Szentlélek munkája - A városi konformációs fogadalomtétel",
     "bible": "János3,8",
     "date": "2019.06.09",
@@ -18632,6 +18654,17 @@
     "uuid": "5f4abbb4-b136-420d-b677-3c2d3b0e2b6e",
     "length": 6177,
     "size": 98845464
+  },
+  {
+    "title": "A Szentlélekről - 18h",
+    "bible": "János14,15,16 válogatott verseiből",
+    "date": "2019.06.09",
+    "pastor": "Weiner Zoltán",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20190609_18h_WZ_János14,15,16_válogatott_A_Szentlélekről.MP3",
+    "uuid": "e8ec8929-5ee4-4e9f-bf1e-f258a1b6305c",
+    "length": 3358,
+    "size": 53743161
   },
   {
     "title": "Az Isten országa olyan mint - Általános iskolai konfirmációs vizsga",
@@ -32296,17 +32329,6 @@
     "size": 16556116
   },
   {
-    "title": "Kényszerek útján - 17h",
-    "bible": "Máté14,22-34",
-    "date": "2012.02.20",
-    "pastor": "Nagy Péter",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/120220_17h_Kenyszerek_utjan_Mt14_22_34.mp3",
-    "uuid": "43dec0d8-b365-4195-94fd-4f1a4e024c77",
-    "length": 2521,
-    "size": 20175433
-  },
-  {
     "title": "Figyelj, láss, csodálkozz - 7,35h",
     "bible": "Márk1,16",
     "date": "2012.02.20",
@@ -32316,6 +32338,17 @@
     "uuid": "d1030e3e-77e4-4c90-a418-3a02032e1123",
     "length": 1039,
     "size": 8318767
+  },
+  {
+    "title": "Kényszerek útján - 17h",
+    "bible": "Máté14,22-34",
+    "date": "2012.02.20",
+    "pastor": "Nagy Péter",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/120220_17h_Kenyszerek_utjan_Mt14_22_34.mp3",
+    "uuid": "43dec0d8-b365-4195-94fd-4f1a4e024c77",
+    "length": 2521,
+    "size": 20175433
   },
   {
     "title": "Szívvel hiszünk - 11h",
@@ -37752,17 +37785,6 @@
     "size": 11955075
   },
   {
-    "title": "A tanítvány nem képmutató, hanem őszinte - 16h",
-    "bible": "Máté61,6; 8-16",
-    "date": "2008.04.10",
-    "pastor": "Végh Tamás",
-    "youtube": null,
-    "download": "/media/files/igehirdetesek/20080410_16h-vegh-tamas--a-tanitvany-nem-kepmutato-hanem-oszinte--mate-61-6;8-16-18-2008.-04.-10.-16h.mp3",
-    "uuid": "f86a95cd-9209-4b85-99d1-8dd4327529a5",
-    "length": 3247,
-    "size": 16235195
-  },
-  {
     "title": "Szeressétek ellenségeiteket - 10h",
     "bible": "Máté5,38-48",
     "date": "2008.04.10",
@@ -37772,6 +37794,17 @@
     "uuid": "0a648e1e-cd35-4cdf-8273-568d6189897c",
     "length": 3270,
     "size": 16351675
+  },
+  {
+    "title": "A tanítvány nem képmutató, hanem őszinte - 16h",
+    "bible": "Máté61,6; 8-16",
+    "date": "2008.04.10",
+    "pastor": "Végh Tamás",
+    "youtube": null,
+    "download": "/media/files/igehirdetesek/20080410_16h-vegh-tamas--a-tanitvany-nem-kepmutato-hanem-oszinte--mate-61-6;8-16-18-2008.-04.-10.-16h.mp3",
+    "uuid": "f86a95cd-9209-4b85-99d1-8dd4327529a5",
+    "length": 3247,
+    "size": 16235195
   },
   {
     "title": "Házastársi hűség és igazmondás. - 16h",
