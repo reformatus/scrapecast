@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:13 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 14:06:11 +0100
 
 Epizódok száma: 3558
 
@@ -37,7 +37,7 @@ Epizódok száma: 3558
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:13 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 14:06:12 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:40 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 14:06:46 +0100
 
-Epizódok száma: 1075
+Epizódok száma: 1083
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1075
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2026.04.19 - Ef 1,14 - Bibliamagyarázat - Pál levele az efezusiakhoz
- - 2026.04.16 - Ef 1,13 - Bibliamagyarázat - Pál levele az efezusiakhoz
- - 2026.04.16 - Epafrász imádsága - Lelkészképzés
- - 2026.04.12 - 1Sám 8 - Bibliamagyarázat - Sámuel első könyve
- - 2026.04.06 - Mk 16,1-16 - Bibliamagyarázat - Márk evangéliuma
- - 2026.03.22 - Ézs 53,10b - Bibliamagyarázat - Ézsaiás próféta könyve
+ - 2026.04.22 - Háromféle ember - Lelkészképzés
+ - 2026.04.22 - Betöltés a Szentlélekkel - Lelkészképzés
+ - 2026.04.21 - A Szentlélek, mint személy - Lelkészképzés
+ - 2026.04.21 - A Szentlélek elõrevivõ munkája a hit útján - Lelkészképzés
+ - 2026.04.21 - A Szentlélek közösségformáló munkája - Lelkészképzés
+ - 2026.04.21 - A Szentlélek identitásmegerõsítõ munkája - Lelkészképzés
 
 ---
 
