@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 23 Apr 2026 23:07:14 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:13 +0100
 
 Epizódok száma: 3558
 
@@ -37,7 +37,7 @@ Epizódok száma: 3558
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 23 Apr 2026 23:07:14 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:13 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Thu, 23 Apr 2026 23:07:31 +0100
+✅ Legutóbb frissítve: Fri, 24 Apr 2026 11:11:40 +0100
 
-Epizódok száma: 1072
+Epizódok száma: 1075
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1072
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.04.19 - Ef 1,14 - Bibliamagyarázat - Pál levele az efezusiakhoz
+ - 2026.04.16 - Ef 1,13 - Bibliamagyarázat - Pál levele az efezusiakhoz
+ - 2026.04.16 - Epafrász imádsága - Lelkészképzés
  - 2026.04.12 - 1Sám 8 - Bibliamagyarázat - Sámuel első könyve
  - 2026.04.06 - Mk 16,1-16 - Bibliamagyarázat - Márk evangéliuma
  - 2026.03.22 - Ézs 53,10b - Bibliamagyarázat - Ézsaiás próféta könyve
- - 2026.03.20 - Ekkléziasztikai alapgondolatok - Lelkészképzés
- - 2026.03.20 - Ekkléziológiai alapgondolatok - Lelkészképzés
- - 2026.03.15 - Zsolt 125 - Bibliamagyarázat - A zsoltárok könyve
 
 ---
 
