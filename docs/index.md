@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 16 May 2026 18:09:04 +0100
+✅ Legutóbb frissítve: Sat, 16 May 2026 23:04:35 +0100
 
 Epizódok száma: 3570
 
@@ -37,7 +37,7 @@ Epizódok száma: 3570
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 16 May 2026 18:09:05 +0100
+✅ Legutóbb frissítve: Sat, 16 May 2026 23:04:36 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 16 May 2026 18:09:23 +0100
+✅ Legutóbb frissítve: Sat, 16 May 2026 23:05:02 +0100
 
-Epizódok száma: 1085
+Epizódok száma: 1086
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1085
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.05.16 - Ef 1,15-23 - Bibliamagyarázat - Pál levele az efezusiakhoz
  - 2026.05.03 - Ez 37,1-14 - Bibliamagyarázat - Ezékiel próféta könyve
  - 2026.04.26 - Róm 5,5-6 - Bibliamagyarázat - Pál levele a rómaiakhoz
  - 2026.04.22 - Háromféle ember - Lelkészképzés
  - 2026.04.22 - Betöltés a Szentlélekkel - Lelkészképzés
  - 2026.04.21 - A Szentlélek, mint személy - Lelkészképzés
- - 2026.04.21 - A Szentlélek elõrevivõ munkája a hit útján - Lelkészképzés
 
 ---
 
