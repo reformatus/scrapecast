@@ -4,40 +4,11 @@ Készítette: [Fodor Benedek](https://github.com/redyau)\
 Kezelt Podcastek:
 
 ---
-## [KREK.hu Igehirdetések](https://krek.hu)
-_A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.\
-Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
-Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
-
-✅ Legutóbb frissítve: Sun, 17 May 2026 23:08:38 +0100
-
-Epizódok száma: 3573
-
-**Elérhető:**
- - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
- - [PocketCasts (ajánlott!)](https://pca.st/j7pxwtz3)
- - [CastBox](https://castbox.fm/channel/KREK.hu-Igehirdetések-id4762991)
- - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L2tyZWsucnNz)
- - [Apple Podcasts](https://podcasts.apple.com/us/podcast/krek-hu-igehirdetések/id1606886562)
- - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcasts/KREKhu-Igehirdetesek-p1611771/)
- - [RadioPublic](https://radiopublic.com/krekhu-igehirdetsek-6V4z9M)
- - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
-
-**Legutóbbi epizódok:**
- - 2026.05.17 - Ötezer ember megvendégelése - 11h - Petró Emőke
- - 2026.05.17 - "Az a föld, amelyet bejártunk, olyan föld, amely megemészti lakosait! - 9h - Varga Nándor
- - 2026.05.17 - A mindent betöltő cél - Széchenyiváros - Papp Márton
- - 2026.05.10 - Hogyan vezet Isten Szentlelke - KERT - Nagy Henrietta
- - 2026.05.10 - Adakozás, imádkozás, böjtölés - 11h - Borsos-Pintér Nóra
- - 2026.05.10 - "...a Lélek törekvése pedig élet és békesség" - 9h - Kuti József
-
----
-
 ## [KREK.hu Podcast](https://krek.hu/podcast)
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 17 May 2026 23:08:38 +0100
+✅ Legutóbb frissítve: Mon, 18 May 2026 12:40:28 +0100
 
 Epizódok száma: 8
 
@@ -63,7 +34,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 17 May 2026 23:09:01 +0100
+✅ Legutóbb frissítve: Mon, 18 May 2026 12:40:45 +0100
 
 Epizódok száma: 1086
 
