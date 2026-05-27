@@ -8,7 +8,7 @@ Kezelt Podcastek:
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Tue, 26 May 2026 23:57:55 +0100
+✅ Legutóbb frissítve: Wed, 27 May 2026 13:01:08 +0100
 
 Epizódok száma: 1086
 
