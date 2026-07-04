@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 03 Jul 2026 23:33:02 +0100
+✅ Legutóbb frissítve: Sat, 04 Jul 2026 11:31:53 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 03 Jul 2026 23:33:03 +0100
+✅ Legutóbb frissítve: Sat, 04 Jul 2026 11:31:53 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 03 Jul 2026 23:33:27 +0100
+✅ Legutóbb frissítve: Sat, 04 Jul 2026 11:32:16 +0100
 
-Epizódok száma: 1087
+Epizódok száma: 1097
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1087
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
- - 2026.06.07 - Ez 47,1-12 - Bibliamagyarázat - Ezékiel próféta könyve
- - 2026.05.16 - Ef 1,15-23 - Bibliamagyarázat - Pál levele az efezusiakhoz
- - 2026.05.03 - Ez 37,1-14 - Bibliamagyarázat - Ezékiel próféta könyve
- - 2026.04.26 - Róm 5,5-6 - Bibliamagyarázat - Pál levele a rómaiakhoz
- - 2026.04.22 - Háromféle ember - Lelkészképzés
- - 2026.04.22 - Betöltés a Szentlélekkel - Lelkészképzés
+ - 2026.07.02 - Az ember emlékezteti Istent - Lelkészképzés
+ - 2026.07.01 - Az ember megemlékszik - Lelkészképzés
+ - 2026.06.30 - Isten emlékeztet - Lelkészképzés
+ - 2026.06.29 - Isten megemlékszik - Lelkészképzés
+ - 2026.06.25 - Igaz emberek tévedései (4) - Két próféta - Lelkészképzés
+ - 2026.06.24 - Igaz emberek tévedései (3) - Éli és fiai - Lelkészképzés
 
 ---
 
