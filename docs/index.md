@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 05 Jul 2026 16:10:10 +0100
+✅ Legutóbb frissítve: Sun, 05 Jul 2026 17:39:21 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 05 Jul 2026 16:10:11 +0100
+✅ Legutóbb frissítve: Sun, 05 Jul 2026 17:39:22 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 05 Jul 2026 16:10:27 +0100
+✅ Legutóbb frissítve: Sun, 05 Jul 2026 17:39:47 +0100
 
-Epizódok száma: 1097
+Epizódok száma: 1098
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1097
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.07.05 - Mt 15,21-28 - Bibliamagyarázat - Máté evangéliuma
  - 2026.07.02 - Az ember emlékezteti Istent - Lelkészképzés
  - 2026.07.01 - Az ember megemlékszik - Lelkészképzés
  - 2026.06.30 - Isten emlékeztet - Lelkészképzés
  - 2026.06.29 - Isten megemlékszik - Lelkészképzés
  - 2026.06.25 - Igaz emberek tévedései (4) - Két próféta - Lelkészképzés
- - 2026.06.24 - Igaz emberek tévedései (3) - Éli és fiai - Lelkészképzés
 
 ---
 
