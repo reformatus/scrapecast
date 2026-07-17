@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 16 Jul 2026 23:16:26 +0100
+✅ Legutóbb frissítve: Fri, 17 Jul 2026 11:21:16 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 16 Jul 2026 23:16:27 +0100
+✅ Legutóbb frissítve: Fri, 17 Jul 2026 11:21:17 +0100
 
 Epizódok száma: 8
 
@@ -56,6 +56,32 @@ Epizódok száma: 8
  - 2020.02.15 - 4. Szenvedés - Hodánics Tamás, Kerekes Márton, Weiner Zoltán
  - 2020.02.13 - 5. Tábori lelkész élete - Hankóczi Gergely
  - 2020.02.07 - 3. Hit és pszicholgóia - Weiner-Legeza Luca
+
+---
+
+## [Marco igehirdetései](https://marko.reformatus.hu/)
+_Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
+Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
+
+✅ Legutóbb frissítve: Fri, 17 Jul 2026 11:21:39 +0100
+
+Epizódok száma: 1098
+
+**Elérhető:**
+ - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
+ - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L21hcmNvLnJzcw)
+ - [PocketCasts](https://pca.st/14nmdojx)
+ - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcas/Marco-igehirdetesei-p1785905/)
+ - [CastBox](https://castbox.fm/ch/5087121)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
+
+**Legutóbbi epizódok:**
+ - 2026.07.05 - Mt 15,21-28 - Bibliamagyarázat - Máté evangéliuma
+ - 2026.07.02 - Az ember emlékezteti Istent - Lelkészképzés
+ - 2026.07.01 - Az ember megemlékszik - Lelkészképzés
+ - 2026.06.30 - Isten emlékeztet - Lelkészképzés
+ - 2026.06.29 - Isten megemlékszik - Lelkészképzés
+ - 2026.06.25 - Igaz emberek tévedései (4) - Két próféta - Lelkészképzés
 
 ---
 
