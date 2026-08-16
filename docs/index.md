@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Aug 2026 16:39:45 +0100
+✅ Legutóbb frissítve: Sun, 16 Aug 2026 17:35:57 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 16 Aug 2026 16:39:46 +0100
+✅ Legutóbb frissítve: Sun, 16 Aug 2026 17:35:57 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 16 Aug 2026 16:40:05 +0100
+✅ Legutóbb frissítve: Sun, 16 Aug 2026 17:36:24 +0100
 
-Epizódok száma: 1099
+Epizódok száma: 1101
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1099
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.08.16 - 1Krón 17 - Bibliamagyarázat - A krónikák első könyve
+ - 2026.08.16 - Hag 2,1-10 - Bibliamagyarázat - Haggeus próféta könyve
  - 2026.08.02 - Hag 1 - Bibliamagyarázat - Haggeus próféta könyve
  - 2026.07.05 - Mt 15,21-28 - Bibliamagyarázat - Máté evangéliuma
  - 2026.07.02 - Az ember emlékezteti Istent - Lelkészképzés
  - 2026.07.01 - Az ember megemlékszik - Lelkészképzés
- - 2026.06.30 - Isten emlékeztet - Lelkészképzés
- - 2026.06.29 - Isten megemlékszik - Lelkészképzés
 
 ---
 
