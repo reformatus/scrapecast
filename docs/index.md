@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 20 Sep 2026 13:26:17 +0100
+✅ Legutóbb frissítve: Sun, 20 Sep 2026 18:08:00 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 20 Sep 2026 13:26:17 +0100
+✅ Legutóbb frissítve: Sun, 20 Sep 2026 18:08:01 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 20 Sep 2026 13:26:33 +0100
+✅ Legutóbb frissítve: Sun, 20 Sep 2026 18:08:23 +0100
 
-Epizódok száma: 1111
+Epizódok száma: 1112
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1111
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.09.20 - Ez 2,1-3,11 - Bibliamagyarázat - Ezékiel próféta könyve
  - 2026.09.17 - Református eszkatológia - Lelkészképzés
  - 2026.09.06 - Hag 2,10-23 - Bibliamagyarázat - Haggeus próféta könyve
  - 2026.09.06 - 2Pt 1,5-8 - Bibliamagyarázat - Péter második levele
  - 2026.09.04 - Zsid 10,39-11,6 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2026.08.16 - Hag 2,1-9 - Bibliamagyarázat - Haggeus próféta könyve
- - 2026.08.16 - Hag 2,10-23 - Bibliamagyarázat - Haggeus próféta könyve
 
 ---
 
