@@ -9,7 +9,7 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 04 Oct 2026 14:23:57 +0100
+✅ Legutóbb frissítve: Sun, 04 Oct 2026 19:35:59 +0100
 
 Epizódok száma: 3574
 
@@ -37,7 +37,7 @@ Epizódok száma: 3574
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 04 Oct 2026 14:23:57 +0100
+✅ Legutóbb frissítve: Sun, 04 Oct 2026 19:35:59 +0100
 
 Epizódok száma: 8
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 04 Oct 2026 14:24:15 +0100
+✅ Legutóbb frissítve: Sun, 04 Oct 2026 19:36:26 +0100
 
-Epizódok száma: 1114
+Epizódok száma: 1117
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1114
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.10.04 - Ez 33,1-20 - Bibliamagyarázat - Ezékiel próféta könyve
+ - 2026.10.04 - 1Jn 2,12-14 - Bibliamagyarázat - János első levele
+ - 2026.10.04 - 1Jn 2,15-17 - Bibliamagyarázat - János első levele
  - 2026.09.28 - Nem a meghátrálás emberei vagyunk - Lelkészképzés
  - 2026.09.27 - Ez 15 (+ Jn 15,1-8) - Bibliamagyarázat - Ezékiel próféta könyve
  - 2026.09.20 - Ez 2,1-3,11 - Bibliamagyarázat - Ezékiel próféta könyve
- - 2026.09.17 - Református eszkatológia - Lelkészképzés
- - 2026.09.06 - Hag 2,10-23 - Bibliamagyarázat - Haggeus próféta könyve
- - 2026.09.06 - 2Pt 1,5-8 - Bibliamagyarázat - Péter második levele
 
 ---
 
