@@ -8,7 +8,7 @@ Kezelt Podcastek:
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Wed, 14 Oct 2026 14:53:07 +0100
+✅ Legutóbb frissítve: Wed, 14 Oct 2026 21:25:06 +0100
 
 Epizódok száma: 8
 
@@ -34,9 +34,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Wed, 14 Oct 2026 14:53:32 +0100
+✅ Legutóbb frissítve: Wed, 14 Oct 2026 21:25:27 +0100
 
-Epizódok száma: 1119
+Epizódok száma: 1120
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -47,12 +47,12 @@ Epizódok száma: 1119
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.10.11 - Zsid 11,32-12,3 - Bibliamagyarázat - A zsidókhoz írt levél
  - 2026.10.05 - Közösségmûködtetési modellek (1) - Lelkészképzés
  - 2026.10.04 - Ez 33,1-20 - Bibliamagyarázat - Ezékiel próféta könyve
  - 2026.10.04 - 1Jn 2,12-14 - Bibliamagyarázat - János első levele
  - 2026.10.04 - 1Jn 2,15-17 - Bibliamagyarázat - János első levele
  - 2026.09.28 - Nem a meghátrálás emberei vagyunk - Lelkészképzés
- - 2026.09.27 - Ez 15 (+ Jn 15,1-8) - Bibliamagyarázat - Ezékiel próféta könyve
 
 ---
 
