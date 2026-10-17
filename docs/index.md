@@ -8,7 +8,7 @@ Kezelt Podcastek:
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 17 Oct 2026 13:37:51 +0100
+✅ Legutóbb frissítve: Sat, 17 Oct 2026 19:51:54 +0100
 
 Epizódok száma: 8
 
@@ -34,7 +34,7 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 17 Oct 2026 13:38:07 +0100
+✅ Legutóbb frissítve: Sat, 17 Oct 2026 19:52:18 +0100
 
 Epizódok száma: 1124
 
