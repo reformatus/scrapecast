@@ -8,7 +8,7 @@ Kezelt Podcastek:
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Tue, 03 Nov 2026 22:00:07 +0100
+✅ Legutóbb frissítve: Wed, 04 Nov 2026 16:27:01 +0100
 
 Epizódok száma: 8
 
@@ -34,9 +34,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Tue, 03 Nov 2026 22:00:24 +0100
+✅ Legutóbb frissítve: Wed, 04 Nov 2026 16:27:29 +0100
 
-Epizódok száma: 1126
+Epizódok száma: 1131
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -47,12 +47,12 @@ Epizódok száma: 1126
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.02 - Közösségmûködtetési modellek (2) - Lelkészképzés
+ - 2026.11.01 - Mi lesz a feltámadás után? - Vallásismeret - Keresztyén élet
+ - 2026.10.31 - Ítélet - Vallásismeret - Keresztyén élet
+ - 2026.10.30 - Feltámadunk! - Vallásismeret - Keresztyén élet
+ - 2026.10.29 - Mi lesz a halál után? - Vallásismeret - Keresztyén élet
  - 2026.10.25 - 2Kor 8,1-14 - Bibliamagyarázat - Pál második levele a korinthusiakhoz
- - 2026.10.17 - Buzdítás a misszióra - Misszióképzés
- - 2026.10.16 - Zsolt 34 - Bibliamagyarázat - A zsoltárok könyve
- - 2026.10.13 - Rendíthetetlen ország - Lelkészképzés
- - 2026.10.12 - A meghátrálás ellenszere - Lelkészképzés
- - 2026.10.12 - Szolidáris szenvedés - Lelkészképzés
 
 ---
 
