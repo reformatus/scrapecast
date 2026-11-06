@@ -9,9 +9,29 @@ import 'podcasts.dart';
 String statusMdString =
     "\n\nKészítette: [Fodor Benedek](https://github.com/redyau)\\\nKezelt Podcastek:\n\n---\n";
 
-void main() async {
+const String usage = """Usage: scrapecast [--backfill[=PAGES]]
+
+  --backfill        Scrape every page of podcasts that support it and add
+                    episodes missing from the data. Existing episodes are
+                    left untouched.
+  --backfill=PAGES  Same, but only the newest PAGES pages.""";
+
+void main(List<String> args) async {
+  Backfill? backfill;
+  for (String arg in args) {
+    if (arg == '--backfill') {
+      backfill = Backfill(null);
+    } else if (arg.startsWith('--backfill=') &&
+        (int.tryParse(arg.substring('--backfill='.length)) ?? 0) > 0) {
+      backfill = Backfill(int.parse(arg.substring('--backfill='.length)));
+    } else {
+      print(usage);
+      exit(64);
+    }
+  }
+
   for (Podcast podcast in podcasts) {
-    await buildPodcast(podcast);
+    await buildPodcast(podcast, backfill);
   }
 
   print('Updating index page');
@@ -21,7 +41,13 @@ void main() async {
   exit(0); //Program just froze without this, weird
 }
 
-Future buildPodcast(Podcast podcast) async {
+class Backfill {
+  /// Number of pages to scrape; null means all of them.
+  final int? pages;
+  Backfill(this.pages);
+}
+
+Future buildPodcast(Podcast podcast, Backfill? backfill) async {
   try {
     print("\n\nBuilding ${podcast.properties.title}\n");
 
@@ -47,13 +73,19 @@ Future buildPodcast(Podcast podcast) async {
 
     // A scraped episode whose file is already stored updates that entry's
     // metadata (titles get corrected on the site) but keeps its uuid.
+    // A backfill only adds missing episodes: rewriting the whole history
+    // from the current site is not its job.
+    bool backfilling = backfill != null && podcast.backfillScraper != null;
+    List<Episode> scraped = backfilling
+        ? await podcast.backfillScraper!(backfill.pages)
+        : await podcast.scraper();
     int added = 0;
-    for (Episode fresh in dedupeByFile(await podcast.scraper())) {
+    for (Episode fresh in dedupeByFile(scraped)) {
       int i = episodes.indexOf(fresh);
       if (i == -1) {
         episodes.add(fresh);
         added++;
-      } else {
+      } else if (!backfilling) {
         episodes[i] = fresh.keepingIdentityOf(episodes[i]);
       }
     }

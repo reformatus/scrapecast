@@ -84,12 +84,16 @@ List<Episode> dedupeByFile(Iterable<Episode> episodes) {
 
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
-/// Absolute download URLs are used as-is; relative ones are prefixed with the
-/// podcast's base URL.
-String resolveDownloadUrl(Podcast podcast, Episode episode) =>
-    Uri.parse(episode.download).hasScheme
-        ? episode.download
-        : podcast.properties.baseUrl + episode.download;
+/// Absolute download URLs are used as-is, protocol-relative ones get the
+/// base URL's scheme, and relative ones are prefixed with the base URL.
+String resolveDownloadUrl(Podcast podcast, Episode episode) {
+  String download = episode.download;
+  if (Uri.parse(download).hasScheme) return download;
+  if (download.startsWith('//')) {
+    return '${Uri.parse(podcast.properties.baseUrl).scheme}:$download';
+  }
+  return podcast.properties.baseUrl + download;
+}
 
 DateFormat rfcDateFormat = DateFormat("EEE, dd MMM yyyy HH:mm:ss");
 String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " +0100";
@@ -145,6 +149,10 @@ class Podcast {
   final Map links;
   Function artworkBuilder;
 
+  /// Scrapes up to the given number of pages (null: all), for a one-off
+  /// backfill of episodes the regular scraper missed. Null if unsupported.
+  final Future<List<Episode>> Function(int? pages)? backfillScraper;
+
   Podcast(
       this.id,
       this.properties,
@@ -156,7 +164,8 @@ class Podcast {
       this.descriptionBuilder,
       this.fromJson,
       this.toJson,
-      {this.artworkBuilder = defaultCoverBuilder});
+      {this.artworkBuilder = defaultCoverBuilder,
+      this.backfillScraper});
 }
 
 String defaultCoverBuilder(Podcast podcast, Episode episode) =>

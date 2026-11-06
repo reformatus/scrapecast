@@ -56,6 +56,7 @@ Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tam
     krekFromJson,
     krekToJson,
     artworkBuilder: krekArtworkBuilder,
+    backfillScraper: krekScrapePages,
   ),
   Podcast(
     PodcastID.krekPodcast,
