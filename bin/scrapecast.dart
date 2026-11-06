@@ -38,10 +38,26 @@ Future buildPodcast(Podcast podcast) async {
       episodes.add(podcast.fromJson(entry));
     }
 
-    List<Episode> newIts = (await podcast.scraper())
-        .where((element) => (!episodes.contains(element)))
-        .toList();
-    episodes.insertAll(0, newIts);
+    int stored = episodes.length;
+    episodes = dedupeByFile(episodes);
+    if (episodes.length < stored) {
+      print(
+          'Removed ${stored - episodes.length} episodes with duplicate files');
+    }
+
+    // A scraped episode whose file is already stored updates that entry's
+    // metadata (titles get corrected on the site) but keeps its uuid.
+    int added = 0;
+    for (Episode fresh in dedupeByFile(await podcast.scraper())) {
+      int i = episodes.indexOf(fresh);
+      if (i == -1) {
+        episodes.add(fresh);
+        added++;
+      } else {
+        episodes[i] = fresh.keepingIdentityOf(episodes[i]);
+      }
+    }
+    print('Added $added new episodes');
     episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
 
     save() {

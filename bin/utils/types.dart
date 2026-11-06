@@ -38,8 +38,48 @@ class Episode extends Equatable {
     this.uuid = uuid ?? _uuid.v4();
   }
 
+  Episode._copy(this.date, this.title, this.author, this.field1, this.field2,
+      this.download, this.uuid, this.length, this.fileSize);
+
+  /// The audio file is the episode's identity: its decoded URL path, so the
+  /// same file on another host (e.g. krek.hu vs store.krek.hu) still matches.
+  String get fileKey {
+    String path = Uri.tryParse(download)?.path ?? download;
+    try {
+      return Uri.decodeFull(path);
+    } catch (_) {
+      return path;
+    }
+  }
+
+  /// This (freshly scraped) episode's metadata, keeping [stored]'s uuid (the
+  /// RSS guid) and measured length/size, since it is the same file.
+  Episode keepingIdentityOf(Episode stored) => Episode._copy(
+      date,
+      title,
+      author,
+      field1,
+      field2,
+      download,
+      stored.uuid,
+      stored.length ?? length,
+      stored.fileSize ?? fileSize);
+
   @override
-  List<Object> get props => [title, author, date];
+  List<Object> get props => [fileKey];
+}
+
+/// Drops episodes whose file was already seen. An entry with a measured
+/// length beats one without; otherwise the first one wins.
+List<Episode> dedupeByFile(Iterable<Episode> episodes) {
+  Map<String, Episode> byFile = {};
+  for (Episode episode in episodes) {
+    Episode? kept = byFile[episode.fileKey];
+    if (kept == null || (kept.length == null && episode.length != null)) {
+      byFile[episode.fileKey] = episode;
+    }
+  }
+  return byFile.values.toList();
 }
 
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
