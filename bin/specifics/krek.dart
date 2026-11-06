@@ -4,6 +4,8 @@ import 'package:xml/xml.dart' as xml;
 
 import '../utils/types.dart';
 
+const String krekStoreBase = 'https://store.krek.hu/media/files/igehirdetesek/';
+
 Future<List<Episode>> krekScrape() async {
   print('Scraping latest from krek.hu');
 
@@ -18,23 +20,43 @@ Future<List<Episode>> krekScrape() async {
   List<Episode> list = [];
 
   for (var row in rows) {
-    List<String> downloadLinks = [];
-    row.querySelector('div.dwnld')!.querySelectorAll('a').forEach((element) {
-      downloadLinks.add(element.attributes.values.first);
-    });
+    List<String> hrefs = row
+        .querySelectorAll('div.dwnld a')
+        .map((a) => a.attributes['href'])
+        .whereType<String>()
+        .where((href) => href.isNotEmpty)
+        .toList();
 
-    if (downloadLinks.isEmpty) {
-      continue;
+    // The download link is now a bare filename; the audio player's source
+    // (a sibling of div.data) holds the absolute URL on store.krek.hu.
+    String? download =
+        row.parent?.querySelector('audio source')?.attributes['src'];
+    if (download == null || download.isEmpty) {
+      List<String> files =
+          hrefs.where((href) => !href.contains('youtu')).toList();
+      if (files.isEmpty) continue;
+      String file = files.last;
+      download = Uri.parse(file).hasScheme || file.startsWith('/')
+          ? file
+          : '$krekStoreBase$file';
     }
+
+    List<String> youtubeLinks =
+        hrefs.where((href) => href.contains('youtu')).toList();
+    String? youtube = youtubeLinks.isEmpty ? null : youtubeLinks.first;
 
     list.add(Episode(
         PodcastID.krek, //! id
-        dateFormat.parse(row.querySelector('div.datum')!.text), //! date
+        dateFormat.parse(row
+            .querySelector('div.datum')!
+            .text
+            .trim()
+            .replaceAll(RegExp(r'\.$'), '')), //! date
         row.querySelector('div.cim')!.text, //! title
         row.querySelector('div.hirdeto')!.text, //! author
         row.querySelector('div.igeresz')!.text, //! field1 (bible)
-        (downloadLinks.length > 1) ? downloadLinks.first : null, //! field2 (youtube)
-        downloadLinks.last, //! download
+        youtube, //! field2 (youtube)
+        download, //! download
         null,
         null,
         null));
@@ -76,8 +98,8 @@ String krekDescription(Podcast podcast, Episode element) {
   if (element.field2 != null) {
     builder.element('p', nest: () {
       builder.element('a', attributes: {"href": element.field2!}, nest: () {
-        builder.text(
-            'Az alkalomról videófelvétel is elérhető: ${element.field2}');
+        builder
+            .text('Az alkalomról videófelvétel is elérhető: ${element.field2}');
       });
     });
   }
@@ -97,9 +119,8 @@ String krekDescription(Podcast podcast, Episode element) {
   builder.element('p', nest: () {
     builder.text('Lejátszás közvetlen fájlból (hiba esetén): ');
     builder.element('a',
-        attributes: {"href": podcast.properties.baseUrl + element.download},
-        nest: () {
-      builder.text(podcast.properties.baseUrl + element.download);
+        attributes: {"href": resolveDownloadUrl(podcast, element)}, nest: () {
+      builder.text(resolveDownloadUrl(podcast, element));
     });
   });
 

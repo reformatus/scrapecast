@@ -44,6 +44,13 @@ class Episode extends Equatable {
 
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 
+/// Absolute download URLs are used as-is; relative ones are prefixed with the
+/// podcast's base URL.
+String resolveDownloadUrl(Podcast podcast, Episode episode) =>
+    Uri.parse(episode.download).hasScheme
+        ? episode.download
+        : podcast.properties.baseUrl + episode.download;
+
 DateFormat rfcDateFormat = DateFormat("EEE, dd MMM yyyy HH:mm:ss");
 String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " +0100";
 
