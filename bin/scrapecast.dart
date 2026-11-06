@@ -79,10 +79,14 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
     List<Episode> scraped = backfilling
         ? await podcast.backfillScraper!(backfill.pages)
         : await podcast.scraper();
+    Map<String, int> indexByFile = {
+      for (int i = 0; i < episodes.length; i++) episodes[i].fileKey: i
+    };
     int added = 0;
     for (Episode fresh in dedupeByFile(scraped)) {
-      int i = episodes.indexOf(fresh);
-      if (i == -1) {
+      int? i = indexByFile[fresh.fileKey];
+      if (i == null) {
+        indexByFile[fresh.fileKey] = episodes.length;
         episodes.add(fresh);
         added++;
       } else if (!backfilling) {
@@ -102,14 +106,9 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
     int i = 0;
     for (Episode item in episodes) {
       if (item.length == null || item.fileSize == null) {
-        Uri downloadUri = Uri.parse(item.download);
-
-        item.length ??= await getLength(
-            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-                item.download);
-        item.fileSize ??= await getSize(
-            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-                item.download);
+        String url = resolveDownloadUrl(podcast, item);
+        item.length ??= await getLength(url);
+        item.fileSize ??= await getSize(url);
         print(
             "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
         i++;
@@ -128,13 +127,15 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
       }
     }
 
-    episodes.removeWhere((element) => errors.contains(element));
-
+    // Episodes whose length couldn't be read stay in the data, so the next
+    // run retries them (a backfilled one won't be scraped again), but they
+    // are left out of the feed until it succeeds.
     save();
+    List<Episode> published = episodes.where((e) => e.length != null).toList();
 
     print("Building rss feed");
     podcast.rssFile.createSync();
-    podcast.rssFile.writeAsStringSync(getFeed(episodes, podcast));
+    podcast.rssFile.writeAsStringSync(getFeed(published, podcast));
 
     print(errors.isNotEmpty ? 'Errors:' : '');
     for (Episode item in errors) {
@@ -148,7 +149,7 @@ _${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
 ✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
 
-Epizódok száma: ${episodes.length}
+Epizódok száma: ${published.length}
 
 **Elérhető:**
 """;
@@ -157,7 +158,7 @@ Epizódok száma: ${episodes.length}
     }
 
     statusMdString += "\n**Legutóbbi epizódok:**\n";
-    for (Episode episode in episodes.sublist(0, 6)) {
+    for (Episode episode in published.take(6)) {
       statusMdString +=
           " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
     }

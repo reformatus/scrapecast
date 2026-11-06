@@ -22,16 +22,34 @@ Future<List<Episode>> krekScrapePages(int? maxPages) async {
 
   var httpClient = Client();
   List<Episode> list = [];
+  Set<String>? previousFiles;
   try {
     for (int page = 0; maxPages == null || page < maxPages; page++) {
       if (page > 0) await Future.delayed(Duration(milliseconds: 300));
-      var resp = await httpClient.post(Uri.parse(krekListUrl),
-          body: {'prod_page': '$page', 'f_value': '', 'f_spec': ''});
-      if (resp.statusCode != 200) {
-        throw Exception('krek.hu page ${page + 1}: HTTP ${resp.statusCode}');
+      String? body = await _fetchKrekPage(httpClient, page);
+      if (body == null) {
+        // Page 1 failing means krek.hu is down: fail like any scrape error.
+        // Deeper in a backfill, keep what we have; a rerun fills the rest.
+        if (page == 0) throw Exception('krek.hu list unavailable');
+        print('##> Page ${page + 1} unavailable, stopping here. Run the '
+            'backfill again to continue.');
+        break;
       }
-      List<Episode> pageEpisodes = _parseKrekPage(resp.body);
-      if (pageEpisodes.isEmpty && !resp.body.contains('class="data"')) break;
+      List<Episode> pageEpisodes = _parseKrekPage(body);
+      if (pageEpisodes.isEmpty && !body.contains('class="data"')) break;
+
+      // Guard against a list that answers out-of-range pages with the same
+      // content instead of an empty page.
+      Set<String> files = pageEpisodes.map((e) => e.fileKey).toSet();
+      if (files.isNotEmpty &&
+          previousFiles != null &&
+          files.length == previousFiles.length &&
+          files.containsAll(previousFiles)) {
+        print('##> Page ${page + 1} repeats page $page, stopping.');
+        break;
+      }
+      previousFiles = files;
+
       if (maxPages != 1) {
         print('  Page ${page + 1}: ${pageEpisodes.length} episodes');
       }
@@ -41,6 +59,22 @@ Future<List<Episode>> krekScrapePages(int? maxPages) async {
     httpClient.close();
   }
   return list;
+}
+
+/// Fetches one list page (0-based), retrying a few times; null on failure.
+Future<String?> _fetchKrekPage(Client httpClient, int page) async {
+  for (int attempt = 1; attempt <= 3; attempt++) {
+    try {
+      var resp = await httpClient.post(Uri.parse(krekListUrl),
+          body: {'prod_page': '$page', 'f_value': '', 'f_spec': ''});
+      if (resp.statusCode == 200) return resp.body;
+      print('##> krek.hu page ${page + 1}: HTTP ${resp.statusCode}');
+    } catch (e) {
+      print('##> krek.hu page ${page + 1}: $e');
+    }
+    if (attempt < 3) await Future.delayed(Duration(seconds: 5 * attempt));
+  }
+  return null;
 }
 
 bool _isYoutube(String href) {

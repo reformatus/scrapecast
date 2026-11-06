@@ -41,14 +41,20 @@ class Episode extends Equatable {
   Episode._copy(this.date, this.title, this.author, this.field1, this.field2,
       this.download, this.uuid, this.length, this.fileSize);
 
-  /// The audio file is the episode's identity: its decoded URL path, so the
-  /// same file on another host (e.g. krek.hu vs store.krek.hu) still matches.
-  String get fileKey {
-    String path = Uri.tryParse(download)?.path ?? download;
+  /// The audio file is the episode's identity: its decoded URL path (plus
+  /// query, if any), so the same file on another host (e.g. krek.hu vs
+  /// store.krek.hu) still matches.
+  late final String fileKey = _fileKey(download);
+
+  static String _fileKey(String download) {
+    Uri? uri = Uri.tryParse(download);
+    String key = uri == null
+        ? download
+        : uri.path + (uri.hasQuery ? '?${uri.query}' : '');
     try {
-      return Uri.decodeFull(path);
+      return Uri.decodeFull(key);
     } catch (_) {
-      return path;
+      return key;
     }
   }
 
@@ -88,7 +94,7 @@ DateFormat dateFormat = DateFormat("yyyy.MM.dd");
 /// base URL's scheme, and relative ones are prefixed with the base URL.
 String resolveDownloadUrl(Podcast podcast, Episode episode) {
   String download = episode.download;
-  if (Uri.parse(download).hasScheme) return download;
+  if (Uri.tryParse(download)?.hasScheme ?? false) return download;
   if (download.startsWith('//')) {
     return '${Uri.parse(podcast.properties.baseUrl).scheme}:$download';
   }
