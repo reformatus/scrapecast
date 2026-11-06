@@ -100,7 +100,7 @@ String getFeed(List<Episode> list, Podcast podcast) {
             builder.text(getRfcDate(episode.date));
           });
           builder.element('enclosure', attributes: {
-            "url": (podcast.properties.baseUrl + episode.download),
+            "url": resolveDownloadUrl(podcast, episode),
             "length": '${episode.fileSize}',
             "type": 'audio/mpeg'
           });

@@ -9,9 +9,29 @@ import 'podcasts.dart';
 String statusMdString =
     "\n\nKészítette: [Fodor Benedek](https://github.com/redyau)\\\nKezelt Podcastek:\n\n---\n";
 
-void main() async {
+const String usage = """Usage: scrapecast [--backfill[=PAGES]]
+
+  --backfill        Scrape every page of podcasts that support it and add
+                    episodes missing from the data. Existing episodes are
+                    left untouched.
+  --backfill=PAGES  Same, but only the newest PAGES pages.""";
+
+void main(List<String> args) async {
+  Backfill? backfill;
+  for (String arg in args) {
+    if (arg == '--backfill') {
+      backfill = Backfill(null);
+    } else if (arg.startsWith('--backfill=') &&
+        (int.tryParse(arg.substring('--backfill='.length)) ?? 0) > 0) {
+      backfill = Backfill(int.parse(arg.substring('--backfill='.length)));
+    } else {
+      print(usage);
+      exit(64);
+    }
+  }
+
   for (Podcast podcast in podcasts) {
-    await buildPodcast(podcast);
+    await buildPodcast(podcast, backfill);
   }
 
   print('Updating index page');
@@ -21,7 +41,13 @@ void main() async {
   exit(0); //Program just froze without this, weird
 }
 
-Future buildPodcast(Podcast podcast) async {
+class Backfill {
+  /// Number of pages to scrape; null means all of them.
+  final int? pages;
+  Backfill(this.pages);
+}
+
+Future buildPodcast(Podcast podcast, Backfill? backfill) async {
   try {
     print("\n\nBuilding ${podcast.properties.title}\n");
 
@@ -38,10 +64,36 @@ Future buildPodcast(Podcast podcast) async {
       episodes.add(podcast.fromJson(entry));
     }
 
-    List<Episode> newIts = (await podcast.scraper())
-        .where((element) => (!episodes.contains(element)))
-        .toList();
-    episodes.insertAll(0, newIts);
+    int stored = episodes.length;
+    episodes = dedupeByFile(episodes);
+    if (episodes.length < stored) {
+      print(
+          'Removed ${stored - episodes.length} episodes with duplicate files');
+    }
+
+    // A scraped episode whose file is already stored updates that entry's
+    // metadata (titles get corrected on the site) but keeps its uuid.
+    // A backfill only adds missing episodes: rewriting the whole history
+    // from the current site is not its job.
+    bool backfilling = backfill != null && podcast.backfillScraper != null;
+    List<Episode> scraped = backfilling
+        ? await podcast.backfillScraper!(backfill.pages)
+        : await podcast.scraper();
+    Map<String, int> indexByFile = {
+      for (int i = 0; i < episodes.length; i++) episodes[i].fileKey: i
+    };
+    int added = 0;
+    for (Episode fresh in dedupeByFile(scraped)) {
+      int? i = indexByFile[fresh.fileKey];
+      if (i == null) {
+        indexByFile[fresh.fileKey] = episodes.length;
+        episodes.add(fresh);
+        added++;
+      } else if (!backfilling) {
+        episodes[i] = fresh.keepingIdentityOf(episodes[i]);
+      }
+    }
+    print('Added $added new episodes');
     episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
 
     save() {
@@ -54,14 +106,9 @@ Future buildPodcast(Podcast podcast) async {
     int i = 0;
     for (Episode item in episodes) {
       if (item.length == null || item.fileSize == null) {
-        Uri downloadUri = Uri.parse(item.download);
-
-        item.length ??= await getLength(
-            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-                item.download);
-        item.fileSize ??= await getSize(
-            (downloadUri.host.isEmpty ? podcast.properties.baseUrl : "") +
-                item.download);
+        String url = resolveDownloadUrl(podcast, item);
+        item.length ??= await getLength(url);
+        item.fileSize ??= await getSize(url);
         print(
             "Properties of ${item.date} | ${item.title} is\n   Length: ${item.length ?? "!!! NULL"} seconds\n   Size: ${item.fileSize ?? "!!! NULL"} bytes");
         i++;
@@ -80,13 +127,15 @@ Future buildPodcast(Podcast podcast) async {
       }
     }
 
-    episodes.removeWhere((element) => errors.contains(element));
-
+    // Episodes whose length couldn't be read stay in the data, so the next
+    // run retries them (a backfilled one won't be scraped again), but they
+    // are left out of the feed until it succeeds.
     save();
+    List<Episode> published = episodes.where((e) => e.length != null).toList();
 
     print("Building rss feed");
     podcast.rssFile.createSync();
-    podcast.rssFile.writeAsStringSync(getFeed(episodes, podcast));
+    podcast.rssFile.writeAsStringSync(getFeed(published, podcast));
 
     print(errors.isNotEmpty ? 'Errors:' : '');
     for (Episode item in errors) {
@@ -100,7 +149,7 @@ _${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
 ✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
 
-Epizódok száma: ${episodes.length}
+Epizódok száma: ${published.length}
 
 **Elérhető:**
 """;
@@ -109,7 +158,7 @@ Epizódok száma: ${episodes.length}
     }
 
     statusMdString += "\n**Legutóbbi epizódok:**\n";
-    for (Episode episode in episodes.sublist(0, 6)) {
+    for (Episode episode in published.take(6)) {
       statusMdString +=
           " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
     }

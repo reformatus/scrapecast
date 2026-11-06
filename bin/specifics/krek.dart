@@ -4,40 +4,152 @@ import 'package:xml/xml.dart' as xml;
 
 import '../utils/types.dart';
 
-Future<List<Episode>> krekScrape() async {
-  print('Scraping latest from krek.hu');
+/// Serves both old and new sermon files (new ones 404 on krek.hu).
+const String krekStoreHost = 'https://store.krek.hu';
+const String krekStoreBase = '$krekStoreHost/media/files/igehirdetesek/';
+
+const String krekListUrl =
+    'https://www.krek.hu/sources/webshop/product_list.php';
+
+/// Scrapes the first page of the sermon list (newest 20).
+Future<List<Episode>> krekScrape() => krekScrapePages(1);
+
+/// Scrapes up to [maxPages] pages of the sermon list (20 per page, newest
+/// first), or every page when null. Stops at the first page without rows.
+Future<List<Episode>> krekScrapePages(int? maxPages) async {
+  print('Scraping latest from krek.hu'
+      '${maxPages == 1 ? '' : ' (${maxPages ?? 'all'} pages)'}');
 
   var httpClient = Client();
-  var resp = await httpClient.get(
-    Uri.parse(//post(
-        'https://www.krek.hu/sources/webshop/product_list.php'), //body: {'prod_page': '12'}
-  );
-  var document = parse(resp.body);
+  List<Episode> list = [];
+  Set<String>? previousFiles;
+  try {
+    for (int page = 0; maxPages == null || page < maxPages; page++) {
+      if (page > 0) await Future.delayed(Duration(milliseconds: 300));
+      String? body = await _fetchKrekPage(httpClient, page);
+      if (body == null) {
+        // Page 1 failing means krek.hu is down: fail like any scrape error.
+        // Deeper in a backfill, keep what we have; a rerun fills the rest.
+        if (page == 0) throw Exception('krek.hu list unavailable');
+        print('##> Page ${page + 1} unavailable, stopping here. Run the '
+            'backfill again to continue.');
+        break;
+      }
+      List<Episode> pageEpisodes = _parseKrekPage(body);
+      if (pageEpisodes.isEmpty && !body.contains('class="data"')) break;
+
+      // Guard against a list that answers out-of-range pages with the same
+      // content instead of an empty page.
+      Set<String> files = pageEpisodes.map((e) => e.fileKey).toSet();
+      if (files.isNotEmpty &&
+          previousFiles != null &&
+          files.length == previousFiles.length &&
+          files.containsAll(previousFiles)) {
+        print('##> Page ${page + 1} repeats page $page, stopping.');
+        break;
+      }
+      previousFiles = files;
+
+      if (maxPages != 1) {
+        print('  Page ${page + 1}: ${pageEpisodes.length} episodes');
+      }
+      list.addAll(pageEpisodes);
+    }
+  } finally {
+    httpClient.close();
+  }
+  return list;
+}
+
+/// Fetches one list page (0-based), retrying a few times; null on failure.
+Future<String?> _fetchKrekPage(Client httpClient, int page) async {
+  for (int attempt = 1; attempt <= 3; attempt++) {
+    try {
+      var resp = await httpClient.post(Uri.parse(krekListUrl),
+          body: {'prod_page': '$page', 'f_value': '', 'f_spec': ''});
+      if (resp.statusCode == 200) return resp.body;
+      print('##> krek.hu page ${page + 1}: HTTP ${resp.statusCode}');
+    } catch (e) {
+      print('##> krek.hu page ${page + 1}: $e');
+    }
+    if (attempt < 3) await Future.delayed(Duration(seconds: 5 * attempt));
+  }
+  return null;
+}
+
+bool _isYoutube(String href) {
+  String host = Uri.tryParse(href.trim())?.host.toLowerCase() ?? '';
+  return host == 'youtu.be' ||
+      host == 'youtube.com' ||
+      host.endsWith('.youtube.com');
+}
+
+/// Resolves a file reference from the list to an absolute http(s) URL:
+/// absolute URLs are kept, protocol-relative ones get https, root-relative
+/// paths go to store.krek.hu and bare filenames to its sermon folder.
+/// Returns null for empty references and non-http(s) schemes.
+String? _resolveKrekFile(String? ref) {
+  ref = ref?.trim();
+  if (ref == null || ref.isEmpty) return null;
+  if (ref.startsWith('//')) ref = 'https:$ref';
+  Uri? uri = Uri.tryParse(ref);
+  if (uri == null) return null;
+  if (uri.hasScheme) {
+    return (uri.scheme == 'http' || uri.scheme == 'https') ? ref : null;
+  }
+  return ref.startsWith('/') ? '$krekStoreHost$ref' : '$krekStoreBase$ref';
+}
+
+List<Episode> _parseKrekPage(String body) {
+  var document = parse(body);
   var rows = document.querySelectorAll('div.data');
 
   List<Episode> list = [];
 
   for (var row in rows) {
-    List<String> downloadLinks = [];
-    row.querySelector('div.dwnld')!.querySelectorAll('a').forEach((element) {
-      downloadLinks.add(element.attributes.values.first);
-    });
+    try {
+      List<String> hrefs = row
+          .querySelectorAll('div.dwnld a')
+          .map((a) => a.attributes['href'])
+          .whereType<String>()
+          .where((href) => href.isNotEmpty)
+          .toList();
 
-    if (downloadLinks.isEmpty) {
-      continue;
+      // The download link is now a bare filename; the audio player's source
+      // (a sibling of div.data) holds the absolute URL on store.krek.hu.
+      // Fall back to the last non-YouTube download link.
+      List<String> files = hrefs
+          .where((href) => !_isYoutube(href))
+          .map(_resolveKrekFile)
+          .whereType<String>()
+          .toList();
+      String? download = _resolveKrekFile(
+              row.parent?.querySelector('audio source')?.attributes['src']) ??
+          (files.isEmpty ? null : files.last);
+      if (download == null) continue;
+
+      List<String> youtubeLinks = hrefs.where(_isYoutube).toList();
+      String? youtube = youtubeLinks.isEmpty ? null : youtubeLinks.first;
+
+      list.add(Episode(
+          PodcastID.krek, //! id
+          dateFormat.parse(row
+              .querySelector('div.datum')!
+              .text
+              .trim()
+              .replaceAll(RegExp(r'\.$'), '')), //! date
+          row.querySelector('div.cim')!.text, //! title
+          row.querySelector('div.hirdeto')!.text, //! author
+          row.querySelector('div.igeresz')!.text, //! field1 (bible)
+          youtube, //! field2 (youtube)
+          download, //! download
+          null,
+          null,
+          null));
+    } catch (e) {
+      print(
+          '##> Skipping unreadable row (${row.text.trim().replaceAll(RegExp(r"\s+"), " ")}): $e');
     }
-
-    list.add(Episode(
-        PodcastID.krek, //! id
-        dateFormat.parse(row.querySelector('div.datum')!.text), //! date
-        row.querySelector('div.cim')!.text, //! title
-        row.querySelector('div.hirdeto')!.text, //! author
-        row.querySelector('div.igeresz')!.text, //! field1 (bible)
-        (downloadLinks.length > 1) ? downloadLinks.first : null, //! field2 (youtube)
-        downloadLinks.last, //! download
-        null,
-        null,
-        null));
   }
 
   return list;
@@ -76,8 +188,8 @@ String krekDescription(Podcast podcast, Episode element) {
   if (element.field2 != null) {
     builder.element('p', nest: () {
       builder.element('a', attributes: {"href": element.field2!}, nest: () {
-        builder.text(
-            'Az alkalomról videófelvétel is elérhető: ${element.field2}');
+        builder
+            .text('Az alkalomról videófelvétel is elérhető: ${element.field2}');
       });
     });
   }
@@ -97,9 +209,8 @@ String krekDescription(Podcast podcast, Episode element) {
   builder.element('p', nest: () {
     builder.text('Lejátszás közvetlen fájlból (hiba esetén): ');
     builder.element('a',
-        attributes: {"href": podcast.properties.baseUrl + element.download},
-        nest: () {
-      builder.text(podcast.properties.baseUrl + element.download);
+        attributes: {"href": resolveDownloadUrl(podcast, element)}, nest: () {
+      builder.text(resolveDownloadUrl(podcast, element));
     });
   });
 

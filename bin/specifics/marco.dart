@@ -256,8 +256,9 @@ Future<List<Episode>> marcoScraper() async {
       } else if (!downloadUri.hasAbsolutePath) {
         try {
           //downloadUri = Uri.https("marko.reformatus.hu", downloadUri.path);
-          downloadUri = Uri.parse(pageLink.value! + downloadUri.path);
-          downloadUri = downloadUri.normalizePath();
+          // Resolve against the page, so "../Eloadasok/x.mp3" on
+          // ".../Mate.shtml" becomes "/Eloadasok/x.mp3".
+          downloadUri = Uri.parse(pageLink.value!).resolveUri(downloadUri);
         } catch (e) {
           downloadUri = null;
           errorsInRow += "Couldn't normalize download Uri: $e";

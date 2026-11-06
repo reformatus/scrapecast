@@ -38,11 +38,68 @@ class Episode extends Equatable {
     this.uuid = uuid ?? _uuid.v4();
   }
 
+  Episode._copy(this.date, this.title, this.author, this.field1, this.field2,
+      this.download, this.uuid, this.length, this.fileSize);
+
+  /// The audio file is the episode's identity: its decoded URL path (plus
+  /// query, if any), so the same file on another host (e.g. krek.hu vs
+  /// store.krek.hu) still matches.
+  late final String fileKey = _fileKey(download);
+
+  static String _fileKey(String download) {
+    Uri? uri = Uri.tryParse(download);
+    String key = uri == null
+        ? download
+        : uri.path + (uri.hasQuery ? '?${uri.query}' : '');
+    try {
+      return Uri.decodeFull(key);
+    } catch (_) {
+      return key;
+    }
+  }
+
+  /// This (freshly scraped) episode's metadata, keeping [stored]'s uuid (the
+  /// RSS guid) and measured length/size, since it is the same file.
+  Episode keepingIdentityOf(Episode stored) => Episode._copy(
+      date,
+      title,
+      author,
+      field1,
+      field2,
+      download,
+      stored.uuid,
+      stored.length ?? length,
+      stored.fileSize ?? fileSize);
+
   @override
-  List<Object> get props => [title, author, date];
+  List<Object> get props => [fileKey];
+}
+
+/// Drops episodes whose file was already seen. An entry with a measured
+/// length beats one without; otherwise the first one wins.
+List<Episode> dedupeByFile(Iterable<Episode> episodes) {
+  Map<String, Episode> byFile = {};
+  for (Episode episode in episodes) {
+    Episode? kept = byFile[episode.fileKey];
+    if (kept == null || (kept.length == null && episode.length != null)) {
+      byFile[episode.fileKey] = episode;
+    }
+  }
+  return byFile.values.toList();
 }
 
 DateFormat dateFormat = DateFormat("yyyy.MM.dd");
+
+/// Absolute download URLs are used as-is, protocol-relative ones get the
+/// base URL's scheme, and relative ones are prefixed with the base URL.
+String resolveDownloadUrl(Podcast podcast, Episode episode) {
+  String download = episode.download;
+  if (Uri.tryParse(download)?.hasScheme ?? false) return download;
+  if (download.startsWith('//')) {
+    return '${Uri.parse(podcast.properties.baseUrl).scheme}:$download';
+  }
+  return podcast.properties.baseUrl + download;
+}
 
 DateFormat rfcDateFormat = DateFormat("EEE, dd MMM yyyy HH:mm:ss");
 String getRfcDate(DateTime date) => rfcDateFormat.format(date) + " +0100";
@@ -98,6 +155,10 @@ class Podcast {
   final Map links;
   Function artworkBuilder;
 
+  /// Scrapes up to the given number of pages (null: all), for a one-off
+  /// backfill of episodes the regular scraper missed. Null if unsupported.
+  final Future<List<Episode>> Function(int? pages)? backfillScraper;
+
   Podcast(
       this.id,
       this.properties,
@@ -109,7 +170,8 @@ class Podcast {
       this.descriptionBuilder,
       this.fromJson,
       this.toJson,
-      {this.artworkBuilder = defaultCoverBuilder});
+      {this.artworkBuilder = defaultCoverBuilder,
+      this.backfillScraper});
 }
 
 String defaultCoverBuilder(Podcast podcast, Episode episode) =>
