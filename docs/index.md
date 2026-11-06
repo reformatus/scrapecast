@@ -4,11 +4,40 @@ Készítette: [Fodor Benedek](https://github.com/redyau)\
 Kezelt Podcastek:
 
 ---
+## [KREK.hu Igehirdetések](https://krek.hu)
+_A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.\
+Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
+Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
+
+✅ Legutóbb frissítve: Sat, 07 Nov 2026 00:36:09 +0100
+
+Epizódok száma: 3546
+
+**Elérhető:**
+ - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
+ - [PocketCasts (ajánlott!)](https://pca.st/j7pxwtz3)
+ - [CastBox](https://castbox.fm/channel/KREK.hu-Igehirdetések-id4762991)
+ - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWZvcm1hdHVzLmdpdGh1Yi5pby9zY3JhcGVjYXN0L2tyZWsucnNz)
+ - [Apple Podcasts](https://podcasts.apple.com/us/podcast/krek-hu-igehirdetések/id1606886562)
+ - [TuneIn](https://tunein.com/podcasts/Religion--Spirituality-Podcasts/KREKhu-Igehirdetesek-p1611771/)
+ - [RadioPublic](https://radiopublic.com/krekhu-igehirdetsek-6V4z9M)
+ - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
+
+**Legutóbbi epizódok:**
+ - 2026.11.01 - Alaptanítások - KERT - Nagy Henrietta
+ - 2026.11.01 - "Én vagyok a feltámadás és az élet, aki hisz énbennem, ha meghal is él " - 11h - Kuti József
+ - 2026.11.01 - "Aki győz,...annak a nevét nem törlöm ki az élet könyvéből." - 09h - Varga Nándor
+ - 2026.11.01 - Az első szeretet - Széchenyiváros - Riczuné Kiss Georgina
+ - 2026.10.31 - "Nemcsak a közelben vagyok Isten - így szól az Úr." - 9h - Varga Nándor
+ - 2026.10.31 - A törvényből és a hitből való igazság - 17h - Gerlai Pál
+
+---
+
 ## [KREK.hu Podcast](https://krek.hu/podcast)
 _A Kecskeméti Református Gyülekezet Podcastja. \
 Szerkeszti: Papp Attila_
 
-✅ Legutóbb frissítve: Fri, 06 Nov 2026 21:54:36 +0100
+✅ Legutóbb frissítve: Sat, 07 Nov 2026 00:36:09 +0100
 
 Epizódok száma: 8
 
@@ -34,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 06 Nov 2026 21:54:53 +0100
+✅ Legutóbb frissítve: Sat, 07 Nov 2026 00:36:30 +0100
 
-Epizódok száma: 1131
+Epizódok száma: 1107
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
