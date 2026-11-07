@@ -6,6 +6,12 @@ on:
     - cron: '20 7,11,15,20 * * 2-6'
   workflow_dispatch: {}
   
+# Runs that publish must not overlap: a push from one would reject the
+# other's (e.g. the exe built after a merge).
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest

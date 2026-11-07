@@ -4,6 +4,12 @@ on:
   push:
     branches: [ master ]
 
+# Runs that publish must not overlap: a push from one would reject the
+# other's (e.g. the exe built after a merge).
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
 jobs:
   build-and-run:
     runs-on: ubuntu-latest
