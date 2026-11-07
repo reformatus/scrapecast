@@ -75,6 +75,17 @@ class Episode extends Equatable {
   List<Object> get props => [fileKey];
 }
 
+/// Sorts newest first. Episodes with the same date keep their current
+/// relative order, so the order is the same on every run.
+List<Episode> newestFirst(List<Episode> episodes) {
+  List<MapEntry<int, Episode>> indexed = episodes.asMap().entries.toList();
+  indexed.sort((a, b) {
+    int byDate = b.value.date.compareTo(a.value.date);
+    return byDate != 0 ? byDate : a.key.compareTo(b.key);
+  });
+  return indexed.map((e) => e.value).toList();
+}
+
 /// Drops episodes whose file was already seen. An entry with a measured
 /// length beats one without; otherwise the first one wins.
 List<Episode> dedupeByFile(Iterable<Episode> episodes) {

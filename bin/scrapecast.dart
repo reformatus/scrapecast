@@ -94,7 +94,7 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
       }
     }
     print('Added $added new episodes');
-    episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
+    episodes = newestFirst(episodes);
 
     save() {
       print("Saving database");
@@ -133,9 +133,27 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
     save();
     List<Episode> published = episodes.where((e) => e.length != null).toList();
 
+    // "Last updated" means the last content change: rebuild with the
+    // previous timestamp, and only stamp and write a new feed if anything
+    // else differs. A run without changes then leaves every file untouched.
     print("Building rss feed");
-    podcast.rssFile.createSync();
-    podcast.rssFile.writeAsStringSync(getFeed(published, podcast));
+    String? previousFeed = podcast.rssFile.existsSync()
+        ? podcast.rssFile.readAsStringSync()
+        : null;
+    String? updated = previousFeed == null
+        ? null
+        : RegExp(r'<lastBuildDate>(.*?)</lastBuildDate>')
+            .firstMatch(previousFeed)
+            ?.group(1);
+    if (updated == null ||
+        getFeed(published, podcast, updated) != previousFeed) {
+      updated = getRfcDate(DateTime.now());
+      podcast.rssFile.createSync();
+      podcast.rssFile.writeAsStringSync(getFeed(published, podcast, updated));
+      print("Feed updated");
+    } else {
+      print("Feed unchanged");
+    }
 
     print(errors.isNotEmpty ? 'Errors:' : '');
     for (Episode item in errors) {
@@ -147,7 +165,7 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
         """## [${podcast.properties.title}](${podcast.properties.link})
 _${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
-✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
+✅ Legutóbb frissítve: $updated
 
 Epizódok száma: ${published.length}
 

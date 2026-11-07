@@ -2,9 +2,11 @@ import 'package:xml/xml.dart';
 
 import 'types.dart';
 
-String getFeed(List<Episode> list, Podcast podcast) {
-  String description = podcast.properties.description +
-      ' \nLegutóbb frissítve: ${getRfcDate(DateTime.now())}';
+/// [updated] is the RFC date shown as the feed's last update: the time of
+/// the last content change, not of the build.
+String getFeed(List<Episode> list, Podcast podcast, String updated) {
+  String description =
+      podcast.properties.description + ' \nLegutóbb frissítve: $updated';
 
   final builder = XmlBuilder();
   builder.processing('xml', 'version="1.0" encoding="UTF-8"');
@@ -39,7 +41,7 @@ String getFeed(List<Episode> list, Podcast podcast) {
         builder.text('ScrapeCast');
       });
       builder.element('lastBuildDate', nest: () {
-        builder.text(getRfcDate(DateTime.now()));
+        builder.text(updated);
       });
       builder.element('author', nest: () {
         builder.cdata(podcast.properties.author); //! Author
