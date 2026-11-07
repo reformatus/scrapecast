@@ -94,7 +94,7 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
       }
     }
     print('Added $added new episodes');
-    episodes.sort((a, b) => a.date.isBefore(b.date) ? 1 : -1);
+    episodes = newestFirst(episodes);
 
     save() {
       print("Saving database");
@@ -133,9 +133,27 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
     save();
     List<Episode> published = episodes.where((e) => e.length != null).toList();
 
+    // "Last updated" means the last content change: rebuild with the
+    // previous timestamp, and only stamp and write a new feed if anything
+    // else differs. A run without changes then leaves every file untouched.
     print("Building rss feed");
-    podcast.rssFile.createSync();
-    podcast.rssFile.writeAsStringSync(getFeed(published, podcast));
+    String? previousFeed = podcast.rssFile.existsSync()
+        ? podcast.rssFile.readAsStringSync()
+        : null;
+    String? updated = previousFeed == null
+        ? null
+        : RegExp(r'<lastBuildDate>(.*?)</lastBuildDate>')
+            .firstMatch(previousFeed)
+            ?.group(1);
+    if (updated == null ||
+        getFeed(published, podcast, updated) != previousFeed) {
+      updated = getRfcDate(DateTime.now());
+      podcast.rssFile.createSync();
+      podcast.rssFile.writeAsStringSync(getFeed(published, podcast, updated));
+      print("Feed updated");
+    } else {
+      print("Feed unchanged");
+    }
 
     print(errors.isNotEmpty ? 'Errors:' : '');
     for (Episode item in errors) {
@@ -143,27 +161,43 @@ Future buildPodcast(Podcast podcast, Backfill? backfill) async {
           "${item.uuid} | ${item.date} | ${item.title} | ${item.download} | ${item.length}");
     }
 
-    statusMdString +=
+    String section =
         """## [${podcast.properties.title}](${podcast.properties.link})
 _${podcast.properties.description.replaceAll("\n", "\\\n")}_
 
-✅ Legutóbb frissítve: ${getRfcDate(DateTime.now())}
+✅ Legutóbb frissítve: $updated
 
 Epizódok száma: ${published.length}
 
 **Elérhető:**
 """;
     for (String key in podcast.links.keys) {
-      statusMdString += " - [$key](${podcast.links[key]})\n";
+      section += " - [$key](${podcast.links[key]})\n";
     }
 
-    statusMdString += "\n**Legutóbbi epizódok:**\n";
+    section += "\n**Legutóbbi epizódok:**\n";
     for (Episode episode in published.take(6)) {
-      statusMdString +=
+      section +=
           " - ${dateFormat.format(episode.date)} - ${episode.title} - ${episode.author}\n";
     }
-    statusMdString += "\n---\n\n";
+    section += "\n---\n\n";
+    statusMdString += section;
   } catch (e) {
     print("Error while building ${podcast.properties.title}!\n$e");
+    // Keep the podcast's previous section, so a failed scrape doesn't
+    // drop it from the index page (and cause a commit, then another).
+    String? previous = previousIndexSection(podcast.properties.title);
+    if (previous != null) statusMdString += previous;
   }
+}
+
+/// The podcast's section from the current docs/index.md, if present.
+String? previousIndexSection(String title) {
+  File index = File("docs/index.md");
+  if (!index.existsSync()) return null;
+  String old = index.readAsStringSync();
+  int start = old.indexOf('## [$title](');
+  if (start == -1) return null;
+  int end = old.indexOf('\n---\n\n', start);
+  return end == -1 ? null : old.substring(start, end + '\n---\n\n'.length);
 }
