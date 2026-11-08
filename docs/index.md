@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sat, 07 Nov 2026 01:26:33 +0100
+✅ Legutóbb frissítve: Sun, 08 Nov 2026 14:27:09 +0100
 
-Epizódok száma: 3694
+Epizódok száma: 3697
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3694
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.08 - Az ötödik pecsét - 11h - Vincze Árpád
+ - 2026.11.08 - "Az istentelenek vigassága rövid ideig tart..." - 9h - Kuti József
+ - 2026.11.08 - Amikor az Oroszlán Báránnyá lesz - Széchenyiváros - Pál Ferenc
  - 2026.11.01 - Alaptanítások - KERT - Nagy Henrietta
  - 2026.11.01 - "Én vagyok a feltámadás és az élet, aki hisz énbennem, ha meghal is él " - 11h - Kuti József
  - 2026.11.01 - "Aki győz,...annak a nevét nem törlöm ki az élet könyvéből." - 09h - Varga Nándor
- - 2026.11.01 - Az első szeretet - Széchenyiváros - Riczuné Kiss Georgina
- - 2026.10.31 - "Nemcsak a közelben vagyok Isten - így szól az Úr." - 9h - Varga Nándor
- - 2026.10.31 - A törvényből és a hitből való igazság - 17h - Gerlai Pál
 
 ---
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sat, 07 Nov 2026 01:26:52 +0100
+✅ Legutóbb frissítve: Sun, 08 Nov 2026 14:27:25 +0100
 
-Epizódok száma: 1107
+Epizódok száma: 1108
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1107
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.08 - 1Thessz 4,13-18 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
  - 2026.11.02 - Közösségmûködtetési modellek (2) - Lelkészképzés
  - 2026.11.01 - Mi lesz a feltámadás után? - Vallásismeret - Keresztyén élet
  - 2026.10.31 - Ítélet - Vallásismeret - Keresztyén élet
  - 2026.10.30 - Feltámadunk! - Vallásismeret - Keresztyén élet
  - 2026.10.29 - Mi lesz a halál után? - Vallásismeret - Keresztyén élet
- - 2026.10.25 - 2Kor 8,1-14 - Bibliamagyarázat - Pál második levele a korinthusiakhoz
 
 ---
 
