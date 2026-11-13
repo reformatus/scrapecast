@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Sun, 08 Nov 2026 14:27:25 +0100
+✅ Legutóbb frissítve: Fri, 13 Nov 2026 16:24:37 +0100
 
-Epizódok száma: 1108
+Epizódok száma: 1109
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1108
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.13 - Jn 13,33-14,6 - Bibliamagyarázat - János evangéliuma
  - 2026.11.08 - 1Thessz 4,13-18 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
  - 2026.11.02 - Közösségmûködtetési modellek (2) - Lelkészképzés
  - 2026.11.01 - Mi lesz a feltámadás után? - Vallásismeret - Keresztyén élet
  - 2026.10.31 - Ítélet - Vallásismeret - Keresztyén élet
  - 2026.10.30 - Feltámadunk! - Vallásismeret - Keresztyén élet
- - 2026.10.29 - Mi lesz a halál után? - Vallásismeret - Keresztyén élet
 
 ---
 
