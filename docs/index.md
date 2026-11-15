@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 15 Nov 2026 14:57:23 +0100
+✅ Legutóbb frissítve: Sun, 15 Nov 2026 20:47:05 +0100
 
-Epizódok száma: 3699
+Epizódok száma: 3702
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3699
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.15 - Miből élek és miben hiszek? - KERT - Nagy Henrietta
+ - 2026.11.15 - Illés próféta diakóniája - 11h - Kutiné Filep Katalin
+ - 2026.11.15 - "...azt mondom nektek, ha meg nem tértek, mindnyájan ugyaúgy elvesztek." - 9h - Varga Nándor
  - 2026.11.15 - Vihar előtti csend - Széchenyiváros - Pál Ferenc
  - 2026.11.08 - Mi jelzi, hogy Krisztushoz tartozom? - KERT - Csapó Bálint
  - 2026.11.08 - Az ötödik pecsét - 11h - Vincze Árpád
- - 2026.11.08 - "Az istentelenek vigassága rövid ideig tart..." - 9h - Kuti József
- - 2026.11.08 - Amikor az Oroszlán Báránnyá lesz - Széchenyiváros - Pál Ferenc
- - 2026.11.01 - Alaptanítások - KERT - Nagy Henrietta
 
 ---
 
@@ -63,9 +63,9 @@ Epizódok száma: 8
 _Marco de Leeuw van Weenen, a Tolnai Református Egyházmegye missziói munkatársának igehirdetései.\
 Automatikusan frissül a https://marko.reformatus.hu/ oldal alapján._
 
-✅ Legutóbb frissítve: Fri, 13 Nov 2026 16:24:37 +0100
+✅ Legutóbb frissítve: Sun, 15 Nov 2026 20:47:16 +0100
 
-Epizódok száma: 1109
+Epizódok száma: 1110
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/7ETtVJt3N9QxHxVNo60C9J)
@@ -76,12 +76,12 @@ Epizódok száma: 1109
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/marco.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.15 - Jel 22,6-17 - Bibliamagyarázat - A jelenések könyve
  - 2026.11.13 - Jn 13,33-14,6 - Bibliamagyarázat - János evangéliuma
  - 2026.11.08 - 1Thessz 4,13-18 - Bibliamagyarázat - Pál első levele a thesszalonikaiakhoz
  - 2026.11.02 - Közösségmûködtetési modellek (2) - Lelkészképzés
  - 2026.11.01 - Mi lesz a feltámadás után? - Vallásismeret - Keresztyén élet
  - 2026.10.31 - Ítélet - Vallásismeret - Keresztyén élet
- - 2026.10.30 - Feltámadunk! - Vallásismeret - Keresztyén élet
 
 ---
 
