@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100
+✅ Legutóbb frissítve: Sun, 15 Nov 2026 14:57:23 +0100
 
-Epizódok száma: 3698
+Epizódok száma: 3699
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3698
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.15 - Vihar előtti csend - Széchenyiváros - Pál Ferenc
  - 2026.11.08 - Mi jelzi, hogy Krisztushoz tartozom? - KERT - Csapó Bálint
  - 2026.11.08 - Az ötödik pecsét - 11h - Vincze Árpád
  - 2026.11.08 - "Az istentelenek vigassága rövid ideig tart..." - 9h - Kuti József
  - 2026.11.08 - Amikor az Oroszlán Báránnyá lesz - Széchenyiváros - Pál Ferenc
  - 2026.11.01 - Alaptanítások - KERT - Nagy Henrietta
- - 2026.11.01 - "Én vagyok a feltámadás és az élet, aki hisz énbennem, ha meghal is él " - 11h - Kuti József
 
 ---
 

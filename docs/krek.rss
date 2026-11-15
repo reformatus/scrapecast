@@ -6,7 +6,7 @@
       <![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila 
-Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100]]>
+Legutóbb frissítve: Sun, 15 Nov 2026 14:57:23 +0100]]>
     </description>
     <link>https://krek.hu</link>
     <image>
@@ -17,7 +17,7 @@ Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100]]>
       <link>https://krek.hu</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 19:50:23 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:57:23 +0100</lastBuildDate>
     <author>
       <![CDATA[Kecskeméti Református Egyházközség]]>
     </author>
@@ -32,7 +32,7 @@ Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100]]>
       <![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila 
-Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100]]>
+Legutóbb frissítve: Sun, 15 Nov 2026 14:57:23 +0100]]>
     </itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -45,6 +45,40 @@ Legutóbb frissítve: Sun, 08 Nov 2026 19:50:23 +0100]]>
     </itunes:category>
     <itunes:image href="https://reflabs.hu/scrapecast/assets/krek/logo.png"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <item>
+      <title>Vihar előtti csend - Széchenyiváros | Pál Ferenc | 2026.11.15</title>
+      <description>
+        <![CDATA[<br/>
+<p>Igerész: Jelenések 8,1-6</p>
+<p>Lelkész: Pál Ferenc</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://store.krek.hu/media/files/igehirdetesek/20261115_PF_Jelenések8,1-6_Vihar_előtti_csend_Széchenyiváros.mp3">https://store.krek.hu/media/files/igehirdetesek/20261115_PF_Jelenések8,1-6_Vihar_előtti_csend_Széchenyiváros.mp3</a></p>
+<br/>
+<p>Becsült hossz: 4810 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: c89900cc-90bd-46d0-862f-0c7847318d53</p>]]>
+      </description>
+      <guid isPermaLink="false">c89900cc-90bd-46d0-862f-0c7847318d53</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://store.krek.hu/media/files/igehirdetesek/20261115_PF_Jelenések8,1-6_Vihar_előtti_csend_Széchenyiváros.mp3" length="76961926" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Igerész: Jelenések 8,1-6</p>
+<p>Lelkész: Pál Ferenc</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://store.krek.hu/media/files/igehirdetesek/20261115_PF_Jelenések8,1-6_Vihar_előtti_csend_Széchenyiváros.mp3">https://store.krek.hu/media/files/igehirdetesek/20261115_PF_Jelenések8,1-6_Vihar_előtti_csend_Széchenyiváros.mp3</a></p>
+<br/>
+<p>Becsült hossz: 4810 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: c89900cc-90bd-46d0-862f-0c7847318d53</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>4810</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/krek/episode-art/krek.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Mi jelzi, hogy Krisztushoz tartozom? - KERT | Csapó Bálint | 2026.11.08</title>
       <description>
