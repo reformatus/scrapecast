@@ -9,9 +9,9 @@ _A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb al
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.\
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila_
 
-✅ Legutóbb frissítve: Thu, 26 Nov 2026 03:51:48 +0100
+✅ Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100
 
-Epizódok száma: 3709
+Epizódok száma: 3710
 
 **Elérhető:**
  - [Spotify](https://open.spotify.com/show/6xtPzwRylDoUcGQtX92ZBT)
@@ -24,12 +24,12 @@ Epizódok száma: 3709
  - [RSS (kézi hozzáadáshoz)](https://reflabs.hu/scrapecast/krek.rss)
 
 **Legutóbbi epizódok:**
+ - 2026.11.26 - Neki növekedni kell - Mit tegyünk hát? - Bűnbánati hét - 17h - Édes Árpád
  - 2026.11.25 - Neki növekedni kell - Gyümöcstermő élet - Bűnbánati hét - 17h  - Arany Barbara
  - 2026.11.24 - Neki növekedni kell - És mindenki meglátja az Isten növekedését - Bűnbánati hét - 17h - Lovadi István
  - 2026.11.23 - Neki növekedni kell - Ki volt Keresztelő János - Bűnbánati hét - 17h - Varga György
  - 2026.11.22 - Egyedül nem megy - KERT - Nagy Henrietta
  - 2026.11.22 - "Minden gondotokat őrá vessétek, mert neki gondja van rátok." - 11h - Bölcsföldi András
- - 2026.11.22 - "Kiáltok hozzád, de nem felelsz..." - 9h - Egeresi László
 
 ---
 
