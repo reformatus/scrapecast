@@ -6,7 +6,7 @@
       <![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila 
-Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100]]>
+Legutóbb frissítve: Sat, 28 Nov 2026 03:42:12 +0100]]>
     </description>
     <link>https://krek.hu</link>
     <image>
@@ -17,7 +17,7 @@ Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100]]>
       <link>https://krek.hu</link>
     </image>
     <generator>ScrapeCast</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 03:51:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:42:12 +0100</lastBuildDate>
     <author>
       <![CDATA[Kecskeméti Református Egyházközség]]>
     </author>
@@ -32,7 +32,7 @@ Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100]]>
       <![CDATA[A Kecskeméti Református Gyülekezetben elhangzott istentiszteletek, egyéb alkalmak felvételei.
 Automatikusan frissül a krek.hu/igehirdetesek oldal alapján.
 Köszönjük az utómunkát: Alföldy-Boruss Illés, Csősz Győző, Molnár Tamás, Papp Attila 
-Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100]]>
+Legutóbb frissítve: Sat, 28 Nov 2026 03:42:12 +0100]]>
     </itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -45,6 +45,40 @@ Legutóbb frissítve: Fri, 27 Nov 2026 03:51:33 +0100]]>
     </itunes:category>
     <itunes:image href="https://reflabs.hu/scrapecast/assets/krek/logo.png"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <item>
+      <title>Neki növekedni kell - "ő majd Szentlélekkel és tűzzel keresztel titeket." - Bűnbánati hét - 17h | Kurta Szabolcs | 2026.11.27</title>
+      <description>
+        <![CDATA[<br/>
+<p>Igerész: Lukács 3,15-17</p>
+<p>Lelkész: Kurta Szabolcs</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://store.krek.hu/media/files/igehirdetesek/20261127_17h_KSZ_lukács_3,15-17_ő_majd_Szentlélekkel_és_tűzzel_keresztel_titeket.mp3">https://store.krek.hu/media/files/igehirdetesek/20261127_17h_KSZ_lukács_3,15-17_ő_majd_Szentlélekkel_és_tűzzel_keresztel_titeket.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2556 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 33b4ea57-aa3c-4e7a-84c6-6718fc8acb01</p>]]>
+      </description>
+      <guid isPermaLink="false">33b4ea57-aa3c-4e7a-84c6-6718fc8acb01</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://store.krek.hu/media/files/igehirdetesek/20261127_17h_KSZ_lukács_3,15-17_ő_majd_Szentlélekkel_és_tűzzel_keresztel_titeket.mp3" length="40908335" type="audio/mpeg"/>
+      <itunes:summary>
+        <![CDATA[<br/>
+<p>Igerész: Lukács 3,15-17</p>
+<p>Lelkész: Kurta Szabolcs</p>
+<br/>
+<hr/>
+<p>Lejátszás közvetlen fájlból (hiba esetén): <a href="https://store.krek.hu/media/files/igehirdetesek/20261127_17h_KSZ_lukács_3,15-17_ő_majd_Szentlélekkel_és_tűzzel_keresztel_titeket.mp3">https://store.krek.hu/media/files/igehirdetesek/20261127_17h_KSZ_lukács_3,15-17_ő_majd_Szentlélekkel_és_tűzzel_keresztel_titeket.mp3</a></p>
+<br/>
+<p>Becsült hossz: 2556 mp</p>
+<p>Generálta: <a href="https://reformatus.github.io/scrapecast">ScrapeCast</a> by Fodor Benedek</p>
+<p>UUID: 33b4ea57-aa3c-4e7a-84c6-6718fc8acb01</p>]]>
+      </itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>2556</itunes:duration>
+      <itunes:image href="https://reflabs.hu/scrapecast/assets/krek/episode-art/krek.png"/>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Neki növekedni kell - Mit tegyünk hát? - Bűnbánati hét - 17h | Édes Árpád | 2026.11.26</title>
       <description>
